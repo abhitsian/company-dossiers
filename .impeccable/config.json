@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "css/style.css"
+        ],
+        "createdAt": "2026-07-23T18:45:43.065Z",
+        "reason": "Intentional: left-border accent cards are the ported design signature from llm-concepts-for-pms (.company-quote/.company-insight), extended here to .wow-entry and .dossier-framer-inner. Independently validated by a design-critique council pass this session as a well-formed, working component, not a generic AI-dashboard tell."
+      }
+    ]
+  }
+}

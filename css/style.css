@@ -200,9 +200,10 @@ body.hub-page { background: var(--color-bg); }
 .hub-oneliner { font-family: var(--font-serif); font-size: 18px; color: var(--color-text-50); margin: 0 0 40px; line-height: 1.6; max-width: 620px; }
 .hub-list { max-width: 800px; margin: 0 auto; padding: 0 48px 80px; }
 .hub-item {
-  display: block; padding: 18px 0; text-decoration: none; border-bottom: 1px solid var(--color-border); transition: padding 0.15s ease;
+  display: block; padding: 18px 0; text-decoration: none; border-bottom: 1px solid var(--color-border);
+  transition: transform 0.15s ease;
 }
-.hub-item:hover { padding-left: 10px; text-decoration: none; }
+.hub-item:hover { transform: translateX(10px); text-decoration: none; }
 .hub-item-title { font-family: var(--font-serif); font-size: 19px; color: var(--color-text); margin-bottom: 3px; transition: color 0.15s; }
 .hub-item:hover .hub-item-title { color: var(--color-accent); }
 .hub-item-desc { font-family: var(--font-mono); font-size: 11px; color: var(--color-gray); letter-spacing: 0.3px; text-transform: uppercase; }

@@ -73,4 +73,27 @@
     }, { rootMargin: '-64px 0px -70% 0px', threshold: 0 });
     dossierSections.forEach(function(s) { io.observe(s); });
   }
+
+  // Expand-all / collapse-all toolbar.
+  var expandBtn = document.querySelector('[data-action="expand-all"]');
+  var collapseBtn = document.querySelector('[data-action="collapse-all"]');
+  if (expandBtn) expandBtn.addEventListener('click', function() {
+    dossierSections.forEach(function(s) { s.open = true; });
+  });
+  if (collapseBtn) collapseBtn.addEventListener('click', function() {
+    dossierSections.forEach(function(s) { s.open = false; });
+  });
+
+  // Deep-link into a collapsed section: force it open, then scroll (native anchor
+  // scroll can race the details render, so re-scroll after opening).
+  function openHashTarget() {
+    if (!location.hash) return;
+    var el = document.getElementById(location.hash.slice(1));
+    if (el && el.tagName === 'DETAILS' && !el.open) {
+      el.open = true;
+      setTimeout(function() { el.scrollIntoView({ block: 'start', behavior: 'instant' }); }, 0);
+    }
+  }
+  openHashTarget();
+  window.addEventListener('hashchange', openHashTarget);
 })();

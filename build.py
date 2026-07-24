@@ -307,8 +307,10 @@ def dossier_page_html(d, back_href, depth):
         links = "".join('<a href="#%s">%s</a>' % (sid, html.escape(lbl)) for sid, lbl in clusters[cname])
         nav_parts.append('<div class="dossier-nav-cluster"><span class="dossier-nav-cluster-label">%s</span>%s</div>' % (html.escape(cname), links))
     nav_html = "".join(nav_parts)
+    toolbar = '<div class="dossier-toolbar"><button type="button" data-action="expand-all">Expand all</button><button type="button" data-action="collapse-all">Collapse all</button></div>'
     sections_html = "".join(
-        '<section class="dossier-section" id="%s"><h2 class="dossier-section-title"><span class="num">%s</span>%s</h2>%s</section>' % (
+        '<details class="dossier-section" id="%s" open><summary class="dossier-section-title"><span class="num">%s</span>%s<span class="chevron">&#9656;</span></summary>'
+        '<div class="dossier-section-body">%s</div></details>' % (
             s["id"], s["num"] if s["num"] else "", inline(re.sub(r"^\d+\.\s*", "", s["title"])), s["html"]) for s in d["sections"])
     framer = """
 <div class="dossier-framer"><div class="dossier-framer-inner">
@@ -326,9 +328,9 @@ def dossier_page_html(d, back_href, depth):
 </div>
 %s
 <div class="dossier-nav"><div class="dossier-nav-inner">%s</div></div>
-<div class="dossier-content">%s</div>
+<div class="dossier-content">%s<div class="dossier-content-sections">%s</div></div>
 <div class="dossier-footer">Company Dossiers &middot; a living document, updated as sources arrive</div>
-""" % (back_href, html.escape(d["ticker"]), html.escape(d["title"]), inline(d["oneliner"]), inline(d["metaline"]), framer, nav_html, sections_html)
+""" % (back_href, html.escape(d["ticker"]), html.escape(d["title"]), inline(d["oneliner"]), inline(d["metaline"]), framer, nav_html, toolbar, sections_html)
     return page(d["title"], body, "dossier-page", depth)
 
 def main():
@@ -472,6 +474,29 @@ def main():
     }, { rootMargin: '-64px 0px -70%% 0px', threshold: 0 });
     dossierSections.forEach(function(s) { io.observe(s); });
   }
+
+  // Expand-all / collapse-all toolbar.
+  var expandBtn = document.querySelector('[data-action="expand-all"]');
+  var collapseBtn = document.querySelector('[data-action="collapse-all"]');
+  if (expandBtn) expandBtn.addEventListener('click', function() {
+    dossierSections.forEach(function(s) { s.open = true; });
+  });
+  if (collapseBtn) collapseBtn.addEventListener('click', function() {
+    dossierSections.forEach(function(s) { s.open = false; });
+  });
+
+  // Deep-link into a collapsed section: force it open, then scroll (native anchor
+  // scroll can race the details render, so re-scroll after opening).
+  function openHashTarget() {
+    if (!location.hash) return;
+    var el = document.getElementById(location.hash.slice(1));
+    if (el && el.tagName === 'DETAILS' && !el.open) {
+      el.open = true;
+      setTimeout(function() { el.scrollIntoView({ block: 'start', behavior: 'instant' }); }, 0);
+    }
+  }
+  openHashTarget();
+  window.addEventListener('hashchange', openHashTarget);
 })();
 """ % ",\n    ".join(nav_items)
     os.makedirs(os.path.join(ROOT, "js"), exist_ok=True)

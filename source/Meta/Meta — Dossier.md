@@ -5,14 +5,34 @@
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag), not appended. Every fact grounded in a source; estimates labeled.*
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+*The full mechanics, trivial included.*
 
-- **Acquire** — Organic/viral: the network *is* the acquisition channel; four 2B-scale apps feed each other (WhatsApp is the primary Meta AI driver in India/Indonesia; Facebook in the U.S. [S2]). New surfaces (Threads, the Meta AI standalone app "consistently near the top of the app stores" [S1]) ride the existing graph. Hardware acquires a *new* user context — glasses as a beachhead for always-on AI [S3].
+**Acquire**
+- Organic/viral is the acquisition channel: the network *is* the funnel — four 2B-scale apps feed each other, so new surfaces ride the existing graph instead of acquiring cold.
+- Regional split within the graph: WhatsApp is the primary Meta AI driver in India/Indonesia; Facebook drives it in the U.S. [S2]
+- New surfaces ride the graph: Threads, and the standalone Meta AI app — "consistently near the top of the app stores" [S1].
+- Hardware opens a *new* acquisition surface: glasses as a beachhead for always-on AI, a user context the phone-based graph can't reach [S3].
 
-- **Engage** — Core loop = ranked feed/Reels driven by the recommendation engine; the aha is content that feels made-for-you. Hooks compounding in 2026: AI-translated/dubbed video (>0.5B weekly [S1]) grows the pool of content across languages; same-day posts now >30% of recommended Reels, 2x a year ago [S1] (freshness → return frequency); AI-generated *personalized* content is the next hook [S1]. Meta AI moving from an "invoked tool" to an "always-on service" on glasses [S3].
+**Engage**
+- Core loop = ranked feed/Reels driven by the recommendation engine; the aha is content that feels made-for-you.
+- AI-translated/dubbed video (>0.5B weekly [S1]) grows the pool of content across languages.
+- Same-day posts are now >30% of recommended Reels, 2x a year ago [S1] — freshness drives return frequency.
+- AI-generated *personalized* content is the next hook [S1].
+- Meta AI is moving from an "invoked tool" to an "always-on service" on glasses [S3].
 
-- **Retain** — Switching costs = the social graph + message history (WhatsApp/Messenger), the boring plumbing that makes leaving expensive. Retention risk is external, not competitive: the QoQ DAU dip was outages + a Russia block [S1], not churn. RL/glasses add a *hardware* lock-in layer (Neural Band, Horizon worlds) on top of the software graph.
+**Retain**
+- Switching costs are the social graph plus message history (WhatsApp/Messenger) — the boring plumbing that makes leaving expensive.
+- Retention risk is external, not competitive: the QoQ DAU dip was outages plus a Russia block [S1], not churn.
+- RL/glasses add a *hardware* lock-in layer (Neural Band, Horizon worlds) on top of the software graph.
 
-- **Monetize** — Ads are ~98% of revenue and "by far the most important driver for the next couple of years" [S2]. Growth levers: impressions +19% and price/ad +12% *at the same time* in Q1'26 [S1] (volume and yield both up); a stack of ad-AI products each at multibillion run-rates (value-optimization >$20B ARR, partnership ads $10B, video-gen tools $10B, incremental attribution multibillion [S1][S2]). Emerging lines: FoA-Other +74% on WhatsApp paid messaging + subscriptions [S1]; business AIs (10M weekly convos, unmonetized, commissions/premium/high-compute tiers planned [S1]); WhatsApp Status ads; hardware unit sales (glasses at $379–$799 [S3]).
+**Monetize**
+- Ads are ~98% of revenue and "by far the most important driver for the next couple of years" [S2].
+- Growth levers move together: impressions +19% and price/ad +12% *at the same time* in Q1'26 [S1] — volume and yield both up.
+- A stack of ad-AI products each at multibillion run-rates: value-optimization >$20B ARR, partnership ads $10B, video-gen tools $10B, incremental attribution multibillion [S1][S2].
+- Emerging line: FoA-Other +74% on WhatsApp paid messaging + subscriptions [S1].
+- Emerging line: business AIs — 10M weekly convos, unmonetized, commissions/premium/high-compute tiers planned [S1].
+- Emerging line: WhatsApp Status ads.
+- Emerging line: hardware unit sales (glasses at $379–$799 [S3]).
 
 ---
 

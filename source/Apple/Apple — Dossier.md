@@ -6,10 +6,32 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-- **Acquire** — The main channel is the hardware sale itself (iPhone $57–85B/qtr is both the product and the moment a customer is won). New-to-product ratios are the tell: over half of Watch buyers, ~half of Mac buyers, over half of iPad buyers are first-timers; in China/India the majority are new [S2][S1]. Switchers into iPhone growing "strong double-digit" [S2]. The 2.5B installed base is then the channel for *every other* product and service — cross-sell, not paid acquisition.
-- **Engage** — The device is the daily loop; Apple Intelligence, camera, Center Stage, and now on-device AI are the hooks across the platform [S1]. Health is a rising hook — users "wearing their watch to sleep" to check scores creates a 24-hour engagement surface, and hypertension alerts create doctor-conversation moments [S2]. App Store: >850M weekly users [S2]. Apple TV as an engagement/retention surface (F1, MLS in 100+ countries no blackouts, Friday Night Baseball; Dec viewership +36% YoY) [S1][S2].
-- **Retain** — Switching costs are the ecosystem: iMessage, Wallet/Digital ID, Apple Pay, purchased apps/content, Watch-iPhone pairing, Health data history. 99% iPhone satisfaction and 96% Watch satisfaction are the early signs of retention [S1][S2]. Paid subscriptions growing double-digit; transacting and paid accounts at all-time highs [S2]. Health features that "save lives" are the strongest lock-in — you don't drop the device watching your hypertension [S1].
-- **Monetize** — Two engines. (1) **Products**: hardware sale at ~38.7% GM, in-house chips protecting and lifting that margin [S1][S2]. (2) **Services** at ~76.7% GM: App Store commissions, subscriptions (Music, TV+, iCloud, Arcade, Fitness+), payment services (Apple Pay, Tap to Pay in 50+ markets), cloud, and the fast-rising **advertising** business — App Store search ads (expanded), Apple Maps ads launching summer US/Canada [S1][S2]. New enterprise wedge: **Apple Business** ("all-in-one platform combining hardware, software and enterprise services") [S1]. Price fences: premium device tiers (Pro/Pro Max/Air), subscription tiers, and now ads layered on the free surfaces.
+**Acquire**
+- The main channel is the hardware sale itself: iPhone ($57–85B/qtr) is both the product and the moment a customer is won.
+- New-to-product ratios are the tell: over half of Watch buyers, ~half of Mac buyers, over half of iPad buyers are first-timers [S2][S1].
+- In China and India, the majority of Mac/iPad/Watch buyers are new to the product [S2][S1].
+- Switchers into iPhone are growing "strong double-digit" [S2].
+- The 2.5B installed base is then the channel for *every other* product and service — cross-sell, not paid acquisition.
+
+**Engage**
+- The device is the daily loop: Apple Intelligence, camera, Center Stage, and now on-device AI are the hooks across the platform [S1].
+- Health is a rising hook — users "wearing their watch to sleep" to check scores creates a 24-hour engagement surface [S2].
+- Hypertension alerts create doctor-conversation moments, another engagement trigger tied to Health [S2].
+- App Store: >850M weekly users [S2].
+- Apple TV as an engagement/retention surface: F1, MLS in 100+ countries with no blackouts, Friday Night Baseball; Dec viewership +36% YoY [S1][S2].
+
+**Retain**
+- Switching costs are the ecosystem: iMessage, Wallet/Digital ID, Apple Pay, purchased apps/content, Watch-iPhone pairing, Health data history.
+- 99% iPhone satisfaction and 96% Watch satisfaction are the early signs of retention [S1][S2].
+- Paid subscriptions growing double-digit; transacting and paid accounts at all-time highs [S2].
+- Health features that "save lives" are the strongest lock-in — you don't drop the device watching your hypertension [S1].
+
+**Monetize**
+- Two engines: **Products** and **Services**. Products carry ~38.7% GM, with in-house chips protecting and lifting that margin [S1][S2].
+- **Services** carry ~76.7% GM: App Store commissions, subscriptions (Music, TV+, iCloud, Arcade, Fitness+), payment services (Apple Pay, Tap to Pay in 50+ markets), and cloud [S1][S2].
+- The fast-rising **advertising** business inside Services: App Store search ads (expanded), and Apple Maps ads launching summer in US/Canada [S1][S2].
+- New enterprise wedge: **Apple Business** — "all-in-one platform combining hardware, software and enterprise services" [S1].
+- Price fences: premium device tiers (Pro/Pro Max/Air), subscription tiers, and now ads layered on the free surfaces.
 
 ---
 

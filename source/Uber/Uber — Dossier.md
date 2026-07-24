@@ -6,10 +6,33 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-- **Acquire** — Barbell entry products pull in new segments: Moto/Wait & Save (cheap, +75% frequency, later upgrade to UberX), plus Women Preferred, Teens, and a simple older-demographic product [S1][S2]; each new product or use-case adds a +25% first-time-acquisition lift [S1]. Cross-app is the cheapest channel — 30% of eligible Mobility users haven't tried Eats, and ~$15B a year already flows app-to-app [S1]. In AV cities, novelty and lower price pull first-time riders faster than the rest of the country [S2]. New countries add fresh audience (7 new Delivery markets; Finland hit #1 on the App Store at launch) [S1]. An "AI-enabled" sales force speeds up merchant sign-ups [S2].
-- **Engage** — The core loop is liquidity: more riders → shorter ETAs and lower prices → more drivers. Frequency comes from the low-end products (+75% frequency) and destination prediction (AI pre-predicts 3/4 of rides) [S1]. The aha moment differs by mode — a reliable 3-minute ETA on Mobility; grocery/retail selection on Delivery. Multi-product deepens the relationship: 40% use more than one product, and each added product raises retention [S2].
-- **Retain** — Uber One is the retention spine: >50M members, >50% of bookings, "very, very sticky" across food, grocery and AV [S1][S2]. Switching costs come from accumulated perks (no delivery fees, no fees above a $60 grocery basket, 10% hotel credits that pay for the membership) [S1]. Steady prices (enabled by the insurance flip) protect long-run demand and cut churn from price shocks [S2]. Management names "strong" retention as a Delivery growth driver [S1].
-- **Monetize** — Four lines: Mobility (take-rate on rides, +20% GB, record margins) [S1]; Delivery (take-rate plus grocery/retail, +23% GB) [S1]; Freight (logistics, low margin, back to growth) [S1]; Advertising (>2% of delivery GBs, room to grow from enterprise plus early grocery/retail/mobility ad products) [S2]. Uber One membership fees are a fifth line and the anchor for the other four. Price fences: barbell tiers (Wait & Save vs Reserve/premium), member-only fee waivers, and Reserve's higher margin [S1][S2].
+**Acquire**
+- Barbell entry products pull in new segments: Moto/Wait & Save (cheap, +75% frequency, later upgrade to UberX), plus Women Preferred, Teens, and a simple older-demographic product [S1][S2].
+- Each new product or use-case adds a +25% first-time-acquisition lift [S1].
+- Cross-app is the cheapest channel: 30% of eligible Mobility users haven't tried Eats, and ~$15B a year already flows app-to-app [S1].
+- In AV cities, novelty and lower price pull first-time riders faster than the rest of the country [S2].
+- New countries add fresh audience: 7 new Delivery markets; Finland hit #1 on the App Store at launch [S1].
+- An "AI-enabled" sales force speeds up merchant sign-ups [S2].
+
+**Engage**
+- The core loop is liquidity: more riders → shorter ETAs and lower prices → more drivers.
+- Frequency comes from the low-end products (+75% frequency) and destination prediction (AI pre-predicts 3/4 of rides) [S1].
+- The aha moment differs by mode: a reliable 3-minute ETA on Mobility; grocery/retail selection on Delivery.
+- Multi-product deepens the relationship: 40% use more than one product, and each added product raises retention [S2].
+
+**Retain**
+- Uber One is the retention spine: >50M members, >50% of bookings, "very, very sticky" across food, grocery and AV [S1][S2].
+- Switching costs come from accumulated perks: no delivery fees, no fees above a $60 grocery basket, 10% hotel credits that pay for the membership [S1].
+- Steady prices (enabled by the insurance flip) protect long-run demand and cut churn from price shocks [S2].
+- Management names "strong" retention as a Delivery growth driver [S1].
+
+**Monetize**
+- Mobility: take-rate on rides, +20% GB, record margins [S1].
+- Delivery: take-rate plus grocery/retail, +23% GB [S1].
+- Freight: logistics, low margin, back to growth [S1].
+- Advertising: >2% of delivery GBs, room to grow from enterprise plus early grocery/retail/mobility ad products [S2].
+- Uber One membership fees are a fifth line and the anchor for the other four.
+- Price fences: barbell tiers (Wait & Save vs Reserve/premium), member-only fee waivers, and Reserve's higher margin [S1][S2].
 
 ---
 

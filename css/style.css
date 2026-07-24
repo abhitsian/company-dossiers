@@ -225,7 +225,7 @@ body.dossier-page { background: var(--color-bg); }
 .dossier-framer-row { font-family: var(--font-serif); font-size: 14.5px; line-height: 1.6; color: var(--color-gray); margin: 3px 0; }
 .dossier-framer-row strong { color: var(--color-text-80); font-weight: 600; }
 
-.dossier-nav { max-width: 800px; margin: 0 auto 40px; padding: 0 48px; position: sticky; top: 58px; z-index: 90; }
+.dossier-nav { max-width: 800px; margin: 0 auto 40px; padding: 0 48px; }
 .dossier-nav-inner { padding: 14px 20px; background: var(--color-card); border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.14); display: flex; flex-direction: column; gap: 8px; }
 .dossier-nav-cluster { display: flex; flex-wrap: wrap; align-items: baseline; gap: 5px 14px; }
 .dossier-nav-cluster-label { font-family: var(--font-mono); font-size: 9px; text-transform: uppercase; letter-spacing: 1px; color: var(--color-text-50); width: 100%; margin-top: 4px; }
@@ -240,7 +240,7 @@ sup.cite a { text-decoration: none; color: var(--color-accent); opacity: 0.75; }
 sup.cite a:hover { opacity: 1; text-decoration: underline; }
 
 .dossier-content { max-width: 800px; margin: 0 auto; padding: 0 48px 96px; }
-.dossier-section { margin-bottom: 64px; scroll-margin-top: 130px; }
+.dossier-section { margin-bottom: 64px; scroll-margin-top: 64px; }
 .dossier-section-title {
   font-family: var(--font-mono); font-size: 12px; font-weight: 500; text-transform: uppercase; letter-spacing: 1.2px;
   color: var(--color-section-label);

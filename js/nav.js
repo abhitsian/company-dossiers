@@ -70,7 +70,7 @@
           link.classList.add('nav-active');
         }
       });
-    }, { rootMargin: '-120px 0px -70% 0px', threshold: 0 });
+    }, { rootMargin: '-64px 0px -70% 0px', threshold: 0 });
     dossierSections.forEach(function(s) { io.observe(s); });
   }
 })();

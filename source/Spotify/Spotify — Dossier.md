@@ -379,6 +379,52 @@
 ---
 
 ## 13. Interview arsenal
+
+**A. The Deconstruct Set**
+
+**1. Why this company?**
+Spotify inverts the standard AI-strategy playbook — rent the commoditizing model (LLM reasoning), own the proprietary, continuously-refreshed data (the LTM) — while sitting on a rare structural position: a licensed-neutral aggregator that prices like a power-law SaaS company, a quadrant neither Apple (ecosystem bundler) nor a content-owner (Netflix-style) can occupy without breaking their own economics (§3 Wow Vault #1 and #4; §8 Positioning). The whole bull case reduces to one tension: can add-on monetization outrun a structurally capped margin? That's a sharp, checkable question, not a vague "interesting company."
+
+**2. What do you like about it?**
+The LTM strategy (§3 #4) — commoditize the model, own the perishable data. The pay-gate-on-functionality-not-content design (§3, §4) that defends against AI-music commoditization as a side effect of a freemium choice made for other reasons. Reserved (§3 #6) — a moat built from verified-identity × 20 years of fandom data that a challenger can't buy its way into. And two real, deepening 7 Powers: Switching Costs and Counter-Positioning (§5).
+
+**3. What don't you like about it?**
+No content differentiation — same catalog as every rival, competing purely on experience (§5 Weaknesses). The label-tax margin ceiling: Scale Economies scores **No** in the 7 Powers table (§5) because content cost scales *with* usage, not against it — bigger doesn't mean cheaper here. Management-admitted lateness to programmatic advertising, and the 2019–22 podcast-exclusivity overspend against their own catalog-neutral thesis (§11).
+
+**4. How would you fix that?**
+Ad lateness: already underway via Play #2 (§12) — finish biddable + closed-loop measurement. Content non-differentiation: don't try to own content (correctly refused per §10) — instead deepen what a neutral aggregator *can* own: the taste graph and superfan commerce (§12 Plays #1, #3). The margin ceiling: push harder on the P&L lines the label tax doesn't touch — ads, marketplace, artist-services, taste-licensing — since Premium's gross margin is structurally capped regardless of scale.
+
+**5. How would you compete with it?**
+Not on catalog — it's commodity, and Spotify's moat is data and distribution, not content. Two real angles. First, **Focus/Functional Utility (§7B)** is explicitly the weakest product today and the whitest space — a specialist (an Endel/Brain.fm-style generative-soundscape product) doesn't need catalog breadth at all, since the job is algorithmic sound design, not a music library; that's a segment Spotify's own dossier admits it under-serves. Second, attack the one power Spotify doesn't hold: Scale Economies. Since bigger isn't structurally cheaper for Spotify, a rival doesn't need Spotify's user count to match its per-unit content cost — the fight is winnable on unit economics, not scale. Best distribution angle: bundle into a channel Spotify doesn't own (hardware ecosystem, or an existing daily-habit surface like a messaging app) rather than paying to acquire users cold on Spotify's home turf.
+
+**6. What would you 10x?**
+Superfan commerce (§12 Play #1, sized 100×). The wedge already exists and is proven — the verified-fandom graph, the Live Nation relationship, $1.5B in ticket flow. The 10× move is expanding Reserved past concert presales into a full artist-fan commerce rail (merch, memberships, drops) where Spotify takes a cut of demand it already originates today for free.
+
+**7. Design the GM's 1-page daily dashboard.**
+Built around the actual North star (§8: engagement, not user count) — daily-active-days trend (not MAU), verticals-stacked-per-user (are users adding podcasts/audiobooks, the real retention engine per §1 Engage), Premium conversion split by cohort-maturity (to see through the composition effect in §3 #3 rather than trust one blended number), blended Premium gross margin (the actual binding constraint, §2/§3 #1), and add-on attach rate (the metric the entire bull case bridges on).
+
+**8. Pick the 1-2 metrics the whole company should focus on.**
+Blended Premium gross margin — the one real number to watch (§2's "unit economics" table names this explicitly) since it's the binding constraint, not CAC or churn. And engagement (days × devices × verticals) — the actual North star (§8), not subscriber count, which the dossier's own tensions (§9) show is decoupled from revenue growth.
+
+**9. Build a me-too version in a few months — what's essential?**
+Strip to the mechanism in §1: a free ad-supported tier, a functionality-gated (not content-gated) premium tier on a licensed catalog, and basic personalization to drive the free→paid engagement chain. Audiobooks, Reserved, Wrapped, the full LTM, the artist marketplace — all real, all expansion, none load-bearing for a first cut.
+
+**10. Pick one area, be the PM — walk through how you'd design it.**
+Focus / Functional Utility (§7B) — the segment the dossier itself flags as weakest. Job: concentrate or sleep. Today's gap is generic focus playlists with no real functional-audio product. Design: a dedicated generative-soundscape mode (binaural, session timers, adaptive to activity) that competes with specialists on their own terms, launched to Spotify's existing DAU instead of needing new acquisition.
+
+**11. Cut the scope to 1/4 — what survives?**
+Mood-Regulation (§7A, the scale funnel §8 explicitly prioritizes) and Fandom (§7E, the highest-value monetization head). Cut Focus (admittedly weakest, under-invested) and Social Connection (a retention lever per §1 Retain, not a monetization lever — nice-to-have, not core); fold Self-Expression/Discovery into Mood-Regulation's personalization engine rather than staffing it separately.
+
+**12. Pitch an engineer who wants hard problems.**
+The Large Taste Model itself (§5 Counter-Positioning, §3 #4): ingesting 3.4 trillion signals a day across a 250M-track catalog, where the model goes stale in 2–3 weeks without continuous refresh. That's a live, continuously-operating ML systems problem at a scale almost nobody else runs — not the comparatively settled space of general-purpose LLM reasoning, which Spotify deliberately doesn't try to own.
+
+**13. Rebuild/remarket for a totally different, untargeted audience.**
+Enterprises and venues, not individual consumers — B2B ambient audio for retail, gyms, and hospitality (§12 Play #5, currently the least-invested play). Rebuild Spotify as a licensed, personalized ambient-audio platform sold on a B2B/licensing basis instead of a consumer subscription.
+
+**14. Remove the product constraint entirely — what else would you build?**
+Drop "must stay a music/audio company." License the taste graph itself as a horizontal personalization API — to retail recommendation engines, fitness apps, automotive infotainment (§12 Play #3, "Taste-as-a-platform," pushed to its limit). Spotify becomes an ambient-personalization utility other products build on, the way Stripe became infrastructure for payments rather than staying one checkout product. Still passes the right-to-win test (§12): the taste graph is an asset only Spotify has, continuously refreshed, at a scale no one else can replicate quickly.
+
+**B. By question type**
 *Likely question → sharp answer.*
 - **[AI strategy]** "Compete on AI without a frontier model?" → LTM/LLM split: rent reasoning, own proprietary dynamic data + distribution; tier the intelligence.
 - **[Metrics]** "Conversion is flat — bad?" → composition effect; decompose blended into mature (rising) + new-free (diluting).

@@ -4,9 +4,42 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > **v1 — earnings-grounded + web research.** Earnings facts tagged `[S1]`/`[S2]`; product/market facts tagged `[S3]`–`[S8]` with URLs in §15. Estimates labeled *(est.)*.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Console hardware (loss-leader funnel), the **Xbox PC app** + Play Anywhere, **cloud gaming** on any browser/phone (no box needed), third-party **handhelds** running Full Screen Experience [S5], and — the big one — **being on PlayStation/Steam** so Microsoft gets players it never sells hardware to [S4]. Game Pass free/discount trials and the Discord-Nitro Starter bundle are top-of-funnel. [S3]
+- **Engage** — Core loop: a rotating **day-one library** ("new game dropped, it's free this month") drives session frequency; the aha is "I'd never have bought this, and I finished it." Cloud lets play happen in 65-min mobile gaps. [S6] CoD/Blizzard live-service titles (seasons, battle passes) are the high-frequency retention engine. Surfaces: console dashboard, PC app, mobile cloud, handheld FSE.
+- **Retain** — Switching cost = your **library, achievements, saves, friends graph, and Game Pass habit**. Live-service progression (CoD/WoW/Diablo) is sticky by design. Churn drivers exposed in 2025: the price hike ("lost millions") and thin first-party output ("weak first-party content"). [S3][S2] Retention lever pulled in April 2026: roll price back + fold online multiplayer into every tier so Essential stops feeling like a tax. [S3]
+- **Monetize** — Four lines: (1) **Game Pass subscriptions** (recurring, ~$276/yr Ultimate); (2) **full-game & DLC sales** including on rival platforms — the CoD-off-day-one move protects $70 sell-through [S3]; (3) **hardware** (declining, near-cost); (4) **services/live-ops** (battle passes, in-game spend, store take-rate). Price fences = the tier ladder ($9.99→$22.99). Expansion = tier upsell + in-game spend on top of the sub. [S1][S3]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & engagement**
+- ~**500M** monthly active users across console + PC + mobile (from ~200M Jan 2024). [S6]
+- **1.7B** cloud-gaming hours in 2025, **+45%** Y/Y (from 1.2B in 2024); avg session **65 min**, **62%** on smartphones; ~62% cloud-gaming market share *(est., analyst compilation)*. [S6]
+- "New records for monthly Xbox active users… as well as game streaming hours." [S1]
+
+**Game Pass (subscription core)**
+- ~**40M** subscribers Q1 2026 *(est., ~+10% off ~37M a year prior)*; ~**$5B** annual Game Pass revenue FY25 *(est.)*. [S3][S6]
+- Tiers (mid-2026): **Essential $9.99** (50+ games), **Premium $14.99** (200+), **PC $13.99** (300+), **Ultimate $22.99** (500+); **Starter** bundled with Discord Nitro. [S3]
+- Ultimate price path: **$19.99 → $29.99** (Oct 2025, +50%) → **$22.99** (April 2026 rollback). [S3]
+
+**Multiplatform economics**
+- Dec 2024: ~**64%** of player spend on Microsoft games came from **PlayStation** users; Microsoft = **#1 publisher** that month. [S4]
+- 2025 day-one cross-platform titles: Doom: The Dark Ages, The Outer Worlds 2, Ninja Gaiden 4, Call of Duty, others — same-day on Xbox/PC/PS5. [S4]
+
+**Audited financials (from MSFT earnings)**
+- Q3 FY26: Gaming revenue **−7%** (−9% cc); Xbox content & services **−5%** (−7% cc); against a strong first-party comparable; impairment/other charges in gaming hit MPC OpEx. Q4 guide: content & services −low-teens, hardware down Y/Y. [S1]
+- Q2 FY26: Gaming revenue **−9%** (−10% cc); content & services **−5%**, "below expectations… weak first-party content"; **Gaming op margin 27%**; GM% *up* Y/Y on mix. [S2]
+- Sits inside **More Personal Computing**: $13.2B, −1% (Q3 FY26) [S1]; $14.3B, −3% (Q2 FY26) [S2].
+- Activision Blizzard: **$68.7B** announced / **$75.4B** all-in, closed Oct 13 2023; drove gaming rev **+43%** the following year. [S8]
+
+**Unit economics *(est.)*** — Game Pass Ultimate at $22.99/mo ≈ $276/yr per subscriber (ARPU = revenue per user). Content is the variable cost line: first-party dev/impairment + third-party royalties + cloud-compute per streamed hour. Cloud sessions (65 min, mostly mobile) carry real GPU-streaming cost of goods, so cloud adds engagement but thins margin vs. local play. Hardware is sold at/near cost as a funnel, not a profit line. [S1][S2][S6]
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ Xbox's biggest revenue source is PlayStation owners.**
@@ -59,47 +92,12 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"This is an Xbox."** The brand is a software+subscription layer, not a SKU; any screen running the experience counts. Use on: platform-strategy, "what business are they really in?" [S5]
 - **"Win back fans."** Management's own label for the consumer segment (Xbox/Windows/Bing/Edge) — an open admission that quality and trust slipped and must be re-earned before growth. Use on: turnaround / prioritization prompts. [S1]
 - **"Not every screen is equal."** Spencer's framing for multiplatform — a phone, a handheld, a console, and a PC are different jobs, not one funnel. Use on: segmentation, cross-platform product design. [S4]
 - **Content & services vs. hardware split.** Always separate the razor (hardware, guided *down*) from the blades (subscriptions + game sales + services). Use on: any "how do they make money" prompt. [S1][S2]
 - **"Allocated to the customer, not the box."** Game Pass is a right to a library across console/PC/cloud, not a device feature — it mirrors Nadella's company-wide "license + consumption" reframe. Use on: monetization / bundling. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & engagement**
-- ~**500M** monthly active users across console + PC + mobile (from ~200M Jan 2024). [S6]
-- **1.7B** cloud-gaming hours in 2025, **+45%** Y/Y (from 1.2B in 2024); avg session **65 min**, **62%** on smartphones; ~62% cloud-gaming market share *(est., analyst compilation)*. [S6]
-- "New records for monthly Xbox active users… as well as game streaming hours." [S1]
-
-**Game Pass (subscription core)**
-- ~**40M** subscribers Q1 2026 *(est., ~+10% off ~37M a year prior)*; ~**$5B** annual Game Pass revenue FY25 *(est.)*. [S3][S6]
-- Tiers (mid-2026): **Essential $9.99** (50+ games), **Premium $14.99** (200+), **PC $13.99** (300+), **Ultimate $22.99** (500+); **Starter** bundled with Discord Nitro. [S3]
-- Ultimate price path: **$19.99 → $29.99** (Oct 2025, +50%) → **$22.99** (April 2026 rollback). [S3]
-
-**Multiplatform economics**
-- Dec 2024: ~**64%** of player spend on Microsoft games came from **PlayStation** users; Microsoft = **#1 publisher** that month. [S4]
-- 2025 day-one cross-platform titles: Doom: The Dark Ages, The Outer Worlds 2, Ninja Gaiden 4, Call of Duty, others — same-day on Xbox/PC/PS5. [S4]
-
-**Audited financials (from MSFT earnings)**
-- Q3 FY26: Gaming revenue **−7%** (−9% cc); Xbox content & services **−5%** (−7% cc); against a strong first-party comparable; impairment/other charges in gaming hit MPC OpEx. Q4 guide: content & services −low-teens, hardware down Y/Y. [S1]
-- Q2 FY26: Gaming revenue **−9%** (−10% cc); content & services **−5%**, "below expectations… weak first-party content"; **Gaming op margin 27%**; GM% *up* Y/Y on mix. [S2]
-- Sits inside **More Personal Computing**: $13.2B, −1% (Q3 FY26) [S1]; $14.3B, −3% (Q2 FY26) [S2].
-- Activision Blizzard: **$68.7B** announced / **$75.4B** all-in, closed Oct 13 2023; drove gaming rev **+43%** the following year. [S8]
-
-**Unit economics *(est.)*** — Game Pass Ultimate at $22.99/mo ≈ $276/yr per subscriber (ARPU = revenue per user). Content is the variable cost line: first-party dev/impairment + third-party royalties + cloud-compute per streamed hour. Cloud sessions (65 min, mostly mobile) carry real GPU-streaming cost of goods, so cloud adds engagement but thins margin vs. local play. Hardware is sold at/near cost as a funnel, not a profit line. [S1][S2][S6]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Console hardware (loss-leader funnel), the **Xbox PC app** + Play Anywhere, **cloud gaming** on any browser/phone (no box needed), third-party **handhelds** running Full Screen Experience [S5], and — the big one — **being on PlayStation/Steam** so Microsoft gets players it never sells hardware to [S4]. Game Pass free/discount trials and the Discord-Nitro Starter bundle are top-of-funnel. [S3]
-- **Engage** — Core loop: a rotating **day-one library** ("new game dropped, it's free this month") drives session frequency; the aha is "I'd never have bought this, and I finished it." Cloud lets play happen in 65-min mobile gaps. [S6] CoD/Blizzard live-service titles (seasons, battle passes) are the high-frequency retention engine. Surfaces: console dashboard, PC app, mobile cloud, handheld FSE.
-- **Retain** — Switching cost = your **library, achievements, saves, friends graph, and Game Pass habit**. Live-service progression (CoD/WoW/Diablo) is sticky by design. Churn drivers exposed in 2025: the price hike ("lost millions") and thin first-party output ("weak first-party content"). [S3][S2] Retention lever pulled in April 2026: roll price back + fold online multiplayer into every tier so Essential stops feeling like a tax. [S3]
-- **Monetize** — Four lines: (1) **Game Pass subscriptions** (recurring, ~$276/yr Ultimate); (2) **full-game & DLC sales** including on rival platforms — the CoD-off-day-one move protects $70 sell-through [S3]; (3) **hardware** (declining, near-cost); (4) **services/live-ops** (battle passes, in-game spend, store take-rate). Price fences = the tier ladder ($9.99→$22.99). Expansion = tier upsell + in-game spend on top of the sub. [S1][S3]
 
 ---
 

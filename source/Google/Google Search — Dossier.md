@@ -4,9 +4,49 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Tuned for PM interview prep: product sense, strategy, design, metrics. Earnings facts carry `[Q1-26] / [AI-remarks] / [Q4-25]` tags; web facts carry `[S#]`. Estimates are labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Default distribution is the whole game: Search is the default on Chrome (owned), Android (owned, Circle to Search on 580M+ devices), and Safari/iOS via the **~$20B/yr Apple deal** [S11]. This is exactly what the antitrust case targeted [S10]. Zero cost to acquire a user, because the entry points are pre-installed operating systems and browsers. New AI surfaces (AI Mode, AI Overviews) are *turned on inside the existing box*, not acquired separately.
+- **Engage** — Core loop: **query → answer → refine/next query**. The aha is an instant, trustworthy, free answer. AI deepens the loop: follow-up questions from AI Overviews, multi-turn AI Mode, Search Live (camera + voice back-and-forth), and non-text entry (Circle to Search, Lens). People use it many times a day out of habit; AI Mode queries are 3x longer and per-user daily volume is doubling [Q4-25]. Surfaces: web, Chrome address bar, Android home, Lens, Maps, Search Live.
+- **Retain** — Retention is habit + default + switching cost: muscle memory, personalization, "google it" as a verb. Personal Intelligence (Gmail/Photos/Calendar context, now ~190–200 countries) raises switching cost by making answers personal to *your* data [Q1-26]/[S5]. The plumbing — index freshness, latency (−35%/5yr), spam defense — keeps quality high enough that no one has a reason to leave.
+- **Monetize** — Search ads auction (AdWords/Google Ads): advertisers bid per keyword/intent, ~20% of results carry ads, priced by a quality-adjusted second-price-style auction (~$5 avg CPC) [S13]. Levers to grow it: (1) show ads on more than 20% of results via AI intent-matching [Q1-26]; (2) AI-enabled campaigns (AI Max/PMax, >30% of spend) [Q1-26]; (3) net-new agentic/commerce formats — Direct Offers, retailer ads in AI Mode, agentic checkout (UCP) [Q1-26]; (4) a paid tier for demanding AI queries (Google One AI plans) as a non-ad revenue line [Q1-26].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated, rarer than the ones everyone quotes.*
+
+**Headline scale & product**
+- **~8.5B searches/day**, ~99,000 queries/sec (est., industry-reported) [S9]. Queries at an **all-time high** [Q1-26]/[AI-remarks].
+- **AI Overviews: >2.5B monthly users**, 200 countries [AI-remarks]/[S4]. **AI Mode: >1B monthly users** ~1 yr post-launch [AI-remarks]/[S5].
+- **250+ product launches inside AI Mode/AIO in a single quarter** [Q4-25]. Gemini query-understanding shipped "a launch per month for 2 years" [Q4-25].
+- **AI Mode queries 3x longer** than traditional; **daily AI Mode queries/user doubled** since launch; **~1 in 6 AI Mode queries non-text** (voice/image) [Q4-25].
+- **Circle to Search: 580M+ Android devices** [Q4-25].
+
+**Market arcs (est., third-party trackers)**
+- Google **~90% worldwide search share** (StatCounter, Mar 2026) — but down ~1.5pp Y/Y, the biggest one-year drop since 2009 [S7]. US ~84% [S7].
+- Bing ~5% worldwide / ~10.5% US (Copilot-boosted) [S7].
+- ChatGPT ≈ 894M weekly users; **~18% of total digital queries** by some measures; AI-search referrals still <1% of web traffic but up ~5x Y/Y [S8]. Perplexity ~$21B valuation, ~500–780M queries/mo, ~45M active users, Comet browser went free 2026 [S12].
+
+**Monetization**
+- **Search & Other rev: $60.4B Q1-26 (+19%)** [Q1-26]; **$63.1B Q4-25 (+17%)** [Q4-25]; growth *sped up* 10%→17% across 2025 [S15].
+- **Ad coverage historically ~20%** of results; management sees **upside** to that number via AI intent-matching [Q1-26].
+- **>30% of customer search spend now runs through AI-enabled campaigns** (AI Max / Performance Max); AI Max out of beta [Q1-26]; used by "hundreds of thousands of advertisers" [Q4-25].
+- Direct Offers in pilot with **Gap, L'Oréal, Chewy** [Q1-26]. AI Mode ad tests: ads shown in ~25% of AI results in early tests (est., third-party) [S14].
+- Avg Google Ads CPC (cost per click) ~**$5.26** (2025, all industries; legal ~$8.58, restaurants ~$2.05) — est., WordStream [S13].
+
+**Cost / efficiency (the deflation engine)**
+- **Core AI response cost −30%** since Gemini 3 [Q1-26]. **Search latency −35% over 5 years** [Q1-26]. **Gemini serving unit cost −78% across 2025** [Q4-25]/[AI-remarks].
+
+**Audited context (Alphabet, for framing)**
+- Alphabet Q1-26 revenue **$109.9B (+22%)**, operating margin 36.1%, net income $62.6B [Q1-26]. FY2025 revenue **>$403B** (first time over $400B) [Q4-25]. Google Services operating margin **45.3%** [Q1-26].
+
+**Unit economics (est., cross-ref /follow-the-dollar)**
+- The unit is a **monetizable query**. Revenue per query is tiny and mostly $0 (only ~20% of results carry ads); the model works on **planet-scale volume × near-zero cost to serve one more query**. AI's job is to (a) push the cost to serve toward zero and (b) turn long-tail queries that never carried ads into inventory — both raise the profit per query without raising ad load on the common queries.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — mechanism, reframe, contrarian bet. Ranked strongest first.*
 
 **★ AI lowers the cost to serve, it doesn't only add revenue — that's the whole story**
@@ -50,7 +90,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Google's framing devices, restated so you can use them on any prompt.*
 
 - **"An expansionary moment."** AI doesn't split a fixed query pie — it grows the pie by making new question types askable → use on any "is X disrupting Y" prompt to argue new demand vs substitution [AI-remarks].
@@ -60,48 +100,6 @@
 - **"Just as mobile drove Search growth, AI drives the same expansion."** Tie a scary platform shift to an earlier one the company survived and grew through → strategy narrative [AI-remarks].
 - **"Moving beyond answers to actions" / "agent-first."** The roadmap is answer → action; the query is becoming a task → product vision prompts [AI-remarks].
 - **"Put the user first" on the subscription-vs-ads tension.** Paid tiers give demanding queries more model power; don't make the monetization question trade against UX [Q1-26].
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated, rarer than the ones everyone quotes.*
-
-**Headline scale & product**
-- **~8.5B searches/day**, ~99,000 queries/sec (est., industry-reported) [S9]. Queries at an **all-time high** [Q1-26]/[AI-remarks].
-- **AI Overviews: >2.5B monthly users**, 200 countries [AI-remarks]/[S4]. **AI Mode: >1B monthly users** ~1 yr post-launch [AI-remarks]/[S5].
-- **250+ product launches inside AI Mode/AIO in a single quarter** [Q4-25]. Gemini query-understanding shipped "a launch per month for 2 years" [Q4-25].
-- **AI Mode queries 3x longer** than traditional; **daily AI Mode queries/user doubled** since launch; **~1 in 6 AI Mode queries non-text** (voice/image) [Q4-25].
-- **Circle to Search: 580M+ Android devices** [Q4-25].
-
-**Market arcs (est., third-party trackers)**
-- Google **~90% worldwide search share** (StatCounter, Mar 2026) — but down ~1.5pp Y/Y, the biggest one-year drop since 2009 [S7]. US ~84% [S7].
-- Bing ~5% worldwide / ~10.5% US (Copilot-boosted) [S7].
-- ChatGPT ≈ 894M weekly users; **~18% of total digital queries** by some measures; AI-search referrals still <1% of web traffic but up ~5x Y/Y [S8]. Perplexity ~$21B valuation, ~500–780M queries/mo, ~45M active users, Comet browser went free 2026 [S12].
-
-**Monetization**
-- **Search & Other rev: $60.4B Q1-26 (+19%)** [Q1-26]; **$63.1B Q4-25 (+17%)** [Q4-25]; growth *sped up* 10%→17% across 2025 [S15].
-- **Ad coverage historically ~20%** of results; management sees **upside** to that number via AI intent-matching [Q1-26].
-- **>30% of customer search spend now runs through AI-enabled campaigns** (AI Max / Performance Max); AI Max out of beta [Q1-26]; used by "hundreds of thousands of advertisers" [Q4-25].
-- Direct Offers in pilot with **Gap, L'Oréal, Chewy** [Q1-26]. AI Mode ad tests: ads shown in ~25% of AI results in early tests (est., third-party) [S14].
-- Avg Google Ads CPC (cost per click) ~**$5.26** (2025, all industries; legal ~$8.58, restaurants ~$2.05) — est., WordStream [S13].
-
-**Cost / efficiency (the deflation engine)**
-- **Core AI response cost −30%** since Gemini 3 [Q1-26]. **Search latency −35% over 5 years** [Q1-26]. **Gemini serving unit cost −78% across 2025** [Q4-25]/[AI-remarks].
-
-**Audited context (Alphabet, for framing)**
-- Alphabet Q1-26 revenue **$109.9B (+22%)**, operating margin 36.1%, net income $62.6B [Q1-26]. FY2025 revenue **>$403B** (first time over $400B) [Q4-25]. Google Services operating margin **45.3%** [Q1-26].
-
-**Unit economics (est., cross-ref /follow-the-dollar)**
-- The unit is a **monetizable query**. Revenue per query is tiny and mostly $0 (only ~20% of results carry ads); the model works on **planet-scale volume × near-zero cost to serve one more query**. AI's job is to (a) push the cost to serve toward zero and (b) turn long-tail queries that never carried ads into inventory — both raise the profit per query without raising ad load on the common queries.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Default distribution is the whole game: Search is the default on Chrome (owned), Android (owned, Circle to Search on 580M+ devices), and Safari/iOS via the **~$20B/yr Apple deal** [S11]. This is exactly what the antitrust case targeted [S10]. Zero cost to acquire a user, because the entry points are pre-installed operating systems and browsers. New AI surfaces (AI Mode, AI Overviews) are *turned on inside the existing box*, not acquired separately.
-- **Engage** — Core loop: **query → answer → refine/next query**. The aha is an instant, trustworthy, free answer. AI deepens the loop: follow-up questions from AI Overviews, multi-turn AI Mode, Search Live (camera + voice back-and-forth), and non-text entry (Circle to Search, Lens). People use it many times a day out of habit; AI Mode queries are 3x longer and per-user daily volume is doubling [Q4-25]. Surfaces: web, Chrome address bar, Android home, Lens, Maps, Search Live.
-- **Retain** — Retention is habit + default + switching cost: muscle memory, personalization, "google it" as a verb. Personal Intelligence (Gmail/Photos/Calendar context, now ~190–200 countries) raises switching cost by making answers personal to *your* data [Q1-26]/[S5]. The plumbing — index freshness, latency (−35%/5yr), spam defense — keeps quality high enough that no one has a reason to leave.
-- **Monetize** — Search ads auction (AdWords/Google Ads): advertisers bid per keyword/intent, ~20% of results carry ads, priced by a quality-adjusted second-price-style auction (~$5 avg CPC) [S13]. Levers to grow it: (1) show ads on more than 20% of results via AI intent-matching [Q1-26]; (2) AI-enabled campaigns (AI Max/PMax, >30% of spend) [Q1-26]; (3) net-new agentic/commerce formats — Direct Offers, retailer ads in AI Mode, agentic checkout (UCP) [Q1-26]; (4) a paid tier for demanding AI queries (Google One AI plans) as a non-ad revenue line [Q1-26].
 
 ---
 

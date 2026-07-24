@@ -4,9 +4,67 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Prime is the top of the funnel; Prime Video is now "an important driver of new member acquisition" and "a large and profitable business in its own right" (TNF most-watched season ever, 15M avg viewers; Packers-Bears wild card 31.6M, most-streamed NFL game ever). Cheap essentials + grocery pull frequency and keep Amazon "front of mind." Amazon Haul (1M+ items under $10, 25+ countries) and lower 3P seller fees (US/Europe/Brazil) bring in both shoppers and supply. AWS wins on the widest capability set + startup share ("more of the top 500 US startups than the next 2 providers combined"). [S1][S2]
+- **Engage** — The core loop is frequency: same-day and perishables drive 2–3x visit frequency and 80%+ higher spend; quick delivery (Amazon Now <30 min, 9 countries; India +25% MoM) triples shopping frequency for people who try it. Rufus (300M+ users) and Alexa+ deepen engagement — Alexa+ users do everything 2–3x more than classic. Add to Delivery is already 10% of Prime volume. [S1][S2]
+- **Retain** — The Prime bundle (delivery + video + music + grocery perks) is the switching cost. On AWS, retention builds through the AI-to-core link ("as customers spend more on AI, we see corresponding demand in core"), a $364B backlog, and Nova Forge/Trainium lock-in (own-data training + committed chip capacity). Graviton at 98% of top customers is deeply embedded plumbing. [S1][S2]
+- **Monetize** — Four lines: (1) retail/marketplace (61% 3P unit mix, seller fees + FBA), (2) AWS (~$150B run-rate, 35% margin), (3) Ads (~$17B/qtr, sponsored products largest), (4) subscriptions (Prime, Alexa+ at $19.99/mo for non-Prime). Agentic-commerce money: sponsored prompts in Rufus multi-turn chats ("multiple opportunities to surface relevant products, some sponsored"). Trainium price-performance earns twice — as customer price and as Amazon margin. [S1][S2]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, rare, dated numbers. Group by theme.*
+
+**Headline scale & product**
+- Q1'26: units +15% Y/Y, "highest since the tail end of COVID"; 600+ new notable brands. [S1]
+- Grocery: 2nd-largest US grocer, >$150B gross sales (2025), "go-to destination for over 150M Americans"; perishables +40x Y/Y. [S1][S2]
+- Same-day/overnight: 1B+ items YTD (Q1'26); US Prime members got 8B+ items same/next-day in 2025, +30% Y/Y; same-day used by nearly 100M US customers in 2025. [S1][S2]
+- Add to Delivery: ~10% of all Prime volume just 6 months post-launch. [S2]
+- Rufus: 300M+ customers used it in 2025; users ~60% more likely to complete a purchase. [S2]
+- Alexa+ vs. classic: users talk 2x more/longer, purchase 3x more, stream music 25% more, use smart home 50% more. [S1]
+
+**AWS & AI infrastructure**
+- Q1'26 AWS: $37.6B, +28% Y/Y (accel. 480 bps), "fastest growth in 15 quarters," ~$150B run-rate. AI run-rate >$15B ("nearly 260x" AWS's own first-3-years run-rate). [S1]
+- Backlog: $364B Q1'26 (excl. new $100B+ Anthropic deal); was $244B in Q4'25, +40% Y/Y. [S1][S2]
+- Bedrock: >125,000 customers, ~80% of Fortune 100; customer spend +170% QoQ in Q1'26 (was +60% QoQ in Q4'25); "processed more tokens in Q1 than all prior years combined." [S1][S2]
+- Power: added 3.9 GW over 12 months (Q4'25) = "twice what we had in 2022 as an $80B run-rate business"; expects to double capacity again by end of 2027. [S2]
+
+**Chips**
+- Chips run-rate >$20B (~$50B if standalone); Trainium commitments >$225B; chips +40% QoQ (Q1'26). [S1]
+- Trainium2: 30% better price-performance vs. comparable GPUs, "over 1.4M chips," "fastest-ramping chip launch ever," 100,000+ companies, largely sold out. [S1][S2]
+- Trainium3: shipping early 2026, 30–40% more price-performance, nearly fully subscribed. Trainium4 (~18 months out) much already reserved. [S1][S2]
+- Graviton: up to 40% more price-performance vs. x86; 98% of top-1,000 EC2 customers; Meta committed "tens of millions of cores." [S1][S2]
+
+**Ads**
+- Q1'26: $17.2B, +22% Y/Y. FY25 run-rate: $21.3B in Q4'25, +22%, "over $12B incremental revenue in 2025." [S1][S2]
+- Rufus Brand Prompts: "nearly 20% of shoppers who interact continue the conversation about that brand." [S1]
+- Prime Video ads: avg ad-supported audience 315M globally (up from 200M in early 2024), 16 countries. [S2]
+
+**Audited financials (latest 2 Qs)**
+
+| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
+|---|---|---|
+| Total revenue | $181.5B, +17% Y/Y | $213.4B, +12% ex-FX |
+| Operating income | $23.9B (13.1% margin, "highest ever") | $25.0B (incl. $2.4B special charges) |
+| EPS | $2.78 (beat by $1.14) | $1.95 |
+| North America rev / op inc | $104.1B / $8.3B (7.9%) | $127.1B / $11.5B (9%) |
+| International rev / op inc | $39.8B / $1.4B (3.6%) | $50.7B / $1.0B (2.1%) |
+| AWS rev / op inc | $37.6B / $14.2B | $35.6B / $12.5B (35.1% margin) |
+| Cash CapEx | $43.2B (Q1) | ~$200B forward (FY, mostly AWS) |
+
+- FY25 operating cash flow $139.5B, +20% Y/Y; TTM FCF $11.2B (Q4'25). 3P seller unit mix 61%. [S2]
+- Q4'25 special charges $2.4B: $1.1B Italy tax/lawsuit (Intl), $730M severance (all segments), $610M asset impairments "primarily physical stores" (NA). [S2]
+- Q2'26 guide: net sales $194–199B; op income $20–24B; Prime Day shifts into Q2 for US/largest geos. [S1]
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- AWS is the profit engine: Q1'26 AWS was ~21% of revenue but ~59% of operating income ($14.2B of $23.9B) — estimate from [S1] figures.
+- Retail contribution is thin and split by geography: NA 7.9% margin, International 3.6% (Q1'26). International is held down on purpose by price-matching + the Amazon Now rollout. [S1]
+- Ads (~$17B/qtr, high-margin) + AWS carry the P&L; low-priced retail buys frequency, not margin. [S1][S2]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ AI is a CPU story, not just a GPU story**
@@ -77,7 +135,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can wield them on any prompt.*
 
 - **"AI is a GPU story, but agents are a CPU story."** As systems move from answering to acting, the orchestration work lands on general-purpose cores → use on any "where's the hidden demand" or infra-TAM prompt. [S1]
@@ -88,66 +146,6 @@
 - **"Retailers do all four; agents do one."** Selection, price, delivery, trust — outside agents only aggregate selection. → agentic-commerce disruption prompts. [S2]
 - **"Teach the language early."** Training on your own data early beats late-stage fine-tuning, like early-childhood language. → enterprise-AI stickiness. [S2]
 - **"Capacity is monetized as fast as it's installed."** Answers the overbuild fear: new capacity goes into service and is "immediately useful." → overcapacity / bubble questions. [S2]
-
----
-
-## 3. Numbers that signal depth
-*Specific, rare, dated numbers. Group by theme.*
-
-**Headline scale & product**
-- Q1'26: units +15% Y/Y, "highest since the tail end of COVID"; 600+ new notable brands. [S1]
-- Grocery: 2nd-largest US grocer, >$150B gross sales (2025), "go-to destination for over 150M Americans"; perishables +40x Y/Y. [S1][S2]
-- Same-day/overnight: 1B+ items YTD (Q1'26); US Prime members got 8B+ items same/next-day in 2025, +30% Y/Y; same-day used by nearly 100M US customers in 2025. [S1][S2]
-- Add to Delivery: ~10% of all Prime volume just 6 months post-launch. [S2]
-- Rufus: 300M+ customers used it in 2025; users ~60% more likely to complete a purchase. [S2]
-- Alexa+ vs. classic: users talk 2x more/longer, purchase 3x more, stream music 25% more, use smart home 50% more. [S1]
-
-**AWS & AI infrastructure**
-- Q1'26 AWS: $37.6B, +28% Y/Y (accel. 480 bps), "fastest growth in 15 quarters," ~$150B run-rate. AI run-rate >$15B ("nearly 260x" AWS's own first-3-years run-rate). [S1]
-- Backlog: $364B Q1'26 (excl. new $100B+ Anthropic deal); was $244B in Q4'25, +40% Y/Y. [S1][S2]
-- Bedrock: >125,000 customers, ~80% of Fortune 100; customer spend +170% QoQ in Q1'26 (was +60% QoQ in Q4'25); "processed more tokens in Q1 than all prior years combined." [S1][S2]
-- Power: added 3.9 GW over 12 months (Q4'25) = "twice what we had in 2022 as an $80B run-rate business"; expects to double capacity again by end of 2027. [S2]
-
-**Chips**
-- Chips run-rate >$20B (~$50B if standalone); Trainium commitments >$225B; chips +40% QoQ (Q1'26). [S1]
-- Trainium2: 30% better price-performance vs. comparable GPUs, "over 1.4M chips," "fastest-ramping chip launch ever," 100,000+ companies, largely sold out. [S1][S2]
-- Trainium3: shipping early 2026, 30–40% more price-performance, nearly fully subscribed. Trainium4 (~18 months out) much already reserved. [S1][S2]
-- Graviton: up to 40% more price-performance vs. x86; 98% of top-1,000 EC2 customers; Meta committed "tens of millions of cores." [S1][S2]
-
-**Ads**
-- Q1'26: $17.2B, +22% Y/Y. FY25 run-rate: $21.3B in Q4'25, +22%, "over $12B incremental revenue in 2025." [S1][S2]
-- Rufus Brand Prompts: "nearly 20% of shoppers who interact continue the conversation about that brand." [S1]
-- Prime Video ads: avg ad-supported audience 315M globally (up from 200M in early 2024), 16 countries. [S2]
-
-**Audited financials (latest 2 Qs)**
-
-| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
-|---|---|---|
-| Total revenue | $181.5B, +17% Y/Y | $213.4B, +12% ex-FX |
-| Operating income | $23.9B (13.1% margin, "highest ever") | $25.0B (incl. $2.4B special charges) |
-| EPS | $2.78 (beat by $1.14) | $1.95 |
-| North America rev / op inc | $104.1B / $8.3B (7.9%) | $127.1B / $11.5B (9%) |
-| International rev / op inc | $39.8B / $1.4B (3.6%) | $50.7B / $1.0B (2.1%) |
-| AWS rev / op inc | $37.6B / $14.2B | $35.6B / $12.5B (35.1% margin) |
-| Cash CapEx | $43.2B (Q1) | ~$200B forward (FY, mostly AWS) |
-
-- FY25 operating cash flow $139.5B, +20% Y/Y; TTM FCF $11.2B (Q4'25). 3P seller unit mix 61%. [S2]
-- Q4'25 special charges $2.4B: $1.1B Italy tax/lawsuit (Intl), $730M severance (all segments), $610M asset impairments "primarily physical stores" (NA). [S2]
-- Q2'26 guide: net sales $194–199B; op income $20–24B; Prime Day shifts into Q2 for US/largest geos. [S1]
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- AWS is the profit engine: Q1'26 AWS was ~21% of revenue but ~59% of operating income ($14.2B of $23.9B) — estimate from [S1] figures.
-- Retail contribution is thin and split by geography: NA 7.9% margin, International 3.6% (Q1'26). International is held down on purpose by price-matching + the Amazon Now rollout. [S1]
-- Ads (~$17B/qtr, high-margin) + AWS carry the P&L; low-priced retail buys frequency, not margin. [S1][S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Prime is the top of the funnel; Prime Video is now "an important driver of new member acquisition" and "a large and profitable business in its own right" (TNF most-watched season ever, 15M avg viewers; Packers-Bears wild card 31.6M, most-streamed NFL game ever). Cheap essentials + grocery pull frequency and keep Amazon "front of mind." Amazon Haul (1M+ items under $10, 25+ countries) and lower 3P seller fees (US/Europe/Brazil) bring in both shoppers and supply. AWS wins on the widest capability set + startup share ("more of the top 500 US startups than the next 2 providers combined"). [S1][S2]
-- **Engage** — The core loop is frequency: same-day and perishables drive 2–3x visit frequency and 80%+ higher spend; quick delivery (Amazon Now <30 min, 9 countries; India +25% MoM) triples shopping frequency for people who try it. Rufus (300M+ users) and Alexa+ deepen engagement — Alexa+ users do everything 2–3x more than classic. Add to Delivery is already 10% of Prime volume. [S1][S2]
-- **Retain** — The Prime bundle (delivery + video + music + grocery perks) is the switching cost. On AWS, retention builds through the AI-to-core link ("as customers spend more on AI, we see corresponding demand in core"), a $364B backlog, and Nova Forge/Trainium lock-in (own-data training + committed chip capacity). Graviton at 98% of top customers is deeply embedded plumbing. [S1][S2]
-- **Monetize** — Four lines: (1) retail/marketplace (61% 3P unit mix, seller fees + FBA), (2) AWS (~$150B run-rate, 35% margin), (3) Ads (~$17B/qtr, sponsored products largest), (4) subscriptions (Prime, Alexa+ at $19.99/mo for non-Prime). Agentic-commerce money: sponsored prompts in Rufus multi-turn chats ("multiple opportunities to surface relevant products, some sponsored"). Trainium price-performance earns twice — as customer price and as Amazon margin. [S1][S2]
 
 ---
 

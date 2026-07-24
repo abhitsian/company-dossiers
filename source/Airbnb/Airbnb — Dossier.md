@@ -4,9 +4,93 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- **Direct/brand-led + app funnel:** app nights +22% YoY, now 63% of nights — the app is the acquisition + retention flywheel. [S1] First-time bookers +10%, led by Brazil/Japan/India. [S1]
+- **Events as supply-acquisition:** the single "very best way to add supply" — 40,000 Paris hosts retained, >50% of Games-specific listings still live 6 months later. [S2][S1]
+- **Adjacency as demand-recapture:** experiences/services/hotels catch users "already in our store" and route them to stays. Experiences: ~1/3 book a stay within 90 days. [S1]
+- **AI search as inbound:** chatbot traffic converts higher than Google — a positive top-of-funnel channel, "nothing banked into our outlook." [S2]
+
+**Engage**
+- **Core loop:** search → message host (85–90% of guests message) → book → review. The message thread + review corpus are the engagement AND the moat. [S2][S1]
+- **Higher-frequency wedge:** experiences/services push usage "beyond just a big trip" — the strategic answer to Airbnb's low-frequency problem. [S2]
+- **Personalization over tabs:** because 100% of bookers have a verified account, the surface is deeply personalized, not tab-segmented. [S1]
+
+**Retain**
+- **Switching costs:** verified identity (200M IDs), review history (500M reviews), saved trips, host relationships — none portable to a competitor or a chatbot. [S2]
+- **Supply retention:** individual hosts rate higher than property managers → durable, exclusive, sticky long-tail supply. [S1] Event-onboarded hosts retained >50% at 6 months. [S1]
+- **No loyalty program yet** — a retention lever held in reserve. [S1]
+
+**Monetize**
+- **Take rate:** rising via single/simplified fee structure + a new **insurance program**; management guides FY26 adj. EBITDA margin "at least 35%." [S1]
+- **RNPL (~20% of GBV):** raises ADR (mix-shift to nicer/larger homes) and lengthens lead times; costs near-term fee-recognition timing. [S1][S2]
+- **New revenue lines:** experiences, services (first-party photography; third-party grocery via Instacart, airport pickup), hotels (recapture), Delta miles rev-share partnership. [S1][S2]
+- **Pricing engine:** single-fee migration let host elasticity pull effective ADR *down* modestly (affordability win), "foundational" for dynamic pricing/fees. Pricing initiatives ≈ as much 2026 revenue as Project Hawaii. [S2]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers, grouped. Latest quarter = Q1 2026; prior = Q4 2025.*
+
+**Headline scale & product**
+- App nights **+22% YoY = 63% of total nights** (up from 58%) — the app-share shift is a lasting engagement + take-rate story. [S1]
+- First-time bookers **+10%** (highest since 2022; strength in Brazil, Japan, India); expansion-market net nights grew **~2x** core. [S1]
+- **RNPL ≈ 20% of global GBV.** [S1]
+- App/AI velocity: **~60% of engineer-produced code is AI-written** (~2x industry avg). [S1]
+- **>40% of AI-assistant contacts self-solve**; **cost per booking −10% YoY.** [S1]
+
+**Audited financials (latest Q — Q1 2026)** [S1]
+
+| Metric | Q1 2026 | Notes |
+|---|---|---|
+| Revenue | $2.7B, +18% YoY | Beat high end of guide by ~2pts |
+| GBV | $29B, +19% YoY | 4th straight quarter of sequential acceleration |
+| Nights & seats booked | +9% YoY | ~10% ex ~100bp Middle East headwind |
+| ADR | +9% YoY (+4% ex-FX) | Strength in North America |
+| Net income | $160M | Hit by ~$70M one-time deferred-tax (US Corp AMT) |
+| Adj. EBITDA | $519M, +24% YoY | Beat guidance |
+| EPS | $0.26 | Missed by $0.05 |
+| Free cash flow | $1.7B (Q1); $4.5B TTM | TTM FCF margin **36%** |
+| Buybacks | $1.1B in Q1 | Capital return "key component" of strategy |
+| Debt | $2.5B senior unsecured | After investment-grade ratings |
+
+**Prior Q (Q4 2025)** [S2]
+
+| Metric | Q4 2025 | Notes |
+|---|---|---|
+| Revenue | $2.8B, +12% YoY | Exceeded high end of guide |
+| GBV | $20.4B, +16% YoY | Highest growth quarter in >2 years |
+| Nights & seats | +10% YoY | Strongest quarter of the year |
+| Adj. EBITDA | $786M, 28% margin | Exceeded guidance |
+| Net income | $341M | Hit by ~$90M one-time non-income tax |
+| FCF | $521M (Q4); FY25 $4.6B, 38% margin | |
+| Buybacks | $1.1B (Q4); FY25 $3.8B (>80% of FCF) | |
+| Cash | $11B corporate + investments | +$7B funds held on behalf of guests |
+
+**Market arcs / regional (Q4 2025 nights growth)** [S2]
+- LatAm high-teens · APAC mid-teens · EMEA high-single (accelerating) · North America mid-single. **India +50% YoY.**
+
+**Growth-driver quantification** [S2]
+- RNPL + cancellation policy + simplified fees together = **>200 bps nights growth, ~300 bps GBV growth** (Q4).
+- **Project Hawaii** drove "hundreds of millions" in 2025 revenue, more in 2026; pricing initiatives expected to "drive as much revenue this year as Hawaii."
+
+**Unit economics / capital philosophy** [S2]
+- FCF ~**40% of revenue**; ~**$19B cumulative FCF since IPO**; fully diluted share count **down ~9% since 2022.**
+- Asset-light creed: "We don't own homes. We don't operate experiences, and we're not building data centers."
+- Tax: OBBBA cuts effective rate from FY25's **20% → high-teens (Q1 view) / mid-to-high teens (Q4 view)** in 2026.
+
+**Guidance (as of Q1 2026)** [S1]
+- Q2 2026: revenue $3.54–3.60B (+14–16%, incl. ~3% FX tailwind); GBV low-double-digit; nights decelerate slightly (~100bp ME headwind assumed); adj. EBITDA + margin up YoY.
+- FY2026 **RAISED:** revenue growth "accelerate to low-to-mid-teens"; adj. EBITDA margin "at least 35%." Higher take rate from single fee structure + insurance program.
+
+**Experiences flywheel (rare, quotable)** [S1][S2]
+- "About one in three people who book an experience book a stay within 90 days"; "almost 1/4 of new guests who booked an experience go to book a stay or a service." [S1]
+- **~50% of experience bookings come from guests with no attached homes booking** — a genuinely new, higher-frequency segment. [S2]
+
+---
+
+## 3. Wow Vault ★
 *Ranked non-obvious insights. Each: the claim → why it's non-obvious → how to deploy → source.*
 
 **★ Airbnb applied AI at the bottom of the funnel while everyone else raced the top — because in travel "you cannot hallucinate."**
@@ -81,7 +165,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can use them on any prompt.*
 
 - **"Start at the bottom of the funnel."** Sequence AI (or any risky automation) by cost-of-being-wrong — automate customer service before trip-planning, "because you cannot hallucinate." → AI-strategy, roadmap-sequencing, risk questions. [S1]
@@ -94,92 +178,6 @@
 - **"Ship the moment it's ready; the big moment is a marketing showcase, not a gate."** Separate release timing from launch theater — "in the age of AI, giant moments aren't the way to do it." The May summer release becomes a "product marketing showcase." → shipping-cadence / launch-strategy. [S2]
 - **"Focus, shift, learn, scale" (Project Hawaii).** Treat the founders' early iteration loop as a repeatable operating model applied at global scale to pricing, supply, international, new businesses. → "how do you scale a new bet?" [S2]
 - **"Tabs vs. co-mingle is a pre-AI paradigm."** Because "100% of people who booked have an account… you cannot book as a guest," the answer to a wider catalog is deep personalization, not UI tabs — "what all e-commerce sites will look like in an age of AI." → product-design / IA questions. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers, grouped. Latest quarter = Q1 2026; prior = Q4 2025.*
-
-**Headline scale & product**
-- App nights **+22% YoY = 63% of total nights** (up from 58%) — the app-share shift is a lasting engagement + take-rate story. [S1]
-- First-time bookers **+10%** (highest since 2022; strength in Brazil, Japan, India); expansion-market net nights grew **~2x** core. [S1]
-- **RNPL ≈ 20% of global GBV.** [S1]
-- App/AI velocity: **~60% of engineer-produced code is AI-written** (~2x industry avg). [S1]
-- **>40% of AI-assistant contacts self-solve**; **cost per booking −10% YoY.** [S1]
-
-**Audited financials (latest Q — Q1 2026)** [S1]
-
-| Metric | Q1 2026 | Notes |
-|---|---|---|
-| Revenue | $2.7B, +18% YoY | Beat high end of guide by ~2pts |
-| GBV | $29B, +19% YoY | 4th straight quarter of sequential acceleration |
-| Nights & seats booked | +9% YoY | ~10% ex ~100bp Middle East headwind |
-| ADR | +9% YoY (+4% ex-FX) | Strength in North America |
-| Net income | $160M | Hit by ~$70M one-time deferred-tax (US Corp AMT) |
-| Adj. EBITDA | $519M, +24% YoY | Beat guidance |
-| EPS | $0.26 | Missed by $0.05 |
-| Free cash flow | $1.7B (Q1); $4.5B TTM | TTM FCF margin **36%** |
-| Buybacks | $1.1B in Q1 | Capital return "key component" of strategy |
-| Debt | $2.5B senior unsecured | After investment-grade ratings |
-
-**Prior Q (Q4 2025)** [S2]
-
-| Metric | Q4 2025 | Notes |
-|---|---|---|
-| Revenue | $2.8B, +12% YoY | Exceeded high end of guide |
-| GBV | $20.4B, +16% YoY | Highest growth quarter in >2 years |
-| Nights & seats | +10% YoY | Strongest quarter of the year |
-| Adj. EBITDA | $786M, 28% margin | Exceeded guidance |
-| Net income | $341M | Hit by ~$90M one-time non-income tax |
-| FCF | $521M (Q4); FY25 $4.6B, 38% margin | |
-| Buybacks | $1.1B (Q4); FY25 $3.8B (>80% of FCF) | |
-| Cash | $11B corporate + investments | +$7B funds held on behalf of guests |
-
-**Market arcs / regional (Q4 2025 nights growth)** [S2]
-- LatAm high-teens · APAC mid-teens · EMEA high-single (accelerating) · North America mid-single. **India +50% YoY.**
-
-**Growth-driver quantification** [S2]
-- RNPL + cancellation policy + simplified fees together = **>200 bps nights growth, ~300 bps GBV growth** (Q4).
-- **Project Hawaii** drove "hundreds of millions" in 2025 revenue, more in 2026; pricing initiatives expected to "drive as much revenue this year as Hawaii."
-
-**Unit economics / capital philosophy** [S2]
-- FCF ~**40% of revenue**; ~**$19B cumulative FCF since IPO**; fully diluted share count **down ~9% since 2022.**
-- Asset-light creed: "We don't own homes. We don't operate experiences, and we're not building data centers."
-- Tax: OBBBA cuts effective rate from FY25's **20% → high-teens (Q1 view) / mid-to-high teens (Q4 view)** in 2026.
-
-**Guidance (as of Q1 2026)** [S1]
-- Q2 2026: revenue $3.54–3.60B (+14–16%, incl. ~3% FX tailwind); GBV low-double-digit; nights decelerate slightly (~100bp ME headwind assumed); adj. EBITDA + margin up YoY.
-- FY2026 **RAISED:** revenue growth "accelerate to low-to-mid-teens"; adj. EBITDA margin "at least 35%." Higher take rate from single fee structure + insurance program.
-
-**Experiences flywheel (rare, quotable)** [S1][S2]
-- "About one in three people who book an experience book a stay within 90 days"; "almost 1/4 of new guests who booked an experience go to book a stay or a service." [S1]
-- **~50% of experience bookings come from guests with no attached homes booking** — a genuinely new, higher-frequency segment. [S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- **Direct/brand-led + app funnel:** app nights +22% YoY, now 63% of nights — the app is the acquisition + retention flywheel. [S1] First-time bookers +10%, led by Brazil/Japan/India. [S1]
-- **Events as supply-acquisition:** the single "very best way to add supply" — 40,000 Paris hosts retained, >50% of Games-specific listings still live 6 months later. [S2][S1]
-- **Adjacency as demand-recapture:** experiences/services/hotels catch users "already in our store" and route them to stays. Experiences: ~1/3 book a stay within 90 days. [S1]
-- **AI search as inbound:** chatbot traffic converts higher than Google — a positive top-of-funnel channel, "nothing banked into our outlook." [S2]
-
-**Engage**
-- **Core loop:** search → message host (85–90% of guests message) → book → review. The message thread + review corpus are the engagement AND the moat. [S2][S1]
-- **Higher-frequency wedge:** experiences/services push usage "beyond just a big trip" — the strategic answer to Airbnb's low-frequency problem. [S2]
-- **Personalization over tabs:** because 100% of bookers have a verified account, the surface is deeply personalized, not tab-segmented. [S1]
-
-**Retain**
-- **Switching costs:** verified identity (200M IDs), review history (500M reviews), saved trips, host relationships — none portable to a competitor or a chatbot. [S2]
-- **Supply retention:** individual hosts rate higher than property managers → durable, exclusive, sticky long-tail supply. [S1] Event-onboarded hosts retained >50% at 6 months. [S1]
-- **No loyalty program yet** — a retention lever held in reserve. [S1]
-
-**Monetize**
-- **Take rate:** rising via single/simplified fee structure + a new **insurance program**; management guides FY26 adj. EBITDA margin "at least 35%." [S1]
-- **RNPL (~20% of GBV):** raises ADR (mix-shift to nicer/larger homes) and lengthens lead times; costs near-term fee-recognition timing. [S1][S2]
-- **New revenue lines:** experiences, services (first-party photography; third-party grocery via Instacart, airport pickup), hotels (recapture), Delta miles rev-share partnership. [S1][S2]
-- **Pricing engine:** single-fee migration let host elasticity pull effective ADR *down* modestly (affordability win), "foundational" for dynamic pricing/fees. Pricing initiatives ≈ as much 2026 revenue as Project Hawaii. [S2]
 
 ---
 

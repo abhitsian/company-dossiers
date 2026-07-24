@@ -1,0 +1,831 @@
+Transcripts
+Communication Services
+Meta Platforms, Inc. (META) Presents at Connect 2025 Transcript
+Sep 18, 2025, 1:33 AM ETMeta Platforms, Inc. (META) Stock, META:CA Stock
+SA Transcripts
+160.98K Followers
+Following
+5
+Share
+Save
+Comment
+(1)
+Play Earnings Call
+
+Meta Platforms, Inc. (META) Connect 2025 September 17, 2025 8:01 PM EDT
+
+Company Participants
+
+Mark Zuckerberg - Founder, Chairman & CEO
+Andrew Bosworth - Chief Technology Officer
+
+
+Conference Call Participants
+
+Jack Mancuso
+James Cameron
+Andrew Boone - Citizens JMP Securities, LLC, Research Division
+Diplo
+
+
+Presentation
+
+Unknown Attendee
+
+Mark, we're ready for you.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right.
+
+[Presentation]
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Thank you. We'll talk about these in a minute. Welcome to Connect. All right. AI glasses and Virtual Reality. Our goal is to build great-looking glasses that deliver personal super intelligence and a feeling of presence using realistic holograms, and these ideas combined to what we call the Metaverse.
+
+Now glasses are the ideal form factor for personal super intelligence because they let you stay present in the moment, while getting access to all of these AI capabilities that make you smarter, help you communicate better, improve your memory, improve your senses and more. Glasses are the only form factor where you can let an AI see what you see, hear what you hear, talk to you throughout the day and very soon generate whatever UI you need right in your vision in real time. So it is no surprise that AI glasses are taking off. This is now our third year shipping AI glasses with our great partner, EssilorLuxottica. And the sales trajectory that we've seen is similar to some of the most popular consumer electronics of all time.
+
+Now we are focused on designing glasses with a few clear values. Number one, they need to be great glasses first. Now before we get to any of the technology, the glasses need to be well designed and comfortable. And if you're going to wear glasses on your face all day, every day, and they need to be refined in their aesthetics and they need to be light. So in addition to working with iconic brands, we have spent years of engineering, obsessing over how to shave every fraction of a millimeter and portion of a gram that we can from every pair of glasses that we ship. And I think that, that shows in the work. Number two, the technology needs to get out of the way. The promise of glasses is to preserve this sense of presence that you have when you're with other people.
+
+Now this feeling of presence, it's a profound thing. And I think that we've lost it a little bit with phones, and we have the opportunity to get it back with glasses. So when we're designing the hardware and software, we focus on giving you access to very powerful tools when you want them and then just having them fade into the background otherwise.
+
+Number three, take superintelligence seriously. This is going to be the most important technology in our lifetimes. AI should serve people, not just be something that sits in a data center, automating large parts of society. So we design our glasses to be able to empower people with new capabilities as soon as they become possible. We think in advance about what kind of sensors are going to be necessary. And we make it so you can just update your software and make your glasses and yourself smarter and direct AI towards what matters most in your life. All right.
+
+So with all that said, we do have some new glasses to show you today. And I want to start with these, the next generation of Ray-Ban Meta glasses. Now these are the original and iconic design. I think that this is actually the most popular glasses design in history, and now with double the battery life. I wear them all day. They never run out of battery. It's got 3k video recording, double our previous resolution for sharper, smoother and more vivid videos. These are all shot with Ray-Ban Meta. And Meta AI keeps on getting better.
+
+So last year, I did this live demo translating live between 2 people. We're doing that on stage. Now today, I am excited to introduce a feature that we call conversation focus. It's a new feature coming soon that is going to be able to amplify your friends' voices in your ear. So if you're in a noisy restaurant, you're basically going to be able to turn up the volume on your friends or whoever you're talking to. And conversation focus, it's not only going to be on the new Ray-Ban Metas, it's going to be available as a software update on all of the existing Ray-Ban Metas too.
+
+Now to show this, we've got Johnny Cirillo and Jack Coyne in the streets of New York. So check out how this works.
+
+[Presentation]
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All Right. It's conversation focused.
+
+We are also improving Live AI. As we optimize battery and energy efficiency. Meta AI is going to transition from being something that you invoke when you have a question to a service that is running all the time and helping you out throughout the day.
+
+Now to be clear, we're not there yet on all day Live AI use. This is one of the major technology challenges that we're still working through. But today, you can use Live AI for about an hour or 2 straight.
+
+So to get a feeling for what this is like, let's cut to Chef Jack Mancuso, who's coming to us live from a kitchen on Meta's campus preparing for the after-party. How's it going chef?
+
+All right. So, what do you think? Maybe let's make -- I don't know what should you make maybe like a steak sauce, maybe Korean-inspired type thing, just to show what the Live AI is like.
+
+Jack Mancuso
+
+Yes, let's try it. It's not something I've made before, so I could definitely use the help. Hey, Meta, start Live AI.
+
+Unknown Attendee
+
+Starting Live AI. I love this setup you have here with soy sauce and other ingredients. How can I help?
+
+Jack Mancuso
+
+Hey, can you help me make a Korean-inspired steak sauce for my steak sandwich here?
+
+Unknown Attendee
+
+You can make a Korean-inspired steak sauce using soy sauce, sesame oil...
+
+Jack Mancuso
+
+What do I do first? What do I do first?
+
+Unknown Attendee
+
+You've already combined the base ingredients. So now grate a pear to add to the sauce.
+
+Jack Mancuso
+
+What do I do first?
+
+Unknown Attendee
+
+You've already combined the base ingredient, so now grate the pear and generally combine it with the base sauce.
+
+Jack Mancuso
+
+All right. I think the WiFi might be messed up. Sorry. Back to you, Mark.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+It's all good. You know what? It's all good. It's -- the irony of the whole thing is that you spend years making technology and then the WiFi at the day kind of catches you. All right. Anyway, we'll go check out what he made later. Okay.
+
+Now when you're building glasses, there is an important intersection between technology and fashion and style. And the technology keeps getting more useful. But as I said before, first and foremost, these need to be great-looking glasses that people love to wear. So we are releasing the Ray-Ban Metas in more colorways to match your style. Here's a bunch of the new ones.
+
+And last year at Connect, we also released a limited edition clear frames, and they were pretty popular. They sold out in a few days. We've got a new limited edition transparent matte frames with 2 colors. So get them quickly because they're probably going to be sold out in a few days, too.
+
+All right. Now it's been pretty fun to see how designers have taken Ray-Ban Meta in a lot of different directions. Some of you probably are familiar with the fashion label Luar run by Raul Lopez. And his bold designers bring together sportswear in high fashion and recently debuted a look that's centered on Ray-Ban Meta at New York Fashion Week.
+
+Raul is actually here today along with Christy Bias modeling the look that he created. Awesome. Good to see you. All right. All right. That's the next generation of Ray-Ban Meta. We're really excited about this. They're available now starting at $379.
+
+All right. This summer, we launched our first pair of AI glasses with Oakley, the Oakley Meta HSTN. It's another iconic brand that we're working with. Oakley is synonymous with sports for 50 years now. They're available in a number of great colors. Now today, I am excited to add to our Oakley collection, and announce the brand-new Oakley Meta Vanguard. Now this is the iconic Oakley aesthetic. These glasses are designed for performance. And on these, we pushed the battery even further. You can run a marathon using them the whole time on a single charge. And then you can turn around and run another marathon on the same charge and still not be out of battery.
+
+The camera is centered for perfect alignment for your shots. It's got a wider 122-degree field of use. You can capture all the epicness of your adventure in 3k, and it's got video stabilization. That means that as you're going down a trail, you're going to be able to capture some really great video.
+
+All right. The open-ear speakers were the most powerful speakers that we've shipped yet with 6 decibels louder than Oakley Meta HSTN. So they're great for running on a noisy road or biking in 30 miles an hour winds.
+
+I actually took a call on a jet ski a few weeks ago. It was great. I could hear the other person fine over the engine, and our advanced wind noise reduction makes it so that you can basically be standing in a wind tunnel and you'd still come in clear to the person on the other side. I mean the person had no idea, I was on a jet ski, which is good.
+
+We've added slow motion and Hyperlapse capture mode so you can capture your adventures in new ways. These modes are also going to be available on all the new glasses that we're announcing here, the new Ray-Ban Meta, the new Oakley Meta HSTN too. So you can get great footage with any of the glasses.
+
+We are partnering with Garmin and introducing auto capture. So now if you're wearing a Garmin device, the glasses are going to be able to automatically capture video when you reach certain speeds or different distance intervals or like every mile of a marathon. And then when you're done, we'll just stitch together all the videos for you and you can overlay the stats on top of them and you get a nice video that you can share wherever you want. And we're also partnering with Strava. So you can overlay your stats from Strava too and share all the same type of content with your Strava community.
+
+All right. We put an LED in them. So that way you can light up in your peripheral vision to help keep you on your pace target or heart rate zone target. So that's going to be really useful if you're using a Garmin device too. These are also our most water-resistant glasses yet. With an IP67 rating, they can get wet. I've taken them out surfing. It's fine. It's good. Yes, there you go. They're also designed with swappable Oakley PRIZM Shield lenses for different light conditions, different styles. You can customize this iconic design however you want.
+
+Now I think that these are pretty awesome. I'm really excited for all of you to get to try them out. To give them a test and to take them for a little bit of a spin, we gave them to our friends at Red Bull, so check this out.
+
+[Presentation]
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Oakley Meta Vanguard. All right, we are selling them for $499. Preorders start now, and we're going to ship them on October 21. There you go.
+
+All right. Now let's check out this glasses I walked on stage with. All right. We have been working on glasses for more than 10 years in Meta. And this is one of those special moments where, we get to show you something that we've poured a lot of our lives into and that I just think is different from anything that I've seen anyone else work on.
+
+I am really proud of this. And I'm really proud of our team for achieving this. This is Meta Ray-Ban display. These are glasses with the classic style that you'd expect from Ray-Ban, but they are the first AI glasses with a high-resolution display and a whole new way to interact with them, the Meta Neural Band. That's this guy.
+
+All right. Now this isn't a prototype. This is here, it is ready to go, and you're going to be able to buy them in a couple of weeks. All right.
+
+So what's new here? There are 2 key innovations, the display and the neural interface. The display is large enough to watch a video or read a thread of messages. It appears in one eye, it's slightly off-center, so it doesn't block your view, and it disappears after a few seconds when it's not in use so it doesn't distract you. It is very high resolution and very bright. I mean like 42 pixels per degree, which is sharper than any major headset that's out there and up to 5,000 nits of brightness. So it is crisp, whether you're indoors or outdoors on the sunniest day. This required a custom light engine and wave guide to deliver this. There's a lot of awesome technology that we are really proud of.
+
+And then there's the neural interface. Every new computing platform has a new way to interact with it. So for the glasses, we are replacing the keyboard, mouse, touchscreen, buttons, dials, with the ability to send signals from your brand with little muscle movements that the neural band will pick up so you can silently control your glasses with barely perceptible movements. The Meta Neural Band is a huge scientific breakthrough. We have built a neural interface into a durable, lightweight, comfortable and good-looking wrist band with 18 hours of battery life and is water resistant.
+
+Now I want to get into this in more detail. We've got 2 options. We've got the slides and we've got the live demo. So live. Now one of the most important and frequent things that we all do on our phones is send messages. So when we were designing these Meta Ray-Bans, we wanted to make it really easy to send and receive messages.
+
+And look, Boz is messaging me right now. All right. Now okay, I could go ahead and I could dictate with my voice, I could send a voice clip, but I've got this neural band, and it's silent. And now -- and a lot of time, you're around other people. So it's good to just be able to type without anyone seeing. And it's -- I'm up to about 30 words a minute on this. You can get pretty fast. I want to try a video call. I think we should. What do you think?
+
+All right. All right. So I think our call will be coming in any moment now.
+
+Unknown Attendee
+
+[indiscernible] WhatsApp video call.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+There you go. What's happening. That's too bad. I don't know what happened. Maybe Boz can try calling me again. All right. I got a missed video call. Okay, there's the actual video call. All right. I'm just going to pick that up with my neural band. This is -- it happens. What do you think? Let's just go ahead and...
+
+Unknown Attendee
+
+[indiscernible] WhatsApp video call.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. Try again. I keep on messing this up. And if not, then we'll go for the less [indiscernible] option.
+
+I don't know what to tell you guys, all right. But we're going to have Boz come out here, and we're just going to go to the next thing that I wanted to show and hope that will work. All right.
+
+All right. Now Boz is going to come out, and he's going to need some walk on music, especially after that. So now I'm going to be able to open up Meta AI with a subtle tap that you're probably not even going to see. Play California Dreamin.
+
+Unknown Attendee
+
+From Spotify, here's California Dreamin by the Mamas & The Papas.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. And if I want to adjust the volume. I act like there's a volume control in front of me, and I can just turn it. There we go.
+
+[Presentation]
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+This WiFi is brutal. Yes, I don't know. We'll debug that later. You practice these things like 100 times and then you never know what's going to happen.
+
+Andrew Bosworth
+Chief Technology Officer
+
+I promise you no one is more upset about this than I am because this is my team that now has to go debug why [indiscernible] on the stage.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+That's okay. So we'll a video later and we'll show the video that way. All right. So what we show. So we talked about conversation focus earlier and how now with the Ray-Ban Metas, they're going to be able to turn up the volume on a friend. But with the display, you could do even better. You can put subtitles on the world.
+
+Andrew Bosworth
+Chief Technology Officer
+
+You want to set it up?
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+So yes, you want to check this out.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Let me get it going right now? We're ready for it.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Okay. Now I don't know about you. When I watch TV.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Yes, I accidently exited. That's my fault. That's my fault.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+It's all good.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Okay. We're good now.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+It's really live.
+
+Andrew Bosworth
+Chief Technology Officer
+
+This is -- that's how we've prove it's live.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Yes. Okay. So now like I was saying. When I watch TV, I pretty much always have the subtitles on. I can hear fine, but I find that it just makes it easier to follow along. But if you have an issue hearing, then I think that this is going to be a game changer.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Yes, I agree. And it's also cool. It can do translation. So if I'm talking to somebody who speaks a different language than me, I'll get a translation in my native language right on the display, real-life subtitles.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+There you go. All right. Should we show the camera?
+
+Andrew Bosworth
+Chief Technology Officer
+
+We got to show the camera. For everyone who loves the Ray-Ban Metas, the #1 request we get is the ability to see the picture before they take it and also after they take it before they share it. And finally, with the viewfinder, we have a chance to do it. Should we show them?
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Let's do it. All right. So let me just go ahead and pull up the camera. I got a lot of missed calls from you.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Yes. I was trying...
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+I don't know what happened.
+
+Andrew Bosworth
+Chief Technology Officer
+
+I was trying to call you. Were you busy?
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Yes. All right. All right. What's your take -- you got some sick shoes, man.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Some Alex Alpert Oakley.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. I'll take some photos. You know what, to take a video just because we missed that opportunity before. Say hi. You want to wave. All right. There you go.
+
+Andrew Bosworth
+Chief Technology Officer
+
+I guess I'm going to show them.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Yes, you want to show the case -- the glasses case.
+
+Andrew Bosworth
+Chief Technology Officer
+
+So the charging case to the glasses. Always nice and flat fits in your pocket, fits in your bag. And then look at that, pops open for charging mode.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Yes, there you go. All right. So I've been -- so just take photos really simply. And then I can just go ahead and you just browse through them and look at them after. There we go. Yes, it's a nice high resolution display, that's totally do video chats, or watch the videos that you've taken on your camera.
+
+Andrew Bosworth
+Chief Technology Officer
+
+That's what my face would have looked like, had the video call gone through.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. Well, anyhow. There's a pretty good speed run 4 to 5.
+
+Andrew Bosworth
+Chief Technology Officer
+
+We'll take it.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Now that's about where you can get. All right see you in a minute.
+
+All right. So you get a sense of the how the Meta displays and the neural band come together to enable some pretty amazing new things. The last thing that I want to show is a glimpse of how this is going to work with agentic AI. And the basic idea here is that we all have dozens of conversations throughout the day. And if you're anything like me, then in every conversation, there are normally like 5 things that you want to follow up on. Maybe there's something you're supposed to do, maybe there's a conversation that this reminded you that you need to have. Maybe someone just said something that you weren't sure about and wanted to confirm or one more context on. But the thing is it's tough to follow up while you're in the middle of a conversation. So if you're anything like me, you probably don't, and then you just forget a lot of these things.
+
+So the promise of glasses and AI is that they're going to help with this over time. So you just start a Live AI session, and the glasses are going to be able to see what you see, hear what you hear, and they're going to be able to go off and think about it and then go, come back and help you.
+
+Now this one is inherently harder to show. It's non-deterministic. We're also going to be rolling out a bunch of these features over the coming months. But we put together a video of this, what this is going to be like. So let's check this out.
+
+[Presentation]
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. So there you have it. This is the next chapter in the exciting story of the future of computing. And so we got Meta Ray-Ban at display, our first AI glasses with high-resolution display and the Meta Neural Band, the world's first mainstream neural interface. The glasses are going to come in 2 colors. They're going to come in black and sand. And they also all come with transition lenses, so you can wear them indoors, they turn into sunglasses when you go outside. And you are going to be able to buy the set for $799 in stores, where you can get demos as well on September 30. All right. There you go.
+
+I am looking forward to them. Okay. I already -- people are already getting a lot of text messages from me through them. So it's great. Okay. So all in, this is our fall 2025 glasses line. We have got the next generation of Ray-Ban Meta including our special edition. You've got the Oakley Meta HSTNs that we released in the summer. You've got the Oakley Meta Vanguard for performance. And now you've got the Meta Ray-Ban Display. Those are our fall 2025 glasses.
+
+All right. Moving on. Now let's talk about the intersection between AI and virtual reality. Now we want to help bring about a future where anyone can just dream up any experience that you can think of and then just create it. And with AI, we are starting to see this a little bit with writing and photos and even the early part of videos. But pretty soon, I think that people are going to be able to create entirely new, immersive and interactive types of content; whole worlds, games, characters, art, holograms that complement the physical objects around you. And this is a big deal because right now, creating this kind of 3D and immersive and interactive content is really hard. It takes a long time to create great virtual or augmented reality content, and that's one of the constraints that is holding back the ecosystem.
+
+But we were not far from being able to create this kind of content just as easily as you would prompt Meta AI today. And this, I think it's going to transform not just what's possible in virtual reality, but also the kind of content that you can get on glasses and the types of content that you see on social media in experiences like Facebook and Instagram in the future as well.
+
+So today, we're taking a few big steps in this direction. First, Meta Horizon studio. Now over the last year, we've released a number of AI tools to generate meshes, textures, type script, audio, skyboxes and a lot more so creators can make higher-quality worlds in just a fraction of the time. Soon, Meta Horizon Studio is going to include an Agentic AI assistant that will stitch together all of these different tools and further speed up the creation process using just simple text prompts. Powering this is our brand-new Meta Horizon engine.
+
+Now this is a new engine that we have spent the last couple of years building from scratch to replace the Unity run time, which is great, by the way, but it just wasn't built for this use case. This engine is fully optimized for bringing the metaverse to life. It is much faster performance and to load things, much better graphics, much easier to create with. Now you're going to be able to easily create infinite connected spaces that look way, way better with realistic physics and interaction.
+
+All right. Now to check this out, what this engine can do, let's walk through some of the new experiences that we're rolling out. Now first, the graphic fidelity means that Hyperscape spaces are now really quite something. Now I showed a prototype of this last year. And today, we are rolling out early access to Hyperscape capture. So you can just use your Quest headset to scan a room in just a few minutes and turn it into an immersive true-to-life world. It's pretty awesome.
+
+Now eventually, you're going to be able to seamlessly blend Hyperscape and a world into Horizon and have them all be connected too. All right, this one, this is our new immersive home, rendered entirely in Meta Horizon engine. Visually, it is a big step forward from where we have been. There is no 8-bit Eiffel Tower here. You can customize your home. You can pin different apps to the wall. Like this Instagram app, it automatically renders your posts from creators and friends in 3D, which is pretty awesome. You can also jump straight from your home to a series of interconnected worlds. And the new engine makes it more than 4x faster to load and render new worlds. So now it's just a few seconds, right? So it's more like loading a web page than loading an entire new game, which makes it a lot easier to create this interconnected metaverse.
+
+Horizon Engine also enables much greater concurrency and many more people to be in the same world at the same time. We now support 5x as many people in the same world compared to the previous engine. That's going to enable a lot of new things.
+
+All right. So let's say that you want to head over to the new arena, see a concert or if you're there right now, then you can be watching this connect keynote live. And if you go in there, you're going to see a lot of people, they're live, you can interact with them.
+
+So anyway, all right, this is Meta Horizon Studio and Meta Horizon Engine, foundational infrastructure for the metaverse, and they're going to enable immersive and interactive worlds across all of our products, starting with virtual reality and then one day, coming to your glasses and coming to social media as well.
+
+All right. The last thing I want to cover is content. Quest continues to have the very best slate of virtual reality games. We've got Marvel's Deadpool VR; ILM Star Wars: Beyond Victory and Demeo by Dungeons & Dragons: Battlemarked, all launching this fall. It has also been really neat to see how many people are using Quest to watch video content. It's just a lot more immersive.
+
+So we think that this category, watching video content is going to be a huge category, both in virtual reality headsets and on glasses too. So we're launching a new entertainment hub that we are calling Horizon TV. And, and we are working with a bunch of great partners to include a bunch of movies and TV and live sports and music. So I'm excited to announce that Disney+ is coming to Horizon TV and bring the long content from Hulu and ESPN.
+
+We are also partnering with Universal Studios -- Universal Pictures, an iconic horror company, Blumhouse. So you can watch horror movies like The Black Phone or M3GAN with 3D special effects that now will take over your space. Horizon TV also supports Dolby Atmos, and it's going to support Dolby Vision soon, too. So you're going to have rich colors, crisp details and spatial sound for a more immersive experience than you could have with traditional TV.
+
+All right. I am really excited about what these new technologies are going to unlock for artists and entertainment. I think that the shift towards more immersive storytelling, 3D storytelling, it's going to be one of the more exciting developments in the coming years. And I think that it's going to drive a new wave of adoption of virtual reality and glasses.
+
+So I wanted to close today by hearing from the pioneer of immersive cutting-edge storytelling with CGI, 3D filmmaking and more. So please join me in welcoming to the stage, Legendary filmmaker, James Cameron, along with our very own Boz again. All right. Thank you.
+
+Question-and-Answer Session
+
+Andrew Bosworth
+Chief Technology Officer
+
+All right. Well, thank you, Mark. James Cameron really needs no introduction. I am going to try out of respect. The most famous filmmaker, unprecedented hit rate in Hollywood, but also and critically for our partnership, a real pioneer in technology, consistently pushing the technology, he needs to fulfill his creative vision, as Mark said, whether that be in 3D storytelling or even building a submarine. He's really -- you do, he's done the whole range. So thank you for coming to Connect. We're so glad to have you.
+
+James Cameron
+
+It's a huge honor. I mean this is such a big day for you guys. And I'm glad you were able to squeeze me in. I appreciate it.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Any time, really. So you and I have talked a lot about your passion for 3D film making. It goes back a long ways, 2 decades really. Talk to me about where that comes from, why you believe so strong in this.
+
+James Cameron
+
+I've spent my filmmaking career trying to really engage people, draw them in, get them involved, get them involved in the story and the characters. I was first exposed to 3D film making in 1998. I think, and it was massive film cameras. It was for a thing for Universal for a ride show. I thought we got to be able to do this better. And then when digital cameras came along, I was a super early adopter. I think it was George Lucas and then me, and that was in '99, 2000. And they said, why can't we just slap two of these things side by side and make 3D? Well, it turned out to be a lot more complicated than that. And so 25 years later, I'm pleased to say I've got a great 3D team, and we've made it. Not only made my films, we made the 3D cameras available to a lot of other filmmakers doing concert films and sports for TV, which didn't last long. But -- and lots of big movies, Ridley Scott, that sort of thing.
+
+I just love 3D personally. I love authoring in it. I love seeing the end result when it's done properly. And I think it's how we perceive the world. Why would we throw away 50% of our data and see everything through a single eye. It makes no sense to me. And I just see a future, which I think can be enabled by the new devices that you have that the Quest series and then some of the new stuff, hopefully, that's coming down the line, right?
+
+I think we're looking at a future that's a whole new distribution model where we can have theater grade 3D basically on your head.
+
+Andrew Bosworth
+Chief Technology Officer
+
+And one of the things that's interesting, you talked a lot about how -- when we first met, you talked about how much the visual fidelity matters to you and the brightness of the screen and the fullness of the effect that you're getting from it. And for a long time, the headsets weren't there. They weren't even as good as TV, let alone, a theater. Now we're seeing something different and you'll be able to put the headset on. And with -- you've been working so hard now on Avatar: Fire and Ash coming in December.
+
+James Cameron
+
+Right.
+
+Andrew Boone
+Citizens JMP Securities, LLC, Research Division
+
+You've gotten a chance to see some of these pieces in headset, and you had a pretty surprising reaction to me. You said that's how you thought it should be seen.
+
+James Cameron
+
+This is -- yes. I mean it's interesting because I've been fighting so hard with movie theaters to get the brightness levels up to install laser projection, but they're caught in an earlier paradigm. And no business can survive being stuck in technology 15 years old. So when I put on the Quest 3 and I saw some of my own content, which I knew because I have the sort of baseline calibration for that. I know what it's supposed to look like. And to see it at light levels beyond the [indiscernible] standard for theater projection, the very, very best you're going to see in the theater is 16-foot lambert. Most theaters are at 3-foot lambert, which is like nits, but it's, it's the theater version.
+
+Andrew Bosworth
+Chief Technology Officer
+
+A lot of people are there googling foot lambert now.
+
+James Cameron
+
+And so -- and the Quest is at 30-foot lamberts equivalent, if you do the conversion from nits. And so that's an order of magnitude brighter. And the brightness gives you the dynamic range. It gives you the color space as it was meant to be, and that's so much more engaging. And the work that you guys have done in the Quest here is to expand the field of view to get the brightness to get the spatial resolution. To me, it's like being in my own private movie theater.
+
+Andrew Bosworth
+Chief Technology Officer
+
+I do think that's one of the reasons Horizon TV ends up being, why it's happening now, it's always been kind of an idea, and we've always been about to do it. We never quite brought it together now. And I love the response that we got from the audience who knows, that's true. We just have never quite pulled it all together. I think the difference is we finally, have the displays to do it. We have something to offer here that even TV can't necessarily rival.
+
+James Cameron
+
+Exactly. I mean you, look, you mostly look at flat displays; phones, laptops, wall panels, all that sort of thing. This is going to be, I think, a new age because we experienced the world in 3D. Our brains are wired for it. Our visual neurobiology is wired for it. And we've been able to prove that there's more emotional engagement. There's more sense of presence.
+
+If you're going to watch a Blumhouse film, horror film, your fight, flight reflex is more engaged, right? Hopefully, if you're watching a love story, you'll cry an extra tear or so. I don't know how measurable it is in hard metrics because it's a bit subjective. But I want to say maybe 20% more engagement, right? So my vision is a stereo ubiquity future, where all of our feeds, our news, our entertainment content, our live stuff, sports, of course, right? And you guys have been writing some amazing UIs for sports. I suppose I can't talk about. Okay. Anyway, the point is it's all this...
+
+Andrew Bosworth
+Chief Technology Officer
+
+I can't save this guy anyway.
+
+James Cameron
+
+This stuff is not -- Okay. Nobody in this room can say a word, okay? And I trust you guys, but it's all imminent. This is not something that's pie in the sky down the line. And so I think our task, the reason that we've partnered, and it's under -- if I can say it's under Bob Morgan in content and Sarah Malkin, our gig right now...
+
+Andrew Bosworth
+Chief Technology Officer
+
+Yes, there they are.
+
+James Cameron
+
+Our gig right now is to get other filmmakers and show runners because, by the way, I think episodic television, short-term, long form, I think that's the low-hanging fruit that people have historically ignored because so much 3D content was just made for movies. I'm not talking about Avatar, I can't make movies fast enough to feed this pipeline. What we do at Lightstorm Vision, my 3D company, is we build cameras and systems and networking and tools to give to other -- give to supply to other filmmakers.
+
+Andrew Bosworth
+Chief Technology Officer
+
+To generously help only a small fee.
+
+James Cameron
+
+To generously help for a small fee, other filmmakers and show runners and broadcasters and so on to be able to create this avalanche of content that there will be an enormous demand for.
+
+Andrew Bosworth
+Chief Technology Officer
+
+And this is the thing that I think is underappreciated. You are driving down over time, the cost. It's going to take to build these kinds of production. So there can be done much more conventionally. It used to be incredibly -- when you're doing the first Avatar.
+
+James Cameron
+
+It's a bad example.
+
+Andrew Bosworth
+Chief Technology Officer
+
+It's everything is hard. Everything is and trying to bring it into conventional productions that people doing any kind of production are able to bring this content, this rich of an experience to their audience who wants to invest in it.
+
+James Cameron
+
+Sure. And it's not only just bringing down the hardware, but it's making the hardware smarter, a lot of software solutions and downstream digital solutions and so on. We want to make the stuff so idiot-proof that we can put a production camera, our production system in the hands of anybody anywhere, and it will take care of the decision making around what makes good stereo, what makes it easy on our eyes, easy on our brains where we're not getting eye strain and all those things.
+
+So it's taken us 25 years to figure out the kind of algorithm for that. We want to make it a real algorithm and build it into this gear and make it available. And then that will enable, I can't make this stuff fast enough, but there's thousands of people producing tens of thousands of hours a year of content, and it will flow across your devices.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Yes. And if you think about going from like AutoFocus. You have the ability to intraocular distance and be an automatic...
+
+James Cameron
+
+Auto stereo.
+
+Andrew Boone
+Citizens JMP Securities, LLC, Research Division
+
+Auto stereo. So this is -- one of the things that really, I think, has made this partnership so great and you get a sense, I think of it from the two of us confusing about the partnership is you are somebody who's had a creative vision. You start with the creative vision, you start with the product, you start with an idea of the story you want to tell and how you want people to experience that story and you work backwards and you attack all those pieces. Tell me, when did you first come up with Avatar idea?
+
+James Cameron
+
+I was 19 when I had a dream about a bioluminescent forest. I wrote the treatment in 1995. So I've been making Avatar in some form in my mind and then in practice for over 30 years.
+
+Andrew Bosworth
+Chief Technology Officer
+
+And so in 1995, the thing that you need doesn't exist yet. You have to...
+
+James Cameron
+
+Well, none of it existed.
+
+Andrew Bosworth
+Chief Technology Officer
+
+And then you kind of see the parallels between Mark Zuckerberg and James Cameron, people who see a future. I mean, I've been doing this work in Reality Labs for 10 years now. And it is -- we're obsessive about a vision of the future, which we haven't arrived at yet, but we do see the progress.
+
+I will say it kind of finally, feels like it's going downhill now. Like it's starting to feel like it's taking the momentum, not only in the hardware but also in the content side.
+
+James Cameron
+
+You are willing to future into existence that you saw clearly, and this field, this moment in history feels a lot to me like it did back in the very, in the early '90s -- late '80s and early '90s when CG was first manifesting itself and, oh, you're going to replace actors, and it will never look real and analog is the answer. And that's why I founded a company called digital domain. I wanted -- it was revolutionary in its moment. It's whole home today and it's ubiquitous today. So I've actually seen historically in my own life experience, how you can actually make massive change. And then that led to 3D, okay, everybody accepts the fact that we go to digital movie theaters now. Right?
+
+Andrew Boone
+Citizens JMP Securities, LLC, Research Division
+
+Obvious.
+
+James Cameron
+
+Right? Except that when the digital technology existed, it wasn't adopted right away. It took 3D to get the theaters to convert to digital.
+
+Andrew Bosworth
+Chief Technology Officer
+
+It took you to...
+
+James Cameron
+
+Well, we were in the middle of that.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Release. We were updated in the theaters.
+
+James Cameron
+
+Yes. And you see actually talking to the team at Texas Instruments that developed the chip that made [indiscernible] projection possible and say, embed in your servers and in your electronics, the ability to carry to image streams. And because they did that, then digital projection just rolled out and now it's everywhere other than the occasional art house some place with a 35-millimeter print.
+
+But when you've lived through enough of these revolutions, you start to see them coming as a wave like a good surfer, I know you surf. I watch it from the beach.
+
+Andrew Bosworth
+Chief Technology Officer
+
+You watch it from underwater.
+
+James Cameron
+
+I watch it from under water.
+
+Andrew Bosworth
+Chief Technology Officer
+
+Listen, we are, we've got something, one more exciting piece coming. I want to thank you again for coming to Connect. It's really our honor to have you. I can't wait to check out Avatar: Fire and Ash. As I'm sure everyone here will agree when it hits the theaters in December 19.
+
+And as a special surprise, we have an exclusive never-before-seen stunning 3D clip from Avatar: Fire and Ash for everyone to check out in demo stations here for attendees and available on all Meta Quest devices in Horizon TV for a limited viewing window. So thank you all. And thank you, James, and I trust the process. This is all going to be very exciting.
+
+And now I'm going to cue Mark to take us to the finish line here.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. All right. All right. Thank you, James and Boz. I can't wait to see Avatar: Fire and Ash this December and for some awesome Avatar content to hit Horizon TV. And I can't wait to get the new fall 2025 line of glasses in all of your hands and for you to get a chance to experience Meta Horizon Studio and Engine.
+
+One last live demo. I don't learn. I don't learn. All right. We've got an after-party over at Meta's classic campus. Diplo is going to play. Please join me in welcoming Diplo.
+
+Diplo
+
+How are you doing?
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+Good. All right. So everyone knows you're a legendary DJ. But people are also starting to learn that you're a big runner and you've got the whole Diplo Run Club. So what do you think? Should we run over there to classic campus...
+
+Diplo
+
+You ready for a run right now?
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+And take these things for a spin?
+
+Diplo
+
+Absolutely.
+
+Mark Zuckerberg
+Founder, Chairman & CEO
+
+All right. Let's do it.
+
+Diplo
+
+Meta, play Be Right There.
+
+Unknown Attendee
+
+From Spotify, here's Be Right There by Diplo.
+
+[Presentation]
+
+
+
+Read more current META 
+analysis and news
+View all 
+earnings call transcripts
+Share
+Save
+Print
+Comment
+(1)
+Recommended For You
+Oracle: Positioned For Success, Priced For Failure
+Bay Area Ideas
+How I Turned My $750,000 Portfolio Into A $66,000 Income Stream Machine
+Rida Morwa
+Micron, Like Nvidia, Is Losing Its Premium
+James Foord
+Intel: AI Efficiency Could Counter Semiconductor Demand
+Oliver Rodzianko
+IonQ: A Quantum Leap Of Faith
+Value Vest
+Comments (1)
+Sort by
+Newest
+
+If you type a company or ETF ticker symbol in capital letters we will automatically link to the symbol page. You can remove the link by deleting the $ in the comment.
+
+Search Transcripts
+Current
+All Transcripts
+Find
+Compare to All META Transcripts »
+Compare to Other Companies in this sector »
+About META Stock
+Symbol	Last Price	% Chg
+
+META
+	582.90	-4.90%
+Post	584.80	0.33%
+1D
+5D
+1M
+6M
+1Y
+5Y
+10Y
+Chart
+Combination chart with 2 data series.
+View as data table, Chart
+The chart has 1 X axis displaying Time. Data ranges from 2025-07-02 00:00:00 to 2026-07-02 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 525.72 to 790.
+Aug '25
+Nov '25
+Feb '26
+May '26
+500
+750
+1,000
+End of interactive chart.
+Market Cap
+$1.48T
+PE (FWD)
+17.89
+Yield
+0.36%
+Rev Growth (YoY)
+26.18%
+Short Interest
+1.37%
+Prev. Close
+$612.91
+META Summary
+Compare to Peers
+META Ratings
+Source	Rating	Score
+SA Analysts	
+BUY
+	
+RATING: BUY
+3.94
+
+Wall Street	
+STRONG BUY
+	
+RATING: STRONG BUY
+4.68
+
+Quant	
+HOLD
+	
+RATING: HOLD
+3.47
+Quant Ranking
+?
+Sector
+Communication Services
+Industry
+Interactive Media and Services
+Ranked Overall
+422 out of 2036
+Ranked in Sector
+16 out of 93
+Ranked in Industry
+3 out of 10
+Quant Ratings Beat The Market »
+More on META
+Meta's Capex Is Paying Off, But The Market Doesn't Care
+Jetstream Research
+Meta: The Cure For CapEx Anxiety
+The Asian Investor
+Meta Platforms eyes $6.5B MTIA AI chip deal with Samsung Foundry, Sedaily reports
+Meta CEO says agent development not accelerating as expected: report
+Product
++ Add
+Link Portfolio
+Edit Portfolio
+Symbol
+Sort by Symbol in descending order
+	Price
+	% Chg
+ABNB
+	
+148.93
+	
+1.10%
+CRM
+	
+166.11
+	
+1.76%
+DASH
+	
+192.01
+	
+1.66%
+GOOG
+	
+356.18
+	
+-0.48%
+HUBS
+	
+192.12
+	
+2.34%
+META
+	
+582.90
+	
+-4.90%
+NFLX
+	
+77.65
+	
+4.66%
+NOW
+	
+106.32
+	
+0.49%
+PINS
+	
+22.07
+	
+0.82%
+RDDT
+	
+194.67
+	
+-1.56%
+SNAP
+	
+4.84
+	
+1.89%
+SPOT
+	
+485.97
+	
+2.86%
+TEAM
+	
+83.84
+	
+0.81%
+UBER
+	
+74.43
+	
+2.44%
+Expand Portfolio
+Looking For The Perfect Gift?
+
+You can now buy 1 year of Seeking Alpha Premium for whomever you like.
+
+Gift Premium

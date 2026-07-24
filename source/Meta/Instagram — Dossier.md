@@ -4,9 +4,46 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. Instagram doesn't report its own financials; company-level figures are Meta's, product-level engagement is from Meta's per-product call commentary [S1][S2], and Instagram-specific business metrics are third-party estimates — each labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Organic virality is the main channel: content shared *out* of Instagram (Reels reshared to other platforms, DM sends) and cross-promotion from Facebook/WhatsApp/Threads inside the Family of Apps. Near-zero paid CAC; growth comes from supply and recommendation, now heavily international (India/Indonesia/Brazil are the growth frontier) [S4]. AI dubbing widens the audience per creator, which is indirectly an acquisition lever [S1].
+- **Engage** — Core loop: **watch Reels (recommendation) → share into DMs (private distribution) → creator sees reach → creator posts more supply**. The aha is a personalized, endless, same-day-fresh video feed you can forward to one friend in a tap. Surfaces: Reels (consumption engine, ~50% of time [S9]), DMs (private sharing + Blend shared feeds [S8]), Stories (daily posting habit), Explore (discovery), Feed (legacy, de-emphasized in nav [S8]). Frequency target: daily. AI-dubbed content and 20-min Reels lengthen sessions [S1][S8].
+- **Retain** — Switching cost = the follower graph + DM history + everything the recommender has learned about you (all of it resets to zero on a competitor). Boring plumbing that retains: Stories habit streaks, DM as a primary messaging app for younger users (hard to leave a messenger), and teen-account defaults that keep families on-platform instead of fleeing to safer apps [S8]. Risk: engagement-rate erosion (est. −24% Y/Y [S4]) shows the graph retains the *account* even as attention per post thins.
+- **Monetize** — Single line: **advertising**, sold through Meta's unified ads system (feed ads, Stories ads, Reels ads, Explore ads, Shop). Unit = impression; price set by the 1T-param auction/recommender [S1]. Expansion levers: (1) ad-load *redistribution* not increase [S2], (2) better conversion attribution (+1.6% off-site coverage [S1]), (3) creator affiliate/product-tagging now in test — commerce take-rate as a future second line [S1], (4) AI video-gen ad tools (~$10B run-rate combined with Facebook [S2]). No subscription tier on Instagram itself (Meta Verified is cross-app).
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, rare, dated numbers. Product-engagement figures are Meta-stated [S1][S2]; Instagram-standalone business figures are third-party estimates — labeled.*
+
+**Headline scale**
+- **~3B MAU** (crossed 3B in Q3 2025; est.) [S4]; DAU "just shy of 2B" per Meta (Dec 2025) [S2] — note third-party trackers cite a lower ~500–700M "single-app DAU," a difference in definition; use Meta's ~2B figure as the credible one [S2].
+- Family of Apps: **3.5B+ DAU** (Dec 2025) [S2]; **3.56B** (March 2026, slight QoQ dip from Iran outages + Russia WhatsApp block) [S1].
+- Top markets (est.): India ~473–480M, US ~180M, Brazil ~147M [S4][S5]. ~half of users in Asia-Pacific [S4].
+- Time spent (est.): ~33.9 min/day average; ~53 min/day for 18–24 [S5].
+
+**Engagement mechanics (Meta-stated)**
+- Reels time spent **+10% in Q1 2026** on ranking alone [S1]; **+30%+ Y/Y in the US** (Q4 2025) [S2]. Reels ≈ **50% of time in app** [S9].
+- Same-day posts **>30% of recommended Reels** (2x Y/Y) [S1]. Original content **~75% of recommendations** (+10pts) [S2].
+- AI-translated video: **>0.5B weekly viewers** family-wide [S1].
+- Runtime model → **+3% conversion rates**; GEM/sequence learning → **>1% conversion gain** on Instagram [S2].
+- Engagement *rate* (est., third-party) fell **~24% Y/Y in 2025 to ~0.48%** — a real tension against time-spent growth [S4].
+
+**Instagram ad economics (est., eMarketer/DemandSage)**
+- US ad revenue ~**$32B (2025)** → projected ~**$42.5B (2026)** [S6].
+- **>50.3% of Meta's US ad revenue in 2025**, ~53% projected 2026 [S6]. Global Instagram ad revenue est. ~$70–84B (2025, model-dependent) [S6].
+
+**Meta company financials (audited, for context) [S1][S2]**
+- Q1 2026 revenue **$56.3B** (+33% Y/Y); operating income **$22.9B** (**41% margin**); FoA ad revenue $55.0B (impressions +19%, price/ad +12%).
+- FY2026 CapEx guide **$125–145B** (raised); expenses $162–169B.
+- Q4 2025: revenue $59.9B (+24%), 41% op margin.
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Instagram carries **no standalone P&L**; the unit is the *ad impression*. Meta-wide: price/ad +12%, impressions +19% (Q1'26) [S1]. Contribution is basically Meta's FoA margin (~41% op margin, though Instagram's marginal ad is likely higher-margin than the blended figure since infra is shared). *Estimate — Instagram does not disclose segment cost.*
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — mechanism, contrarian bets, reframes, only-they-can-do-this. Ranked strongest first.*
 
 **★ Growth comes from three surfaces, and Instagram just rebuilt its home screen around exactly those three**
@@ -71,7 +108,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can use them on any prompt.*
 
 - **"DMs, Reels, and recommendations."** Instagram credits all its growth to three surfaces [S9] → use on any "where does growth come from / what to prioritize" prompt: name the 2–3 surfaces that actually drive it, then align the layout to them.
@@ -81,45 +118,6 @@
 - **"Format evolution: text → photo → video → explosion of new formats" [S2]** → product-vision prompts: each Meta era is defined by a dominant format; Instagram rode photo→video and is where the "new formats" (immersive, AI-generated) will land first.
 - **"AI amplifies people, it doesn't replace them" [S1]** → positioning prompts: Instagram frames its AI as helping creators reach further (dubbing, ranking), not replacing them — a deliberate answer to "AI slop kills the creator economy."
 - **"Give it to my mother" quality bar [S1]** → the consumer-polish standard: an AI feature ships when a non-technical relative would use it, not on a launch date.
-
----
-
-## 3. Numbers that signal depth
-*Specific, rare, dated numbers. Product-engagement figures are Meta-stated [S1][S2]; Instagram-standalone business figures are third-party estimates — labeled.*
-
-**Headline scale**
-- **~3B MAU** (crossed 3B in Q3 2025; est.) [S4]; DAU "just shy of 2B" per Meta (Dec 2025) [S2] — note third-party trackers cite a lower ~500–700M "single-app DAU," a difference in definition; use Meta's ~2B figure as the credible one [S2].
-- Family of Apps: **3.5B+ DAU** (Dec 2025) [S2]; **3.56B** (March 2026, slight QoQ dip from Iran outages + Russia WhatsApp block) [S1].
-- Top markets (est.): India ~473–480M, US ~180M, Brazil ~147M [S4][S5]. ~half of users in Asia-Pacific [S4].
-- Time spent (est.): ~33.9 min/day average; ~53 min/day for 18–24 [S5].
-
-**Engagement mechanics (Meta-stated)**
-- Reels time spent **+10% in Q1 2026** on ranking alone [S1]; **+30%+ Y/Y in the US** (Q4 2025) [S2]. Reels ≈ **50% of time in app** [S9].
-- Same-day posts **>30% of recommended Reels** (2x Y/Y) [S1]. Original content **~75% of recommendations** (+10pts) [S2].
-- AI-translated video: **>0.5B weekly viewers** family-wide [S1].
-- Runtime model → **+3% conversion rates**; GEM/sequence learning → **>1% conversion gain** on Instagram [S2].
-- Engagement *rate* (est., third-party) fell **~24% Y/Y in 2025 to ~0.48%** — a real tension against time-spent growth [S4].
-
-**Instagram ad economics (est., eMarketer/DemandSage)**
-- US ad revenue ~**$32B (2025)** → projected ~**$42.5B (2026)** [S6].
-- **>50.3% of Meta's US ad revenue in 2025**, ~53% projected 2026 [S6]. Global Instagram ad revenue est. ~$70–84B (2025, model-dependent) [S6].
-
-**Meta company financials (audited, for context) [S1][S2]**
-- Q1 2026 revenue **$56.3B** (+33% Y/Y); operating income **$22.9B** (**41% margin**); FoA ad revenue $55.0B (impressions +19%, price/ad +12%).
-- FY2026 CapEx guide **$125–145B** (raised); expenses $162–169B.
-- Q4 2025: revenue $59.9B (+24%), 41% op margin.
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Instagram carries **no standalone P&L**; the unit is the *ad impression*. Meta-wide: price/ad +12%, impressions +19% (Q1'26) [S1]. Contribution is basically Meta's FoA margin (~41% op margin, though Instagram's marginal ad is likely higher-margin than the blended figure since infra is shared). *Estimate — Instagram does not disclose segment cost.*
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Organic virality is the main channel: content shared *out* of Instagram (Reels reshared to other platforms, DM sends) and cross-promotion from Facebook/WhatsApp/Threads inside the Family of Apps. Near-zero paid CAC; growth comes from supply and recommendation, now heavily international (India/Indonesia/Brazil are the growth frontier) [S4]. AI dubbing widens the audience per creator, which is indirectly an acquisition lever [S1].
-- **Engage** — Core loop: **watch Reels (recommendation) → share into DMs (private distribution) → creator sees reach → creator posts more supply**. The aha is a personalized, endless, same-day-fresh video feed you can forward to one friend in a tap. Surfaces: Reels (consumption engine, ~50% of time [S9]), DMs (private sharing + Blend shared feeds [S8]), Stories (daily posting habit), Explore (discovery), Feed (legacy, de-emphasized in nav [S8]). Frequency target: daily. AI-dubbed content and 20-min Reels lengthen sessions [S1][S8].
-- **Retain** — Switching cost = the follower graph + DM history + everything the recommender has learned about you (all of it resets to zero on a competitor). Boring plumbing that retains: Stories habit streaks, DM as a primary messaging app for younger users (hard to leave a messenger), and teen-account defaults that keep families on-platform instead of fleeing to safer apps [S8]. Risk: engagement-rate erosion (est. −24% Y/Y [S4]) shows the graph retains the *account* even as attention per post thins.
-- **Monetize** — Single line: **advertising**, sold through Meta's unified ads system (feed ads, Stories ads, Reels ads, Explore ads, Shop). Unit = impression; price set by the 1T-param auction/recommender [S1]. Expansion levers: (1) ad-load *redistribution* not increase [S2], (2) better conversion attribution (+1.6% off-site coverage [S1]), (3) creator affiliate/product-tagging now in test — commerce take-rate as a future second line [S1], (4) AI video-gen ad tools (~$10B run-rate combined with Facebook [S2]). No subscription tier on Instagram itself (Meta Verified is cross-app).
 
 ---
 

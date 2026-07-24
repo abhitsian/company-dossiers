@@ -4,9 +4,63 @@
 > **v1 — earnings-grounded + web research**
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim bold headlines for the gist; drill for detail.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire (advertisers)**
+- **Enterprise/CPG** direct sales — global head Kristi Argyilan, vertical GMs for ride app / grocery / Eats-restaurant / CPG after the Grether reorg [S3]. Clients: Coca-Cola, Pepsi, McDonald's, Molson Coors, Ulta [S5].
+- **SMB long tail (restaurants)** — self-serve sponsored listings inside the merchant tools; restaurants adopt first because feed rank = orders [S2].
+- **CPG long tail** — through the **Instacart Carrot Ads** integration (Apr 2025), reaching "brands of all sizes" without Uber building its own self-serve CPG tool [S6].
+- **Agencies** — "embracing us more" for signals they can't get elsewhere (event attendance, airport traffic) [S3]; 20+ measurement partners lower the trust barrier [S5].
+- **Offsite Ads** — buy attention off-platform (Google Shopping, Meta) and send it back to Uber apps [S4].
+
+**Engage (the ad surfaces)**
+- **Rides:** Journey Ads (pre/in-trip), Homescreen Ride Offers, Ride Offers on Journey, Sponsored Upgrades (brand-paid Comfort/Black), JourneyTV in-car video, **Destination Offers** (buy in-store on the way) [S4][S5].
+- **Eats:** Sponsored Listings / Sponsored Products (auction, merchant- or brand-paid), **Brand Takeover** (full-screen on open), **Item Showcase** (shoppable carousel, add-to-cart), **Offers Spotlight**, **Post-Checkout Ads** (the leaned-back, "hungry for more" moment) [S4].
+- **The aha:** an ad shown to an *undecided, in-market* user (60% of Eats opens [S3]) converts far above interruptive display.
+
+**Retain (advertisers)**
+- End-to-end tracking → provable ROAS keeps budgets renewing [S5]. Example: Pizza Hut Space Invaders game on Rides drove "very high" ROAS [S3].
+- A growing roster of measurement partners (Comscore, VideoAmp…) makes Uber a hard-to-drop line item in media plans [S5].
+
+**Monetize**
+- **Take-rate model:** ad revenue as a % of gross bookings — the "2%+" Delivery line, with SMB well above and enterprise/grocery/retail below (runway) [S2].
+- **Formats price by attention/position:** premium takeovers and JourneyTV cost more than feed listings [S4].
+- **Expansion vectors:** grocery + retail + mobility ad products are early — same audience, new ad space, more take [S2].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Metric | Value | Source |
+|---|---|---|
+| Ads revenue run-rate | **>$2B annualized, +>50% Y/Y** (Q4 2025) | [S5] |
+| Run-rate, May 2025 | ~$1.5B, +60% Y/Y | [S5] |
+| Run-rate, summer 2024 | ~$1B (2x the 2022 ~$500M) | [S3] |
+| Delivery ad penetration | **>2% of Delivery GBs, target now seen too low** | [S2] |
+| Reach | 40+ countries, ~24 active ad markets | [S3][S5] |
+| Audience exposed | ~180M+ users; 13.2B annual trips as intent signal | [S5] |
+| JourneyTV in-car screens | ~50,000 tablets (Weather Channel, Time Out content) | [S5] |
+| Measurement partners | 20+ (added Comscore, VideoAmp, Kochava, Adelaide in 2025) | [S5] |
+
+**Attention / performance (vendor-measured, treat as directional)**
+- 6.6x higher attention vs. online video/social/display (Lumen) [S5]
+- JourneyTV +11% attention vs. online video [S5]
+- Post-checkout ads +40% performance [S5]
+
+**Mix insight**
+- SMB ad penetration ">> 2%"; enterprise/CPG Y/Y growth "outpacing SMBs by a lot more"; grocery, retail, and mobility ad products "a lot more nascent" [S2].
+
+**Parent context (for sizing the ad opportunity)**
+- Delivery GBs +23% Y/Y; Mobility GBs +20% [S1]. Uber One >50M members, >50% of bookings [S1]. FY25 Adj. EBITDA $8.7B (+35%), FCF $9.8B (+42%) [S2].
+- *Estimate:* at ~$2B ad run-rate against roughly ~$90B+ annualized Delivery GBs, ads ≈ low-single-digit % of Delivery bookings; Amazon-class ad-take (~high-single to low-double digit on ad-dense surfaces) implies **3–5x headroom on Delivery alone**, before Mobility/grocery/retail scale. (My arithmetic from [S1][S2][S5].)
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Ad views cost almost nothing to add on top of screens that already exist for rides/orders → ad revenue is **the highest-margin dollar in Uber's P&L** (my read from [S1]'s "EPS growing 2x bookings" and margin commentary). Take-rate is measured as % of GBs (the 2% line), not classic CPM economics [S2].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on Uber Advertising specifically.*
 
 **★ The ad business grows ~2.5x faster than Uber's bookings and is almost all profit**
@@ -53,69 +107,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"On the way to somewhere."** Every Uber user is moving with a known start, destination, and arrival time — you target on *motion and intent*, not cookies. Use on: "why is this ad inventory different from Meta's?" [S4]
 - **"Undecided in-market demand."** 60% of Eats opens are undecided [S3] — the ad *makes* the choice instead of catching one that already exists. Use on: product-sense, "what job does the ad do?"
 - **"Close the loop to the aisle."** Tracking runs ad view → order → in-store purchase [S4]. Use on: measurement / defensibility.
 - **"2% was a floor, not a ceiling."** [S2] Use on: TAM sizing / how to read a penetration target.
 - **"Restaurants first, CPG second."** Adoption follows who lives on the feed (SMB) before who has the big budget (enterprise) [S2]. Use on: GTM sequencing.
 - **"AI dissolves the fixed UI."** Dara: the UI becomes "whatever the user wants" [S1] — for ads, that means built-in, personalized placements instead of fixed slots. Use on: future-of-ad-formats.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Metric | Value | Source |
-|---|---|---|
-| Ads revenue run-rate | **>$2B annualized, +>50% Y/Y** (Q4 2025) | [S5] |
-| Run-rate, May 2025 | ~$1.5B, +60% Y/Y | [S5] |
-| Run-rate, summer 2024 | ~$1B (2x the 2022 ~$500M) | [S3] |
-| Delivery ad penetration | **>2% of Delivery GBs, target now seen too low** | [S2] |
-| Reach | 40+ countries, ~24 active ad markets | [S3][S5] |
-| Audience exposed | ~180M+ users; 13.2B annual trips as intent signal | [S5] |
-| JourneyTV in-car screens | ~50,000 tablets (Weather Channel, Time Out content) | [S5] |
-| Measurement partners | 20+ (added Comscore, VideoAmp, Kochava, Adelaide in 2025) | [S5] |
-
-**Attention / performance (vendor-measured, treat as directional)**
-- 6.6x higher attention vs. online video/social/display (Lumen) [S5]
-- JourneyTV +11% attention vs. online video [S5]
-- Post-checkout ads +40% performance [S5]
-
-**Mix insight**
-- SMB ad penetration ">> 2%"; enterprise/CPG Y/Y growth "outpacing SMBs by a lot more"; grocery, retail, and mobility ad products "a lot more nascent" [S2].
-
-**Parent context (for sizing the ad opportunity)**
-- Delivery GBs +23% Y/Y; Mobility GBs +20% [S1]. Uber One >50M members, >50% of bookings [S1]. FY25 Adj. EBITDA $8.7B (+35%), FCF $9.8B (+42%) [S2].
-- *Estimate:* at ~$2B ad run-rate against roughly ~$90B+ annualized Delivery GBs, ads ≈ low-single-digit % of Delivery bookings; Amazon-class ad-take (~high-single to low-double digit on ad-dense surfaces) implies **3–5x headroom on Delivery alone**, before Mobility/grocery/retail scale. (My arithmetic from [S1][S2][S5].)
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Ad views cost almost nothing to add on top of screens that already exist for rides/orders → ad revenue is **the highest-margin dollar in Uber's P&L** (my read from [S1]'s "EPS growing 2x bookings" and margin commentary). Take-rate is measured as % of GBs (the 2% line), not classic CPM economics [S2].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire (advertisers)**
-- **Enterprise/CPG** direct sales — global head Kristi Argyilan, vertical GMs for ride app / grocery / Eats-restaurant / CPG after the Grether reorg [S3]. Clients: Coca-Cola, Pepsi, McDonald's, Molson Coors, Ulta [S5].
-- **SMB long tail (restaurants)** — self-serve sponsored listings inside the merchant tools; restaurants adopt first because feed rank = orders [S2].
-- **CPG long tail** — through the **Instacart Carrot Ads** integration (Apr 2025), reaching "brands of all sizes" without Uber building its own self-serve CPG tool [S6].
-- **Agencies** — "embracing us more" for signals they can't get elsewhere (event attendance, airport traffic) [S3]; 20+ measurement partners lower the trust barrier [S5].
-- **Offsite Ads** — buy attention off-platform (Google Shopping, Meta) and send it back to Uber apps [S4].
-
-**Engage (the ad surfaces)**
-- **Rides:** Journey Ads (pre/in-trip), Homescreen Ride Offers, Ride Offers on Journey, Sponsored Upgrades (brand-paid Comfort/Black), JourneyTV in-car video, **Destination Offers** (buy in-store on the way) [S4][S5].
-- **Eats:** Sponsored Listings / Sponsored Products (auction, merchant- or brand-paid), **Brand Takeover** (full-screen on open), **Item Showcase** (shoppable carousel, add-to-cart), **Offers Spotlight**, **Post-Checkout Ads** (the leaned-back, "hungry for more" moment) [S4].
-- **The aha:** an ad shown to an *undecided, in-market* user (60% of Eats opens [S3]) converts far above interruptive display.
-
-**Retain (advertisers)**
-- End-to-end tracking → provable ROAS keeps budgets renewing [S5]. Example: Pizza Hut Space Invaders game on Rides drove "very high" ROAS [S3].
-- A growing roster of measurement partners (Comscore, VideoAmp…) makes Uber a hard-to-drop line item in media plans [S5].
-
-**Monetize**
-- **Take-rate model:** ad revenue as a % of gross bookings — the "2%+" Delivery line, with SMB well above and enterprise/grocery/retail below (runway) [S2].
-- **Formats price by attention/position:** premium takeovers and JourneyTV cost more than feed listings [S4].
-- **Expansion vectors:** grocery + retail + mobility ad products are early — same audience, new ad space, more take [S2].
 
 ---
 

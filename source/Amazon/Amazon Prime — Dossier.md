@@ -4,9 +4,49 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. Every fact is source-tagged; estimates are labeled. Prime has no P&L of its own — it sits inside "Subscription services," and its real value shows up in retail sales, not membership fees.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Free-trial funnel (30 days); Prime Video originals + live sports (TNF, NFL) at the top of funnel [S1][S2]; Prime Day as a mass sign-up event ($24.1B US, +30% [S8]); price-fenced tiers to pull in new groups (Young Adult $69, Prime Access $6.99) [S3]; international expansion (India quick-commerce +25% MoM as an on-ramp) [S1]. On CAC: content + logistics are the real cost of acquiring a member, spread across the retail basket, not the fee.
+- **Engage** — Core loop = un-metered fast shipping → more orders → habit. Aha: the first same-day/next-day arrival. Surfaces: Shopping (essentials, 1-of-3 units [S2]), Video (315M ad viewers [S2]), Grocery/Whole Foods + Amazon Now (<30 min [S1]), Music, Reading/Luna, Alexa+ (2x more usage [S1]), Pharmacy, Photos. Add to Delivery keeps re-triggering the loop [S2].
+- **Retain** — ~93%/~98% year-1/2 retention (est.) [S7]; the cost of leaving grows with every benefit added; the plumbing is delivery density (same-day sites) a rival can't copy cheaply [S2]. Everyday essentials keep members "front of mind" between big orders [S2].
+- **Monetize** — Four stacked lines: (1) membership fee (~$44B [S8]); (2) the extra retail basket (~2x spend [S6]) — the real money; (3) Prime Video advertising (315M ad-tier reach [S2], part of Amazon's $17.2B/qtr ads business [S1]); (4) the $4.99 Prime Video Ultra upsell + a-la-carte add-ons [S4]. Price fences: annual-vs-monthly, ad-free tier, concurrent-stream/4K gating.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- ~200–220M Prime members globally; ~180M in the US (2025 est., near US-household saturation) [S5][S6].
+- US price: $14.99/mo or $139/yr; Young Adult $69/yr; Prime Access (govt-assistance) $6.99/mo [S3].
+- 300M+ items eligible for free Prime shipping in the US [S3].
+
+**Membership & subscription revenue**
+- Subscription-services segment: ~$49.6B FY2025, up ~12% from $44.4B FY2024 [S8].
+- Prime membership revenue specifically: $44.374B in 2024, +10.4% Y/Y; Q3 2025 a record ~$12.6B quarter [S8].
+- The segment has grown every quarter since Amazon began breaking it out in 2019 [S8].
+
+**Engagement & speed**
+- US Prime members received 8B+ items same/next-day, +30% Y/Y [S2].
+- ~100M US customers used same-day in a year; ~70% more items same-day Y/Y; perishables to 2,300+ cities [S2].
+- 1B+ items same-day/overnight YTD; new 1-hr/3-hr on 90,000+ items; Amazon Now (<30 min) in 9 countries, India orders +25% MoM [S1].
+- Add to Delivery = ~10% of all Prime fulfilled volume, 6 months post-launch [S2].
+
+**Prime Video**
+- ~315M global ad-supported monthly viewers (up from 200M in early 2024), in 16 countries [S2].
+- TNF ~15M avg viewers (+16% Y/Y); Packers-Bears wild card 31.6M — the most-streamed NFL game ever [S2].
+- New tier: Prime Video Ultra $4.99/mo (ad-free + 4K/UHD, 5 concurrent streams, 100 downloads); base Prime Video now capped at 1080p with ads since Jan 2024 [S4].
+
+**Prime Day**
+- US consumer spend ~$24.1B during Prime Day 2025, +30.3% Y/Y [S8]. Note: 2026 Prime Day shifts into Q2 (June) for US/largest geos [S1].
+
+**Unit economics (est., cross-ref /follow-the-dollar)**
+- Per-member retail spend ~$1,170/yr (Prime) vs ~$570/yr (non-Prime) — a ~2:1 ratio held for ~5 years (CIRP 2024 est.) [S6].
+- Retention ~93% after year 1, ~98% after year 2 (est.) [S7].
+- Implied: even if the $139 fee only covers shipping + content costs, the extra ~$600/yr of retail gross profit per member is the real return. (Estimate — Amazon does not disclose Prime-level contribution margin.)
+
+---
+
+## 3. Wow Vault ★
 *The non-obvious layer — what makes an interviewer lean in.*
 
 **★ Prime isn't a subscription business. It's a way to lock in spending, dressed as one.**
@@ -57,7 +97,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Feed the flywheel."** Selection → lower prices → better experience → more traffic → more sellers → more selection. Prime is the accelerator: it removes the per-order friction so the whole loop spins faster. Use on any marketplace / two-sided-market prompt. [S10]
 - **"The fee buys a behavior, not a service."** Membership economics ≠ subscription economics when the sub sits on top of a store. Use on pricing / LTV prompts. [S6]
@@ -65,48 +105,6 @@
 - **"Barbelled demand" (borrowed from AWS, applies to Prime).** The extremes carry the business — for Prime, the sub-30-min top-up run on one end and the once-a-quarter big order on the other; the middle is least defensible. Use on segmentation prompts. [S2]
 - **"Retailers beat horizontal agents at all four jobs."** Selection + low price + fast delivery + trust — an agent aggregates selection only; the retailer owns all four [S2]. Use on "will AI shopping agents disrupt you" prompts.
 - **"Capacity put into service is immediately monetized."** Applies to fulfillment: same-day sites, once live, immediately change how people shop [S1][S2]. Use on capex/infra prompts.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- ~200–220M Prime members globally; ~180M in the US (2025 est., near US-household saturation) [S5][S6].
-- US price: $14.99/mo or $139/yr; Young Adult $69/yr; Prime Access (govt-assistance) $6.99/mo [S3].
-- 300M+ items eligible for free Prime shipping in the US [S3].
-
-**Membership & subscription revenue**
-- Subscription-services segment: ~$49.6B FY2025, up ~12% from $44.4B FY2024 [S8].
-- Prime membership revenue specifically: $44.374B in 2024, +10.4% Y/Y; Q3 2025 a record ~$12.6B quarter [S8].
-- The segment has grown every quarter since Amazon began breaking it out in 2019 [S8].
-
-**Engagement & speed**
-- US Prime members received 8B+ items same/next-day, +30% Y/Y [S2].
-- ~100M US customers used same-day in a year; ~70% more items same-day Y/Y; perishables to 2,300+ cities [S2].
-- 1B+ items same-day/overnight YTD; new 1-hr/3-hr on 90,000+ items; Amazon Now (<30 min) in 9 countries, India orders +25% MoM [S1].
-- Add to Delivery = ~10% of all Prime fulfilled volume, 6 months post-launch [S2].
-
-**Prime Video**
-- ~315M global ad-supported monthly viewers (up from 200M in early 2024), in 16 countries [S2].
-- TNF ~15M avg viewers (+16% Y/Y); Packers-Bears wild card 31.6M — the most-streamed NFL game ever [S2].
-- New tier: Prime Video Ultra $4.99/mo (ad-free + 4K/UHD, 5 concurrent streams, 100 downloads); base Prime Video now capped at 1080p with ads since Jan 2024 [S4].
-
-**Prime Day**
-- US consumer spend ~$24.1B during Prime Day 2025, +30.3% Y/Y [S8]. Note: 2026 Prime Day shifts into Q2 (June) for US/largest geos [S1].
-
-**Unit economics (est., cross-ref /follow-the-dollar)**
-- Per-member retail spend ~$1,170/yr (Prime) vs ~$570/yr (non-Prime) — a ~2:1 ratio held for ~5 years (CIRP 2024 est.) [S6].
-- Retention ~93% after year 1, ~98% after year 2 (est.) [S7].
-- Implied: even if the $139 fee only covers shipping + content costs, the extra ~$600/yr of retail gross profit per member is the real return. (Estimate — Amazon does not disclose Prime-level contribution margin.)
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Free-trial funnel (30 days); Prime Video originals + live sports (TNF, NFL) at the top of funnel [S1][S2]; Prime Day as a mass sign-up event ($24.1B US, +30% [S8]); price-fenced tiers to pull in new groups (Young Adult $69, Prime Access $6.99) [S3]; international expansion (India quick-commerce +25% MoM as an on-ramp) [S1]. On CAC: content + logistics are the real cost of acquiring a member, spread across the retail basket, not the fee.
-- **Engage** — Core loop = un-metered fast shipping → more orders → habit. Aha: the first same-day/next-day arrival. Surfaces: Shopping (essentials, 1-of-3 units [S2]), Video (315M ad viewers [S2]), Grocery/Whole Foods + Amazon Now (<30 min [S1]), Music, Reading/Luna, Alexa+ (2x more usage [S1]), Pharmacy, Photos. Add to Delivery keeps re-triggering the loop [S2].
-- **Retain** — ~93%/~98% year-1/2 retention (est.) [S7]; the cost of leaving grows with every benefit added; the plumbing is delivery density (same-day sites) a rival can't copy cheaply [S2]. Everyday essentials keep members "front of mind" between big orders [S2].
-- **Monetize** — Four stacked lines: (1) membership fee (~$44B [S8]); (2) the extra retail basket (~2x spend [S6]) — the real money; (3) Prime Video advertising (315M ad-tier reach [S2], part of Amazon's $17.2B/qtr ads business [S1]); (4) the $4.99 Prime Video Ultra upsell + a-la-carte add-ons [S4]. Price fences: annual-vs-monthly, ad-free tier, concurrent-stream/4K gating.
 
 ---
 

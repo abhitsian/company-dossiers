@@ -5,9 +5,41 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Note: Apple never discloses Apple Watch units or revenue as a line item. Every unit/revenue/ASP figure here is an analyst estimate — labeled (est.). Health-feature and satisfaction figures come from Apple's own earnings/newsroom.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — The main channel is the **iPhone attach motion**: sold to people who already own an iPhone as an add-on (the Watch needs an iPhone to set up). Retail + online + carrier bundles. The >50% new-buyer rate says the funnel is still the *iPhone owners who haven't bought a watch yet* — a large unconverted pool. Health features (hypertension, sleep) are increasingly the *hook*, not fitness. The three-tier lineup (SE 3 / Series 11 / Ultra 3) covers prices from ~$249 est. entry up to Ultra premium. [S1][S3][S4][S5]
+- **Engage** — The core loop is **daily wear → passive sensing → rings/notifications → glance**. The aha is a health alert that maps to a real outcome (more users "wearing their watch to sleep" for sleep scores; hypertension/AFib alerts "enabling important conversations with doctors"). Workout Buddy (spoken AI motivation) adds an active-session hook. watchOS 26 gestures (wrist flick, double tap) make it easier to interact. Frequency: near-continuous (worn most waking hours + sleep). [S1][S2][S3]
+- **Retain** — The switching cost is **the iPhone tether**: leave iOS and your watch is stranded. Health *history* piles up in the paired iPhone's Health app — the longer you wear it, the more of that history you'd lose by switching. Watch bands and personalization deepen attachment. The hardware refresh cycle is likely multi-year; Apple keeps you through the ecosystem, not forced obsolescence. [S1][S2]
+- **Monetize** — Direct: a **one-time hardware sale** (est. $11–13B/yr). Indirect and probably larger: (1) **iPhone retention** — the Watch raises the cost of leaving iOS; (2) **Services pull** — every Watch feeds the 2.5B installed base that earns at 76.7% Services gross margin (Fitness+, App Store, cloud, future health subscriptions). No standalone Watch subscription today — a gap (see §12). [S1][S2]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- Wearables/Home/Accessories segment: **$7.9B, +5% YoY** (Q2 FY26); **$11.5B, −2% YoY** (Q1 FY26 holiday qtr — would have grown if not for AirPods Pro 3 supply constraints). [S1][S2]
+- US Apple Watch customer satisfaction: **96%** (451 Research). [S1]
+- Over half of Watch buyers are new to the product every quarter; majority-new in China + India. [S1][S2]
+- Apple total installed base: **>2.5B active devices**; wearables installed base at an all-time high. [S1]
+
+**Market arcs**
+- 2025 global smartwatch share: Apple **~23%** (#1); Huawei 17%; Xiaomi 9%; Samsung 7% (tied w/ Imoo). [S6]
+- Apple Watch shipments **+8%** in 2025 — first year-over-year growth since 2022. Market grew 4%. [S6]
+
+**Product line (2025 refresh, all watchOS 26 / Liquid Glass)**
+- **Series 11** — from **$399**; 42/46mm; 24h battery (15min→8h fast charge); hypertension notifications, sleep score, 5G, 2x scratch resistance; expected to flag hypertension in **>1M undiagnosed users** in year one. [S3]
+- **Ultra 3** — largest display, 1Hz always-on, 5G, satellite connectivity, best-in-class GPS, 42h / 72h low-power battery. [S4]
+- **SE 3** — price held flat; S10 chip, Always-On, sleep score, sleep apnea, wrist temp, on-device Siri, 5G, ~80% charge in 45min. [S5]
+- Health stack across the line: ECG, irregular rhythm, high/low HR, Blood Oxygen (redesigned, iPhone-processed in US), sleep apnea, hypertension, retrospective ovulation. [S3][S7]
+
+**Unit economics (all est. — Apple discloses none)**
+- Est. Apple Watch revenue **~$11–13B/yr** = ~27–33% of the ~$40B Wearables/Home/Accessories line. [S9]
+- Smartwatch category ASP (average selling price) ~**$265** (2024, +5.7% YoY); Apple Watch ASP est. well above the category given its premium mix. [S9]
+- watchOS 26 AI feature (Workout Buddy) runs on Apple Intelligence — on-device, so it costs Apple nothing extra per use.
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer. Ranked strongest first.*
 
 **★ More than half of every quarter's Watch buyers are NEW to the product — after 10+ years.**
@@ -54,47 +86,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"New-to-product ratio."** The share of a quarter's buyers who've never owned the product — Apple's way of measuring saturation. >50% = still winning new buyers; use for any "is this market mature?" prompt. [S1][S2]
 - **"Science-backed insights that prompt conversations with care providers."** Apple's framing of health features — the value isn't the number, it's the *doctor visit it triggers*. Turns a metric-display feature into an on-ramp to the care system. [S1]
 - **"Beyond fitness tracking."** The category-migration story in four words — the deliberate shift from step-counter toy to medical-adjacent screening. Use for product-evolution prompts. [S1]
 - **"Change and even save lives."** Apple's outcome language for health — ties the product to mortality, not engagement. The line that justifies a premium price and patience with regulators. [S1]
 - **Compute re-partitioning as legal strategy.** Where the computation runs (watch vs. phone) is a *product lever*, not just an engineering choice — Apple moved the SpO2 math to iPhone to get around an import ban. [S8]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- Wearables/Home/Accessories segment: **$7.9B, +5% YoY** (Q2 FY26); **$11.5B, −2% YoY** (Q1 FY26 holiday qtr — would have grown if not for AirPods Pro 3 supply constraints). [S1][S2]
-- US Apple Watch customer satisfaction: **96%** (451 Research). [S1]
-- Over half of Watch buyers are new to the product every quarter; majority-new in China + India. [S1][S2]
-- Apple total installed base: **>2.5B active devices**; wearables installed base at an all-time high. [S1]
-
-**Market arcs**
-- 2025 global smartwatch share: Apple **~23%** (#1); Huawei 17%; Xiaomi 9%; Samsung 7% (tied w/ Imoo). [S6]
-- Apple Watch shipments **+8%** in 2025 — first year-over-year growth since 2022. Market grew 4%. [S6]
-
-**Product line (2025 refresh, all watchOS 26 / Liquid Glass)**
-- **Series 11** — from **$399**; 42/46mm; 24h battery (15min→8h fast charge); hypertension notifications, sleep score, 5G, 2x scratch resistance; expected to flag hypertension in **>1M undiagnosed users** in year one. [S3]
-- **Ultra 3** — largest display, 1Hz always-on, 5G, satellite connectivity, best-in-class GPS, 42h / 72h low-power battery. [S4]
-- **SE 3** — price held flat; S10 chip, Always-On, sleep score, sleep apnea, wrist temp, on-device Siri, 5G, ~80% charge in 45min. [S5]
-- Health stack across the line: ECG, irregular rhythm, high/low HR, Blood Oxygen (redesigned, iPhone-processed in US), sleep apnea, hypertension, retrospective ovulation. [S3][S7]
-
-**Unit economics (all est. — Apple discloses none)**
-- Est. Apple Watch revenue **~$11–13B/yr** = ~27–33% of the ~$40B Wearables/Home/Accessories line. [S9]
-- Smartwatch category ASP (average selling price) ~**$265** (2024, +5.7% YoY); Apple Watch ASP est. well above the category given its premium mix. [S9]
-- watchOS 26 AI feature (Workout Buddy) runs on Apple Intelligence — on-device, so it costs Apple nothing extra per use.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — The main channel is the **iPhone attach motion**: sold to people who already own an iPhone as an add-on (the Watch needs an iPhone to set up). Retail + online + carrier bundles. The >50% new-buyer rate says the funnel is still the *iPhone owners who haven't bought a watch yet* — a large unconverted pool. Health features (hypertension, sleep) are increasingly the *hook*, not fitness. The three-tier lineup (SE 3 / Series 11 / Ultra 3) covers prices from ~$249 est. entry up to Ultra premium. [S1][S3][S4][S5]
-- **Engage** — The core loop is **daily wear → passive sensing → rings/notifications → glance**. The aha is a health alert that maps to a real outcome (more users "wearing their watch to sleep" for sleep scores; hypertension/AFib alerts "enabling important conversations with doctors"). Workout Buddy (spoken AI motivation) adds an active-session hook. watchOS 26 gestures (wrist flick, double tap) make it easier to interact. Frequency: near-continuous (worn most waking hours + sleep). [S1][S2][S3]
-- **Retain** — The switching cost is **the iPhone tether**: leave iOS and your watch is stranded. Health *history* piles up in the paired iPhone's Health app — the longer you wear it, the more of that history you'd lose by switching. Watch bands and personalization deepen attachment. The hardware refresh cycle is likely multi-year; Apple keeps you through the ecosystem, not forced obsolescence. [S1][S2]
-- **Monetize** — Direct: a **one-time hardware sale** (est. $11–13B/yr). Indirect and probably larger: (1) **iPhone retention** — the Watch raises the cost of leaving iOS; (2) **Services pull** — every Watch feeds the 2.5B installed base that earns at 76.7% Services gross margin (Fitness+, App Store, cloud, future health subscriptions). No standalone Watch subscription today — a gap (see §12). [S1][S2]
 
 ---
 

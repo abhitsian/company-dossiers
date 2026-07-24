@@ -3,9 +3,43 @@
 > **AAPL** · part of Services ($31B/qtr, 76.7% GM) · App Store revenue not broken out · Updated **2026-07-04** · **v1 — earnings-grounded + web research** · Sources: **8** (see §15)
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines; drill for detail.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Zero user CAC (cost to acquire a customer): the store is pre-installed on every one of 2.5B active devices and is the *only* sanctioned way to get apps on iOS (outside the EU). Developer-side acquisition via Developer Program ($99/yr), Developer Centers (US, China, India, Singapore, Berlin), ~20 Developer Academies. The supply side (developers) is acquired by reach; the demand side comes bundled with the hardware. [S1][S3]
+- **Engage** — Core loop: *search/browse → product page → one-tap install (stored Apple ID + payment) → in-app purchase.* Editorial (Today tab, curation), charts, and Search Ads drive discovery. The aha is friction-free install-and-pay; >850M weekly users is the engagement KPI. [S2][S3]
+- **Retain** — Switching cost is the whole iOS relationship: purchase history, subscriptions managed in one place, Family Sharing, Ask-to-Buy, refunds. For developers, retention is coerced (no alternative distribution ex-EU) but softening as external payments + EU marketplaces appear. Paid accounts + paid subs at all-time highs. [S1][S2]
+- **Monetize** — Three lines: (1) **commission** on digital goods (30/15%, shrinking under regulation); (2) **Developer Program fees** ($99/yr flat); (3) **advertising** (Search Ads → multi-placement → Maps), the fastest-growing line and the strategic pivot. Price fences: SBP threshold ($1M), year-one vs year-two sub rate, EU CTC. [S1][S6][S7]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- $1.4T ecosystem billings 2025 (nearly tripled since 2019). Split: **$1.1T physical goods/services · $149B digital goods · $151B in-app ads.** [S3]
+- **>850M weekly average App Store users**, 175 countries/regions. [S2][S3]
+- Developers earned **>$550B since 2008.** [S2]
+- **90%+ of billings are commission-free** to Apple. [S3]
+- 40+ of top 100 apps have consumer-facing AI; those grew billings ~4x the rest. [S3]
+- Regional: US + Europe billings **more than tripled** in six years; China **more than doubled.** [S3]
+
+**Market arcs**
+- App Store est. **63.2% of global gaming app revenue, 73.0% of non-gaming** — a high-value minority of installs. [S6]
+- Contested: third-party data pegs App Store growth **~7%** vs reported Services +14%. [S2]
+- Est. Apple advertising revenue **~$7.4B (2025)**, projected multi-billion annual adds by 2027 (analyst est., not Apple-disclosed). [S6]
+
+**Services context (App Store's parent line)**
+- Services revenue **$31B Q2 FY26 (+16%)** and **$30B Q1 FY26 (+14%)**, both all-time/record; **Services GM 76.7%** vs Products ~38–41%. GM = gross margin, the share of revenue left after direct costs. [S1][S2]
+- All-time records within Services in *advertising* specifically, both quarters. [S1][S2]
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Standard commission **30%**; **15%** under Small Business Program (<$1M/yr proceeds, opt-in, manual). Subscriptions drop to **15% after year one.** [S7]
+- EU alt terms: commission cut to **10–17%**; Core Technology Commission **5%** on promoted external digital sales; **10%** on subs after year one when combined with SBP. [S4]
+- US (post-Epic): external payment links allowed; Apple's prior **27%** external fee struck down, sent back for a lower cost-based fee (Supreme Court to hear, 2026). [S5]
+- On the ~$149B commissionable digital base, a blended effective take-rate (est. ~15–20% after SBP/sub-mix) implies roughly **$25–30B gross App Store commission** (estimate — Apple does not disclose). [est.]
+
+---
+
+## 3. Wow Vault ★
 
 **★ The App Store's headline number ($1.4T ecosystem) is a magic trick — Apple never touches 90%+ of it.**
 - **Mechanism:** Of $1.4T in 2025 billings, $1.1T is physical goods/services (Uber rides, Amazon orders, DoorDash) that carry **zero commission**; only the $149B digital-goods slice is commissionable, and even there the Small Business Program + subscriptions drop most to 15%. [S3]
@@ -57,49 +91,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"AI as an essential part of the experience, not a stand-alone feature."** Apple's whole-product framing — apply to any "should we build an AI feature" prompt to argue for integration over a bolt-on chatbot. [S1]
 - **"Businesses of all sizes grow via advertising while respecting privacy."** Apple's framing of ad expansion as helping small businesses — useful when a monetization move needs a user/ecosystem-benefit story. [S1]
 - **"90%+ commission-free."** The store-as-public-utility framing — use when defending a marketplace against take-rate criticism: shrink the denominator that's actually taxed. [S3]
 - **The installed base as "foundation for new growth."** 2.5B devices framed not as a saturated market but as ready-made demand for the *next* service. [S2]
 - **"Notarize, don't distribute."** Keep the trust/security chokepoint even when forced to give up the distribution monopoly — a template for regulated gatekeepers. [S4]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- $1.4T ecosystem billings 2025 (nearly tripled since 2019). Split: **$1.1T physical goods/services · $149B digital goods · $151B in-app ads.** [S3]
-- **>850M weekly average App Store users**, 175 countries/regions. [S2][S3]
-- Developers earned **>$550B since 2008.** [S2]
-- **90%+ of billings are commission-free** to Apple. [S3]
-- 40+ of top 100 apps have consumer-facing AI; those grew billings ~4x the rest. [S3]
-- Regional: US + Europe billings **more than tripled** in six years; China **more than doubled.** [S3]
-
-**Market arcs**
-- App Store est. **63.2% of global gaming app revenue, 73.0% of non-gaming** — a high-value minority of installs. [S6]
-- Contested: third-party data pegs App Store growth **~7%** vs reported Services +14%. [S2]
-- Est. Apple advertising revenue **~$7.4B (2025)**, projected multi-billion annual adds by 2027 (analyst est., not Apple-disclosed). [S6]
-
-**Services context (App Store's parent line)**
-- Services revenue **$31B Q2 FY26 (+16%)** and **$30B Q1 FY26 (+14%)**, both all-time/record; **Services GM 76.7%** vs Products ~38–41%. GM = gross margin, the share of revenue left after direct costs. [S1][S2]
-- All-time records within Services in *advertising* specifically, both quarters. [S1][S2]
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Standard commission **30%**; **15%** under Small Business Program (<$1M/yr proceeds, opt-in, manual). Subscriptions drop to **15% after year one.** [S7]
-- EU alt terms: commission cut to **10–17%**; Core Technology Commission **5%** on promoted external digital sales; **10%** on subs after year one when combined with SBP. [S4]
-- US (post-Epic): external payment links allowed; Apple's prior **27%** external fee struck down, sent back for a lower cost-based fee (Supreme Court to hear, 2026). [S5]
-- On the ~$149B commissionable digital base, a blended effective take-rate (est. ~15–20% after SBP/sub-mix) implies roughly **$25–30B gross App Store commission** (estimate — Apple does not disclose). [est.]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Zero user CAC (cost to acquire a customer): the store is pre-installed on every one of 2.5B active devices and is the *only* sanctioned way to get apps on iOS (outside the EU). Developer-side acquisition via Developer Program ($99/yr), Developer Centers (US, China, India, Singapore, Berlin), ~20 Developer Academies. The supply side (developers) is acquired by reach; the demand side comes bundled with the hardware. [S1][S3]
-- **Engage** — Core loop: *search/browse → product page → one-tap install (stored Apple ID + payment) → in-app purchase.* Editorial (Today tab, curation), charts, and Search Ads drive discovery. The aha is friction-free install-and-pay; >850M weekly users is the engagement KPI. [S2][S3]
-- **Retain** — Switching cost is the whole iOS relationship: purchase history, subscriptions managed in one place, Family Sharing, Ask-to-Buy, refunds. For developers, retention is coerced (no alternative distribution ex-EU) but softening as external payments + EU marketplaces appear. Paid accounts + paid subs at all-time highs. [S1][S2]
-- **Monetize** — Three lines: (1) **commission** on digital goods (30/15%, shrinking under regulation); (2) **Developer Program fees** ($99/yr flat); (3) **advertising** (Search Ads → multi-placement → Maps), the fastest-growing line and the strategic pivot. Price fences: SBP threshold ($1M), year-one vs year-two sub rate, EU CTC. [S1][S6][S7]
 
 ---
 

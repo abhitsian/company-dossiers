@@ -4,9 +4,66 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *For PM interview prep: product sense, strategy, design, metrics. §7 (needs-based segments) and §12 (10×/100× plays) are tuned to YouTube's actual users. Estimates are labeled `[est.]`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire (both sides of the market).**
+  - *Viewers:* default-installed on Android/Google TV/Chromecast; embedded across the web; Google Search video results funnel in; no direct cost to acquire a viewer, since distribution runs on Alphabet's own surfaces.
+  - *Creators:* the 55/45 revenue-share and >$70B cumulative payout are the acquisition spend; low-friction upload; Shorts lowered the creation bar (phone-only); Gemini Omni/Create lower it further [S10][S6][S7].
+- **Engage — the core loop.** Watch → recommendation engine learns → serves watch-next → session extends. Aha = "the feed knows what I want before I do." Frequency: multiple sessions/day; **YouTube session length ~40 min** (vs TikTok's ~10-min bursts) — stickier, longer, increasingly on TV [S8]. Surfaces: Home feed (default), Shorts shelf, Subscriptions, Search, Live, and now **Ask YouTube** conversational search [S6][S7].
+- **Retain.** The content library is the switching cost: 20 years of creators plus a recommendation profile per user. Creators are locked by cumulative earnings and their audience graph. Premium retention runs on ad-free + the Music bundle + offline. Plumbing that compounds quietly: cross-device resume, watch history, the subscription/notification graph. Premium subs at record adds; "largest non-trial increase since 2018" points to low churn [S1].
+- **Monetize — every line.**
+  - *In-stream/DR + brand ads* (skippable, bumper, masthead) — the ~$40B core [S4]; DR-led, brand secondary [S1].
+  - *Shorts ads* — creator-pool model; now per-hour competitive with in-stream in some geos [S3].
+  - *Premium / Music* — ad-free + background + downloads + Music; **Premium Lite** (cheaper, fewer perks) launched in 23 countries, +12 more planned [S1].
+  - *YouTube TV* — live-TV bundle (~$80+/mo `[est.]`) + sports genre packs + NFL Sunday Ticket [S3].
+  - *Creator direct-monetization* — channel memberships, Super Chat/Stickers/Thanks, Shopping/shoppable mastheads (piloted Cyber 5) [S5][S3].
+  - *Podcast ads* sold by curated genre; **Creator Partnerships** now Gemini-powered in Studio + Google Ads [S1].
+  - Price fences: ad-supported (free) → Premium Lite → Premium → YouTube TV, laddering by willingness-to-pay.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- **~2.70B** monthly logged-in-ish users (early 2025); ~half of all internet users [S4].
+- **>1B hours of video watched daily** overall; ~5B videos/day [S4].
+- **>1B hours/day on connected TV alone**; >150M U.S. CTV monthly viewers (>40% of U.S. population) [S9].
+- **>200M hours/day** of YouTube in the U.S. living room (Alphabet, Q1 2026) [S1].
+- **~115M channels** total (Aug 2025); **~69M active creators** (up from 61.8M in 2024) [S4].
+- **>10M channels publishing Shorts each day** (Mar 2026) [S1].
+- **500+ hours uploaded per minute** (~720K hours/day) [S4].
+
+**Market arcs (streaming / TV share, Nielsen The Gauge)**
+- **12.7%** of all U.S. TV time (Dec 2025) — #1 media company, 3+ consecutive years leading U.S. streaming watch time [S9][S1].
+- Netflix **~7.8%** for comparison (Apr 2025 Gauge) [S9].
+- Shorts **~35B daily views** vs TikTok ~50B, Reels ~18B; Shorts **~2B** monthly users [S8][S3].
+
+**Segments / verticals**
+- **Shorts:** >200B daily views; in some countries (incl. US) **higher revenue/watch-hour than in-stream** [S3].
+- **Podcasts:** >700M hours on living-room devices, +75% Y/Y (Oct 2025) [S3].
+- **Sports/TV:** NFL Sunday Ticket at record paid subs; YouTube TV sports tier + 10+ genre packs [S3].
+
+**Audited financials (segment lines, from Alphabet filings)**
+| Line | Q1 2026 | Q4 2025 | FY2025 |
+|---|---|---|---|
+| YouTube ads | $9.9B (+11%) [S1] | $11.4B (+9%) [S3] | — |
+| YouTube total (ads + subs) | — | — | **>$60B** [S2][S4] |
+| — of which ads `[est.]` | — | — | **~$40.4B** [S4] |
+| — of which subs `[est.]` | — | — | **~$20B** [S2][S4] |
+| Subscriptions, Platforms & Devices (incl. YT Music/Premium) | $12.4B (+19%) [S1] | $13.6B (+17%) [S3] | — |
+- Q4 2025 ads growth (+9%) held back by lapping 2024 U.S. election spend and the ad→sub mix shift [S3].
+- Alphabet total paid subscriptions **350M** (YouTube + Google One), "strongest quarter ever for consumer plans" [S1][S2].
+- **Premium/Music subscribers ~125M** (2025), up from ~100M early 2024 [S9][S4].
+
+**Unit economics (cross-ref `/follow-the-dollar`)**
+- Long-form: creator **55%** / YouTube **45%** of ad revenue. Shorts: creator **~45%** of a view-share-allocated creator pool [S10].
+- Of ~$40.4B 2025 ad revenue, **~$22B** went to creators `[est.]` [S5][S10].
+- Cumulative creator payout **>$70B over 3 years**; **>$32B** to partners in 2024 alone [S4][S3].
+- ARPU (average revenue per user) for Premium not disclosed; `[est.]` ~$13–14/mo blended across plans and geos incl. Premium Lite.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — a non-obvious mechanism, reframe, or "only-they-can-do-this."*
 
 **★ YouTube already won the living room — TV is now its #1 screen, not mobile**
@@ -59,72 +116,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"TV is the new mobile for YouTube."** The screen shift (TV overtaking mobile) is as big a platform reset as mobile was: new formats, new ad loads, new competitors (Netflix, not TikTok). Use on any "where is YouTube headed" prompt. [S9][S2]
 - **"Expansionary moment, not cannibalization."** Alphabet's framing that AI grows the pie (Search queries at all-time high) carries over to YouTube: Shorts didn't cannibalize long-form, it grew total watch time. Use on any "does X eat Y" question. [S3][S1]
 - **"The payout is the CAC."** Creator revenue-share is customer-acquisition spend for the supply side of a two-sided market, not a margin leak. Use on marketplace / unit-economics prompts. [S10]
 - **"Recommendation is the interface."** The feed, not the search box, is the product surface. Design decisions live in ranking, not navigation. Use on product-design prompts. [S2]
 - **"Cheaper serving funds the expansion."** Alphabet cut the cost of running Gemini per response by 78% in 2025 and core AI-response cost by >30% since Gemini 3. The same cost drop lets YouTube run AI features (Omni, recommendations) at scale without wrecking margins. [S1][S2][S3]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- **~2.70B** monthly logged-in-ish users (early 2025); ~half of all internet users [S4].
-- **>1B hours of video watched daily** overall; ~5B videos/day [S4].
-- **>1B hours/day on connected TV alone**; >150M U.S. CTV monthly viewers (>40% of U.S. population) [S9].
-- **>200M hours/day** of YouTube in the U.S. living room (Alphabet, Q1 2026) [S1].
-- **~115M channels** total (Aug 2025); **~69M active creators** (up from 61.8M in 2024) [S4].
-- **>10M channels publishing Shorts each day** (Mar 2026) [S1].
-- **500+ hours uploaded per minute** (~720K hours/day) [S4].
-
-**Market arcs (streaming / TV share, Nielsen The Gauge)**
-- **12.7%** of all U.S. TV time (Dec 2025) — #1 media company, 3+ consecutive years leading U.S. streaming watch time [S9][S1].
-- Netflix **~7.8%** for comparison (Apr 2025 Gauge) [S9].
-- Shorts **~35B daily views** vs TikTok ~50B, Reels ~18B; Shorts **~2B** monthly users [S8][S3].
-
-**Segments / verticals**
-- **Shorts:** >200B daily views; in some countries (incl. US) **higher revenue/watch-hour than in-stream** [S3].
-- **Podcasts:** >700M hours on living-room devices, +75% Y/Y (Oct 2025) [S3].
-- **Sports/TV:** NFL Sunday Ticket at record paid subs; YouTube TV sports tier + 10+ genre packs [S3].
-
-**Audited financials (segment lines, from Alphabet filings)**
-| Line | Q1 2026 | Q4 2025 | FY2025 |
-|---|---|---|---|
-| YouTube ads | $9.9B (+11%) [S1] | $11.4B (+9%) [S3] | — |
-| YouTube total (ads + subs) | — | — | **>$60B** [S2][S4] |
-| — of which ads `[est.]` | — | — | **~$40.4B** [S4] |
-| — of which subs `[est.]` | — | — | **~$20B** [S2][S4] |
-| Subscriptions, Platforms & Devices (incl. YT Music/Premium) | $12.4B (+19%) [S1] | $13.6B (+17%) [S3] | — |
-- Q4 2025 ads growth (+9%) held back by lapping 2024 U.S. election spend and the ad→sub mix shift [S3].
-- Alphabet total paid subscriptions **350M** (YouTube + Google One), "strongest quarter ever for consumer plans" [S1][S2].
-- **Premium/Music subscribers ~125M** (2025), up from ~100M early 2024 [S9][S4].
-
-**Unit economics (cross-ref `/follow-the-dollar`)**
-- Long-form: creator **55%** / YouTube **45%** of ad revenue. Shorts: creator **~45%** of a view-share-allocated creator pool [S10].
-- Of ~$40.4B 2025 ad revenue, **~$22B** went to creators `[est.]` [S5][S10].
-- Cumulative creator payout **>$70B over 3 years**; **>$32B** to partners in 2024 alone [S4][S3].
-- ARPU (average revenue per user) for Premium not disclosed; `[est.]` ~$13–14/mo blended across plans and geos incl. Premium Lite.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire (both sides of the market).**
-  - *Viewers:* default-installed on Android/Google TV/Chromecast; embedded across the web; Google Search video results funnel in; no direct cost to acquire a viewer, since distribution runs on Alphabet's own surfaces.
-  - *Creators:* the 55/45 revenue-share and >$70B cumulative payout are the acquisition spend; low-friction upload; Shorts lowered the creation bar (phone-only); Gemini Omni/Create lower it further [S10][S6][S7].
-- **Engage — the core loop.** Watch → recommendation engine learns → serves watch-next → session extends. Aha = "the feed knows what I want before I do." Frequency: multiple sessions/day; **YouTube session length ~40 min** (vs TikTok's ~10-min bursts) — stickier, longer, increasingly on TV [S8]. Surfaces: Home feed (default), Shorts shelf, Subscriptions, Search, Live, and now **Ask YouTube** conversational search [S6][S7].
-- **Retain.** The content library is the switching cost: 20 years of creators plus a recommendation profile per user. Creators are locked by cumulative earnings and their audience graph. Premium retention runs on ad-free + the Music bundle + offline. Plumbing that compounds quietly: cross-device resume, watch history, the subscription/notification graph. Premium subs at record adds; "largest non-trial increase since 2018" points to low churn [S1].
-- **Monetize — every line.**
-  - *In-stream/DR + brand ads* (skippable, bumper, masthead) — the ~$40B core [S4]; DR-led, brand secondary [S1].
-  - *Shorts ads* — creator-pool model; now per-hour competitive with in-stream in some geos [S3].
-  - *Premium / Music* — ad-free + background + downloads + Music; **Premium Lite** (cheaper, fewer perks) launched in 23 countries, +12 more planned [S1].
-  - *YouTube TV* — live-TV bundle (~$80+/mo `[est.]`) + sports genre packs + NFL Sunday Ticket [S3].
-  - *Creator direct-monetization* — channel memberships, Super Chat/Stickers/Thanks, Shopping/shoppable mastheads (piloted Cyber 5) [S5][S3].
-  - *Podcast ads* sold by curated genre; **Creator Partnerships** now Gemini-powered in Studio + Google Ads [S1].
-  - Price fences: ad-supported (free) → Premium Lite → Premium → YouTube TV, laddering by willingness-to-pay.
 
 ---
 

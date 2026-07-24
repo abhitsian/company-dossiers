@@ -5,9 +5,43 @@
 > **v1 — earnings-grounded + web research.** Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Interview-prep tuned (product sense / strategy / design / metrics). Every fact `[S#]`-tagged; estimates labeled "(est.)".*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — 30-day free trial as the front door; **partner-seeded distribution** is the standout channel: Chase Sapphire Reserve/Preferred bundle DashPass free, T-Mobile gives 12 months free, RBC/other card tie-ins [S7][S10]. These bring in high-intent, high-LTV members at near-zero DoorDash CAC and set up a payment relationship. Also: student/SNAP-EBT discounted tiers to widen the top of funnel [S8][S9]. Family Sharing adds a second member per household for free [S7].
+- **Engage** — the core loop is *fee relief made visible*: the green DashPass badge + "$0 delivery fee over $12" on every eligible merchant, so the member feels the saving at each checkout [S3][S6]. Aha = the first 2–3 orders where saved fees exceed the $9.99. Engagement widens surface-by-surface: restaurants → grocery/DashMart → retail → pickup (5% back) → in-store (Dash Forward, Sept'25) → Lyft/streaming, each adding occasions to the member's week [S1][S2].
+- **Retain** — the top retention driver in the business; DoorDash calls DashPass "critical" and the "core driver of consumer relationship since 2017/2018" [S2]. The switching cost isn't contractual (cancel anytime) — it's *sunk habit + accumulated benefit breadth*: once grocery, pickup credits, Lyft, and streaming all run through the membership, the member has several reasons not to cancel. Retention improving Y/Y even at a mature base [S1].
+- **Monetize** — three stacked lines: (1) **membership fee** ($9.99/$96, counted inside GOV) [S4]; (2) **higher marketplace take from member frequency** — the fee is loss-leader-ish, the order stream is the payoff [S2]; (3) **ad revenue on the traffic the member generates** — Ads "at a record high," CPG/SMB/retail advertisers, and members are the highest-frequency eyeballs [S1]. Price fences: subtotal minimums ($12/$25) push basket size up; tiered pricing (student/SNAP) segments willingness-to-pay.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- DashPass(+Wolt+/Deliveroo Plus) subscribers: **10M+ (Q4'21) → 15M+ (2022) → 18M+ (2023) → 22M+ (2024) → ~35M (2025)** [S5][S6].
+- DoorDash US MAUs: **56M**, "over 100M annual customers," all-time high (Q4 2025) [S2]; 42M+ MAUs Dec-2024 [S6].
+- Marketplace GOV **$29.7B in Q4 2025, +39% Y/Y** — and the GOV definition *includes DashPass/Wolt+/Deliveroo Plus membership fees* [S4]. (GOV = gross order value, the total dollar value of orders.)
+- Q1 2026 parent revenue **$4.04B, +33% Y/Y**; EPS $1.14 [S1].
+
+**Member behavior**
+- Avg DashPass customer orders "a couple of times a week" [S2]; third-party est. ~3 orders/week ≈ ~12/month (est., not DoorDash-confirmed) [S6].
+- ~**30% of US MAUs order outside restaurants**; stated goal 100% [S1][S2]. 25%+ of MAUs bought ≥1 new-vertical category by end-2024 [S6].
+- DoorDash won "**1 in every 2 new customers**" trying grocery delivery for the first time [S1].
+
+**Pricing & mechanics (US)**
+- Fee: **$9.99/mo** or **$96/yr ($8/mo)**; **student 50% off (~$4.99/mo)**; **SNAP/EBT $4.99/mo** for one year [S8][S9].
+- Benefit floor: **$0 delivery fee + reduced service fee on subtotals ≥ $12** (restaurants/convenience) or **≥ $25** (grocery) [S3][S9].
+- Service fee: **~10% for members vs ~15–18% non-members**; avg saving **~$4–5 per eligible order**; delivery-fee saving **$2.99–$6.99** [S9].
+- Extras: **5% back in DoorDash credits on pickup**, member-only deals, **5–10% off Lyft (up to 4 rides/mo)**, **Family Sharing** (1 household member free), and (2026) **Max with Ads** bundled for annual members [S7][S8].
+
+**Competitive**
+- **Uber One and DashPass** both **$9.99/mo, $96/yr** [S5][S7]; Uber One offers up to 10% off orders + 6% Uber Cash on rides — one membership across rides+eats; DashPass leans on local restaurants + Lyft + streaming perks [S7].
+
+**Unit economics (directional)**
+- DashPass orders carry **lower contribution margin per order** than non-member orders; named as a drag on US restaurant margin improvement [S2][S6]. Offset thesis: higher retention × higher frequency → more gross-profit dollars per member-year [S2]. (Exact per-order figures not disclosed.)
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on a DashPass prompt. Ranked strongest first.*
 
 **★ DashPass is priced to lose money on the order and win on the relationship**
@@ -60,7 +94,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Best-of-breed, not exclusive."** Memberships co-exist (streaming model); compete on winning each occasion, not on being someone's only subscription. → positioning / competitive prompts. [S1]
 - **"Legible value per transaction."** DashPass shows the saving *on every order* ("$0 delivery fee over $12"), not points you have to redeem later — value the member can feel each time. → loyalty-design / retention prompts. [S3][S6]
@@ -68,42 +102,6 @@
 - **"Occasions, not users."** The ceiling is the member's 100+ monthly eating occasions, of which DoorDash owns single digits. → market-sizing / growth-lever prompts. [S1][S2]
 - **"Hold the price, grow the box."** Make more by adding value inside a fixed fee (lock-in), not by raising the fee (extraction). → pricing prompts. [S2][S8]
 - **"The channel partner, not the disintermediator."** Google Food Ordering / Amazon-search history: someone else can own discovery and *still* lose the customer, because retention lives in fulfillment. → AI-threat / moats prompts. [S1][S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- DashPass(+Wolt+/Deliveroo Plus) subscribers: **10M+ (Q4'21) → 15M+ (2022) → 18M+ (2023) → 22M+ (2024) → ~35M (2025)** [S5][S6].
-- DoorDash US MAUs: **56M**, "over 100M annual customers," all-time high (Q4 2025) [S2]; 42M+ MAUs Dec-2024 [S6].
-- Marketplace GOV **$29.7B in Q4 2025, +39% Y/Y** — and the GOV definition *includes DashPass/Wolt+/Deliveroo Plus membership fees* [S4]. (GOV = gross order value, the total dollar value of orders.)
-- Q1 2026 parent revenue **$4.04B, +33% Y/Y**; EPS $1.14 [S1].
-
-**Member behavior**
-- Avg DashPass customer orders "a couple of times a week" [S2]; third-party est. ~3 orders/week ≈ ~12/month (est., not DoorDash-confirmed) [S6].
-- ~**30% of US MAUs order outside restaurants**; stated goal 100% [S1][S2]. 25%+ of MAUs bought ≥1 new-vertical category by end-2024 [S6].
-- DoorDash won "**1 in every 2 new customers**" trying grocery delivery for the first time [S1].
-
-**Pricing & mechanics (US)**
-- Fee: **$9.99/mo** or **$96/yr ($8/mo)**; **student 50% off (~$4.99/mo)**; **SNAP/EBT $4.99/mo** for one year [S8][S9].
-- Benefit floor: **$0 delivery fee + reduced service fee on subtotals ≥ $12** (restaurants/convenience) or **≥ $25** (grocery) [S3][S9].
-- Service fee: **~10% for members vs ~15–18% non-members**; avg saving **~$4–5 per eligible order**; delivery-fee saving **$2.99–$6.99** [S9].
-- Extras: **5% back in DoorDash credits on pickup**, member-only deals, **5–10% off Lyft (up to 4 rides/mo)**, **Family Sharing** (1 household member free), and (2026) **Max with Ads** bundled for annual members [S7][S8].
-
-**Competitive**
-- **Uber One and DashPass** both **$9.99/mo, $96/yr** [S5][S7]; Uber One offers up to 10% off orders + 6% Uber Cash on rides — one membership across rides+eats; DashPass leans on local restaurants + Lyft + streaming perks [S7].
-
-**Unit economics (directional)**
-- DashPass orders carry **lower contribution margin per order** than non-member orders; named as a drag on US restaurant margin improvement [S2][S6]. Offset thesis: higher retention × higher frequency → more gross-profit dollars per member-year [S2]. (Exact per-order figures not disclosed.)
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — 30-day free trial as the front door; **partner-seeded distribution** is the standout channel: Chase Sapphire Reserve/Preferred bundle DashPass free, T-Mobile gives 12 months free, RBC/other card tie-ins [S7][S10]. These bring in high-intent, high-LTV members at near-zero DoorDash CAC and set up a payment relationship. Also: student/SNAP-EBT discounted tiers to widen the top of funnel [S8][S9]. Family Sharing adds a second member per household for free [S7].
-- **Engage** — the core loop is *fee relief made visible*: the green DashPass badge + "$0 delivery fee over $12" on every eligible merchant, so the member feels the saving at each checkout [S3][S6]. Aha = the first 2–3 orders where saved fees exceed the $9.99. Engagement widens surface-by-surface: restaurants → grocery/DashMart → retail → pickup (5% back) → in-store (Dash Forward, Sept'25) → Lyft/streaming, each adding occasions to the member's week [S1][S2].
-- **Retain** — the top retention driver in the business; DoorDash calls DashPass "critical" and the "core driver of consumer relationship since 2017/2018" [S2]. The switching cost isn't contractual (cancel anytime) — it's *sunk habit + accumulated benefit breadth*: once grocery, pickup credits, Lyft, and streaming all run through the membership, the member has several reasons not to cancel. Retention improving Y/Y even at a mature base [S1].
-- **Monetize** — three stacked lines: (1) **membership fee** ($9.99/$96, counted inside GOV) [S4]; (2) **higher marketplace take from member frequency** — the fee is loss-leader-ish, the order stream is the payoff [S2]; (3) **ad revenue on the traffic the member generates** — Ads "at a record high," CPG/SMB/retail advertisers, and members are the highest-frequency eyeballs [S1]. Price fences: subtotal minimums ($12/$25) push basket size up; tiered pricing (student/SNAP) segments willingness-to-pay.
 
 ---
 

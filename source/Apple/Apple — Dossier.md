@@ -4,9 +4,67 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates. Write headline-bullet → sub-bullets, scannable.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — The main channel is the hardware sale itself (iPhone $57–85B/qtr is both the product and the moment a customer is won). New-to-product ratios are the tell: over half of Watch buyers, ~half of Mac buyers, over half of iPad buyers are first-timers; in China/India the majority are new [S2][S1]. Switchers into iPhone growing "strong double-digit" [S2]. The 2.5B installed base is then the channel for *every other* product and service — cross-sell, not paid acquisition.
+- **Engage** — The device is the daily loop; Apple Intelligence, camera, Center Stage, and now on-device AI are the hooks across the platform [S1]. Health is a rising hook — users "wearing their watch to sleep" to check scores creates a 24-hour engagement surface, and hypertension alerts create doctor-conversation moments [S2]. App Store: >850M weekly users [S2]. Apple TV as an engagement/retention surface (F1, MLS in 100+ countries no blackouts, Friday Night Baseball; Dec viewership +36% YoY) [S1][S2].
+- **Retain** — Switching costs are the ecosystem: iMessage, Wallet/Digital ID, Apple Pay, purchased apps/content, Watch-iPhone pairing, Health data history. 99% iPhone satisfaction and 96% Watch satisfaction are the early signs of retention [S1][S2]. Paid subscriptions growing double-digit; transacting and paid accounts at all-time highs [S2]. Health features that "save lives" are the strongest lock-in — you don't drop the device watching your hypertension [S1].
+- **Monetize** — Two engines. (1) **Products**: hardware sale at ~38.7% GM, in-house chips protecting and lifting that margin [S1][S2]. (2) **Services** at ~76.7% GM: App Store commissions, subscriptions (Music, TV+, iCloud, Arcade, Fitness+), payment services (Apple Pay, Tap to Pay in 50+ markets), cloud, and the fast-rising **advertising** business — App Store search ads (expanded), Apple Maps ads launching summer US/Canada [S1][S2]. New enterprise wedge: **Apple Business** ("all-in-one platform combining hardware, software and enterprise services") [S1]. Price fences: premium device tiers (Pro/Pro Max/Air), subscription tiers, and now ads layered on the free surfaces.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, rare, dated numbers — grouped by theme.*
+
+**Headline scale & installed base**
+- Installed base **>2.5B active devices**, all-time high across every category and geography [S1][S2]
+- App Store **>850M weekly average users**; developers earned **>$550B since 2008** [S2]
+- iPhone US customer satisfaction **99%** (451 Research); Watch US satisfaction **96%** [S1][S2]
+- Apple Pay stopped **>$1B in fraud** for partners last year [S2]
+
+**Market arcs**
+- Greater China: **+38%** (Dec qtr, record iPhone quarter), **+28%** (Mar qtr, record), H1 **+33%** — iPhone the top-selling model in urban China, Mac mini top desktop, MacBook Air top laptop [S1][S2]
+- India: strong double-digit, Dec-qtr revenue record; the majority of Mac/iPad/Watch buyers there are new to the product [S2]
+- Over half of Apple Watch buyers new to the product in the quarter [S1][S2]
+
+**Audited financials (latest two quarters)**
+
+| Metric | Q1 FY26 (Dec qtr) [S2] | Q2 FY26 (Mar qtr) [S1] |
+|---|---|---|
+| Total revenue | $143.8B, +16% | $111.2B, +17% |
+| iPhone | $85.3B, +23% | $57B, +22% |
+| Mac | $8.4B, −7% | $8.4B, +6% |
+| iPad | $8.6B, +6% | $6.9B, +8% |
+| Wearables/Home/Acc. | $11.5B, −2% | $7.9B, +5% |
+| Services | $30.0B, +14% | $31B, +16% |
+| Company gross margin | 48.2% | 49.3% |
+| — Products GM | 40.7% | 38.7% |
+| — Services GM | 76.5% | 76.7% |
+| Net income | $42.1B, +19% | $29.6B |
+| Diluted EPS | $2.84, +19% | $2.01, +22% |
+| Operating cash flow | $53.9B | $28.7B |
+| OpEx | $18.4B, +19% | $18.9B, +24% |
+
+**Capital return & balance sheet**
+- Q1: ~$32B returned ($25B buybacks / 93M shares + $3.9B dividends); cash $145B, debt $91B, **net cash $54B** [S2]
+- Q2: $15B returned ($11B buybacks / 42M shares + $3.8B dividends); cash $147B, debt $85B, **net cash $62B**; new **+$100B** buyback authorization; dividend raised 4% to $0.27 [S1]
+
+**Cost / tariff signals**
+- Dec-qtr tariff cost **~$1.4B**, landed in-range [S2]
+- Memory-cost path: minimal (Dec) → higher (Mar) → "significantly higher" (June) → growing impact beyond June [S1][S2]
+- FX: **+2.5pp** tailwind to Mar-qtr growth [S1]
+
+**Guidance (as given)**
+- Q2 (given in Jan): revenue +13% to +16%; GM 48–49% [S2]
+- Q3/June (given in Apr): revenue +14% to +17%; GM **47.5–48.5%** (the memory cost shows up here); OpEx $18.8–19.1B; tax ~17% [S1]
+
+**Unit economics (cross-ref `/follow-the-dollar`)**
+- Services carries **~76.7% gross margin** vs Products **~38.7%** — a ~2x margin gap, so every dollar of revenue that moves from hardware to Services is about twice as profitable [S1]
+- The installed base of 2.5B is the CAC-free distribution engine (CAC = cost to acquire a customer): you pay to acquire once (the device sale), then Services earn for the device's life — App Store take, subscriptions, ads, cloud, payments all ride the same base with near-zero added acquisition cost [S1][S2]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Apple's growth ceiling isn't demand — it's the supply of the leading-edge chips its own processors are built on**
@@ -77,7 +135,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can wield them on any prompt.*
 
 - **"AI as an essential intuitive part of the experience, not a standalone feature."** Apple won't ship or price AI as a separate product; it's built into camera, translation, Siri, chips. → any "how would you monetize AI?" or "should AI be a paid tier?" prompt — the answer can be *ecosystem value*, not a line item. [S1][S2]
@@ -87,66 +145,6 @@
 - **"An incredibly strong foundation for new growth opportunities."** The installed base is a *distribution asset* to launch onto, not a saturation risk. → growth prompts on mature products. [S2]
 - **"Science-backed insights that prompt conversations with care providers."** Health value is the doctor conversation it triggers, not the sensor reading. → product-value prompts — value is the downstream action, not the feature. [S1]
 - **"The interactive and the non-interactive side both do better."** (Netflix framing, applies to Apple's ecosystem) — each side feeds the other, e.g. Apple Intelligence sells chips and chips sell Apple Intelligence.
-
----
-
-## 3. Numbers that signal depth
-*Specific, rare, dated numbers — grouped by theme.*
-
-**Headline scale & installed base**
-- Installed base **>2.5B active devices**, all-time high across every category and geography [S1][S2]
-- App Store **>850M weekly average users**; developers earned **>$550B since 2008** [S2]
-- iPhone US customer satisfaction **99%** (451 Research); Watch US satisfaction **96%** [S1][S2]
-- Apple Pay stopped **>$1B in fraud** for partners last year [S2]
-
-**Market arcs**
-- Greater China: **+38%** (Dec qtr, record iPhone quarter), **+28%** (Mar qtr, record), H1 **+33%** — iPhone the top-selling model in urban China, Mac mini top desktop, MacBook Air top laptop [S1][S2]
-- India: strong double-digit, Dec-qtr revenue record; the majority of Mac/iPad/Watch buyers there are new to the product [S2]
-- Over half of Apple Watch buyers new to the product in the quarter [S1][S2]
-
-**Audited financials (latest two quarters)**
-
-| Metric | Q1 FY26 (Dec qtr) [S2] | Q2 FY26 (Mar qtr) [S1] |
-|---|---|---|
-| Total revenue | $143.8B, +16% | $111.2B, +17% |
-| iPhone | $85.3B, +23% | $57B, +22% |
-| Mac | $8.4B, −7% | $8.4B, +6% |
-| iPad | $8.6B, +6% | $6.9B, +8% |
-| Wearables/Home/Acc. | $11.5B, −2% | $7.9B, +5% |
-| Services | $30.0B, +14% | $31B, +16% |
-| Company gross margin | 48.2% | 49.3% |
-| — Products GM | 40.7% | 38.7% |
-| — Services GM | 76.5% | 76.7% |
-| Net income | $42.1B, +19% | $29.6B |
-| Diluted EPS | $2.84, +19% | $2.01, +22% |
-| Operating cash flow | $53.9B | $28.7B |
-| OpEx | $18.4B, +19% | $18.9B, +24% |
-
-**Capital return & balance sheet**
-- Q1: ~$32B returned ($25B buybacks / 93M shares + $3.9B dividends); cash $145B, debt $91B, **net cash $54B** [S2]
-- Q2: $15B returned ($11B buybacks / 42M shares + $3.8B dividends); cash $147B, debt $85B, **net cash $62B**; new **+$100B** buyback authorization; dividend raised 4% to $0.27 [S1]
-
-**Cost / tariff signals**
-- Dec-qtr tariff cost **~$1.4B**, landed in-range [S2]
-- Memory-cost path: minimal (Dec) → higher (Mar) → "significantly higher" (June) → growing impact beyond June [S1][S2]
-- FX: **+2.5pp** tailwind to Mar-qtr growth [S1]
-
-**Guidance (as given)**
-- Q2 (given in Jan): revenue +13% to +16%; GM 48–49% [S2]
-- Q3/June (given in Apr): revenue +14% to +17%; GM **47.5–48.5%** (the memory cost shows up here); OpEx $18.8–19.1B; tax ~17% [S1]
-
-**Unit economics (cross-ref `/follow-the-dollar`)**
-- Services carries **~76.7% gross margin** vs Products **~38.7%** — a ~2x margin gap, so every dollar of revenue that moves from hardware to Services is about twice as profitable [S1]
-- The installed base of 2.5B is the CAC-free distribution engine (CAC = cost to acquire a customer): you pay to acquire once (the device sale), then Services earn for the device's life — App Store take, subscriptions, ads, cloud, payments all ride the same base with near-zero added acquisition cost [S1][S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — The main channel is the hardware sale itself (iPhone $57–85B/qtr is both the product and the moment a customer is won). New-to-product ratios are the tell: over half of Watch buyers, ~half of Mac buyers, over half of iPad buyers are first-timers; in China/India the majority are new [S2][S1]. Switchers into iPhone growing "strong double-digit" [S2]. The 2.5B installed base is then the channel for *every other* product and service — cross-sell, not paid acquisition.
-- **Engage** — The device is the daily loop; Apple Intelligence, camera, Center Stage, and now on-device AI are the hooks across the platform [S1]. Health is a rising hook — users "wearing their watch to sleep" to check scores creates a 24-hour engagement surface, and hypertension alerts create doctor-conversation moments [S2]. App Store: >850M weekly users [S2]. Apple TV as an engagement/retention surface (F1, MLS in 100+ countries no blackouts, Friday Night Baseball; Dec viewership +36% YoY) [S1][S2].
-- **Retain** — Switching costs are the ecosystem: iMessage, Wallet/Digital ID, Apple Pay, purchased apps/content, Watch-iPhone pairing, Health data history. 99% iPhone satisfaction and 96% Watch satisfaction are the early signs of retention [S1][S2]. Paid subscriptions growing double-digit; transacting and paid accounts at all-time highs [S2]. Health features that "save lives" are the strongest lock-in — you don't drop the device watching your hypertension [S1].
-- **Monetize** — Two engines. (1) **Products**: hardware sale at ~38.7% GM, in-house chips protecting and lifting that margin [S1][S2]. (2) **Services** at ~76.7% GM: App Store commissions, subscriptions (Music, TV+, iCloud, Arcade, Fitness+), payment services (Apple Pay, Tap to Pay in 50+ markets), cloud, and the fast-rising **advertising** business — App Store search ads (expanded), Apple Maps ads launching summer US/Canada [S1][S2]. New enterprise wedge: **Apple Business** ("all-in-one platform combining hardware, software and enterprise services") [S1]. Price fences: premium device tiers (Pro/Pro Max/Air), subscription tiers, and now ads layered on the free surfaces.
 
 ---
 

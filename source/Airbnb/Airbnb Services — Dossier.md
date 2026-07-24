@@ -5,9 +5,59 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill in for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag), not appended. Facts grounded in a source; estimates labeled `(est.)`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Two doors: (1) existing Airbnb traffic (~1.5B visits) cross-sold a service around a stay-search; (2) net-new guests who come only for a service or experience (~half of experience bookings are unattached) and are then pointed toward a stay. [S1][S8][S9] Marketing spend in 2026 explicitly includes acquiring supply "not just homes, but experiences, services and hotels." [S2] Delta miles and boutique-hotel breadth widen the front door. [S1]
+- **Engage** — Core loop: book a stay → app suggests services and experiences "based on where you're staying and who you're with." [S5] The aha: the app anticipates the in-trip job (dinner, transfer, groceries on arrival) so the guest never leaves the app to solve it. Higher frequency is the point: services turn a 1–2×/year stay app into a monthly-use app. [S2] Surfaces: in-app post-booking suggestions, a standalone Services tab, and (roadmap) an AI trip concierge. [S9]
+- **Retain** — Switching cost = built-up identity + reviews + payment credentials + (borrowed) Delta miles. [S1][S2] Weak spot: no native loyalty program, so repeat behavior leans on habit and suggestion quality rather than locked-in points. [S1]
+- **Monetize** — 15% on services, 20% on experiences, one price to the guest; third-party services (grocery, rides, luggage) pay out through referral/rev-share economics thinner than first-party. [S3][S5][S6] The real thesis is indirect: the downstream stay conversion, not the service take. [S1]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product (Airbnb Services)**
+| Fact | Value | Source |
+|---|---|---|
+| Launch | May 13, 2025 (2025 Summer Release; app rebuilt ground-up) | [S4][S9] |
+| Initial footprint | 10 service categories, 260 cities | [S3][S5][S9] |
+| Categories | chefs, photography, massage, spa, personal training, hair, makeup, nails, prepared meals, catering | [S3][S5] |
+| Entry price | many services < $50; range up to Michelin chefs / elite trainers | [S3][S5] |
+| Host applications | 110,000+ (Services + Experiences) | [S8] |
+| Avg host experience | ~10 years; ID-verified; licenses/certs required | [S5] |
+| Rating since launch | >4.9 / 5.0 | [S8] |
+
+**Take rate & business model**
+| Line | Take rate | Source |
+|---|---|---|
+| Services commission | 15% | [S3][S5] |
+| Experiences commission | 20% | [S3][S5] |
+| Guest-facing price | single consolidated price (take rate hidden) | [S3] |
+
+**2026 expansion (2026 Summer Release, third-party services)**
+| Service | Partner | Footprint | Guest incentive | Source |
+|---|---|---|---|---|
+| Grocery delivery | Instacart | 25+ US cities | $0 delivery, $10 off $50+ | [S6] |
+| Airport pickup | Welcome Pickups | 160+ cities | 20% off every ride | [S6] |
+| Car rentals | (partner) | — | 20% credit toward future stay (first use) | [S6] |
+| Luggage storage | Bounce | 15,000+ locations / 175 cities | — | [S6] |
+| Boutique hotels (adjacent) | direct | 20 destinations | — | [S6] |
+
+**Demand flywheel (the metric that matters)**
+- ~¼ of new guests who book an **experience** go on to book a **stay or service**. [S1]
+- ~⅓ of experience-bookers book a **stay within 90 days**. [S1]
+- ~50% of experience bookings are NOT attached to a home booking (Q3'25) — a genuinely new guest segment, but also weak in-trip attach. [S8]
+
+**Parent context (frames the optionality)**
+- Airbnb Q1'26: $2.7B rev (+18%), $29B GBV (+19%), $519M adj. EBITDA (+24%); ~1.5B annual visits. [S1][S9]
+- CFO: "we don't expect meaningful revenue from our new businesses in the near term." [S8]
+
+**Unit economics (est. — Airbnb does not break out Services)**
+- A $60 massage at 15% take = ~$9 gross booking revenue; on third-party grocery the take flows through Instacart's economics, so Airbnb's cut is thinner (est. referral fee, undisclosed). The dollar case for Services rests on *conversion value* (the downstream stay), not the per-service take. `(est.)`
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on an Airbnb Services prompt.*
 
 **★ Services is a demand-side conversion play disguised as a supply marketplace**
@@ -57,7 +107,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"The service is the acquisition funnel, not the product."** New guests enter cheap via a service or experience, then convert to higher-value stays (¼ do; ⅓ within 90 days). Use on any "should company X enter a low-margin adjacency" prompt. [S1]
 - **"20%-then-10% category expansion."** The cost of the Nth adjacent offering falls because the trust/payments/identity stack is reused. Use on portfolio-expansion and focus-critique prompts. [S1]
@@ -65,58 +115,6 @@
 - **"Strong enough to stand alone, better together."** Every offering must be independently viable AND compound the others — the anti-bundle-crutch test. [S2]
 - **"Higher-frequency beyond the big trip."** Stays happen ~1–2×/year; services and experiences make Airbnb an app you open monthly, not yearly. Use on engagement/frequency prompts. [S2]
 - **"The trip, broadly defined."** The unifying noun that lets homes → experiences → services → hotels → grocery all belong to one product. Use on "what business are you in." [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product (Airbnb Services)**
-| Fact | Value | Source |
-|---|---|---|
-| Launch | May 13, 2025 (2025 Summer Release; app rebuilt ground-up) | [S4][S9] |
-| Initial footprint | 10 service categories, 260 cities | [S3][S5][S9] |
-| Categories | chefs, photography, massage, spa, personal training, hair, makeup, nails, prepared meals, catering | [S3][S5] |
-| Entry price | many services < $50; range up to Michelin chefs / elite trainers | [S3][S5] |
-| Host applications | 110,000+ (Services + Experiences) | [S8] |
-| Avg host experience | ~10 years; ID-verified; licenses/certs required | [S5] |
-| Rating since launch | >4.9 / 5.0 | [S8] |
-
-**Take rate & business model**
-| Line | Take rate | Source |
-|---|---|---|
-| Services commission | 15% | [S3][S5] |
-| Experiences commission | 20% | [S3][S5] |
-| Guest-facing price | single consolidated price (take rate hidden) | [S3] |
-
-**2026 expansion (2026 Summer Release, third-party services)**
-| Service | Partner | Footprint | Guest incentive | Source |
-|---|---|---|---|---|
-| Grocery delivery | Instacart | 25+ US cities | $0 delivery, $10 off $50+ | [S6] |
-| Airport pickup | Welcome Pickups | 160+ cities | 20% off every ride | [S6] |
-| Car rentals | (partner) | — | 20% credit toward future stay (first use) | [S6] |
-| Luggage storage | Bounce | 15,000+ locations / 175 cities | — | [S6] |
-| Boutique hotels (adjacent) | direct | 20 destinations | — | [S6] |
-
-**Demand flywheel (the metric that matters)**
-- ~¼ of new guests who book an **experience** go on to book a **stay or service**. [S1]
-- ~⅓ of experience-bookers book a **stay within 90 days**. [S1]
-- ~50% of experience bookings are NOT attached to a home booking (Q3'25) — a genuinely new guest segment, but also weak in-trip attach. [S8]
-
-**Parent context (frames the optionality)**
-- Airbnb Q1'26: $2.7B rev (+18%), $29B GBV (+19%), $519M adj. EBITDA (+24%); ~1.5B annual visits. [S1][S9]
-- CFO: "we don't expect meaningful revenue from our new businesses in the near term." [S8]
-
-**Unit economics (est. — Airbnb does not break out Services)**
-- A $60 massage at 15% take = ~$9 gross booking revenue; on third-party grocery the take flows through Instacart's economics, so Airbnb's cut is thinner (est. referral fee, undisclosed). The dollar case for Services rests on *conversion value* (the downstream stay), not the per-service take. `(est.)`
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Two doors: (1) existing Airbnb traffic (~1.5B visits) cross-sold a service around a stay-search; (2) net-new guests who come only for a service or experience (~half of experience bookings are unattached) and are then pointed toward a stay. [S1][S8][S9] Marketing spend in 2026 explicitly includes acquiring supply "not just homes, but experiences, services and hotels." [S2] Delta miles and boutique-hotel breadth widen the front door. [S1]
-- **Engage** — Core loop: book a stay → app suggests services and experiences "based on where you're staying and who you're with." [S5] The aha: the app anticipates the in-trip job (dinner, transfer, groceries on arrival) so the guest never leaves the app to solve it. Higher frequency is the point: services turn a 1–2×/year stay app into a monthly-use app. [S2] Surfaces: in-app post-booking suggestions, a standalone Services tab, and (roadmap) an AI trip concierge. [S9]
-- **Retain** — Switching cost = built-up identity + reviews + payment credentials + (borrowed) Delta miles. [S1][S2] Weak spot: no native loyalty program, so repeat behavior leans on habit and suggestion quality rather than locked-in points. [S1]
-- **Monetize** — 15% on services, 20% on experiences, one price to the guest; third-party services (grocery, rides, luggage) pay out through referral/rev-share economics thinner than first-party. [S3][S5][S6] The real thesis is indirect: the downstream stay conversion, not the service take. [S1]
 
 ---
 

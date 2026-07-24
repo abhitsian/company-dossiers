@@ -4,9 +4,79 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Both sources ([S1] Q1'26, [S2] Q4'25) are Q&A-only transcripts — no prepared remarks, so most figures are qualitative and management-volunteered. No segment revenue table, CapEx, or buyback figure was disclosed in either. Estimates are labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- New-vertical grocery as an acquisition engine: ~1 in 2 new-to-industry grocery customers captured. [S1] Getting existing restaurant MAUs to cross into new categories (the 30%→100% crossover) is the cheapest acquisition — same user, new job. [S1][S2]
+- Channel partners (Google historically; AI agents prospectively) drive "a small percentage" of traffic — treated as rentable top-of-funnel, not owned. [S1][S2]
+- In-store business (Dash Forward, Sept '25) sends foot traffic to restaurants via DashPass access/value — an acquire/re-engage hybrid. [S2]
+
+**Engage**
+- Core loop: order → fulfill end-to-end → expand into adjacent categories (restaurant → grocery → retail → DashMart). Frequency thesis: mid-week "quick runs" + weekend "stock-up" baskets; each successive cohort adopts faster; existing cohorts grow share of wallet. [S2]
+- The aha = the exact item arrives, in-stock, on time — fulfillment quality is the engagement hook, not discovery. [S1]
+- Surface-by-surface: DashPass (membership), Ads (merchant-facing), DoorDash for Business (corporate: DashPass + Meal Manager + catering + group ordering, newly launched workplace catering). [S1]
+
+**Retain**
+- DashPass is the retention spine ("critical," core since 2017/2018): record subscribers in Q4 AND FY25; growth from both sign-ups and retention, across DoorDash, Deliveroo, and Wolt (record quarter). [S1][S2]
+- Switching cost = accumulated multi-category habit + membership value expansion (more categories at "effectively the same fee"). [S2]
+- Boring plumbing that compounds: the proprietary physical-world catalog (fewer substitutions/out-of-stocks via DashMart Fulfillment Services) directly attacks the #1 grocery churn driver. [S1]
+
+**Monetize**
+- **Marketplace commissions** (restaurant + new verticals) — primary line, GOV-driven; no take-rate disclosed.
+- **DashPass / memberships** — subscription; monetized through retention + frequency + gross-profit dollars, not price hikes ("effectively the same fee" while adding categories). [S2]
+- **Ads** — "record high," fastest-growing; SMBs, large restaurant/retail advertisers, and CPG; Smart Campaigns (an agent that buys ROI-positive campaigns for merchants); Symbiosis-driven advertiser + spend growth. Expanding into off-site/syndicated ads, in-store, and buying on behalf of advertisers off DoorDash. Reinvested, not margined. [S1][S2]
+- **DoorDash for Business** — corporate/catering line, "off to a very great start." [S1]
+- Price fences: lower ad load than rivals (a deliberate consumer-experience ceiling on monetization). [S1]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- MAUs at all-time high; **56M US MAUs / "over 100 million annual customers"** (Q4'25). [S2]
+- Operating in **"40-plus geographies."** [S2]
+- **~30% of US MAUs order outside restaurants**; stated goal 100% over time. [S1][S2]
+- **~1 in 2** new-to-industry grocery-delivery customers captured by DoorDash. [S1]
+- Volume-share leader in grocery since fall; "continued to extend" through Q4→Q1. [S1]
+
+**Market arcs**
+- Google Food Ordering ran ~**8 years** (~2016 launch), multiple-fold DoorDash traffic, retention "a fraction." [S1][S2]
+- Eating-alone occasions: **20–25/week, 100+/month**; DashPass customer orders "a couple of times a week" — single-digit-% penetrated. [S1][S2]
+- AI-written code: **~2/3** of codebase; **90%+** engineer daily active usage of coding agents. [S1][S2]
+
+**Segments / verticals**
+- New-vertical portfolio: **gross-profit positive in 2H26** (management guide, "trending well"). [S1][S2]
+- International ex-Deliveroo: **contribution-profit positive in 2H26**; retail+grocery **unit-economic positive in 2H26**. [S2]
+- Symbiosis (ads acquisition): "**doubled** the number of advertisers... **tripled** the spend." [S2]
+- SevenRooms: adding venues "**50% faster** post-acquisition." [S2]
+- DashMart Fulfillment Services partners named: **Kroger, CVS**. [S2]
+
+**Audited financials (from transcript headers — Q&A-only, so limited)**
+
+| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
+|---|---|---|
+| Revenue | $4.04B, +33.11% Y/Y (missed by $114.80M) | $3.96B, +37.66% Y/Y (missed by $31M) |
+| EPS | $1.14 (beat by $0.08) | $1.27 (missed by $0.02) |
+| Rev growth (header stat) | — | 30.96% Y/Y |
+| Market cap | — | $83.66B; PE (FWD) 34.30 |
+
+**Guidance & modeling lines**
+- FY26 EBITDA margin "up slightly vs. 2025, excluding ROO"; unchanged across both calls. [S1][S2]
+- Deliveroo ("ROO") to add **~$200M EBITDA** in FY26. [S1][S2]
+- **OpEx (R&D+G&A) ~2% of GOV** FY26 (Q4 was 211 bps, incl. ROO). [S1][S2]
+- 2H EBITDA > 1H ("purely math," consistent with '23/'24/'25). [S2]
+- Q1'26 gas-rewards cost **~$50M**, Q2 projected **~$50M** (extension undecided). [S1]
+- Winter storm ≈ **1% Y/Y GOV** headwind (Q1'26); storms ≈ **$20M** (Q4 framing); ROO EBITDA ~**$25M** lower Q1 vs Q4 (front-loaded). [S1][S2]
+- "Several hundred million dollars" reinvested into platform; largest component = global tech-infrastructure stack. [S1]
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- No per-order P&L disclosed. Named directional levers: grocery profitability from "structurally lower cost structure," density, logistics efficiency, larger baskets, mature-cohort frequency — "not... any one source of revenue like ads." [S1]
+- Ad dollar treated as unit-economics improvement (reinvested), not margin. [S1]
+- DashPass drag: subscribers "retain more, order more... produce more gross-profit dollars" but slow restaurant margin-% improvement to "a lower pace." [S2]
+
+---
+
+## 3. Wow Vault ★
 
 **★ The moat is a proprietary catalog of the physical world that AI can't scrape, not logistics**
 - **Mechanism:** DoorDash is building "a digital catalog of structured information for the physical world" — where every banana sits, whether an avocado is ripe or unripe, every shoe size — "billions of items, tens of millions per city," collected by Dashers, "unique and proprietary to DoorDash, which we don't have to share with anybody" and "cannot be scraped." [S1] This data "does not exist anywhere on the internet." [S2]
@@ -70,7 +140,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Best-of-breed or it doesn't matter."** A subscription only earns a slot if it's category-best — people hold multiple subscriptions (streaming), so the fight is quality, not exclusivity. → subscription/retention questions. [S1]
 - **"Channel partners, not disintermediators."** Treat any threatening top-of-funnel player (Google, an AI agent) as a new "Google" that rents you traffic, not one that owns your customer — because retention is won after checkout, in the physical world. → platform-risk / agentic-commerce. [S2]
@@ -80,78 +150,6 @@
 - **"Don't over-rely on any one revenue or cost driver."** Grocery gets profitable through cost structure + basket growth, "without any unnatural overreliance on any one" lever like ads. → durability / quality-of-earnings. [S1]
 - **"Steph Curry vs. the demo shot."** Anyone can ship a demo (AV, feature); the moat is doing it "at scale under any condition." → build-vs-hype / execution. [S1]
 - **"Ship-speed ≠ outcome-speed."** AI writing 2/3 of code speeds up output, not necessarily customer value — "the customer holds us to a higher bar." → AI metrics / evals. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- MAUs at all-time high; **56M US MAUs / "over 100 million annual customers"** (Q4'25). [S2]
-- Operating in **"40-plus geographies."** [S2]
-- **~30% of US MAUs order outside restaurants**; stated goal 100% over time. [S1][S2]
-- **~1 in 2** new-to-industry grocery-delivery customers captured by DoorDash. [S1]
-- Volume-share leader in grocery since fall; "continued to extend" through Q4→Q1. [S1]
-
-**Market arcs**
-- Google Food Ordering ran ~**8 years** (~2016 launch), multiple-fold DoorDash traffic, retention "a fraction." [S1][S2]
-- Eating-alone occasions: **20–25/week, 100+/month**; DashPass customer orders "a couple of times a week" — single-digit-% penetrated. [S1][S2]
-- AI-written code: **~2/3** of codebase; **90%+** engineer daily active usage of coding agents. [S1][S2]
-
-**Segments / verticals**
-- New-vertical portfolio: **gross-profit positive in 2H26** (management guide, "trending well"). [S1][S2]
-- International ex-Deliveroo: **contribution-profit positive in 2H26**; retail+grocery **unit-economic positive in 2H26**. [S2]
-- Symbiosis (ads acquisition): "**doubled** the number of advertisers... **tripled** the spend." [S2]
-- SevenRooms: adding venues "**50% faster** post-acquisition." [S2]
-- DashMart Fulfillment Services partners named: **Kroger, CVS**. [S2]
-
-**Audited financials (from transcript headers — Q&A-only, so limited)**
-
-| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
-|---|---|---|
-| Revenue | $4.04B, +33.11% Y/Y (missed by $114.80M) | $3.96B, +37.66% Y/Y (missed by $31M) |
-| EPS | $1.14 (beat by $0.08) | $1.27 (missed by $0.02) |
-| Rev growth (header stat) | — | 30.96% Y/Y |
-| Market cap | — | $83.66B; PE (FWD) 34.30 |
-
-**Guidance & modeling lines**
-- FY26 EBITDA margin "up slightly vs. 2025, excluding ROO"; unchanged across both calls. [S1][S2]
-- Deliveroo ("ROO") to add **~$200M EBITDA** in FY26. [S1][S2]
-- **OpEx (R&D+G&A) ~2% of GOV** FY26 (Q4 was 211 bps, incl. ROO). [S1][S2]
-- 2H EBITDA > 1H ("purely math," consistent with '23/'24/'25). [S2]
-- Q1'26 gas-rewards cost **~$50M**, Q2 projected **~$50M** (extension undecided). [S1]
-- Winter storm ≈ **1% Y/Y GOV** headwind (Q1'26); storms ≈ **$20M** (Q4 framing); ROO EBITDA ~**$25M** lower Q1 vs Q4 (front-loaded). [S1][S2]
-- "Several hundred million dollars" reinvested into platform; largest component = global tech-infrastructure stack. [S1]
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- No per-order P&L disclosed. Named directional levers: grocery profitability from "structurally lower cost structure," density, logistics efficiency, larger baskets, mature-cohort frequency — "not... any one source of revenue like ads." [S1]
-- Ad dollar treated as unit-economics improvement (reinvested), not margin. [S1]
-- DashPass drag: subscribers "retain more, order more... produce more gross-profit dollars" but slow restaurant margin-% improvement to "a lower pace." [S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- New-vertical grocery as an acquisition engine: ~1 in 2 new-to-industry grocery customers captured. [S1] Getting existing restaurant MAUs to cross into new categories (the 30%→100% crossover) is the cheapest acquisition — same user, new job. [S1][S2]
-- Channel partners (Google historically; AI agents prospectively) drive "a small percentage" of traffic — treated as rentable top-of-funnel, not owned. [S1][S2]
-- In-store business (Dash Forward, Sept '25) sends foot traffic to restaurants via DashPass access/value — an acquire/re-engage hybrid. [S2]
-
-**Engage**
-- Core loop: order → fulfill end-to-end → expand into adjacent categories (restaurant → grocery → retail → DashMart). Frequency thesis: mid-week "quick runs" + weekend "stock-up" baskets; each successive cohort adopts faster; existing cohorts grow share of wallet. [S2]
-- The aha = the exact item arrives, in-stock, on time — fulfillment quality is the engagement hook, not discovery. [S1]
-- Surface-by-surface: DashPass (membership), Ads (merchant-facing), DoorDash for Business (corporate: DashPass + Meal Manager + catering + group ordering, newly launched workplace catering). [S1]
-
-**Retain**
-- DashPass is the retention spine ("critical," core since 2017/2018): record subscribers in Q4 AND FY25; growth from both sign-ups and retention, across DoorDash, Deliveroo, and Wolt (record quarter). [S1][S2]
-- Switching cost = accumulated multi-category habit + membership value expansion (more categories at "effectively the same fee"). [S2]
-- Boring plumbing that compounds: the proprietary physical-world catalog (fewer substitutions/out-of-stocks via DashMart Fulfillment Services) directly attacks the #1 grocery churn driver. [S1]
-
-**Monetize**
-- **Marketplace commissions** (restaurant + new verticals) — primary line, GOV-driven; no take-rate disclosed.
-- **DashPass / memberships** — subscription; monetized through retention + frequency + gross-profit dollars, not price hikes ("effectively the same fee" while adding categories). [S2]
-- **Ads** — "record high," fastest-growing; SMBs, large restaurant/retail advertisers, and CPG; Smart Campaigns (an agent that buys ROI-positive campaigns for merchants); Symbiosis-driven advertiser + spend growth. Expanding into off-site/syndicated ads, in-store, and buying on behalf of advertisers off DoorDash. Reinvested, not margined. [S1][S2]
-- **DoorDash for Business** — corporate/catering line, "off to a very great start." [S1]
-- Price fences: lower ad load than rivals (a deliberate consumer-experience ceiling on monetization). [S1]
 
 ---
 

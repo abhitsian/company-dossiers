@@ -5,9 +5,50 @@
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Scope note: Airbnb bundles "Experiences" and "Services" as "the Airbnb trip." This dossier is about **Experiences** (host-led activities); Services (chefs, massage, photography, grocery via Instacart) appears only where the two share mechanics. Experiences relaunched globally May 2025 after a 2016 launch, a 2020 pandemic pivot, and a 2023–24 pause/purge.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Experiences is itself an *acquisition channel* for the homes business (see §1). Its own demand comes from: (a) the redesigned Explore tab surfacing experiences to the ~500M+ existing Airbnb accounts; (b) local users (40% of Originals) — a net-new audience; (c) PR/brand halo (13,000 press stories, 660M social impressions on relaunch). [S11] Supply comes from curated host applications (~60k) and event-driven supply (Olympics hosts). [S2], [S11]
+- **Engage** — Core loop: browse photo-forward experiences on Explore → see who else is going → book (payment in chat) → attend → meet people → profile logs "connections made" → rebook. [S3] The *aha* = a memorable in-person moment + a new social connection. Frequency is the strategic prize: experiences can be booked locally, weekly — breaking the twice-a-year travel ceiling. [S2]
+- **Retain** — Two switching costs unique to Experiences: (1) the **social graph** (people you met, can re-message) [S3]; (2) accumulated **reviews + verified identity** (200M+ verified IDs, 500M+ reviews across Airbnb). [S2] Host retention: quality bar + curation keep the median high; event supply retained (>50% of Paris Games listings kept 6 months later). [S1]
+- **Monetize** — Single line: **~20% commission** on each experience booking. [S6] Expansion vectors: Delta miles rev-share (loyalty testbed) [S1]; Airbnb Originals (premium celebrity tickets) [S3]; eventual sponsored/promoted placement (in testing at parent level) [S2]. Not the near-term goal — "no meaningful revenue expected near term." [S11]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product (Experiences-specific)**
+- Relaunched globally **May 13, 2025**; Experiences live in **~650 cities**; Services in ~260 cities. [S3], [S5]
+- **~50,000+ experiences** available post-relaunch. [S12]
+- Up to **$200–250M** invested in 2025 to scale Experiences + Services. [S3], [S11]
+- **~60,000 host applications** for the relaunch; **4.93/5** average experience rating. [S11]
+- Services launched with **10 categories** (chefs, photography, massage, spa, personal training, catering, prepared meals, hair, makeup, nails). [S3]
+- **Airbnb Originals**: celebrity-hosted events (e.g., a day with Patrick Mahomes, Sabrina Carpenter). [S3]
+
+**Downstream conversion (the real KPI)**
+- **~1 in 4** new experience guests go on to book a stay/service. [S1]
+- **~1 in 3** experience bookers book a stay within **90 days**. [S1]
+- **~50%** of experience bookings are from guests with **no attached home booking**. [S2]
+- **40%** of Airbnb Originals bookings came from **local** users. [S11]
+
+**Market arcs**
+- Local tours market **~$1.4T**; foreign tours **~$320B** — largest under-digitized travel category. [S10]
+- Experiences take rate **~20%** vs. homes **15.5%**; social-impact experiences **0%**. [S6]
+
+**Parent context (why Experiences is a rounding error today)**
+- ABNB Q1 2026 revenue **$2.7B (+18% YoY)**; GBV **$29B (+19%)**; guests spent ~$30B in Q1. [S1]
+- App nights **+22% YoY = 63%** of total nights (up from 58%). [S1] First-time bookers **+10%** (highest since 2022). [S1]
+- CFO: **"we don't expect meaningful revenue from our new businesses in the near term."** [S11] Blended into "Nights & Seats Booked" (+9% Q1) — Experiences is not separately disclosed. [S1], [S11]
+
+**Audited financials (parent, FY2025 / latest Q)**
+- FY2025 FCF **$4.6B (38% margin)**; buybacks **$3.8B (>80% of FCF)**; **$11B** corporate cash. [S2]
+- Q1 2026 adj. EBITDA **$519M (+24%)**; FY2026 guide raised to low-to-mid-teens revenue growth, adj. EBITDA margin "≥35%." [S1]
+
+**Unit economics (Experiences, estimated)**
+- *Estimate:* avg experience ticket ~$50–75 (vs. ~$150+ ADR × multi-night stay for homes) → per-booking revenue to Airbnb ≈ **$10–15** at 20% take vs. ~$150–300 per home booking. Volume + frequency, not margin, is the lever. **(Author estimate — Airbnb does not disclose experience ADR.)**
+
+---
+
+## 3. Wow Vault ★
 *Non-obvious layer — what makes an interviewer lean in. Ranked strongest first.*
 
 **★ Experiences is an acquisition funnel dressed as a product line — its KPI is stays sold, not seats sold.**
@@ -72,7 +113,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Airbnb's own framing devices, restated to use on any prompt.*
 
 - **"Strong enough to stand alone, but better together."** Every new category must be independently viable AND compound the network. → strategy / portfolio / "should we build X?"
@@ -82,49 +123,6 @@
 - **"Each subsequent offering is 20%, then 10% new work."** The marginal cost of adding a category falls each time. → "is this a distraction?" / platform economics.
 - **"Events are the best way to add supply, not demand."** (40k Paris Olympics hosts retained.) [S2] Reads a demand spike as a way to acquire supply — applies to any experiences launch tied to a festival/game. → cold-start / supply questions.
 - **"Ship the moment it's ready — giant moments aren't the way in the age of AI."** The May release is a *marketing showcase*, not a feature gate. [S2] → release strategy / cadence.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product (Experiences-specific)**
-- Relaunched globally **May 13, 2025**; Experiences live in **~650 cities**; Services in ~260 cities. [S3], [S5]
-- **~50,000+ experiences** available post-relaunch. [S12]
-- Up to **$200–250M** invested in 2025 to scale Experiences + Services. [S3], [S11]
-- **~60,000 host applications** for the relaunch; **4.93/5** average experience rating. [S11]
-- Services launched with **10 categories** (chefs, photography, massage, spa, personal training, catering, prepared meals, hair, makeup, nails). [S3]
-- **Airbnb Originals**: celebrity-hosted events (e.g., a day with Patrick Mahomes, Sabrina Carpenter). [S3]
-
-**Downstream conversion (the real KPI)**
-- **~1 in 4** new experience guests go on to book a stay/service. [S1]
-- **~1 in 3** experience bookers book a stay within **90 days**. [S1]
-- **~50%** of experience bookings are from guests with **no attached home booking**. [S2]
-- **40%** of Airbnb Originals bookings came from **local** users. [S11]
-
-**Market arcs**
-- Local tours market **~$1.4T**; foreign tours **~$320B** — largest under-digitized travel category. [S10]
-- Experiences take rate **~20%** vs. homes **15.5%**; social-impact experiences **0%**. [S6]
-
-**Parent context (why Experiences is a rounding error today)**
-- ABNB Q1 2026 revenue **$2.7B (+18% YoY)**; GBV **$29B (+19%)**; guests spent ~$30B in Q1. [S1]
-- App nights **+22% YoY = 63%** of total nights (up from 58%). [S1] First-time bookers **+10%** (highest since 2022). [S1]
-- CFO: **"we don't expect meaningful revenue from our new businesses in the near term."** [S11] Blended into "Nights & Seats Booked" (+9% Q1) — Experiences is not separately disclosed. [S1], [S11]
-
-**Audited financials (parent, FY2025 / latest Q)**
-- FY2025 FCF **$4.6B (38% margin)**; buybacks **$3.8B (>80% of FCF)**; **$11B** corporate cash. [S2]
-- Q1 2026 adj. EBITDA **$519M (+24%)**; FY2026 guide raised to low-to-mid-teens revenue growth, adj. EBITDA margin "≥35%." [S1]
-
-**Unit economics (Experiences, estimated)**
-- *Estimate:* avg experience ticket ~$50–75 (vs. ~$150+ ADR × multi-night stay for homes) → per-booking revenue to Airbnb ≈ **$10–15** at 20% take vs. ~$150–300 per home booking. Volume + frequency, not margin, is the lever. **(Author estimate — Airbnb does not disclose experience ADR.)**
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Experiences is itself an *acquisition channel* for the homes business (see §1). Its own demand comes from: (a) the redesigned Explore tab surfacing experiences to the ~500M+ existing Airbnb accounts; (b) local users (40% of Originals) — a net-new audience; (c) PR/brand halo (13,000 press stories, 660M social impressions on relaunch). [S11] Supply comes from curated host applications (~60k) and event-driven supply (Olympics hosts). [S2], [S11]
-- **Engage** — Core loop: browse photo-forward experiences on Explore → see who else is going → book (payment in chat) → attend → meet people → profile logs "connections made" → rebook. [S3] The *aha* = a memorable in-person moment + a new social connection. Frequency is the strategic prize: experiences can be booked locally, weekly — breaking the twice-a-year travel ceiling. [S2]
-- **Retain** — Two switching costs unique to Experiences: (1) the **social graph** (people you met, can re-message) [S3]; (2) accumulated **reviews + verified identity** (200M+ verified IDs, 500M+ reviews across Airbnb). [S2] Host retention: quality bar + curation keep the median high; event supply retained (>50% of Paris Games listings kept 6 months later). [S1]
-- **Monetize** — Single line: **~20% commission** on each experience booking. [S6] Expansion vectors: Delta miles rev-share (loyalty testbed) [S1]; Airbnb Originals (premium celebrity tickets) [S3]; eventual sponsored/promoted placement (in testing at parent level) [S2]. Not the near-term goal — "no meaningful revenue expected near term." [S11]
 
 ---
 

@@ -4,9 +4,81 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates. Write headline-bullet → sub-bullets, scannable.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- Acquisition runs on content and fandom: hit franchises create advocates who pull in new members "beyond the hours watched." [S2]
+- The ads plan at **$8.99 in the US** is "a great entry point, highly accessible" — a low-price way into the ecosystem. [S1]
+- Live and games each bring their own acquisition traits; live events "drive different acquisition characteristics," while games' observed acquisition effect is honestly called "really small to date." [S1]
+- Regional wins: APAC = "strongest FX-neutral revenue growth market"; Japan had "highest quarter of paid net adds in our history," helped by WBC live driving ad sales. [S1]
+
+**Engage**
+- Core loop = personalized recommendations surface content → watch → the engine learns. A "new-architecture recommender" is being built to "improve the current personalization" and "iterate and improve more quickly." [S1]
+- The product experience "acts as a force multiplier to the large content investments." [S1]
+- Engagement is measured by the private quality metric, not raw hours; total view hours H2'25 +2% Y/Y (~1.5B added hours); branded originals +9% Y/Y (~half of viewing). [S2]
+- Expanding surfaces to fill empty space: podcasts (daytime + mobile slot), live events, games on TV ("a new canvas for players and developers"). [S1]
+
+**Retain**
+- Retention "every region was better year-over-year"; churn "improved year-on-year"; CSAT at "all-time high"; retention "among the best in the industry." [S1][S2]
+- The quality metric is validated by its link to retention — "improving that number improves the business." [S1]
+- Switching costs = built-up personalization + catalog breadth + cheapest cost per hour, so leaving means paying ~2× per hour elsewhere. [S1]
+- Games and live work as retention plumbing: cloud games "drive more engagement, more retention"; gameplay "can have a positive impact on member retention." [S2][S1]
+
+**Monetize**
+- Subscription tiers, including the $8.99 US ads plan; US price increase with "early signals in line with expectations," built into guidance. [S1]
+- Advertising: targeting ~$3B in 2026 (~2× 2025's 2.5×); own ad-tech stack, >4,000 advertisers, programmatic heading past 50% of nonlive ads; CPMs kept premium via fill rate + inventory. First-party data being opened up "in a privacy-safe way" to improve media buys. [S1][S2]
+- Games: included in membership today (Netflix Playground for kids is "no ads, no in-app purchases... included in your membership"); monetization is deferred, ramped "based on demonstrated performance and growing returns." [S1]
+- Live/sports: monetization comes from higher CPMs on big events; they stay disciplined, chasing "big breakthrough events" over regular-season packages. [S1]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- More than **325 million** paid members at end of 2025; audience "approaching nearly 1 billion people" including shared households. [S1][S2]
+- **Only ~5%** of global TV view share; "under 10% of TV time in all major markets." [S1][S2]
+- Advertiser base grew **>70% Y/Y in 2025 to more than 4,000 advertisers.** [S1]
+- Roughly **1/3 of members** can access TV-based (cloud) games, gated by TV-client upgrades; party games reach ~**10%** of eligible members "off a small base." [S2]
+
+**Market arcs (TAM framing)**
+- Addressable households **~800M, under 45% penetrated.** [S1]
+- Addressable revenue (consumer + ad spend) **~$670B, ~7% captured.** [S1][S2]
+- Games market: **~$140–150B** consumer spend ex-China (ex-Russia), and that "doesn't even include ad revenues." [S1][S2]
+
+**Segments / product lines**
+- Ads: **2.5× revenue growth in 2025**, guided to "roughly double again in 2026 to about $3 billion." [S2][S1]
+- Ads on own ad-tech stack **>6 months, across 12 ad markets.** [S2]
+- Programmatic "on its way to becoming more than 50% of our nonlive ads business." [S1]
+- Post-WB-close pro forma: **~85% of revenue from the core business** Netflix is already in — WB adds to that base, it isn't the base. [S2]
+
+**Audited / management financials (FY2025 + latest quarters)**
+
+| Metric | Value | Source |
+|---|---|---|
+| FY2025 revenue growth | "delivered 16% revenue growth" | [S2] |
+| FY2025 operating profit growth | "roughly 30% operating profit growth," expanding margins | [S2] |
+| Q4 2025 revenue | $12.05B, +17.61% Y/Y (beat by $83.91M) | [S2] |
+| Q4 2025 EPS | $0.56 (beat by $0.01) | [S2] |
+| Q1 2026 revenue | $12.25B, +16.19% Y/Y (beat by $76.65M) | [S1] |
+| Q1 2026 EPS | $1.23 (missed by $0.09) | [S1] |
+| 2026 revenue guide | ~$51B, +14% Y/Y | [S2] |
+| 2026 operating margin guide | 31.5% (up ~2 pts; ~0.5pt M&A drag, ~2.5pts ex-M&A) | [S2][S1] |
+| FY revenue growth guide (Q1'26) | 12%–14% organic, maintained | [S1] |
+| M&A cost carried in guide | $275M (incl. InterPositive + Warner Bros.); no material margin impact | [S1] |
+| Content amortization 2026 | up ~10% Y/Y (front-half heavier) | [S2] |
+| Content cash-to-expense ratio | ~1.1x, no change (spend grows slower than revenue) | [S2] |
+
+*Not disclosed in sources: CapEx, buyback dollar figure, subscriber net-adds count, segment revenue table, stock price/valuation.*
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Content cash-to-expense ~1.1x means content spend grows below revenue → operating leverage is built-in, not one-off. [S2]
+- Ad growth comes "by improving fill rate and growing inventory with similar CPMs" — volume, not price cuts, drives the doubling. [S2]
+- Ad-tier ARM still below ad-free ARM but "narrowing" — closing the gap is a multi-year lever they own. [S2]
+- Value per hour: Netflix is the cheapest per hour of viewing in US streaming; a competitor costs ~2× per hour. [S1]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Netflix downgraded its own headline metric — total view hours — and runs on a secret member-quality metric instead**
@@ -83,7 +155,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"All engagement is not created equal."** Rank content and features by their effect on the main retention metric, not by raw hours — a live final can beat a series. Use on prioritization and metrics prompts. [S1]
 - **"This is a business and not a religion."** Sarandos on reversing his theatrical stance: "conditions change and insights change... we reevaluate." Permission to change a public position when the data moves. Use on strategy-consistency prompts. [S2]
@@ -94,80 +166,6 @@
 - **"Customer and competitor."** When your suppliers are also your rivals, both licensing and M&A strategy bend around it. Use on ecosystem / competitive-dynamics prompts. [S1]
 - **"The gauge is not the currency."** A reported measurement number is not the number the market actually transacts on. Use on measurement/Goodhart prompts. [S1]
 - **AI investment filter — data × scaled process.** Invest in AI only where "the uniqueness and scale of data" meets "products or business processes that are also at scale that we can attach this technology to." Use on where-should-a-company-apply-AI prompts. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- More than **325 million** paid members at end of 2025; audience "approaching nearly 1 billion people" including shared households. [S1][S2]
-- **Only ~5%** of global TV view share; "under 10% of TV time in all major markets." [S1][S2]
-- Advertiser base grew **>70% Y/Y in 2025 to more than 4,000 advertisers.** [S1]
-- Roughly **1/3 of members** can access TV-based (cloud) games, gated by TV-client upgrades; party games reach ~**10%** of eligible members "off a small base." [S2]
-
-**Market arcs (TAM framing)**
-- Addressable households **~800M, under 45% penetrated.** [S1]
-- Addressable revenue (consumer + ad spend) **~$670B, ~7% captured.** [S1][S2]
-- Games market: **~$140–150B** consumer spend ex-China (ex-Russia), and that "doesn't even include ad revenues." [S1][S2]
-
-**Segments / product lines**
-- Ads: **2.5× revenue growth in 2025**, guided to "roughly double again in 2026 to about $3 billion." [S2][S1]
-- Ads on own ad-tech stack **>6 months, across 12 ad markets.** [S2]
-- Programmatic "on its way to becoming more than 50% of our nonlive ads business." [S1]
-- Post-WB-close pro forma: **~85% of revenue from the core business** Netflix is already in — WB adds to that base, it isn't the base. [S2]
-
-**Audited / management financials (FY2025 + latest quarters)**
-
-| Metric | Value | Source |
-|---|---|---|
-| FY2025 revenue growth | "delivered 16% revenue growth" | [S2] |
-| FY2025 operating profit growth | "roughly 30% operating profit growth," expanding margins | [S2] |
-| Q4 2025 revenue | $12.05B, +17.61% Y/Y (beat by $83.91M) | [S2] |
-| Q4 2025 EPS | $0.56 (beat by $0.01) | [S2] |
-| Q1 2026 revenue | $12.25B, +16.19% Y/Y (beat by $76.65M) | [S1] |
-| Q1 2026 EPS | $1.23 (missed by $0.09) | [S1] |
-| 2026 revenue guide | ~$51B, +14% Y/Y | [S2] |
-| 2026 operating margin guide | 31.5% (up ~2 pts; ~0.5pt M&A drag, ~2.5pts ex-M&A) | [S2][S1] |
-| FY revenue growth guide (Q1'26) | 12%–14% organic, maintained | [S1] |
-| M&A cost carried in guide | $275M (incl. InterPositive + Warner Bros.); no material margin impact | [S1] |
-| Content amortization 2026 | up ~10% Y/Y (front-half heavier) | [S2] |
-| Content cash-to-expense ratio | ~1.1x, no change (spend grows slower than revenue) | [S2] |
-
-*Not disclosed in sources: CapEx, buyback dollar figure, subscriber net-adds count, segment revenue table, stock price/valuation.*
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Content cash-to-expense ~1.1x means content spend grows below revenue → operating leverage is built-in, not one-off. [S2]
-- Ad growth comes "by improving fill rate and growing inventory with similar CPMs" — volume, not price cuts, drives the doubling. [S2]
-- Ad-tier ARM still below ad-free ARM but "narrowing" — closing the gap is a multi-year lever they own. [S2]
-- Value per hour: Netflix is the cheapest per hour of viewing in US streaming; a competitor costs ~2× per hour. [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- Acquisition runs on content and fandom: hit franchises create advocates who pull in new members "beyond the hours watched." [S2]
-- The ads plan at **$8.99 in the US** is "a great entry point, highly accessible" — a low-price way into the ecosystem. [S1]
-- Live and games each bring their own acquisition traits; live events "drive different acquisition characteristics," while games' observed acquisition effect is honestly called "really small to date." [S1]
-- Regional wins: APAC = "strongest FX-neutral revenue growth market"; Japan had "highest quarter of paid net adds in our history," helped by WBC live driving ad sales. [S1]
-
-**Engage**
-- Core loop = personalized recommendations surface content → watch → the engine learns. A "new-architecture recommender" is being built to "improve the current personalization" and "iterate and improve more quickly." [S1]
-- The product experience "acts as a force multiplier to the large content investments." [S1]
-- Engagement is measured by the private quality metric, not raw hours; total view hours H2'25 +2% Y/Y (~1.5B added hours); branded originals +9% Y/Y (~half of viewing). [S2]
-- Expanding surfaces to fill empty space: podcasts (daytime + mobile slot), live events, games on TV ("a new canvas for players and developers"). [S1]
-
-**Retain**
-- Retention "every region was better year-over-year"; churn "improved year-on-year"; CSAT at "all-time high"; retention "among the best in the industry." [S1][S2]
-- The quality metric is validated by its link to retention — "improving that number improves the business." [S1]
-- Switching costs = built-up personalization + catalog breadth + cheapest cost per hour, so leaving means paying ~2× per hour elsewhere. [S1]
-- Games and live work as retention plumbing: cloud games "drive more engagement, more retention"; gameplay "can have a positive impact on member retention." [S2][S1]
-
-**Monetize**
-- Subscription tiers, including the $8.99 US ads plan; US price increase with "early signals in line with expectations," built into guidance. [S1]
-- Advertising: targeting ~$3B in 2026 (~2× 2025's 2.5×); own ad-tech stack, >4,000 advertisers, programmatic heading past 50% of nonlive ads; CPMs kept premium via fill rate + inventory. First-party data being opened up "in a privacy-safe way" to improve media buys. [S1][S2]
-- Games: included in membership today (Netflix Playground for kids is "no ads, no in-app purchases... included in your membership"); monetization is deferred, ramped "based on demonstrated performance and growing returns." [S1]
-- Live/sports: monetization comes from higher CPMs on big events; they stay disciplined, chasing "big breakthrough events" over regular-season packages. [S1]
 
 ---
 

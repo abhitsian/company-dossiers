@@ -4,9 +4,52 @@
 > **v1 — earnings-grounded + web research.**
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines; drill for detail. Estimates labeled `[est]`.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Mostly **word-of-mouth**: the phone-number graph means one user brings in their contacts; network effects build country by country. Zero paid cost to acquire a consumer `[est]`. New markets open up because WhatsApp is the cheapest reliable way to message (an SMS replacement) where bandwidth is tight. The business side comes in via the **unified Ads Manager** (run WhatsApp campaigns next to FB/IG) and click-to-WhatsApp ads on Instagram/Facebook.
+- **Engage** — Core loop = **daily private conversation** (~70% of MAU open daily [S4]). Aha = "message anyone, free, reliably, encrypted." Surfaces beyond the inbox: **Status** (Stories-style), **Channels** (one-to-many broadcast), **Communities** (grouped groups), **Calls**, **Meta AI** in-thread. New hooks 2025–26: multi-answer polls, events, name tags, text stickers, View Once voice, iPad app [S8]. Business AIs are now their own loop at 10M convos/wk [S1].
+- **Retain** — Retention is basically **switching cost via the graph**: your whole social + family + business contact set is here, so leaving needs everyone to leave together. Message history, groups, and now business relationships all hold you in. Gross retention `[est]` very high in countries where it's the default app (India/Brazil/Indonesia). It only erodes where a rival owns the default (WeChat/China, iMessage/US teens, Line/Japan) [S9].
+- **Monetize** — Four lines: (1) **Business paid messaging** — per message, priced by category [S5], the largest line (~$2B run rate [S2]); (2) **Ads in Updates** (Status/Channels) — early, "hundreds of millions" daily viewers [S1]; (3) **Channel subscriptions + promoted channels** — creator/business income [S7]; (4) **Business AI / agent** — free today, token-billed from Aug 2026 [S6]. Price fences: free service messages + free utility-in-window push businesses toward *useful* not *spammy* messages; marketing is always charged.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated, less-quoted numbers. Estimates labeled.*
+
+**Headline scale**
+| Metric | Value | Source |
+|---|---|---|
+| Monthly active users | ~3.3B (Jan 2026), projected >3.5B end-2026 | [S4] |
+| Daily active users | ~2.3B (~70% of MAU open daily) | [S4] |
+| WhatsApp DAU (per Meta) | 2B+ DAU, Dec 2025 | [S2] |
+| India MAU | ~535M (2025) → >900M projected end-2026 | [S4] |
+| Brazil / Indonesia MAU | ~148M / ~112M | [S4] |
+| Business accounts | 200M+ active; 50M+ companies | [S4] |
+| People messaging a business daily | ~175M | [S4] |
+| Business catalog views / month | ~40M | [S4] |
+
+**Monetization arcs**
+- WhatsApp total revenue 2024: **~$1.7B**, almost all from business [S4].
+- Paid messaging crossed **$2B annual run rate** in Q4 2025 [S2].
+- FoA "Other" revenue (WhatsApp paid messaging + subs is the main driver): **$885M in Q1 2026, +74% Y/Y** [S1]; **$801M in Q4 2025, +54% Y/Y** [S2].
+- Business AIs: **1M → 10M weekly conversations** across ~H1 2026 (10x) [S1][S2].
+- Ads in Updates: **"hundreds of millions"** viewing daily by Q1 2026 [S1].
+
+**Business-messaging pricing (post-July 1, 2025)** [S5]
+- Billed per *delivered message* (was per conversation). Categories priced separately: **Marketing** (always charged), **Utility** (free inside an open service window), **Authentication** (lower rates by volume tier), **Service** (now free).
+- Entry rate ~**$0.0085/message** for the first 250k, first 1,000 conversations/month free [S4]; free 72h window for free-entry-point conversations [S5].
+- Token-based billing for the Meta Business Agent starts **Aug 1, 2026** [S6].
+
+**Competitive scale (context)** [S9]
+- WhatsApp ~3B MAU vs. Telegram ~1B (Mar 2025), WeChat/Weixin ~1.41B (mostly China, Jun 2025), Messenger ~942M ad reach, Snapchat ~932M.
+
+**Unit economics (cross-ref /follow-the-dollar)** — `[est]`
+- Revenue per MAU ≈ **$0.50/yr** (`[est]`: ~$1.7B / ~3.3B MAU, 2024). Facebook's revenue per user is in the tens of dollars. WhatsApp's paying "unit" is the *business conversation*, not the user.
+- Cost of one more consumer message ≈ near-zero (encrypted infra, no feed to rank or store). The expensive unit is the *AI token* in a business agent — which is why billing moves to tokens, to match cost to price [S6].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — mechanism, contrarian bets, reframes. Ranked strongest first.*
 
 **★ The world's largest consumer app makes almost no money on the consumer**
@@ -53,7 +96,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated to wield on any prompt.*
 
 - **"Monetize the edge, not the core."** Keep the most-used surface (private chat) free and clean; make money on the surfaces next to it (business messaging, Updates ads, commerce). → monetization / product-sense questions.
@@ -62,51 +105,6 @@
 - **"Ads follow the broadcast surface, not the inbox."** Make money on the one-to-many surface (Status/Channels), keep the one-to-one surface clean [S7]. → ad-load / experience-tradeoff questions.
 - **"Free to scale, charge when it carries weight."** Business AIs free at 1M/wk, still free at 10M/wk, token meter arriving as volume grows [S1][S6]. → engagement-before-monetization sequencing.
 - **Meta's "build to billions, then monetize."** Zuckerberg's stated formula — no exact money plan per product; scale the loop, revenue follows [S1]. → explains WhatsApp's decade-long delay.
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated, less-quoted numbers. Estimates labeled.*
-
-**Headline scale**
-| Metric | Value | Source |
-|---|---|---|
-| Monthly active users | ~3.3B (Jan 2026), projected >3.5B end-2026 | [S4] |
-| Daily active users | ~2.3B (~70% of MAU open daily) | [S4] |
-| WhatsApp DAU (per Meta) | 2B+ DAU, Dec 2025 | [S2] |
-| India MAU | ~535M (2025) → >900M projected end-2026 | [S4] |
-| Brazil / Indonesia MAU | ~148M / ~112M | [S4] |
-| Business accounts | 200M+ active; 50M+ companies | [S4] |
-| People messaging a business daily | ~175M | [S4] |
-| Business catalog views / month | ~40M | [S4] |
-
-**Monetization arcs**
-- WhatsApp total revenue 2024: **~$1.7B**, almost all from business [S4].
-- Paid messaging crossed **$2B annual run rate** in Q4 2025 [S2].
-- FoA "Other" revenue (WhatsApp paid messaging + subs is the main driver): **$885M in Q1 2026, +74% Y/Y** [S1]; **$801M in Q4 2025, +54% Y/Y** [S2].
-- Business AIs: **1M → 10M weekly conversations** across ~H1 2026 (10x) [S1][S2].
-- Ads in Updates: **"hundreds of millions"** viewing daily by Q1 2026 [S1].
-
-**Business-messaging pricing (post-July 1, 2025)** [S5]
-- Billed per *delivered message* (was per conversation). Categories priced separately: **Marketing** (always charged), **Utility** (free inside an open service window), **Authentication** (lower rates by volume tier), **Service** (now free).
-- Entry rate ~**$0.0085/message** for the first 250k, first 1,000 conversations/month free [S4]; free 72h window for free-entry-point conversations [S5].
-- Token-based billing for the Meta Business Agent starts **Aug 1, 2026** [S6].
-
-**Competitive scale (context)** [S9]
-- WhatsApp ~3B MAU vs. Telegram ~1B (Mar 2025), WeChat/Weixin ~1.41B (mostly China, Jun 2025), Messenger ~942M ad reach, Snapchat ~932M.
-
-**Unit economics (cross-ref /follow-the-dollar)** — `[est]`
-- Revenue per MAU ≈ **$0.50/yr** (`[est]`: ~$1.7B / ~3.3B MAU, 2024). Facebook's revenue per user is in the tens of dollars. WhatsApp's paying "unit" is the *business conversation*, not the user.
-- Cost of one more consumer message ≈ near-zero (encrypted infra, no feed to rank or store). The expensive unit is the *AI token* in a business agent — which is why billing moves to tokens, to match cost to price [S6].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Mostly **word-of-mouth**: the phone-number graph means one user brings in their contacts; network effects build country by country. Zero paid cost to acquire a consumer `[est]`. New markets open up because WhatsApp is the cheapest reliable way to message (an SMS replacement) where bandwidth is tight. The business side comes in via the **unified Ads Manager** (run WhatsApp campaigns next to FB/IG) and click-to-WhatsApp ads on Instagram/Facebook.
-- **Engage** — Core loop = **daily private conversation** (~70% of MAU open daily [S4]). Aha = "message anyone, free, reliably, encrypted." Surfaces beyond the inbox: **Status** (Stories-style), **Channels** (one-to-many broadcast), **Communities** (grouped groups), **Calls**, **Meta AI** in-thread. New hooks 2025–26: multi-answer polls, events, name tags, text stickers, View Once voice, iPad app [S8]. Business AIs are now their own loop at 10M convos/wk [S1].
-- **Retain** — Retention is basically **switching cost via the graph**: your whole social + family + business contact set is here, so leaving needs everyone to leave together. Message history, groups, and now business relationships all hold you in. Gross retention `[est]` very high in countries where it's the default app (India/Brazil/Indonesia). It only erodes where a rival owns the default (WeChat/China, iMessage/US teens, Line/Japan) [S9].
-- **Monetize** — Four lines: (1) **Business paid messaging** — per message, priced by category [S5], the largest line (~$2B run rate [S2]); (2) **Ads in Updates** (Status/Channels) — early, "hundreds of millions" daily viewers [S1]; (3) **Channel subscriptions + promoted channels** — creator/business income [S7]; (4) **Business AI / agent** — free today, token-billed from Aug 2026 [S6]. Price fences: free service messages + free utility-in-window push businesses toward *useful* not *spammy* messages; marketing is always charged.
 
 ---
 

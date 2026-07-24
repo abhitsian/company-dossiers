@@ -5,9 +5,68 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Every fact is source-grounded; estimates are labeled `[est]`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire**
+  - *Shippers:* SMB through self-serve web/app (post a load, get an instant 15-min quote [S9]); enterprise through managed-transportation sales (the inherited Transplace relationships + Fortune 500 book [S3][S7]); AI is now a top-of-funnel wedge via the Design Partner Program (5 brands, incl. Colgate-Palmolive) [S4].
+  - *Carriers:* app-based self-onboard; ~95k FTL carriers browse upfront-priced loads and book instantly [S9]. CAC lever = the **Carrier Card** same-day payout (vs. the industry's 30–90 days) for carriers spending ~$3,500/mo [S9].
+  - Cross-sell off the parent brand's trust; no real mobility→freight consumer overlap (different buyer).
+
+- **Engage**
+  - *Core loop (shipper):* post/tender load → get instant price → track in real time → reconcile payment in the TMS.
+  - *Core loop (carrier):* browse upfront-priced loads → book → haul → get paid same day. **Powerloop** (drop-trailer/dedicated tours) keeps carriers moving with pre-loaded trailers and fixed weekly or %-based rates [S1-blog/S9].
+  - *Aha (shipper):* the instant transparent quote (no haggling); then Insights AI answering a network question in seconds instead of a 2-week analyst cycle [S3].
+  - *Aha (carrier):* getting paid today.
+  - Surfaces: shipper web dashboard + app; carrier app; the **TMS portal** (now the command center, with AR/AP financials) [S4]; **Uber Freight Exchange** (Spot + procurement scenario analysis) [S4].
+
+- **Retain**
+  - Managed transportation + TMS = high switching cost (workflows built in, integrations, historical data). This is the sticky layer; spot brokerage is inherently promiscuous (carriers and shippers use several load boards at once).
+  - Insights AI deepens the lock-in: the more freight runs through it, the better its network-specific recommendations.
+  - Boring plumbing that retains: order-to-cash inside the TMS (2025 TMS Financials) removes a reason to use a separate system [S4].
+  - Churn driver: in a down-cycle, spot shippers chase the cheapest capacity; retention is weak where the only value is price.
+
+- **Monetize**
+  - *Brokerage take-rate:* the margin between shipper price and carrier pay (spot + contract FTL/LTL).
+  - *Managed transportation:* fees on ~$20B FUM (software + BPO). [S3][S7]
+  - *TMS software:* SaaS-style licensing of the platform.
+  - *Insights AI / data:* an early upsell — the intended margin-mix shift. [S3][S4]
+  - *Carrier financial products:* Carrier Card spend/interchange economics `[est]`. [S9]
+  - Price fences: self-serve spot (low) vs. enterprise managed (high) — the shipper-side barbell.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Metric | Value | Source |
+|---|---|---|
+| Freight under management (FUM) | ~$20B annually | [S3] |
+| Shippers served | ~10,000 (incl. many Fortune 500) | [S3] |
+| FTL carrier network | ~95,000 carriers | [S9] |
+| LTL carriers | 150+ | [S9] |
+| Freight moved through AI infra (to date) | ~$1.6B across 5 design-partner brands | [S4] |
+| AI agents live | 30+ | [S4] |
+| Insights AI accuracy | ~98% (up from initial 60–70%) | [S3] |
+| Instant-quote validity window | 15 minutes | [S9] |
+| Dispute-resolution time cut (TMS Financials bulk tools) | up to 20% | [S4] |
+
+**Market arcs**
+- Q1 2026: Freight "returned to growth for the first time in nearly 2 years." [S1]
+- 2021 peak: ~$2.1B revenue — then the largest trucking digital marketplace by revenue. [S5]
+- 2025: reported >$1.2B Freight GMV; pushing higher-margin services to lift take-rate and CLTV. [S5]
+
+**Audited financials (segment)**
+- Freight adj. EBITDA: about **−$43M** through Q3 2025 — the weakest segment in Uber's portfolio. [S5]
+- Parent context (FY25): Uber revenue $14.37B Q4 (+20% Y/Y), FY adj. EBITDA $8.7B (+35%), FCF ~$9.8B (+42%). [S2] Q1 2026 revenue $13.20B (+14.5%). [S1]
+- Transplace acquisition (Nov 2021): **$2.25B** (up to $750M stock + rest cash); financed partly by $550M from ADG / D1 Capital / GCM Grosvenor. [S7]
+
+**Unit economics (cross-ref /follow-the-dollar) — all `[est]`**
+- Brokerage net-revenue (take) margins across the industry run in the mid-teens % of gross revenue; net EBITDA margins are low-single-digit even for healthy brokers `[est]`. Uber Freight being negative at the adj-EBITDA line [S5] means its cost to serve (ops labor + tech spend) is more than its net take — the AI-automation thesis attacks that gap directly. [S4]
+- Managed-transportation/TMS revenue is more software/BPO-like, so its margins are structurally higher than spot brokerage `[est]`; shifting the mix toward it is the margin lever.
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer. Bar: would a sharp interviewer NOT already know it?*
 
 **★ Freight is Uber's worst-margin business, and management keeps it because it fills demand troughs, not because the brokerage makes money.**
@@ -54,74 +113,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"Ask your network vs. wait two weeks for the PowerPoint."** Insights AI turns analytics from a lagging report into a system you can query. → any "AI in enterprise workflow" prompt. [S3]
 - **"Fill the trough."** A low-margin business is worth the load it puts on a shared asset while the high-margin business is idle. → portfolio / synergy / "why keep the loss-making segment" prompts. [S2]
 - **"System of record → command center."** The TMS is moving from tracking the network to running it (proactive recommendations, not dashboards). → product-vision prompts for any workflow tool. [S4]
 - **"Barbell, applied to shippers."** The parent runs low-end (frequency) and high-end (profit) at once [S1][S2]; Freight's version is SMB self-serve spot at one end, enterprise managed-transportation at the other. → segmentation / pricing prompts.
 - **"Data-first, technology-first challenge."** The founder's view that supply chain is really an information problem, not a trucks problem. → "reframe this industry" prompts. [S3]
 - **"Agents on the basics, humans on the exceptions."** 30+ agents do the repetitive ops; people handle exceptions, cost control, and network optimization. → "how should AI split work with humans" prompts. [S4]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Metric | Value | Source |
-|---|---|---|
-| Freight under management (FUM) | ~$20B annually | [S3] |
-| Shippers served | ~10,000 (incl. many Fortune 500) | [S3] |
-| FTL carrier network | ~95,000 carriers | [S9] |
-| LTL carriers | 150+ | [S9] |
-| Freight moved through AI infra (to date) | ~$1.6B across 5 design-partner brands | [S4] |
-| AI agents live | 30+ | [S4] |
-| Insights AI accuracy | ~98% (up from initial 60–70%) | [S3] |
-| Instant-quote validity window | 15 minutes | [S9] |
-| Dispute-resolution time cut (TMS Financials bulk tools) | up to 20% | [S4] |
-
-**Market arcs**
-- Q1 2026: Freight "returned to growth for the first time in nearly 2 years." [S1]
-- 2021 peak: ~$2.1B revenue — then the largest trucking digital marketplace by revenue. [S5]
-- 2025: reported >$1.2B Freight GMV; pushing higher-margin services to lift take-rate and CLTV. [S5]
-
-**Audited financials (segment)**
-- Freight adj. EBITDA: about **−$43M** through Q3 2025 — the weakest segment in Uber's portfolio. [S5]
-- Parent context (FY25): Uber revenue $14.37B Q4 (+20% Y/Y), FY adj. EBITDA $8.7B (+35%), FCF ~$9.8B (+42%). [S2] Q1 2026 revenue $13.20B (+14.5%). [S1]
-- Transplace acquisition (Nov 2021): **$2.25B** (up to $750M stock + rest cash); financed partly by $550M from ADG / D1 Capital / GCM Grosvenor. [S7]
-
-**Unit economics (cross-ref /follow-the-dollar) — all `[est]`**
-- Brokerage net-revenue (take) margins across the industry run in the mid-teens % of gross revenue; net EBITDA margins are low-single-digit even for healthy brokers `[est]`. Uber Freight being negative at the adj-EBITDA line [S5] means its cost to serve (ops labor + tech spend) is more than its net take — the AI-automation thesis attacks that gap directly. [S4]
-- Managed-transportation/TMS revenue is more software/BPO-like, so its margins are structurally higher than spot brokerage `[est]`; shifting the mix toward it is the margin lever.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire**
-  - *Shippers:* SMB through self-serve web/app (post a load, get an instant 15-min quote [S9]); enterprise through managed-transportation sales (the inherited Transplace relationships + Fortune 500 book [S3][S7]); AI is now a top-of-funnel wedge via the Design Partner Program (5 brands, incl. Colgate-Palmolive) [S4].
-  - *Carriers:* app-based self-onboard; ~95k FTL carriers browse upfront-priced loads and book instantly [S9]. CAC lever = the **Carrier Card** same-day payout (vs. the industry's 30–90 days) for carriers spending ~$3,500/mo [S9].
-  - Cross-sell off the parent brand's trust; no real mobility→freight consumer overlap (different buyer).
-
-- **Engage**
-  - *Core loop (shipper):* post/tender load → get instant price → track in real time → reconcile payment in the TMS.
-  - *Core loop (carrier):* browse upfront-priced loads → book → haul → get paid same day. **Powerloop** (drop-trailer/dedicated tours) keeps carriers moving with pre-loaded trailers and fixed weekly or %-based rates [S1-blog/S9].
-  - *Aha (shipper):* the instant transparent quote (no haggling); then Insights AI answering a network question in seconds instead of a 2-week analyst cycle [S3].
-  - *Aha (carrier):* getting paid today.
-  - Surfaces: shipper web dashboard + app; carrier app; the **TMS portal** (now the command center, with AR/AP financials) [S4]; **Uber Freight Exchange** (Spot + procurement scenario analysis) [S4].
-
-- **Retain**
-  - Managed transportation + TMS = high switching cost (workflows built in, integrations, historical data). This is the sticky layer; spot brokerage is inherently promiscuous (carriers and shippers use several load boards at once).
-  - Insights AI deepens the lock-in: the more freight runs through it, the better its network-specific recommendations.
-  - Boring plumbing that retains: order-to-cash inside the TMS (2025 TMS Financials) removes a reason to use a separate system [S4].
-  - Churn driver: in a down-cycle, spot shippers chase the cheapest capacity; retention is weak where the only value is price.
-
-- **Monetize**
-  - *Brokerage take-rate:* the margin between shipper price and carrier pay (spot + contract FTL/LTL).
-  - *Managed transportation:* fees on ~$20B FUM (software + BPO). [S3][S7]
-  - *TMS software:* SaaS-style licensing of the platform.
-  - *Insights AI / data:* an early upsell — the intended margin-mix shift. [S3][S4]
-  - *Carrier financial products:* Carrier Card spend/interchange economics `[est]`. [S9]
-  - Price fences: self-serve spot (low) vs. enterprise managed (high) — the shipper-side barbell.
 
 ---
 

@@ -4,9 +4,73 @@
 > **v1 — earnings-grounded + web research**
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines; drill for detail. Every fact is `[S#]`-tagged; estimates are labeled.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire**
+  - **Hardware as the top of funnel:** Echo/Echo Show/Fire TV/Ring — ~600M devices already in homes [S3][S4], historically sold near cost as loss leaders [S7].
+  - **Prime bundle:** Alexa+ free for Prime members turns the entire Prime base (~200M+ globally, est.) into a zero-friction addressable market [S2].
+  - **New surfaces widen the mouth of the funnel:** mobile app, **Alexa.com web** [S10], cars (BMW), TVs (Samsung) [S2] — meeting non-device users where ChatGPT/Gemini already are.
+  - International expansion via early access: Mexico, UK, Italy, Spain, Brazil [S1].
+
+- **Engage**
+  - **Core loop:** natural-language request → "expert" routing → action across ~tens of thousands of integrations → spoken/visual result, with cross-endpoint memory carrying context [S3].
+  - **The aha:** the first time it completes a real task without supervision — e.g., booking an appliance repair end-to-end via Thumbtack [S3]. That's the "twice as much talk" trigger [S1].
+  - **Hooks:** proactive nudges (commute changes, sales alerts) [S3]; entertainment (music/video); smart-home control (50% more usage [S1]); the "teach it about you" personalization ratchet [S3].
+  - **Frequency:** built for daily, ambient, multi-surface use — the difference from app-based assistants you have to open.
+
+- **Retain**
+  - **Switching cost = accumulated memory + hardware + integrations.** The more you teach it and the more devices/skills wired in, the costlier to leave [S3].
+  - **Prime as the anchor:** churn on Alexa+ ≈ churn on Prime; Amazon keeps the assistant by keeping the membership [S2].
+  - **Boring plumbing:** identity, payment methods, addresses already on file [S3] — friction removed from every transaction.
+  - **Risk to retention:** reliability. "Erratic" behavior [S8] erodes the trust that makes an ambient assistant sticky.
+
+- **Monetize** (the box that's still unsolved)
+  - **Direct:** $19.99/mo for non-Prime [S2] — small; the real play is Prime retention value.
+  - **Commerce:** purchases up 3x on Alexa+ [S1] — voice/agentic commerce finally showing signal.
+  - **Advertising:** sponsored answers / Brand Prompts inside the multi-turn conversation, riding the $17.2B ads engine [S1] — the most scalable rail.
+  - **Downstream halo:** deeper Prime engagement → more shopping, grocery, video [S1][S2].
+  - **Take-rate/ARPU:** ARPU (revenue per user) not disclosed; historically negative (loss leader) [S7].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- **~600M** Alexa devices deployed globally as of 2025 [S3][S4].
+- **>130,000** Alexa skills globally [S4].
+- **~65–68%** US smart-speaker share; ~68% of US smart-speaker users are on Amazon Echo [S4].
+- **Alexa+ crossed ~1M users** by mid-2025 (early access), then went **generally available to all US customers** (Feb 2026), free for Prime / $19.99 non-Prime [S2][S4].
+- Web endpoint **Alexa.com** launched broadly around **CES 2026** [S10][S2]; redesigned mobile app; integrations with **Samsung TVs and BMW cars**; can "answer a Ring doorbell on the customer's behalf" [S2].
+
+**Behavior delta (Alexa+ vs classic)** [S1]
+| Behavior | Change vs classic Alexa |
+|---|---|
+| Talk to it | ~2x more, and for longer |
+| Complete purchases | 3x more |
+| Stream music | 25% more |
+| Use smart home | 50% more |
+
+**The loss the turnaround must reverse** [S7]
+- **>$25B** Devices & Services operating loss **2017–2021**.
+- Alexa org alone **~$10B projected loss in 2022**.
+- Root cause: voice commerce never materialized; usage stayed on free utilities (timers, weather, music).
+
+**Adjacent rails Alexa+ plugs into (company-level, latest Q)** [S1]
+- **Amazon Ads: $17.2B/quarter, +22% Y/Y** — the money rail for sponsored answers.
+- Sponsored Products + Brand Prompts already live in **Rufus**; **~20%** of Brand-Prompt shoppers continue the brand conversation.
+- **AWS: $37.6B/quarter, +28%**; AI run-rate **>$15B**; **Bedrock >125,000 customers** — the platform Alexa+ is itself built on [S1].
+
+**Audited financials (context)**
+- Alexa sits inside **Devices & Services**, reported within the **North America** segment — not broken out. NA op income **$8.3B, 7.9% margin** (Q1 2026) [S1]; NA **$127.1B rev, 9% margin** (Q4 2025) [S2].
+- FY25 special charges included **$610M asset impairments "primarily related to physical stores"** [S2] — a reminder the Devices/Stores bets get written down when they miss.
+
+**Unit economics (estimated — Amazon does not disclose Alexa-level economics)**
+- *Estimate:* every Alexa+ voice turn runs an LLM plus tool-routing inference pass on Bedrock — much more expensive per interaction than classic Alexa's intent classification. Free-for-Prime means **cost scales with engagement while direct revenue is ~$0** unless ads/commerce close the loop. This is the central unit-economics risk (see §9). *(Author estimate; not sourced.)*
+- *Estimate:* Amazon's own chips (**Trainium/Graviton**, 30–40% better price-performance [S1][S2]) are the lever that could make free-at-scale inference affordable — its own cost advantage applied to its own consumer app.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on an Alexa prompt. Ranked strongest first.*
 
 **★ Alexa is the most expensive "free feature" in tech history — that's the whole strategic problem to solve.**
@@ -59,7 +123,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Not one tool to rule the world."** Amazon's model strategy: route to whichever model (Nova/Claude/OpenAI) is best per task via Bedrock [S1]. Use on any "build vs. buy the model" or platform-vs-app prompt.
 - **"Stateful is the future of agents."** The moat moves from answering to remembering identity and state across turns and devices [S1]. Use on retention, agent design, moat questions.
@@ -67,72 +131,6 @@
 - **"AI is a CPU story, not just a GPU story."** As agents take actions instead of just answering, compute pulls onto CPUs [S1] — Alexa+'s agentic loops are exactly this workload. Use on infra/cost or "why does agentic cost differently" prompts.
 - **The loss-leader trap.** Subsidize hardware to sell downstream services — but only if the downstream loop actually pays off. Alexa's decade proves the trap: distribution without a way to make money is a bleeding asset [S7]. Use on any "should we subsidize X" pricing question.
 - **The subsidy-fence.** Bundle a costly feature into a membership so the feature reads as free and the membership reads as better value — Alexa+ inside Prime [S2]. Use on bundling/pricing prompts.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- **~600M** Alexa devices deployed globally as of 2025 [S3][S4].
-- **>130,000** Alexa skills globally [S4].
-- **~65–68%** US smart-speaker share; ~68% of US smart-speaker users are on Amazon Echo [S4].
-- **Alexa+ crossed ~1M users** by mid-2025 (early access), then went **generally available to all US customers** (Feb 2026), free for Prime / $19.99 non-Prime [S2][S4].
-- Web endpoint **Alexa.com** launched broadly around **CES 2026** [S10][S2]; redesigned mobile app; integrations with **Samsung TVs and BMW cars**; can "answer a Ring doorbell on the customer's behalf" [S2].
-
-**Behavior delta (Alexa+ vs classic)** [S1]
-| Behavior | Change vs classic Alexa |
-|---|---|
-| Talk to it | ~2x more, and for longer |
-| Complete purchases | 3x more |
-| Stream music | 25% more |
-| Use smart home | 50% more |
-
-**The loss the turnaround must reverse** [S7]
-- **>$25B** Devices & Services operating loss **2017–2021**.
-- Alexa org alone **~$10B projected loss in 2022**.
-- Root cause: voice commerce never materialized; usage stayed on free utilities (timers, weather, music).
-
-**Adjacent rails Alexa+ plugs into (company-level, latest Q)** [S1]
-- **Amazon Ads: $17.2B/quarter, +22% Y/Y** — the money rail for sponsored answers.
-- Sponsored Products + Brand Prompts already live in **Rufus**; **~20%** of Brand-Prompt shoppers continue the brand conversation.
-- **AWS: $37.6B/quarter, +28%**; AI run-rate **>$15B**; **Bedrock >125,000 customers** — the platform Alexa+ is itself built on [S1].
-
-**Audited financials (context)**
-- Alexa sits inside **Devices & Services**, reported within the **North America** segment — not broken out. NA op income **$8.3B, 7.9% margin** (Q1 2026) [S1]; NA **$127.1B rev, 9% margin** (Q4 2025) [S2].
-- FY25 special charges included **$610M asset impairments "primarily related to physical stores"** [S2] — a reminder the Devices/Stores bets get written down when they miss.
-
-**Unit economics (estimated — Amazon does not disclose Alexa-level economics)**
-- *Estimate:* every Alexa+ voice turn runs an LLM plus tool-routing inference pass on Bedrock — much more expensive per interaction than classic Alexa's intent classification. Free-for-Prime means **cost scales with engagement while direct revenue is ~$0** unless ads/commerce close the loop. This is the central unit-economics risk (see §9). *(Author estimate; not sourced.)*
-- *Estimate:* Amazon's own chips (**Trainium/Graviton**, 30–40% better price-performance [S1][S2]) are the lever that could make free-at-scale inference affordable — its own cost advantage applied to its own consumer app.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire**
-  - **Hardware as the top of funnel:** Echo/Echo Show/Fire TV/Ring — ~600M devices already in homes [S3][S4], historically sold near cost as loss leaders [S7].
-  - **Prime bundle:** Alexa+ free for Prime members turns the entire Prime base (~200M+ globally, est.) into a zero-friction addressable market [S2].
-  - **New surfaces widen the mouth of the funnel:** mobile app, **Alexa.com web** [S10], cars (BMW), TVs (Samsung) [S2] — meeting non-device users where ChatGPT/Gemini already are.
-  - International expansion via early access: Mexico, UK, Italy, Spain, Brazil [S1].
-
-- **Engage**
-  - **Core loop:** natural-language request → "expert" routing → action across ~tens of thousands of integrations → spoken/visual result, with cross-endpoint memory carrying context [S3].
-  - **The aha:** the first time it completes a real task without supervision — e.g., booking an appliance repair end-to-end via Thumbtack [S3]. That's the "twice as much talk" trigger [S1].
-  - **Hooks:** proactive nudges (commute changes, sales alerts) [S3]; entertainment (music/video); smart-home control (50% more usage [S1]); the "teach it about you" personalization ratchet [S3].
-  - **Frequency:** built for daily, ambient, multi-surface use — the difference from app-based assistants you have to open.
-
-- **Retain**
-  - **Switching cost = accumulated memory + hardware + integrations.** The more you teach it and the more devices/skills wired in, the costlier to leave [S3].
-  - **Prime as the anchor:** churn on Alexa+ ≈ churn on Prime; Amazon keeps the assistant by keeping the membership [S2].
-  - **Boring plumbing:** identity, payment methods, addresses already on file [S3] — friction removed from every transaction.
-  - **Risk to retention:** reliability. "Erratic" behavior [S8] erodes the trust that makes an ambient assistant sticky.
-
-- **Monetize** (the box that's still unsolved)
-  - **Direct:** $19.99/mo for non-Prime [S2] — small; the real play is Prime retention value.
-  - **Commerce:** purchases up 3x on Alexa+ [S1] — voice/agentic commerce finally showing signal.
-  - **Advertising:** sponsored answers / Brand Prompts inside the multi-turn conversation, riding the $17.2B ads engine [S1] — the most scalable rail.
-  - **Downstream halo:** deeper Prime engagement → more shopping, grocery, video [S1][S2].
-  - **Take-rate/ARPU:** ARPU (revenue per user) not disclosed; historically negative (loss leader) [S7].
 
 ---
 

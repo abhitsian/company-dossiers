@@ -5,9 +5,46 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: merge new sources (earnings, transcripts, articles) — dedupe, sharpen, `[S#]`-tag. Every fact grounded; estimates labeled `~est`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire —** OEM licensing is the acquisition engine: Google licenses Android + GMS (Play, Chrome, Search, Gemini) free to Samsung/Xiaomi/Vivo/etc., who ship ~3.9B devices [S5]. Play comes pre-installed on every certified device — distribution at zero cost per user. Emerging markets (India, Brazil, Indonesia, Africa) are the growth frontier via cheap Android hardware. New AI features (Gemini, Circle to Search) give people a reason to upgrade. [S3][S10]
+- **Engage —** Core loop: find app in Play → install (free) → use daily → convert to in-app purchase/subscription. Aha = the app that becomes a daily habit (games, social, streaming). OS-level hooks create engagement Google owns directly: Circle to Search, Gemini assistant, Discover feed, Play recommendations. ~1,249 new apps/day feed the catalog [S8]. The phone is the highest-frequency product humans own.
+- **Retain —** Switching cost is the lock-in stack: purchased apps/content, saved payment methods in Play, game progress, subscriptions, Google account graph, and cross-device continuity (Wear OS, Auto, TV, XR). Play Protect + developer verification raise the trust bar to keep users inside the store instead of sideloading [S7]. Because there are so many OEMs, Google keeps the *user* even when they switch hardware brands, as long as it stays Android.
+- **Monetize —** Four lines: (1) **Play in-app/subscription fees** — 20/15/10% + 5% billing after the settlement [S6], ~75-80% from games [S4]; (2) **Play paid apps/content** — small, shrinking; (3) **Search & ads pulled through the OS** — the real prize; Android guarantees Search as the default plus new query surfaces (Circle to Search, AI Mode) at $0 placement cost [S10][S3]; (4) **Pixel hardware** — first-party devices (inside SP&D), a showcase and margin line, not the volume driver. Spend per user is the opposite of iOS: high reach, low spend per device [S4].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale**
+- Android: **~3.9B active devices**, ~72.77% global mobile-OS share (late 2025); +8% device growth YoY (3.6B→3.9B). Projected 71-73% through 2026. [S5]
+- Google Play: **2.5B+ monthly users** across 190+ countries; **1.58M-1.7M apps**; ~1,249 new apps/day. [S8]
+- Downloads (2025): Play **104.6B** (73.5% of the 142.2B cross-platform total); App Store 35.4B. [S8][S10]
+
+**Money**
+- Play consumer spend 2025: **~$49.2B, +13% YoY** [S4]. (Some trackers estimate $60-65B gross including all billings — `~est`, depends on method.)
+- Gaming = **~75-80%** of Play consumer spend; **>95%** from free-to-install apps. [S4]
+- Developer payouts to date: **>$80B** cumulative (`~est`, tracker figure). [S4]
+- Reported home: SP&D segment **$12.4B Q1-26, +19%** (bundles Play + Pixel devices + YouTube subs + Google One) [S1]; SP&D was $13.6B in Q4-25, +17% [S3]. Android/Play *not* reported separately [S1][S2].
+
+**Take-rate (post-Epic settlement, Nov 2025 → June 2032)** [S6]
+- In-app purchase fee: **30% → 20%** (15% for qualifying devs)
+- Subscriptions: **→ 10%**
+- Google Play Billing: **+5%** (separate)
+- Third-party app stores / other billing: easier access
+
+**AI / engagement on Android**
+- Circle to Search: **580M+ devices** [S3]; ~1 in 6 AI Mode queries non-text [S3].
+- Gemini app: **>900M monthly users** (June 2026), more than doubled in a year [S2]; 750M+ monthly users as of Q4-25 [S3].
+- Pixel 10a launched Q1-26 with Gemini Live + AI camera; part of "best-ever-rated Pixel 10 series." [S1][S3]
+
+**Ecosystem structure**
+- Android vendor share: Samsung ~30.8%, Xiaomi ~15.9%, Vivo ~11.2%, Oppo ~10.1%, Realme ~5.2% (of Android). Samsung ~19.7% of all smartphones Q2-25. [S5]
+- 13 Google products have >1B users (5 have >3B); all 13 now run on Gemini [S2].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ Android is a cost-avoidance moat, not a profit center — Google gives away the OS so it doesn't have to *pay* for default placement.**
@@ -54,52 +91,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Android is the toll booth, not the toll."** The OS exists to guarantee Google's services reach devices and to avoid paying default-placement fees — not to earn OS revenue. → any "why free / why this product exists" question. [S10]
 - **"Volume vs value split."** Android owns *reach* (users, downloads, emerging markets); iOS owns *money* (spend per user). Never mix the two when sizing. → estimation, strategy. [S4][S5]
 - **"Free-to-install, pay-to-progress."** >95% of Play revenue is in-app purchases and subscriptions on free apps, ~75-80% games. Getting the app is free; paying happens once you're hooked. → monetization, metrics. [S4]
 - **"Certified vs open Android."** The lever Google actually controls is *certification* (GMS, Play Protect, now developer verification) — not the open-source AOSP core. Policy power lives in certification, not the license. → strategy, moats. [S7]
 - **"The OS is becoming the agent."** Apps were the unit of the mobile era; the assistant/agent is the unit of the next one. Gemini-in-Android moves the platform from app-launcher to task-doer. → product vision. [S9]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale**
-- Android: **~3.9B active devices**, ~72.77% global mobile-OS share (late 2025); +8% device growth YoY (3.6B→3.9B). Projected 71-73% through 2026. [S5]
-- Google Play: **2.5B+ monthly users** across 190+ countries; **1.58M-1.7M apps**; ~1,249 new apps/day. [S8]
-- Downloads (2025): Play **104.6B** (73.5% of the 142.2B cross-platform total); App Store 35.4B. [S8][S10]
-
-**Money**
-- Play consumer spend 2025: **~$49.2B, +13% YoY** [S4]. (Some trackers estimate $60-65B gross including all billings — `~est`, depends on method.)
-- Gaming = **~75-80%** of Play consumer spend; **>95%** from free-to-install apps. [S4]
-- Developer payouts to date: **>$80B** cumulative (`~est`, tracker figure). [S4]
-- Reported home: SP&D segment **$12.4B Q1-26, +19%** (bundles Play + Pixel devices + YouTube subs + Google One) [S1]; SP&D was $13.6B in Q4-25, +17% [S3]. Android/Play *not* reported separately [S1][S2].
-
-**Take-rate (post-Epic settlement, Nov 2025 → June 2032)** [S6]
-- In-app purchase fee: **30% → 20%** (15% for qualifying devs)
-- Subscriptions: **→ 10%**
-- Google Play Billing: **+5%** (separate)
-- Third-party app stores / other billing: easier access
-
-**AI / engagement on Android**
-- Circle to Search: **580M+ devices** [S3]; ~1 in 6 AI Mode queries non-text [S3].
-- Gemini app: **>900M monthly users** (June 2026), more than doubled in a year [S2]; 750M+ monthly users as of Q4-25 [S3].
-- Pixel 10a launched Q1-26 with Gemini Live + AI camera; part of "best-ever-rated Pixel 10 series." [S1][S3]
-
-**Ecosystem structure**
-- Android vendor share: Samsung ~30.8%, Xiaomi ~15.9%, Vivo ~11.2%, Oppo ~10.1%, Realme ~5.2% (of Android). Samsung ~19.7% of all smartphones Q2-25. [S5]
-- 13 Google products have >1B users (5 have >3B); all 13 now run on Gemini [S2].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire —** OEM licensing is the acquisition engine: Google licenses Android + GMS (Play, Chrome, Search, Gemini) free to Samsung/Xiaomi/Vivo/etc., who ship ~3.9B devices [S5]. Play comes pre-installed on every certified device — distribution at zero cost per user. Emerging markets (India, Brazil, Indonesia, Africa) are the growth frontier via cheap Android hardware. New AI features (Gemini, Circle to Search) give people a reason to upgrade. [S3][S10]
-- **Engage —** Core loop: find app in Play → install (free) → use daily → convert to in-app purchase/subscription. Aha = the app that becomes a daily habit (games, social, streaming). OS-level hooks create engagement Google owns directly: Circle to Search, Gemini assistant, Discover feed, Play recommendations. ~1,249 new apps/day feed the catalog [S8]. The phone is the highest-frequency product humans own.
-- **Retain —** Switching cost is the lock-in stack: purchased apps/content, saved payment methods in Play, game progress, subscriptions, Google account graph, and cross-device continuity (Wear OS, Auto, TV, XR). Play Protect + developer verification raise the trust bar to keep users inside the store instead of sideloading [S7]. Because there are so many OEMs, Google keeps the *user* even when they switch hardware brands, as long as it stays Android.
-- **Monetize —** Four lines: (1) **Play in-app/subscription fees** — 20/15/10% + 5% billing after the settlement [S6], ~75-80% from games [S4]; (2) **Play paid apps/content** — small, shrinking; (3) **Search & ads pulled through the OS** — the real prize; Android guarantees Search as the default plus new query surfaces (Circle to Search, AI Mode) at $0 placement cost [S10][S3]; (4) **Pixel hardware** — first-party devices (inside SP&D), a showcase and margin line, not the volume driver. Spend per user is the opposite of iOS: high reach, low spend per device [S4].
 
 ---
 

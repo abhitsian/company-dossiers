@@ -4,9 +4,51 @@
 > **v1 — earnings-grounded + web research.** Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag), not appended. Every fact grounded; estimates labeled `[est]`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Barbell entry points: cheap products (Moto, Wait & Save, Route Share) pull price-sensitive and new-market riders; premium (Black, Reserve) pulls high-value riders; both give a **25% first-time-acquisition lift** [S1]. Cross-app: Delivery riders convert to Rides and vice-versa (~$15B run-rate Delivery GB starts in the Mobility app; 30% of eligible Mobility consumers have never used Eats — a captive pool to acquire) [S1]. Word-of-mouth + brand as the default verb ("get an Uber"). International = 60% of Mobility GB, ~70 countries vs. Lyft's US/Canada-only footprint [S2][S6].
+- **Engage** — Core loop: open app → destination often pre-predicted (3/4 of rides) → pick a tier → matched to nearest driver → live price → ride → rate. The aha = "tap, and a car is here in minutes." Frequency hooks: cheap tiers (75% higher frequency), commute products (Route Share peak windows), Price Lock for repeat routes. Airports (~15% of GB) and Reserve build planned, high-intent sessions. [S1]
+- **Retain** — Uber One is the switching cost: ~35%+ of US Mobility GB, cross-product perks (no delivery fees, hotel credits, ride credits), "very sticky" [S1][S2][S4]. Price consistency (insurance-funded flat pricing) builds long-term elasticity and trust [S2]. Safety features (Women Preferences, Teen accounts, share-trip) deepen retention for underserved riders [S7][S8]. Destination prediction cuts friction each session. Boring plumbing: driver liquidity → short ETAs → the product only works if a car is always ~4 min away.
+- **Monetize** — Take rate ~29.9% on Mobility GB [S5]. Price fences: tier ladder (UberX → Comfort → Black), surge/live pricing, Reserve premium, XXL/airport premium [S3]. Expansion: Uber One subscription ($/mo), Price Lock pass ($2.99/mo) [S7], Uber Advertising (in-app ad units, earlier-stage in Mobility than Delivery) [S2]. Future: AV per-trip economics at lower insurance cost + capital-light fleet financing [S1].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers — grouped. Company-wide figures flagged; Rides/Mobility-specific called out.*
+
+**Headline scale & product (Mobility-specific)**
+- Mobility gross bookings +20% Y/Y with "record margins"; US Mobility "accelerated more than the overall business." [S1]
+- Airports ≈ **15% of Mobility gross bookings**; airport-pickup-on-landing rolling out via Reserve. [S1]
+- Cheap products → **75% higher frequency**; premium → **3.5x higher profit growth**; both → **25% lift in first-time acquisition**. [S1]
+- Barbell ends (Wait & Save low; XXL/shuttle high) each grew ~**40%** in a year. [S2]
+- Only ~**20% of global mobility trips** are in dense big-city cores; thinner markets grow **1.5–2x faster**. [S2]
+- **~75% of US profits** come from the 70% of US outside the top markets. [S2]
+- **Mobility take rate ≈ 29.9%** (Q4 2025) — Uber keeps ~30¢ of every ride dollar after driver pay + direct costs. [S5]
+- **Uber One → 35%+ of US Mobility gross bookings**; ~50% of total company bookings. [S1][S4]
+- **3/4 of rides** have the destination AI-predicted before the rider enters it. [S1]
+
+**AV arc (Mobility)**
+- AV Mobility trips **grew >10x Y/Y**; on track for up to **15 cities by end of 2026**; **>30 autonomous partners**. [S1]
+- Uber added **50x the trips** the entire AV industry added last year. [S2]
+- AVs on Uber: **30% higher trips per vehicle per day** vs. a 1P standalone network. [S2]
+- Uber + NVIDIA collecting **>3M hours** of real-world pickup/drop-off data. [S2]
+- AV TAM framed at **"$1 trillion"**, "not winner-take-all." [S1]
+
+**Company-wide context (not Mobility-only)**
+- FY2025 gross bookings **$193B**; 5th straight year of 20%+ growth. [S5]
+- Q1 2026: revenue **$13.20B** (+14.5% Y/Y); non-GAAP EPS **$0.72** (+44% Y/Y); GB +21%; audience +17%. [S1]
+- **>202M MAPCs**; **>450M** annual actives; **>10M** drivers/couriers globally. [S2][S1]
+- Drivers/couriers earned **$22B** in Q3 2025; US median **>$30/utilized hour** incl. tips + incentives. [S5]
+- US split: 30% of bookings from major cities, 70% outside; **60% of Mobility GB is international**. [S2]
+
+**Unit economics (cross-ref `/follow-the-dollar`)**
+- One Mobility dollar: ~70¢ → driver + direct cost; ~30¢ → Uber gross (take rate 29.9%) → pays for payments, background checks, R&D, support, then contribution margin. [S5]
+- Insurance is the swing variable inside that 70¢ — "hundreds of millions" of savings in 2026 returned to price. [S1]
+- Membership economics: a NYC long-weekend hotel booking returns "$100 back, which pays for your entire Uber One membership for the year" — the perk pays for its own retention. [S1]
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on a Uber Rides prompt. Ranked strongest first.*
 
 **★ Insurance-cost reform is the hidden lever behind US ride growth — not demand**
@@ -64,7 +106,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Uber's own framing devices, restated so you can use them on any prompt.*
 
 - **"The barbell, not the bell curve."** Serve the extreme low end (frequency + acquisition) and the extreme high end (profit + acquisition) on purpose; the middle takes care of itself. → portfolio / product-strategy questions. [S1][S2]
@@ -75,50 +117,6 @@
 - **"Insurance as a pricing lever, not a cost."** A cost line, once reformed, becomes a controllable input to price elasticity. → metrics / margin questions. [S1][S2]
 - **"Price consistency drives long-term elasticity."** Volatile surge teaches riders to distrust; flat pricing compounds demand. → pricing / trust. [S2]
 - **"We've seen this movie before."** Aggregator front-ends have a history of enriching the consolidated back-end supplier. → platform-risk questions. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers — grouped. Company-wide figures flagged; Rides/Mobility-specific called out.*
-
-**Headline scale & product (Mobility-specific)**
-- Mobility gross bookings +20% Y/Y with "record margins"; US Mobility "accelerated more than the overall business." [S1]
-- Airports ≈ **15% of Mobility gross bookings**; airport-pickup-on-landing rolling out via Reserve. [S1]
-- Cheap products → **75% higher frequency**; premium → **3.5x higher profit growth**; both → **25% lift in first-time acquisition**. [S1]
-- Barbell ends (Wait & Save low; XXL/shuttle high) each grew ~**40%** in a year. [S2]
-- Only ~**20% of global mobility trips** are in dense big-city cores; thinner markets grow **1.5–2x faster**. [S2]
-- **~75% of US profits** come from the 70% of US outside the top markets. [S2]
-- **Mobility take rate ≈ 29.9%** (Q4 2025) — Uber keeps ~30¢ of every ride dollar after driver pay + direct costs. [S5]
-- **Uber One → 35%+ of US Mobility gross bookings**; ~50% of total company bookings. [S1][S4]
-- **3/4 of rides** have the destination AI-predicted before the rider enters it. [S1]
-
-**AV arc (Mobility)**
-- AV Mobility trips **grew >10x Y/Y**; on track for up to **15 cities by end of 2026**; **>30 autonomous partners**. [S1]
-- Uber added **50x the trips** the entire AV industry added last year. [S2]
-- AVs on Uber: **30% higher trips per vehicle per day** vs. a 1P standalone network. [S2]
-- Uber + NVIDIA collecting **>3M hours** of real-world pickup/drop-off data. [S2]
-- AV TAM framed at **"$1 trillion"**, "not winner-take-all." [S1]
-
-**Company-wide context (not Mobility-only)**
-- FY2025 gross bookings **$193B**; 5th straight year of 20%+ growth. [S5]
-- Q1 2026: revenue **$13.20B** (+14.5% Y/Y); non-GAAP EPS **$0.72** (+44% Y/Y); GB +21%; audience +17%. [S1]
-- **>202M MAPCs**; **>450M** annual actives; **>10M** drivers/couriers globally. [S2][S1]
-- Drivers/couriers earned **$22B** in Q3 2025; US median **>$30/utilized hour** incl. tips + incentives. [S5]
-- US split: 30% of bookings from major cities, 70% outside; **60% of Mobility GB is international**. [S2]
-
-**Unit economics (cross-ref `/follow-the-dollar`)**
-- One Mobility dollar: ~70¢ → driver + direct cost; ~30¢ → Uber gross (take rate 29.9%) → pays for payments, background checks, R&D, support, then contribution margin. [S5]
-- Insurance is the swing variable inside that 70¢ — "hundreds of millions" of savings in 2026 returned to price. [S1]
-- Membership economics: a NYC long-weekend hotel booking returns "$100 back, which pays for your entire Uber One membership for the year" — the perk pays for its own retention. [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Barbell entry points: cheap products (Moto, Wait & Save, Route Share) pull price-sensitive and new-market riders; premium (Black, Reserve) pulls high-value riders; both give a **25% first-time-acquisition lift** [S1]. Cross-app: Delivery riders convert to Rides and vice-versa (~$15B run-rate Delivery GB starts in the Mobility app; 30% of eligible Mobility consumers have never used Eats — a captive pool to acquire) [S1]. Word-of-mouth + brand as the default verb ("get an Uber"). International = 60% of Mobility GB, ~70 countries vs. Lyft's US/Canada-only footprint [S2][S6].
-- **Engage** — Core loop: open app → destination often pre-predicted (3/4 of rides) → pick a tier → matched to nearest driver → live price → ride → rate. The aha = "tap, and a car is here in minutes." Frequency hooks: cheap tiers (75% higher frequency), commute products (Route Share peak windows), Price Lock for repeat routes. Airports (~15% of GB) and Reserve build planned, high-intent sessions. [S1]
-- **Retain** — Uber One is the switching cost: ~35%+ of US Mobility GB, cross-product perks (no delivery fees, hotel credits, ride credits), "very sticky" [S1][S2][S4]. Price consistency (insurance-funded flat pricing) builds long-term elasticity and trust [S2]. Safety features (Women Preferences, Teen accounts, share-trip) deepen retention for underserved riders [S7][S8]. Destination prediction cuts friction each session. Boring plumbing: driver liquidity → short ETAs → the product only works if a car is always ~4 min away.
-- **Monetize** — Take rate ~29.9% on Mobility GB [S5]. Price fences: tier ladder (UberX → Comfort → Black), surge/live pricing, Reserve premium, XXL/airport premium [S3]. Expansion: Uber One subscription ($/mo), Price Lock pass ($2.99/mo) [S7], Uber Advertising (in-app ad units, earlier-stage in Mobility than Delivery) [S2]. Future: AV per-trip economics at lower insurance cost + capital-light fleet financing [S1].
 
 ---
 

@@ -5,9 +5,45 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > **Header note: v1 — earnings-grounded + web research.** Estimates labeled inline. Earnings facts tagged `[S1]`/`[S2]`/`[S3]`; web facts carry their URL.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Near-zero-cost, default-placement distribution: Meta AI sits in the search bar / chat compose of Facebook, Instagram, WhatsApp, Messenger (~4B combined users), plus the standalone app, meta.ai web, and as the operating layer of Ray-Ban glasses ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)). What drives MAU varies by geography: WhatsApp in India/Indonesia, Facebook in the US [S2]. This is why 1B came so fast — it's *distribution*, not virality or paid acquisition.
+- **Engage** — Core loops: (1) ask/generate (chat, voice full-duplex, image gen/edit); (2) Discover feed — a social layer where users share/remix prompts, bringing Meta's feed mechanics into the assistant ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)); (3) glasses always-on Live AI ("see what you see, hear what you hear") [S3]. Aha = personalization: it remembers stated preferences and pulls from your profile/likes across Meta apps [S1]. But the ~4% DAU/MAU shows the aha isn't yet a daily habit.
+- **Retain** — Switching cost = built-up personal memory + cross-surface continuity (start on glasses, continue on app/web) [S1] ([webfx](https://www.webfx.com/blog/ai/meta-ai-app/)). Retention runs on *incumbency*: it's already in the app you open anyway, so "churn" means ignoring a button, not uninstalling. Weak pull, strong ambient presence.
+- **Monetize** — Today ~$0 direct [S1]. Four planned lines: (1) **Ads** — AI-chat signals feed ad targeting from Dec 16 2025 ([Gizmodo](https://gizmodo.com/metas-new-privacy-policy-opens-up-ai-chats-for-targeted-ads-2000704852)); this is the main lever. (2) **Subscriptions** — premium/high-compute tier referenced [S1][S2]. (3) **Business AIs** — commission on agent-closed sales, premium tiers [S1]. (4) **Commerce/shopping** — the named vertical [S1], a path to merchant commissions like OpenAI's ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- 1B MAU (Q1 2025), from 500M (Sep 2024) — fastest assistant to 1B [S1] ([CNBC](https://www.cnbc.com/2025/05/28/zuckerberg-meta-ai-one-billion-monthly-users.html)).
+- ~40M DAU / ~4% DAU-MAU (third-party estimate, not Meta-disclosed) ([demandsage](https://www.demandsage.com/meta-ai-users/)).
+- Available in 200+ markets [S2]. "Consistently near the top of the app stores" [S1].
+- Double-digit % ↑ sessions/user after Muse-Spark rollout [S1]; daily actives generating media tripled Y/Y (Q4) [S2].
+- Business AIs: >10M weekly conversations, up from 1M at year start (10×) [S1].
+- Launched standalone app Apr 29 2025, then on Llama 4; now on Muse Spark (MSL) [S1] ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)).
+
+**Competitive share (engagement, not MAU)**
+- Assistant market by engagement (May 2026): ChatGPT 46.4%, Gemini 27.7%, Claude 10.3%, Meta AI <5% ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
+- By MAU Meta AI leads (1B) vs. ChatGPT ~810M, Gemini ~750M ([bayelsawatch](https://bayelsawatch.com/meta-ai-statistics/)) — the gap between MAU-lead and engagement-lag is the core diagnosis.
+- Meta AI growth rate ~210%, highest in the field — driven by distribution ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
+
+**Parent-company anchors (the ad machine Meta AI feeds)**
+- Q1 2026 revenue $56.3B, +33% Y/Y; FoA ad revenue $55.0B; operating income $22.9B, **41% operating margin** [S1].
+- Family DAU 3.56B (Mar 2026) [S1]; Family MAP ~3.98B ([per-company disclosure via sociallyin](https://sociallyin.com/meta-statistics/)).
+- 1-trillion-parameter ad recommender used at inference, co-designed with silicon, sub-second latency [S1].
+- FY2026 CapEx $125–145B (raised) [S1]; $107B step-up in infra commitments this quarter [S1].
+- WhatsApp paid messaging crossed $2B annual run-rate (Q4) [S2]; FoA "Other" +74% Y/Y [S1].
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Revenue per Meta AI user today ≈ $0 direct (free) [S1]. Value = (a) better ad signal routed to the 41%-margin ad engine, and (b) more engagement in Reels/translation feeding ad impressions (+19% Q1) [S1].
+- Business-AI take-rate (the cut Meta keeps): undefined; planned commissions/premium/high-compute [S1]. Comparable: WhatsApp paid messaging already at $2B RR [S2] = the template.
+- Inference cost posture: >1GW custom Broadcom silicon + AMD + MTIA to "lead the industry in efficiency" [S1][S2] — the lever that decides whether a free-to-1B assistant is affordable.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ Meta AI hit 1B monthly users faster than any assistant ever — and it barely moved the P&L.**
@@ -53,7 +89,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"AI amplifies people, it doesn't replace them."** Zuckerberg's contrarian thesis [S1]: reject the "centralized thing that does all the productive work"; build personal + business agents that make individuals more capable. → any prompt about AI product philosophy or org strategy.
 - **"Give it to my mother."** The consumer-polish bar as a *distribution* lever — quality sets how many people can use it, not just NPS. → product-design quality-bar questions.
@@ -62,44 +98,6 @@
 - **Signal quality: active > passive intent.** An AI chat shows what you're *actively* thinking; likes/scroll only guess at it ([The Record](https://therecord.media/privacy-advocates-see-risks-meta-ai-ad-targeting)). → monetization / data-moat questions.
 - **"Shopping is the tell."** Pick the fight that compounds with the assets you own (ad infra, commerce surfaces), not the one the industry celebrates [S1]. → strategy / focus questions.
 - **Coding ≠ self-improvement.** People treat them as the same; coding is "one ingredient, not the only thing" [S1]. → reframes the "is Meta behind on agents/coding" critique.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- 1B MAU (Q1 2025), from 500M (Sep 2024) — fastest assistant to 1B [S1] ([CNBC](https://www.cnbc.com/2025/05/28/zuckerberg-meta-ai-one-billion-monthly-users.html)).
-- ~40M DAU / ~4% DAU-MAU (third-party estimate, not Meta-disclosed) ([demandsage](https://www.demandsage.com/meta-ai-users/)).
-- Available in 200+ markets [S2]. "Consistently near the top of the app stores" [S1].
-- Double-digit % ↑ sessions/user after Muse-Spark rollout [S1]; daily actives generating media tripled Y/Y (Q4) [S2].
-- Business AIs: >10M weekly conversations, up from 1M at year start (10×) [S1].
-- Launched standalone app Apr 29 2025, then on Llama 4; now on Muse Spark (MSL) [S1] ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)).
-
-**Competitive share (engagement, not MAU)**
-- Assistant market by engagement (May 2026): ChatGPT 46.4%, Gemini 27.7%, Claude 10.3%, Meta AI <5% ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
-- By MAU Meta AI leads (1B) vs. ChatGPT ~810M, Gemini ~750M ([bayelsawatch](https://bayelsawatch.com/meta-ai-statistics/)) — the gap between MAU-lead and engagement-lag is the core diagnosis.
-- Meta AI growth rate ~210%, highest in the field — driven by distribution ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
-
-**Parent-company anchors (the ad machine Meta AI feeds)**
-- Q1 2026 revenue $56.3B, +33% Y/Y; FoA ad revenue $55.0B; operating income $22.9B, **41% operating margin** [S1].
-- Family DAU 3.56B (Mar 2026) [S1]; Family MAP ~3.98B ([per-company disclosure via sociallyin](https://sociallyin.com/meta-statistics/)).
-- 1-trillion-parameter ad recommender used at inference, co-designed with silicon, sub-second latency [S1].
-- FY2026 CapEx $125–145B (raised) [S1]; $107B step-up in infra commitments this quarter [S1].
-- WhatsApp paid messaging crossed $2B annual run-rate (Q4) [S2]; FoA "Other" +74% Y/Y [S1].
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Revenue per Meta AI user today ≈ $0 direct (free) [S1]. Value = (a) better ad signal routed to the 41%-margin ad engine, and (b) more engagement in Reels/translation feeding ad impressions (+19% Q1) [S1].
-- Business-AI take-rate (the cut Meta keeps): undefined; planned commissions/premium/high-compute [S1]. Comparable: WhatsApp paid messaging already at $2B RR [S2] = the template.
-- Inference cost posture: >1GW custom Broadcom silicon + AMD + MTIA to "lead the industry in efficiency" [S1][S2] — the lever that decides whether a free-to-1B assistant is affordable.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Near-zero-cost, default-placement distribution: Meta AI sits in the search bar / chat compose of Facebook, Instagram, WhatsApp, Messenger (~4B combined users), plus the standalone app, meta.ai web, and as the operating layer of Ray-Ban glasses ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)). What drives MAU varies by geography: WhatsApp in India/Indonesia, Facebook in the US [S2]. This is why 1B came so fast — it's *distribution*, not virality or paid acquisition.
-- **Engage** — Core loops: (1) ask/generate (chat, voice full-duplex, image gen/edit); (2) Discover feed — a social layer where users share/remix prompts, bringing Meta's feed mechanics into the assistant ([about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)); (3) glasses always-on Live AI ("see what you see, hear what you hear") [S3]. Aha = personalization: it remembers stated preferences and pulls from your profile/likes across Meta apps [S1]. But the ~4% DAU/MAU shows the aha isn't yet a daily habit.
-- **Retain** — Switching cost = built-up personal memory + cross-surface continuity (start on glasses, continue on app/web) [S1] ([webfx](https://www.webfx.com/blog/ai/meta-ai-app/)). Retention runs on *incumbency*: it's already in the app you open anyway, so "churn" means ignoring a button, not uninstalling. Weak pull, strong ambient presence.
-- **Monetize** — Today ~$0 direct [S1]. Four planned lines: (1) **Ads** — AI-chat signals feed ad targeting from Dec 16 2025 ([Gizmodo](https://gizmodo.com/metas-new-privacy-policy-opens-up-ai-chats-for-targeted-ads-2000704852)); this is the main lever. (2) **Subscriptions** — premium/high-compute tier referenced [S1][S2]. (3) **Business AIs** — commission on agent-closed sales, premium tiers [S1]. (4) **Commerce/shopping** — the named vertical [S1], a path to merchant commissions like OpenAI's ([aibusinessweekly](https://aibusinessweekly.net/p/ai-market-share-2026)).
 
 ---
 

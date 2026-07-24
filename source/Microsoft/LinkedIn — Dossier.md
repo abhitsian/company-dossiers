@@ -5,9 +5,51 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Every fact is source-grounded; estimates are labeled EST.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Near-zero-CAC viral loops: connection invites, "people you may know," profile-completion nudges, and the fact that a job search or recruiter outreach *needs* a profile (supply and demand both sign themselves up). Content (posts, newsletters, video) pulls in non-members via public/SEO profile pages. Games add a daily reason to come back. The employer/recruiter side is acquired by the members already being there — a two-sided flywheel where each side is the other's acquisition channel. [S8][S7]
+- **Engage** — Core loop used to be "check who viewed you / reply to a message / scroll the feed." It has been widened on purpose: **video** (5x engagement, +30% paid video ad growth), **games** (2M+ daily plays), **newsletters/creators** (16M creator-mode users), and **AI job search** (conversational "describe the role you want"). The aha differs by side: for a member it's an inbound recruiter InMail or a job callback; for a recruiter it's a qualified candidate replying. [S8][S2][S4]
+- **Retain** — Switching costs are the graph itself: your connections, endorsements, recommendations, and history don't move with you. For recruiters, workflow lock-in (Recruiter seat + ATS integrations + now Hiring Assistant's memory of your intake) adds up. The plumbing — a verified, self-updating professional identity — is the retention engine; people update LinkedIn when they change jobs because everyone else does. [S1][S6]
+- **Monetize** — Four separate lines on one graph: **Talent** (recruiter seats + agent usage), **Marketing** (auction feed/video ads, CPC/CPM), **Premium** (member subscriptions, tiered), **Sales Navigator** (per-seat social-selling). Expansion path = seat → seat + agent usage; ARPU (revenue per user) rises as AI features move from free-tier bait to paid outcomes. [S1][S3][S6]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers. Estimates labeled EST.*
+
+**Headline scale & product**
+- **~1.3B members** ("1.3 billion members… leading B2B sales and advertising channel," Microsoft Q3 FY26). Prior quarter framed as ~1.2B+ with "double-digit member growth." [S1][S2]
+- **~310M MAU (EST, third-party)** and **~134.5M DAU (EST)** → **~0.42 DAU/MAU**, up from ~0.38. [S8]
+- **16M+** users with Creator Mode; **184k+** newsletters; **28M** newsletter subscribers; **2M+** daily LinkedIn Games plays. [S7][S8]
+
+**Revenue (Microsoft-reported, LinkedIn line)**
+| Period | Revenue | Growth | Driver cited |
+|---|---|---|---|
+| FY2025 (full year) | ~$17.8B | +9% Y/Y | all lines [S3] |
+| Q4 CY2025 (first >$5B quarter) | >$5B | — | Talent + Marketing + Premium [S3] |
+| Q2 FY26 (qtr ended Dec-2025) | — | +11% (+10% cc) | **Marketing Solutions; +30% paid video ads** [S2] |
+| Q3 FY26 (qtr ended Mar-2026) | — | **+12% (+9% cc)** | "growth across all lines"; Q4 guide ~10% [S1] |
+
+**Revenue by line (mix, TTM, mixed vintages — treat as EST/directional)**
+- **Talent Solutions** — largest line, ~$7B (hiring: Recruiter, Jobs, Learning). [S3]
+- **Marketing Solutions** — ~$5B+ (feed ads, video, sponsored content); current growth engine. [S3][S2]
+- **Premium Subscriptions** — ~$2B TTM, up from ~$1.7B (≈+18%). [S3]
+- **Sales Navigator** (reported within/adjacent to Premium) — social-selling seats; figure not separately disclosed. [S4]
+
+**AI monetization**
+- **Talent AI-agent products (sourcing/screening/drafting): >$450M annualized run-rate** — Microsoft Q3 FY26. Hiring Assistant launched Sept 2025. [S1][S6]
+- Company-supplied Hiring Assistant results: "81% fewer profiles reviewed," "66% higher InMail acceptance" (vendor metrics — treat skeptically). [S6]
+
+**Pricing fences (member + recruiter)**
+- Premium Career **~$39.99/mo** (5 InMail credits, applicant insights, 90-day "who viewed"); Premium tiers span **$29.99–$99.99/mo**. [S4]
+- Recruiter Lite ~$170/mo; Recruiter Professional ~$6–10k/yr; Recruiter Corporate ~$9–15k/yr; Hiring Assistant = quote-only add-on. [S6]
+
+**Competitor scale (for contrast)**
+- Indeed: ~452M monthly visits, PPC sponsored-listings model. Glassdoor folded into Indeed (Jul 2025). [S5]
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ LinkedIn sells the same graph four times — and AI lets it sell a fifth (the labor itself).**
@@ -59,7 +101,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can use them on any prompt.*
 
 - **"The Economic Graph."** LinkedIn's map of every worker, skill, job, company, and the links between them — one owned dataset. Use it on any "what's the moat / what's the data asset" prompt: the graph is the noun everything else makes money from. [S1][S6]
@@ -67,50 +109,6 @@
 - **"Growth across all lines of business."** LinkedIn's health check — four money-making surfaces rising together says the graph (not one product) is compounding. Use on judging revenue quality. [S1]
 - **"Sell the outcome, not the access."** Hiring Assistant sells hires; Premium sells callbacks. Use on product-strategy and willingness-to-pay prompts — value moves from data-access to done-work. [S6][S4]
 - **"Verified professional identity."** The one thing a general social network or a general LLM can't fake — a real, employer-confirmed identity graph. Use it against any "why can't Meta/OpenAI just do this" prompt. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers. Estimates labeled EST.*
-
-**Headline scale & product**
-- **~1.3B members** ("1.3 billion members… leading B2B sales and advertising channel," Microsoft Q3 FY26). Prior quarter framed as ~1.2B+ with "double-digit member growth." [S1][S2]
-- **~310M MAU (EST, third-party)** and **~134.5M DAU (EST)** → **~0.42 DAU/MAU**, up from ~0.38. [S8]
-- **16M+** users with Creator Mode; **184k+** newsletters; **28M** newsletter subscribers; **2M+** daily LinkedIn Games plays. [S7][S8]
-
-**Revenue (Microsoft-reported, LinkedIn line)**
-| Period | Revenue | Growth | Driver cited |
-|---|---|---|---|
-| FY2025 (full year) | ~$17.8B | +9% Y/Y | all lines [S3] |
-| Q4 CY2025 (first >$5B quarter) | >$5B | — | Talent + Marketing + Premium [S3] |
-| Q2 FY26 (qtr ended Dec-2025) | — | +11% (+10% cc) | **Marketing Solutions; +30% paid video ads** [S2] |
-| Q3 FY26 (qtr ended Mar-2026) | — | **+12% (+9% cc)** | "growth across all lines"; Q4 guide ~10% [S1] |
-
-**Revenue by line (mix, TTM, mixed vintages — treat as EST/directional)**
-- **Talent Solutions** — largest line, ~$7B (hiring: Recruiter, Jobs, Learning). [S3]
-- **Marketing Solutions** — ~$5B+ (feed ads, video, sponsored content); current growth engine. [S3][S2]
-- **Premium Subscriptions** — ~$2B TTM, up from ~$1.7B (≈+18%). [S3]
-- **Sales Navigator** (reported within/adjacent to Premium) — social-selling seats; figure not separately disclosed. [S4]
-
-**AI monetization**
-- **Talent AI-agent products (sourcing/screening/drafting): >$450M annualized run-rate** — Microsoft Q3 FY26. Hiring Assistant launched Sept 2025. [S1][S6]
-- Company-supplied Hiring Assistant results: "81% fewer profiles reviewed," "66% higher InMail acceptance" (vendor metrics — treat skeptically). [S6]
-
-**Pricing fences (member + recruiter)**
-- Premium Career **~$39.99/mo** (5 InMail credits, applicant insights, 90-day "who viewed"); Premium tiers span **$29.99–$99.99/mo**. [S4]
-- Recruiter Lite ~$170/mo; Recruiter Professional ~$6–10k/yr; Recruiter Corporate ~$9–15k/yr; Hiring Assistant = quote-only add-on. [S6]
-
-**Competitor scale (for contrast)**
-- Indeed: ~452M monthly visits, PPC sponsored-listings model. Glassdoor folded into Indeed (Jul 2025). [S5]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Near-zero-CAC viral loops: connection invites, "people you may know," profile-completion nudges, and the fact that a job search or recruiter outreach *needs* a profile (supply and demand both sign themselves up). Content (posts, newsletters, video) pulls in non-members via public/SEO profile pages. Games add a daily reason to come back. The employer/recruiter side is acquired by the members already being there — a two-sided flywheel where each side is the other's acquisition channel. [S8][S7]
-- **Engage** — Core loop used to be "check who viewed you / reply to a message / scroll the feed." It has been widened on purpose: **video** (5x engagement, +30% paid video ad growth), **games** (2M+ daily plays), **newsletters/creators** (16M creator-mode users), and **AI job search** (conversational "describe the role you want"). The aha differs by side: for a member it's an inbound recruiter InMail or a job callback; for a recruiter it's a qualified candidate replying. [S8][S2][S4]
-- **Retain** — Switching costs are the graph itself: your connections, endorsements, recommendations, and history don't move with you. For recruiters, workflow lock-in (Recruiter seat + ATS integrations + now Hiring Assistant's memory of your intake) adds up. The plumbing — a verified, self-updating professional identity — is the retention engine; people update LinkedIn when they change jobs because everyone else does. [S1][S6]
-- **Monetize** — Four separate lines on one graph: **Talent** (recruiter seats + agent usage), **Marketing** (auction feed/video ads, CPC/CPM), **Premium** (member subscriptions, tiered), **Sales Navigator** (per-seat social-selling). Expansion path = seat → seat + agent usage; ARPU (revenue per user) rises as AI features move from free-tier bait to paid outcomes. [S1][S3][S6]
 
 ---
 

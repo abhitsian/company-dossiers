@@ -4,9 +4,47 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. Ground every fact in a source; estimates labeled `(est.)`.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Cheapest channel is the Mobility app cross-sell (~$15B run-rate GBs; 30% of eligible riders never used Eats yet) [S1]. The barbell pulls first-time users in with low-cost entry products, then upgrades them; each end lifts acquisition ~25% [S1]. Suburban/sparse-market expansion, where category position lags, is a land-grab vector [S1][S2]. International launches (Finland, 7 new markets) often reach #1 without paid push [S1]. Referral + promo credits standard.
+- **Engage** — Core loop: discover → order → real-time GPS track → rate. Aha = a hot, correct order arrives in ~30 min at the price shown, with no surprises [S3]. Hooks: multi-category (restaurants → grocery → alcohol → retail → "Shop for Me" from any store) [S6]; personalization/recommendations; item-level customization for dietary needs [S3]. Multi-product users stick around more — 40% of Q4 consumers used >1 Uber product [S2].
+- **Retain** — Uber One is the retention spine: >50% of bookings from members, "very sticky" across food/grocery/rides/hotels [S1][S2]. Perks pay for themselves (hotel credits cover the annual fee) [S1]. Switching cost = the cross-category wallet + saved addresses/payment + membership already paid for, not menu selection (a commodity). Weak point: within a single restaurant, eaters shop across apps for whichever is cheapest that night.
+- **Monetize** — (1) Merchant commissions ~15–30% [S3]; (2) consumer delivery + service fees, variable [S3]; (3) Advertising — sponsored listings + Ads Manager, ~$1.5B (2025) → $2B+ run-rate, penetration past the old 2% ceiling, enterprise ad growth outpacing SMB [S2][S7]; (4) Uber One subscription $96/yr [S3]; (5) grocery/retail basket economics + third-party promotions (Ibotta network) [S9]. Price fences: Uber One free delivery, $60 grocery-basket fee waiver [S1].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- ~95M active Eats users globally; >1.2M merchant partners; 11,500+ cities / 45+ countries; 6,000+ cities with full grocery+retail integration `(est., aggregator)`. [S4]
+- Uber One: >50M members, +50% Y/Y (30M end-2024 → 50M+; +20M in one year); >50% of bookings. [S1][S2]
+- >10M drivers/couriers globally across Uber (not Eats-only). [S1]
+
+**Market arcs**
+- Delivery GBs +23% Y/Y (Q1 2026), "led by grocery and retail." [S1]
+- Australia sparse markets reaccelerated to "back to 30% growth"; sparse-market trip growth ~2x the platform average. [S1]
+- Expanded to 7 new markets; Finland launched at #1 on the App Store; UK moved #3 → #1 on its own; Japan #1 on its own; Germany "neck and neck." [S1][S2]
+- Selection still only 30–40% of addressable in many countries. [S2]
+
+**Segments / verticals (revenue mix, aggregator est.)**
+- Restaurants ~68% · Grocery/Retail ~18% · Alcohol ~9% · Advertising ~5% `(est.)`. [S4]
+- Grocery/retail called by mgmt "another $1 trillion opportunity"; 5 of top-10 US grocers signed; multiyear exclusive with Kohl's. [S2]
+
+**Audited financials (FY + latest Q) — company-wide, Delivery is a segment**
+- FY2025 Uber revenue $14.37B Q4 (+20% Y/Y); Adj. EBITDA $8.7B (+35%); FCF $9.8B (+42%). [S2]
+- Q1 2026 Uber revenue $13.20B (+14.5% Y/Y); Non-GAAP EPS $0.72 (+44% Y/Y). [S1]
+- Delivery full-year 2025 gross bookings ~$54.1B; Delivery Q4 Adj. EBITDA ~$2.5B (+35% Y/Y) `(aggregator)`. [S3]
+- Uber Eats revenue trajectory: $1.1B (2017) → $13.7B (2024) → ~$17.1B (2025 est.). [S4]
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- Merchant commission ~15–30% of order (depends on exclusivity and delivery method). [S3]
+- Blended take rate ~18–20% of gross bookings; AOV ~$25–27 `(est.)`. [S4]
+- Delivery fee ~$0.99–$5.99, varies by distance/demand/basket. [S3]
+- Uber One: $9.99/mo or $96/yr; $0 delivery fee + no fees above a $60 grocery basket. [S1][S3]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Uber Eats' cheapest CAC is a Rides app it already owns**
@@ -59,53 +97,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"The UI is whatever the user wants that UI to be."** AI removes the one averaged layout; personalization = N storefronts, not a re-ranked grid. → product-design / AI prompts. [S1]
 - **"On-demand → planned."** Uber Reserve proved users will schedule what used to be impulse (rides, and by extension scheduled grocery/meal orders); de-risks any pre-order or subscription-cadence feature. → product-sense prompts. [S1]
 - **The barbell.** Low-cost offers drive frequency (75% higher in Mobility), premium drives profit (3.5x), both lift new-user acquisition 25%. Applied to Eats: cheap grocery staples + premium restaurant/alcohol serve different jobs and feed each other. → segmentation / portfolio prompts. [S1]
 - **"Share of what geography?"** Aggregate US share hides that dense-metro leadership and suburban/international leadership are different contests. → competitive prompts. [S1][S8]
 - **Membership as the GB anchor.** Don't optimize a transaction; optimize the member's cross-category wallet — food, grocery, rides, hotels all defend one subscription. → retention prompts. [S1][S2]
 - **Trough-filling.** Judge a network by what it does in its idle hours, not its peak — Delivery is Mobility's off-peak monetizer. → strategy prompts. [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- ~95M active Eats users globally; >1.2M merchant partners; 11,500+ cities / 45+ countries; 6,000+ cities with full grocery+retail integration `(est., aggregator)`. [S4]
-- Uber One: >50M members, +50% Y/Y (30M end-2024 → 50M+; +20M in one year); >50% of bookings. [S1][S2]
-- >10M drivers/couriers globally across Uber (not Eats-only). [S1]
-
-**Market arcs**
-- Delivery GBs +23% Y/Y (Q1 2026), "led by grocery and retail." [S1]
-- Australia sparse markets reaccelerated to "back to 30% growth"; sparse-market trip growth ~2x the platform average. [S1]
-- Expanded to 7 new markets; Finland launched at #1 on the App Store; UK moved #3 → #1 on its own; Japan #1 on its own; Germany "neck and neck." [S1][S2]
-- Selection still only 30–40% of addressable in many countries. [S2]
-
-**Segments / verticals (revenue mix, aggregator est.)**
-- Restaurants ~68% · Grocery/Retail ~18% · Alcohol ~9% · Advertising ~5% `(est.)`. [S4]
-- Grocery/retail called by mgmt "another $1 trillion opportunity"; 5 of top-10 US grocers signed; multiyear exclusive with Kohl's. [S2]
-
-**Audited financials (FY + latest Q) — company-wide, Delivery is a segment**
-- FY2025 Uber revenue $14.37B Q4 (+20% Y/Y); Adj. EBITDA $8.7B (+35%); FCF $9.8B (+42%). [S2]
-- Q1 2026 Uber revenue $13.20B (+14.5% Y/Y); Non-GAAP EPS $0.72 (+44% Y/Y). [S1]
-- Delivery full-year 2025 gross bookings ~$54.1B; Delivery Q4 Adj. EBITDA ~$2.5B (+35% Y/Y) `(aggregator)`. [S3]
-- Uber Eats revenue trajectory: $1.1B (2017) → $13.7B (2024) → ~$17.1B (2025 est.). [S4]
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- Merchant commission ~15–30% of order (depends on exclusivity and delivery method). [S3]
-- Blended take rate ~18–20% of gross bookings; AOV ~$25–27 `(est.)`. [S4]
-- Delivery fee ~$0.99–$5.99, varies by distance/demand/basket. [S3]
-- Uber One: $9.99/mo or $96/yr; $0 delivery fee + no fees above a $60 grocery basket. [S1][S3]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Cheapest channel is the Mobility app cross-sell (~$15B run-rate GBs; 30% of eligible riders never used Eats yet) [S1]. The barbell pulls first-time users in with low-cost entry products, then upgrades them; each end lifts acquisition ~25% [S1]. Suburban/sparse-market expansion, where category position lags, is a land-grab vector [S1][S2]. International launches (Finland, 7 new markets) often reach #1 without paid push [S1]. Referral + promo credits standard.
-- **Engage** — Core loop: discover → order → real-time GPS track → rate. Aha = a hot, correct order arrives in ~30 min at the price shown, with no surprises [S3]. Hooks: multi-category (restaurants → grocery → alcohol → retail → "Shop for Me" from any store) [S6]; personalization/recommendations; item-level customization for dietary needs [S3]. Multi-product users stick around more — 40% of Q4 consumers used >1 Uber product [S2].
-- **Retain** — Uber One is the retention spine: >50% of bookings from members, "very sticky" across food/grocery/rides/hotels [S1][S2]. Perks pay for themselves (hotel credits cover the annual fee) [S1]. Switching cost = the cross-category wallet + saved addresses/payment + membership already paid for, not menu selection (a commodity). Weak point: within a single restaurant, eaters shop across apps for whichever is cheapest that night.
-- **Monetize** — (1) Merchant commissions ~15–30% [S3]; (2) consumer delivery + service fees, variable [S3]; (3) Advertising — sponsored listings + Ads Manager, ~$1.5B (2025) → $2B+ run-rate, penetration past the old 2% ceiling, enterprise ad growth outpacing SMB [S2][S7]; (4) Uber One subscription $96/yr [S3]; (5) grocery/retail basket economics + third-party promotions (Ibotta network) [S9]. Price fences: Uber One free delivery, $60 grocery-basket fee waiver [S1].
 
 ---
 

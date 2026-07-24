@@ -1,0 +1,700 @@
+Transcripts
+Communication Services
+Spotify Technology S.A. (SPOT) Presents at Morgan Stanley 25th European Technology, Media & Telecom Conference Transcript
+Nov 13, 2025, 4:11 PM ETSpotify Technology S.A. (SPOT) Stock
+SA Transcripts
+160.95K Followers
+Following
+5
+Share
+Save
+Comments
+Play Earnings Call
+
+Spotify Technology S.A. (SPOT) Morgan Stanley 25th European Technology, Media & Telecom Conference November 13, 2025 3:00 AM EST
+
+Company Participants
+
+Christian Luiga - Chief Financial Officer
+
+
+Conference Call Participants
+
+Benjamin Swinburne - Morgan Stanley, Research Division
+
+
+Presentation
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Okay. Good morning, everybody. For important disclosures, please see the Morgan Stanley research disclosure website at morganstanley.com/research disclosures. I'm Ben Swinburne, Morgan Stanley's domestic U.S., I guess, in this case, media and communications analyst.
+
+And I'm extremely excited to welcome to the conference for the first time in this role as CFO of Spotify, Christian Luiga. Christian, thanks for being here.
+
+Christian Luiga
+Chief Financial Officer
+
+Thank you very much.
+
+Question-and-Answer Session
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+How does being here with Spotify compared to your prior roles?
+
+Christian Luiga
+Chief Financial Officer
+
+I just realized this morning, I haven't been here since I -- 5 years ago, what I was here with Telia.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+We renovated the hotel for you.
+
+Christian Luiga
+Chief Financial Officer
+
+It's fantastic. It's a beautiful hotel. It's a beautiful city and actually, I think this -- I don't say it because I'm sitting here. It's one of the better conferences in the year.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+I'll take that. I would love to hear why you decided to join Spotify after such a long and successful career in telecom and defense.
+
+Christian Luiga
+Chief Financial Officer
+
+Well, I got an opportunity that I had to think about for a while. But it's really a couple of things that attracted me to Spotify. One of them is, I wanted to work for a true tech company. And we talk about content and the music and podcast, and audio books on Spotify, but it's really a tech company, and it's true heart. And secondly, it's a global company. And I wanted to work with something to see how and work with the scale of a global company.
+
+Thirdly, the culture and leadership, and I have some experience from Daniel and Martin since before, but I wanted to work with them also. And I'm getting a little bit old. You need to figure out what you want to do before you become pensioner.
+
+And then finally, I wanted to get closer to the U.S. It sounds strange. I've done now over 80 reports to the market. And before this company hasn't done anyone on the New York Stock Exchange. So that was something also for me to tick the box and get close to the U.S., so much happens in the U.S. definitely now also to be close to that country and what happens coming out of the tech side in the U.S. as well. That was 4 reasons that was very strong for me.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+That all makes sense. So before you joined the firm back in 2022, Spotify had an Investor Day, which we still talk about 3 years later, and at that event, the company laid out some long-term ambitions, including reaching 1 billion plus MAU, which I think people were skeptical of at the time, gross margins in the 35% to 40% range, EBIT margins in the 10% to 20% range.
+
+As the CFO coming in over the last year and sort of looking at setting up the business, what are your kind of main priorities to make sure the company is able to deliver on those ambitions.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes, I think it's not that far away, but still some years ago. And I get that question a lot going back to 2022, how do you look at those goals? And just starting from that day to today, like you say, it's quite amazing. We have increased our users with close to 300 million. And we have 100 million more subs, just in that period. So that goal that feels very hard to achieve, we are really running at that goal. So that the proof point is really in that we are delivering and we're delivering then also through 2024 and into 2025 and with the profit -- profitability coming in and the growth continue to be there with over 20% growth than last year and pacing somewhat below that this year, but we also know that the monetization is coming in into next year.
+
+So I think I feel very strong about our position in that sense that we also have a year now when we have sort of reestablished ourselves a bit and [ I'm not ] really making ourselves prepared for going forward on many things that I know we're going to talk about today. That makes me very confident that we can continue to drive towards these goals and beyond those goals.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+There was some pretty big news at the top of Spotify. And I know your relationship, you mentioned before, you've known Daniel and Martin for a long time. But folks were a bit surprised when the company announced that Daniel is going to be moving from CEO to Executive Chairman; Alex and Gustav, stepping into those co-CEO roles, the stock sold off, as you know that day.
+
+What should investors take from that announcement? What changes in Spotify should we be thinking about as a result?
+
+Christian Luiga
+Chief Financial Officer
+
+Let me bring that because now you brought it up twice. But I actually met -- when I worked at Telia, which I know is here in this conference as well, back in 2008, Daniel and the team then being more in a basement in Spotify dealing with a super cool product called Spotify, they realize that they -- and they've been very open about it. They missed the mobile journey.
+
+And I was at working at telco realizing also how fantastic the mobile journey was because mobile subscriptions and mobile phones, which is going crazy. And no one can really imagine how fast that mobile conversion would happen, [ and not in ] Spotify. So they came to us at Telia, and we had a dialogue and we started a partnership where we actually preloaded the Spotify partly exclusivity wise in beginning and then we invested actually in Spotify. So I did a capital allocation that was a little bit criticized for into Spotify at that time.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+You're an early investor.
+
+Christian Luiga
+Chief Financial Officer
+
+Early investor in Spotify and then we stepped out there. But that was when I met actually Daniel and Martin for the first time.
+
+But now if you look at your question here on what happens really, when Daniel says I'm going to leave the CEO role and become an Executive Chairman, I think a couple of things here to remember is that the current setup and that has been for the last years is really that Alex and Gustav has been co-presidents, and so Gustav has been running the tech side and Alex, the business side. And there's been no other business people reporting to Daniel over these last years. So on top of that, has been functions like finance, legal and so on reporting to Daniel. So really, from a business point of view, not much change is happening with this step up.
+
+Daniel will continue as an Executive Chairman as well, which means more from a European point of view, he will spend time as needed and as he feels appropriate, which is maybe more often than we think, when he gets involved in the strategic and long arc thinking in the company, the capital allocation and also other long-term decisions that need to be made. So he will be in the office. Actually, he will have an office in our office, if we're [ good and bad ], but I think it's really good and be part of the company.
+
+So I think there is a change, but that is also very natural because Alex and Gustav have proven over these 15 years, they work with Daniel that they can be part of big transformations and they know each other very well and they know how to develop the culture, Spotify together. So I think that is a very strong element in this change.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Okay. Got it. So there's a lot of continuity still even with the changes in the titles.
+
+Christian Luiga
+Chief Financial Officer
+
+Plenty.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Great. Okay. Why don't we shift a bit to sort of the business and talk about some of the big growth drivers. There's a lot of focus among investors on engagement, not just the Spotify but kind of across streaming. And you guys were pretty vocal on the earnings call about the engagement just being at least qualitatively strong.
+
+What trends can you share with us in terms of listening behavior, time spent, that gives you confidence that the business is healthy?
+
+Christian Luiga
+Chief Financial Officer
+
+Well, first of all, engagement is a very important part for, sort of, our measurement. We could say sometimes, it could be even more important than the number of users. So engagement actually is giving a feedback to us that we are creating value to our customers and value is what we want to drive every day. We have this value to price metrics that we work with.
+
+And so value is extremely important, and engagement is one of those things that we measure it with, and we can see every quarter this year that the engagement is going up, both in hours and also in days. And days and hours are important when we talk about. So how many days in a month are you engaged in our platform and how many hours are you engaged?
+
+We also see very, very positively because we are moving into these new verticals. There's a lot of talk about music with Spotify, but we have audio books and we have podcast, and we may have more verticals over time. And when someone engaged with one more vertical on top of music, engagement increases. It doesn't cannibalize. So you don't use less or the same number of hours and you just shifted from music to podcast, you actually add hours.
+
+And if you don't go for books, you also actually add your engagement. And the loyalty and the churn goes down dramatically. So we see that combination of verticals as a very strong driver for our growth, but also then for keeping customers happy.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+You talk a lot about value to price and want to maintain a gap so the customer is getting value above and beyond what they pay. It's easy to measure what the price of Spotify. But how do you measure -- how does the company think about and measure value, especially for a business that's operating in so many countries around the world?
+
+Christian Luiga
+Chief Financial Officer
+
+Well, we do measure value actually internally. And you have to do it sometime a little bit as an estimate. And sometimes, you could do it with external data. If you have a comparison product to someone else, of course, you can measure that value. I give you 15 hours of books, then I can measure that from a pricing point of view, if I give you mixing tools, it's harder to measure that value, but you can measure that value then in engagement and engagement increase, and then you can see what does that mean in monetization for us over time. So you can measure that. And we want to keep that gap because the TAM is still out there to be taken. I mean there's -- we still have -- the positive thing in this and one of the reasons actually I joined is this is a fantastic growth company also.
+
+And we have such a potential for future growth. And it's not just taking market share is actually growing the market per se. And doing that is one part of this thing that we create value we can get more users and that can become subscribers, and then we can monetize on that. And that flow continues to be a very strong driver strategically internally. So every time we have a management meeting, we actually go through this flow pretty much in some way, talking about what we're going to do in the next month.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+You guys have had a number of price increases over the last 1.5 years. So you're able to test certainly that value to price and you've rolled out some price increases quite recently, including some markets, I think, for the first time. How has churn generally progressed versus your expectations? And what is that feedback loop telling you about your sort of ability to get that value to price ratio, right?
+
+Christian Luiga
+Chief Financial Officer
+
+We haven't done that many price increases that we have also been told by many people. And some people forget about it, but we haven't done that many. And so you can say we don't have a long experience of churn and price increases we have an experience.
+
+And so far, and what we've seen is that we have a, to start with a quite low churn relative to other industries. And secondly, from our price increases, we haven't seen any changes in churn not even this time on the -- more than 150 countries that we increase in.
+
+So there's no material change in churn from this, and we'll see them as we go forward. But I think keeping a value to price gap also helps that philosophy of keeping churn out. I mean as you -- I think you spot on, on something that churn cost quite a lot of money. So if you can keep that churn low, that will be a good business logic also going forward because retention is clearly something that is usually worth it if you find a good model for it instead of trying to just chase new customers all the time.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Sure. I know you said you haven't taken that many price increases and certainly, investors have a strong view on what you should do. But if you look at the last 18 months, I think you've raised prices across pretty much the whole user base at least once.
+
+Is that a way -- is that kind of time line sort of every 1.5 years roughly the whole customer base? Is that a cadence that investors should be thinking about as what could be going forward?
+
+Christian Luiga
+Chief Financial Officer
+
+No, I don't think that is something we actually want to establish as something that people should think about. We have a very strong position, pricing power position. And I think that is starting point. And that gives us flexibility, and it gives us an opportunity to actually decide how we want to work with our value to price metric to each individual market.
+
+And that is the second part of this. It's actually very individual. And I think you as an investor should see more and more. Now there was many countries coming at the same time. But the more we mature and become market leaders in different markets, you will see that the individual markets will be more assessed individually and not as a collective.
+
+And that goes naturally that each market has their own situation and dynamics, both from a competitive, but also for how culture and is actually used in different markets, and that will give us a different driver. We may also have different verticals in different markets like we don't have audio books in all markets, and that gives us also a different sort of view how we should approach that market.
+
+So I think it's going to be more individual and we're going to try to keep that pricing strength that we have today and make that possible then for us to have more individual decisions.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Okay. So the signals you look at increasingly vary. It sounds like across the countries, depending on what the offering is competitive environment, all those variables.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes. And I think it's going to be much more so also going forward. Maybe naturally, it will be happening in the same time anyway, but it's going to be more individual decisions that we do, and we have then the opportunity to do that because we keep the pricing power. And we have a scalable product that makes it easy to do pricing moves.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+How do you guys think about customer segmentation, product differentiation? There's obviously a lot of focus on a premium tier or super VIP tier. What's Spotify's perspective on further tiering and segmenting the customers across all these countries?
+
+Christian Luiga
+Chief Financial Officer
+
+I think the whole thing of verticals and tiering is important. We have many metrics for how to drive growth. One is to have more verticals, of course. One is to bring value to our platform in different ways with features and so on. And the tiering is an important part of that. I think -- the way to think about it is how we utilize the portfolio and how we balance that. Also back to that -- we talked about just in the previous question on different markets also in different times, how to actually scale out and differentiate.
+
+I think we have a great first signal from now the audio book side, for example, where we drive an audio book inclusion in the premium portfolio, then you have audiobooks plus where you can actually take up your subscription to a higher level. And then you have a la carte where you can buy a book only additional and you want to buy just that book and not buy more hours.
+
+So we're starting to -- not experimenting with working with different ways of driving that tiering and with more work verticals and more ways of doing this, I think you will see more of that coming actually in the next 11 months tiering from our side.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Great. Yes, it sounded on the earnings call, like the Audiobooks Plus rollout has been a success. I''m not sure what your internal expectations were, but it seems like that kind of premium within that vertical is working so far.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes. We did a -- I mean, in the U.S., we did a quite cool campaign. I don't know if you saw anything of that in August. But of course, like everything you have, usually compare it a little bit with your benefit you have to work. Do you know all the benefits you can actually get at Morgan Stanley? And it's a little bit like does our customers know exactly what they get out of our products. So you need to do some marketing sometimes also to just educate and get them to feel what they have in this fantastic platform.
+
+And we did a campaign in the U.S. that I think was very successful. We added a little bit of advertising to it. And we could see a pickup rate on just not only actually Audiobooks in general, but also the additional products, as you say, and so on. And I think that was a fantastic test for us to see that if we reach our customers in a good way, they are attracted and they like what we are delivering to them. So we have 14 countries today, and I'm quite sure we will have more countries when we end next year, and we're looking forward to sort of collaborate with different publishers around the world and get more books out to our customers.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+You have 14 Audiobook countries or 14...
+
+Christian Luiga
+Chief Financial Officer
+
+Yes.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Okay.
+
+Christian Luiga
+Chief Financial Officer
+
+And more will come, hopefully. You have to work it every day. It's not that we're sitting still, I mean, hard work.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. I'm not -- I listen to so many podcasts, but the only way I can start listening to Audiobooks is to scale the podcasting back. I haven't figure out how to make all that work. So that campaign probably didn't reach me.
+
+Christian Luiga
+Chief Financial Officer
+
+You may be super used to them.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+If there's a podcast plus, I'm in trouble.
+
+Christian Luiga
+Chief Financial Officer
+
+I'm very curious to see your wrapped in the month.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes.
+
+Christian Luiga
+Chief Financial Officer
+
+You should compare notes there.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. Unfortunately, my kids use my profile. That's my disclaimer for everybody [indiscernible] .
+
+Anyway, why don't we talk -- there was one thing that I wanted to come back and ask you about from the earnings call specifically because I've gotten a lot of questions about it from investors, which is about margins, gross margins in the near term. So you proactively mentioned on your prepared remarks, that the first quarter gross margins you reminding the market are typically down quarter-on-quarter from the fourth quarter seasonally. Can you just talk a little bit about what drives that and how we should think about kind of margin variability as you invest in growth ahead of next year?
+
+Christian Luiga
+Chief Financial Officer
+
+Yes. I think the thing is that we are comfortably growing our margin. And we also state that we will continue to grow our margin. It's not something that just because of that statement you should be worried about. We feel very strong about the progress we have and going forward, also how it looks like that we can deliver on that. The typical thing between quarter 4 and quarter 1 specifically is that quarter 4 is our strongest advertising quarter. And quarter 1 is really our weakest advertising quarter. And I don't see any reason why we should see it differently this year in quarter 4 of '25 and quarter 1 of '26.
+
+So we will have that gap again. So no matter it's slowly increasing, it is actually going to be a gap between quarter 4 and quarter 1. And that's what we're trying to just make sure that we are clear on given what we can give to the market and just expectation management.
+
+Then the main drivers really, I mean, we have our marketplace position that we work with that continues to help us. But even more, I would say, the verticals and how we just talked about Audiobooks and other ways of doing new pricing methods is on the Audiobook plus and top-ups and other things, it is going to be also a very good driver for growth and margin expansion over time.
+
+And then we actually want the advertising business per se, and we believe the advertising business per se will be a margin expansion lever also. So those 3 are mainly -- probably the main reasons why you should feel comfortable that we can grow margin over the coming years.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Great. That's helpful. You had a very busy 2025 with your label relationships signing new deals with a number of -- certainly, all the majors have been announced. And I know a lot of work goes into that, and these are important partners.
+
+Can you just talk about where Spotify stands in its label relationships? And what did you accomplish through all the hard work of getting these deals done in the past year?
+
+Christian Luiga
+Chief Financial Officer
+
+Yes, it is hard work. It's one of those things that you really don't understand when you come from the outside coming into the company, if you would ask me, what are you sort of not surprised about, what did you learn new in this company? You learn a lot of new stuff, but one thing is how much work it goes in to actually establishing the relationship having the dialogue and getting to a win-win position in the end with these different labels and publishers, it's really hard work. And it is a good cooperation also. And I actually think that one of the things we try to convey and is actually very true also this year is that there's a win-win approach to all this. I know many people wonder what that means.
+
+But in reality, I mean, we negotiate we get a possibility to innovate and bring things to the market. And last year, we paid out $10 billion to the market, which has then increased over the years -- many, many years and doing that and still becoming profitable and increasing our profitability. And that is really how we see this going forward. We do negotations that we have a better position to innovate and deliver things. And this fall, we delivered 30 more features to the market. And of course, that is based on our technology leadership and where we have, as I said, a great tech company, but that is also then a precondition for that is that we have the licensing and the rights. And that's how it goes together.
+
+So with this, you can see that this gives us a platform for the coming years, to continue to innovate and deliver even more features over the next years, bringing more value, more subscribers and having higher pricing power. So sort of that is the cycle we do this for. And that should drive grow for us. So that is really what we're looking for.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. It seems like the enhanced free tier is an example of more rights, more -- and then you're seeing MAU growth least pick up in the third quarter, which was nice.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes, the free side is extremely important for us. I think we forget to talk about that sometimes, but 60% of our subscribers come from our free tier. So it's really a funnel, a sales funnel for us. How do you reach customers out there? We go out with something that is free and you can use and you can get a acquaintant, you can start to build some playlist and stuff for yourself. And when you really like it, you want it all. And maybe you suddenly also have some more money as an individual and then you pay up and become a premium.
+
+So that is a very important sales funnel, but it will also wait for us then to, of course, scale our advertising business.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Sure. I want to ask you about Spotify's competitive position. And I think generally, people feel like you're winning in the market. But ever since it became a public company, we worked on the direct listing, 7 years ago or so. There's always the question, well, everyone has the same music. So how do you differentiate? And I think as a user, you kind of intuitively sense the differentiation, but I'd love to hear from you, someone inside the company how you think about the product and how it's positioned versus the other platforms as you continue to try to grow market share, which you guys said you expect to do on your earnings call.
+
+Christian Luiga
+Chief Financial Officer
+
+Well, we -- this with competition. I mean, competition is good to start with in everywhere. I mean it helps you to develop and innovate in any industry. And then, of course, you want to be #1, and we want to be #1. And we feel that we have that market leadership today. We definitely have most subscribers, and we also have most listening.
+
+So the streaming share in the world, we are around 60% or plus, and we have more of the subscribers also than anyone else. And that is ways of sort of measuring our competitiveness. But in reality, it comes back to the question you had before on engagement.
+
+I mean, we try to not think so much about the competition per se in the [ premium ] market leader, you need to think about how do you continue to innovate, how do you continue to bring engagement to the product and platform. And with that, you will probably win the hearts of all these consumers, and you will be a very relevant and loved platform for the creators.
+
+And that is the other thing here. We need to be attractive for our creators. That's something that we have -- I think we've been very successful in the podcast side. So how -- why do a creator want to come and put their stuff on our platform compared to another one. That's another way to become very competitive is to make sure that you have that access to the creators and they want to put their stuff on your platform.
+
+So this is really how we work with this. And I think that we feel comfortable in that sense that we know how to innovate, and we feel that our stats are showing that we are a good leader. And then in each individual market, of course, where we're not, we will continue to strive to be 1 or 2 in the market. That's how it is.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. That's great. Speaking of innovation, I wanted to ask you about AIs, generative AI. Gustav has talked a lot about it on podcast with a lot of enthusiasm. How -- I know Daniel is focused on it. So maybe just starting high level, how is Spotify and the management team is thinking about taking advantage of this incredible technology?
+
+Christian Luiga
+Chief Financial Officer
+
+Well, it is an incredible technology, and it will, of course, help us -- it has helped us a lot in our cost structure to start with. If we just already take that away, yes, already, both in -- especially in Gustav's area, where we have over half of our employees are R&D people. And there, we see a big achievement. We also openly spoke about that in the last quarter report that many people have asked us why have you had sh**** experience on the Apple TV set up when you have it on Samsung and all the other platforms.
+
+And we didn't find a return on investment for it. We didn't feel that it was worth to put all that money to actually develop the Spotify product on to the Apple TV. Then actually Gustav's team figured out how to use AI to take the iOS mobile phone set up and figure out how the Apple TV was built in the same way and how to convert our product there. And we did it at, I would say, less than 1/10 of the cost that we had from the beginning. So suddenly, we did it actually this year because we had the use of AI to make a return on investment. It shows that we are disciplined in what we want to do, but also that we want to do things to actually drive our ubiquity story. And that is really what this is about a lot, ubiquity story.
+
+We want our users to be able to be everywhere and use it on everything. And that goes back to OpenAI. So now OpenAI comes in here and did a partnership with us during this year and also in just a month ago and also the AI in general. If that's going to be in everyone's life, how do we relate to that and how we make sure that the ubiquity story is also relevant here that you can actually on OpenAI then search and do something with your Spotify data and get a better experience from that.
+
+So we need to be part of everyday life wherever you are with the Spotify platform, and that is one of those journeys. But AI is going to be very interesting and give us new ideas of how to innovate and bring things out. And I'm sure we're going to see much more of that as well coming.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+You guys have rolled out stuff like AI DJ, playlist, personalization and music discovery, such a huge part of the Spotify.
+
+Christian Luiga
+Chief Financial Officer
+
+Do you use it?
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+I do. And I even met the guy, the voice behind the AI. It's a real person. It's not a robot, like the person walking in.
+
+Christian Luiga
+Chief Financial Officer
+
+He's a super nice guy.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+But are you guys excited about using Gen AI to take personalization sort of to new levels. Is that an opportunity that you see?
+
+Christian Luiga
+Chief Financial Officer
+
+Absolutely. I mean this is part partnership with OpenAI is one way of actually bringing personalization to another level. Our AI DJ and these things are also a way to personalize better. It is really important to understand that in the past, it was very simplified. We worked with LLM since -- I mean, we started. Gustav started in 2014, actually working with this. So we have a long experience. I think this is back that this is really a tech company.
+
+Again, I emphasize it again, 2014, we already started working on these things and try to figure out how we could use machine learning and other things to develop the product for personalization for you. And that means that we have practiced quite a long time. So we are good on the path to become really excellent also in the next wave of doing things here.
+
+I feel confident that we will continue to see that. What I wanted to say is that when you just work with the traditional measures, you missed something still. So you need -- you can be even more personalized. If you can start to speak to us, if you can start to write to us, and we will have more data about you, that is even higher quality that we can use in figuring out which podcast did you listen to and why? Because we don't know if you end that podcast halfway through because you would just have to go and see your mother.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Or interview a CFO.
+
+Christian Luiga
+Chief Financial Officer
+
+Interview a CFO or just late to a breakfast or if you didn't like it. But if you start to talk to us or if you start to write with us, or if you share something with someone, if you send it to Brian and said like, okay, I love this podcast. And we have a new data point that we can use in personalization on you. So that is also something that is cool with AI that we can actually figure out more how to give you a very good experience.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. That's a great point. Investors are so focused right now on companies that will either be disrupted by or embrace AI, often looking at putting companies in particular bucket. I know it was really interesting that you guys had this integration with OpenAI. I mean most people are viewing that as a competitive threat to a lot of companies, but it's interesting that relationship has turned into an integration product.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes. I mean we -- it was a way for us to, as I said, drive the ubiquity journey where you can actually -- more people are going to be on OpenAI and how can they take use of that. Still, we keep our interface with you and our data with you. But you can actually work with OpenAI to get a better experience.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+So the playlist. I'm done. Okay. Now we only have about a few minutes left. I wanted to come back to the advertising business. It is a smaller part of the revenue stream today, but I think you guys have a lot of ambition to accelerate the growth there? I know you've put a lot of change into the organization in 2025.
+
+What's working and what's not working? And what do you need to get right to get this business growing at the levels you'd like it to?
+
+Christian Luiga
+Chief Financial Officer
+
+I would say that most things are working, actually, but we are a little bit behind. So we decided that 2025 would be and we started already in '24 to say we need to change the strategy and work forward. And this year is a transition year. And it's been clear to us that this is a transition year, we need this year to come through.
+
+We also made a statement that second half of '26, we see the inflection point where we are moving a lot of our advertising from direct brand advertising into programmatic, automatic advertising. So that journey is ongoing. What we -- what you say, what didn't work maybe or what has been sort of more struggle has been the timing of it, sort of how fast we move. But it takes time. It takes time to move from new customers from 1 platform to another. It takes time to set up the new DSPs that we have done lately, Amazon and Yahoo.
+
+So -- and then you put them on there and then it takes a couple of months before they get going. And we have changed leadership, and we have worked with our R&D also internally to improve the interface to our customers. So they can -- they can go in today and really create something, they can buy something and they can measure something on their platform. And now they're getting used to that.
+
+And we see that growth being very healthy in the programmatic side, more than very healthy, I would say, even, but of course, we have a decline when we move over to customers from the traditional side. And that inflection point will be then in the next year where we see that, that will compensate enough. That said, I have to say, on a like-for-like basis, we're still growing. It's not like we're not growing. We're growing low single-digit growth in the advertising business still. So it's not like a negative drag on the group on the top line.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Got it. Okay. Maybe just lastly, I wanted to ask you, you guys started buying back stock recently. You've got a lot of cash on the balance sheet. You were talking earlier about your Spotify investment at Telia all those years ago as capital allocation decision. How does the company think about your strategic priorities and sort of capital allocation now that you've set this company up for free cash flow generation from looking forward?
+
+Christian Luiga
+Chief Financial Officer
+
+Yes. We had EUR 9.1 billion in gross liquidity at the quarter end. We have a convertible debt that is due quarter 1 and so we have a good position. I think the first thing is that we want to have a strong balance sheet position, going into the next years because we want to -- we just want to have that to make sure we can deliver on our strategy, and that strategy is to continue to grow. So we have a growth strategy.
+
+So what do we do with the capital allocation? Well, first and foremost, back into the business to grow the business. And if that needs also to be things outside the business, nonorganic that we will be open to that, but it is a foremost a growth and organic growth journey we want to do because we have such a strong platform to build from.
+
+Then as we said, if we have excess cash and the question is, what is excess cash, and I haven't answered that question. I will not do that today either, but we will actually go back to the shareholders a bit what we said right now, I think it's actually a very fair way to use your balance sheet if you have enough liquidity to actually make sure that the dilution from our stock option programs are repurchased. So each shareholder feels that we -- they own the same amount, no matter what. We don't have, I would say, comparison wise, we have a quite a fair number of sort of not too high number of shares that need to be bought back. So it's not going to be a big money to handle that repurchase.
+
+So -- but we started to do that now this half year which was -- and we do it opportunistically, which means that we're not going to have a program in place either for that. But I would say there's a lot of interesting opportunities back to what you talked about earlier on new verticals in general when it comes to the music platform per se and when it comes to growing from a competitive point of view, on how we could use that money and AI is also coming into the picture over time, as you said.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Sure. Well, anything you want to leave us with as we wrap up in terms of your outlook for the company and what most excites you about the years ahead now that I think you're about a little over a year into your tenure as CFO at Spotify?
+
+Christian Luiga
+Chief Financial Officer
+
+I was on stage just before Christmas last year, and I got the same question. What was exciting? My excitement was as I said, growth. And to be a little bit fair, I was not really 100% sure about that statement at that time because what I was so new into the company and I hadn't sort of done the first planning cycles for the company, look through and work with all the managers, good enough.
+
+But I can just reinforce that. I feel that this company has such a great opportunity to have -- take care of this platform and this customer base. We get about like the $700 million we touch every month out there, and assume $300 million, $289 million guidance for year-end in paying customers, that platform and with all the technology coming and being a tech company, I think with the opportunity -- that actually is overwhelming sometimes how much we can do, but it's fantastic to see that, that is the opportunity that I'm most excited about.
+
+Then I think that when it comes to sort of continuous profitability and improving margins, we have shown and we have -- and I have seen that we have a very strong culture internally of one team. And that means that if we decide to be disciplined like with the Apple thing or something else, we are disciplined, and we can then decide how we want to drive that margin and cost structure based on what we think we can deliver on growth. I'm looking at the top line here. The top line growth...
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+I think I got the numbers...
+
+Christian Luiga
+Chief Financial Officer
+
+So the growth number is -- so I think that excites me a lot. And there is still so many -- there's still so many markets and so many people...
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+And so many verticals.
+
+Christian Luiga
+Chief Financial Officer
+
+Yes, we -- today, we have 3% the population paying for Spotify. So why not think that maybe 10% can do that or 15%. We now have to have crazy numbers. that is actually -- that is an opportunity in itself, just to put that number in front of you and like 3% of the whole world is there? And why not 10%? 10% is not a sort of crazy number. So that is really how we look at it internally. And as I said, and go back to where we started, since 2022, we already achieved quite a lot there with $300 million and 100 million subs in those years. So why not continue.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Yes. So you're excited about growth, but now you mean it. And margin expansion, which is great.
+
+Christian Luiga
+Chief Financial Officer
+
+Anything else?
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+That's all we got. Thank you, everybody.
+
+Christian Luiga
+Chief Financial Officer
+
+Okay. Thank you.
+
+Benjamin Swinburne
+Morgan Stanley, Research Division
+
+Thank you.
+
+
+
+Read more current SPOT 
+analysis and news
+View all 
+earnings call transcripts
+Share
+Save
+Print
+Comments
+Recommended For You
+AI Bubble Burst: Meta Admits 'Excess Compute Capacity'
+Damir Tokic
+Tax Alpha With Raul Shah: Roth Conversions
+Investing Experts Podcast
+Micron Is Now Everyone Else's Problem (Rating Downgrade)
+Tech Stock Pros
+Most Of The S&P 500's 2026 Earnings Growth Is An Illusion
+Cory Cramer
+Exxon Mobil: $70 Oil Price Unlikely To Last (Rating Upgrade)
+Envision Research
+Comments
+Sort by
+Newest
+
+If you type a company or ETF ticker symbol in capital letters we will automatically link to the symbol page. You can remove the link by deleting the $ in the comment.
+
+Search Transcripts
+Current
+All Transcripts
+Find
+Compare to All SPOT Transcripts »
+Compare to Other Companies in this sector »
+About SPOT Stock
+Symbol	Last Price	% Chg
+
+SPOT
+	472.48	2.91%
+Post	472.89	0.09%
+1D
+5D
+1M
+6M
+1Y
+5Y
+10Y
+Chart
+Combination chart with 2 data series.
+View as data table, Chart
+The chart has 1 X axis displaying Time. Data ranges from 2025-07-01 00:00:00 to 2026-07-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 412.75 to 738.53.
+Aug '25
+Nov '25
+Feb '26
+May '26
+250
+500
+750
+End of interactive chart.
+Market Cap
+$94.41B
+PE (FWD)
+31.40
+Yield
+-
+Rev Growth (YoY)
+8.02%
+Short Interest
+3.78%
+Prev. Close
+$459.13
+SPOT Summary
+Compare to Peers
+SPOT Ratings
+Source	Rating	Score
+SA Analysts	
+BUY
+	
+RATING: BUY
+3.75
+
+Wall Street	
+BUY
+	
+RATING: BUY
+4.45
+
+Quant	
+HOLD
+	
+RATING: HOLD
+2.73
+Quant Ranking
+?
+Sector
+Communication Services
+Industry
+Movies and Entertainment
+Ranked Overall
+2930 out of 4261
+Ranked in Sector
+148 out of 217
+Ranked in Industry
+29 out of 34
+Quant Ratings Beat The Market »
+More on SPOT
+SA analyst upgrades/downgrades: MU, LOW, FDX, SPOT
+Spotify: What Changed My Mind From Hold To Buy (Rating Upgrade)
+The J Thesis
+Spotify: Strong Margins, Stretched Valuation
+Byte Sized Alpha
+Spotify says service restored after outage disrupts streaming
+Product
++ Add
+Link Portfolio
+Edit Portfolio
+Symbol
+Sort by Symbol in descending order
+	Price
+	% Chg
+ABNB
+	
+147.31
+	
+2.94%
+CRM
+	
+163.23
+	
+4.19%
+DASH
+	
+188.87
+	
+2.35%
+GOOG
+	
+357.89
+	
+1.29%
+HUBS
+	
+187.72
+	
+2.85%
+META
+	
+612.91
+	
+8.81%
+NFLX
+	
+74.19
+	
+3.91%
+NOW
+	
+105.80
+	
+6.57%
+PINS
+	
+21.89
+	
+4.09%
+RDDT
+	
+197.76
+	
+13.93%
+SNAP
+	
+4.75
+	
+6.98%
+SPOT
+	
+472.48
+	
+2.91%
+TEAM
+	
+83.17
+	
+6.92%
+UBER
+	
+72.66
+	
+0.69%
+Expand Portfolio
+Looking For The Perfect Gift?
+
+You can now buy 1 year of Seeking Alpha Premium for whomever you like.
+
+Gift Premium

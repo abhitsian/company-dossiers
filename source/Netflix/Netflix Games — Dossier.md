@@ -4,9 +4,41 @@
 > **v1 — earnings-grounded + web research**
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim bold headlines for the gist; drill for detail. Every fact is `[S#]`-tagged; estimates labeled `[est.]`.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Games' own acquisition effect is "really small to date" [S1]. The real acquisition channel is the core Netflix funnel; games ride the existing app install. Distribution is pre-solved: the games row sits inside the app already on ~100M TVs [S2].
+- **Engage** — Core loop: member opens Netflix to watch → sees a games row / party-game pack on TV → phone becomes controller → "just one round." Party games target the group-on-couch moment [S2]; the kids loop runs inside a curated Playground app [S1]; narrative/IP games ride an active fandom [S1]. Aha = the first couch session that turns "we're watching" into "we're playing." Engagement uptick from party games was "significant" but "off a small base… ~10% reach" [S2].
+- **Retain** — The whole point. Games raise the household switching cost: kids' Playground raises the parent's cancel bar [S1][S6]; IP games deepen fandom that Netflix says makes people "advocates" [S2]. Retention is the lagging metric games are underwritten against [S1][S2]. The plumbing that gates it: TV-client firmware upgrades across smart-TV models/countries [S2].
+- **Monetize** — No direct monetization: no extra fee, no ads, no in-app purchases [S1]. Monetization is indirect — retained subscription revenue + reduced churn. Optionality: the $150B market "doesn't even include ad revenues" [S1], leaving ads/IAP as a lever the current model deliberately forgoes.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Fact | Value | Source |
+|---|---|---|
+| Members with TV-games access | ~1/3 of members = >100M households | [S2] |
+| Play rate among eligible | ~10% reach | [S2] |
+| Total games in catalog (2026) | ~100–102 (mobile + cloud) | [S4][S6] |
+| Kids' game downloads (2024) | +17% Y/Y while cutting new releases | [S6] |
+| Gaming strategy maturity | 5th year (launched Nov 2021) | [S1][S8] |
+| Cloud-TV rollout target | past 50% of base as TV clients upgrade | [S2] |
+
+**Market arcs**
+- Games market: "$150B consumer spend ex China, ex Russia… excludes ad revenue" [S1]; "$140B ex China" cited Q4 [S2]. Netflix capture ≈ rounding error; investment "still currently small relative to overall content spend" [S1].
+
+**The 4 focus areas** [S1]: kids · narratives · party/puzzle · mainstream.
+
+**Proven cloud TV hits** [S2]: Red Dead Redemption + GTA ("same kind of performance"); party — Boggle, Pictionary, LEGO Party!, Tetris. **2026 pipeline** [S2]: reimagined "more accessible" FIFA football sim, timed to FIFA World Cup 2026; more kids + narrative features.
+
+**Company anchor (for scale context)** [S1][S2]: 325M+ members; FY2025 revenue +16% ($51B 2026 guide); 31.5% operating-margin guide. Games is a sub-line inside this, not separately disclosed.
+
+**Unit economics (games)** — *no per-game or games-segment revenue disclosed.* Structure: zero marginal price to the member (bundled), so the payoff shows up as retained subscription-months, not game revenue. Party titles are "cheap to produce relative to AAA" and "lean heavily on recognizable brands" [S2 context/est.]; cloud delivery adds streaming compute cost per session (the variable cost that gates "demonstrated returns").
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on a Netflix Games question. Ranked strongest first.*
 
 **★ Games is a retention/acquisition tool, not a P&L, and Netflix says so out loud**
@@ -51,46 +83,12 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"All engagement is not created equal."** Total view-hours (or play-minutes) is "an overly simplified view" distorted by plan/tenure/geography mix; the real north star is a proprietary member-quality metric validated by its "predictive and explanatory power" on retention [S1][S2]. → any metrics prompt: attack the vanity number, ask what it predicts.
 - **"A business and not a religion."** Sarandos on reversing prior positions when "conditions change and insights change" [S2]. Applies directly to killing the AAA studio. → strategy prompts about sunk cost / pivots.
 - **"Demonstrated value to members and returns to the business."** The investment gate for games — spend follows proof, not ambition [S2]. → prioritization / resourcing prompts.
 - **"Extends engagement and reinforces both mediums."** The IP flywheel restated [S1]. → any "why enter adjacency X" prompt.
 - **"Scratching the surface."** The right register for a huge-TAM, tiny-capture business — bullish on the arc, honest on today [S1]. → estimation prompts.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Fact | Value | Source |
-|---|---|---|
-| Members with TV-games access | ~1/3 of members = >100M households | [S2] |
-| Play rate among eligible | ~10% reach | [S2] |
-| Total games in catalog (2026) | ~100–102 (mobile + cloud) | [S4][S6] |
-| Kids' game downloads (2024) | +17% Y/Y while cutting new releases | [S6] |
-| Gaming strategy maturity | 5th year (launched Nov 2021) | [S1][S8] |
-| Cloud-TV rollout target | past 50% of base as TV clients upgrade | [S2] |
-
-**Market arcs**
-- Games market: "$150B consumer spend ex China, ex Russia… excludes ad revenue" [S1]; "$140B ex China" cited Q4 [S2]. Netflix capture ≈ rounding error; investment "still currently small relative to overall content spend" [S1].
-
-**The 4 focus areas** [S1]: kids · narratives · party/puzzle · mainstream.
-
-**Proven cloud TV hits** [S2]: Red Dead Redemption + GTA ("same kind of performance"); party — Boggle, Pictionary, LEGO Party!, Tetris. **2026 pipeline** [S2]: reimagined "more accessible" FIFA football sim, timed to FIFA World Cup 2026; more kids + narrative features.
-
-**Company anchor (for scale context)** [S1][S2]: 325M+ members; FY2025 revenue +16% ($51B 2026 guide); 31.5% operating-margin guide. Games is a sub-line inside this, not separately disclosed.
-
-**Unit economics (games)** — *no per-game or games-segment revenue disclosed.* Structure: zero marginal price to the member (bundled), so the payoff shows up as retained subscription-months, not game revenue. Party titles are "cheap to produce relative to AAA" and "lean heavily on recognizable brands" [S2 context/est.]; cloud delivery adds streaming compute cost per session (the variable cost that gates "demonstrated returns").
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Games' own acquisition effect is "really small to date" [S1]. The real acquisition channel is the core Netflix funnel; games ride the existing app install. Distribution is pre-solved: the games row sits inside the app already on ~100M TVs [S2].
-- **Engage** — Core loop: member opens Netflix to watch → sees a games row / party-game pack on TV → phone becomes controller → "just one round." Party games target the group-on-couch moment [S2]; the kids loop runs inside a curated Playground app [S1]; narrative/IP games ride an active fandom [S1]. Aha = the first couch session that turns "we're watching" into "we're playing." Engagement uptick from party games was "significant" but "off a small base… ~10% reach" [S2].
-- **Retain** — The whole point. Games raise the household switching cost: kids' Playground raises the parent's cancel bar [S1][S6]; IP games deepen fandom that Netflix says makes people "advocates" [S2]. Retention is the lagging metric games are underwritten against [S1][S2]. The plumbing that gates it: TV-client firmware upgrades across smart-TV models/countries [S2].
-- **Monetize** — No direct monetization: no extra fee, no ads, no in-app purchases [S1]. Monetization is indirect — retained subscription revenue + reduced churn. Optionality: the $150B market "doesn't even include ad revenues" [S1], leaving ads/IAP as a lever the current model deliberately forgoes.
 
 ---
 

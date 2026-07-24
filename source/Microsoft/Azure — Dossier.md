@@ -4,9 +4,50 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Enterprise-led. Channels: (1) Microsoft's installed base — M365/Windows/AD relationships convert to Azure via bundled EA agreements and Azure consumption commitments (MACC); (2) first-party pull — M365 Copilot and GitHub Copilot run *on* Azure, so app-layer adoption is itself Azure demand; (3) procurement advantage — enterprises already have Microsoft on paper (procurement, compliance, licensing), an easier path than a net-new AWS vendor; (4) frontier-model draw — Azure OpenAI Service is the enterprise front door to GPT-5/Claude 4.5 with compliance + networking. [W7][S2]
+- **Engage** — Core loop: land a workload (VM lift-and-shift, SQL, or a Foundry model) → it spins up nearby usage (agents start containers, storage, CPU — "AI workloads are not just AI accelerators") → usage compounds. Aha for AI buyers: multi-model Foundry ("generate with Opus, check with Codex") on one governed harness. Surfaces: Azure portal, Foundry, Fabric (analytics), Arc (hybrid control plane), Agent 365 (agent governance). [S1][S2]
+- **Retain** — Switching costs: data gravity (egress fees, petabyte-scale stores), identity lock-in (Entra/AD as the enterprise auth backbone), Arc extending Azure management over on-prem + rival clouds, and multi-year MACC commitments. Retention shows up as RPO ($627B) and the pre-sold GPU book. Risk: memory/component price inflation and capacity limits can throttle the ability to *land* new workloads even when demand exists. [S1][S2]
+- **Monetize** — Pure usage (compute-hours, storage-GB, tokens, data-processed) + provisioned-throughput commitments + the emerging seat→consumption overage flow from M365 Copilot. Price fences: Global Standard (cheapest) vs Data Zone/Regional (compliance premium); commitment discounts on reserved capacity. Take-rate proxy = Microsoft Cloud GM ~66%, guided down to ~64% as AI infra scales. [S1][W5]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- Azure revenue >$75B in FY25, +34% Y/Y; runs 400+ datacenters across 70+ regions — more regions than any provider. [W2][W1]
+- Azure growth: +40% Y/Y Q3 FY26 (+39% cc), "ahead of expectations"; +39% Q2 FY26. Q4 FY26 guide: +39–40% cc. [S1][S2]
+- Foundry catalog: 11,000+ models; 10,000+ customers use >1 model; 1,500+ use both Anthropic and OpenAI; 300+ customers on track to process >1 trillion tokens this year. [W5][S1][S2]
+- Fabric run-rate >$2B, +60%, 31,000 customers. Foundry customers spending $1M+/qtr grew ~80%. [S2]
+
+**Market arcs (est., third-party)**
+- Cloud infra market ~$419B in 2025 → projected >$800B by end-2026. [W3]
+- Share (early-2026 est., varies by source): AWS ~31–33%, **Azure ~23–24%**, Google ~12%. AWS–Azure gap narrowed from ~15pts (2020) to ~7pts (2026). [W3][W4]
+- Growth (FY25 est.): Google ~28% > Azure ~25% > AWS ~18%. At current gaps, Azure could reach AWS revenue parity ~2028–29. [W4] *(estimate — third-party)*
+
+**Segment financials (Intelligent Cloud, houses Azure)**
+| Metric | Q3 FY26 [S1] | Q2 FY26 [S2] |
+|---|---|---|
+| Intelligent Cloud rev | $34.7B, +30% (+28% cc) | $32.9B, +29% (+28% cc) |
+| IC operating margin | 40% | 42% |
+| Microsoft Cloud rev | $54.5B, +29%; GM 66% | $51.5B, +26%; GM 67% |
+| AI business ARR | >$37B, +123% Y/Y | — |
+| Commercial RPO | $627B, +99% Y/Y | $625B, +110%; ~45% OpenAI |
+
+**Infrastructure / silicon**
+- Maia 200 inference accelerator: TSMC 3nm, FP8/FP4, 216GB HBM3e @ 7TB/s, 272MB SRAM; "30%+ improved tokens per dollar" / "30%+ better TCO"; live in Iowa/Arizona. [S1][S2][W9]
+- Cobalt 200 CPU: first production servers live, in nearly half of DC regions (Databricks, Siemens, Snowflake). [S1][W10]
+- Fairwater (Mount Pleasant, WI) went live June 23, 2026; ~300MW ultra-dense GPU building, ~150k GB200-class GPUs; "AI super factory" linked to Atlanta via AI WAN. [S2][W8]
+- Added ~1 GW capacity per quarter; on track to "double overall footprint in 2 years." CapEx: $31.9B (Q3), $37.5B (Q2); CY26 CapEx ~$190B (incl. ~$25B higher component pricing). [S1][S2]
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- Consumption pricing: Azure OpenAI GPT-4o ~$2.50/M input tokens, $10.00/M output; Llama 3.3 70B serverless ~$0.59/$0.79 per M. Foundry platform itself free; you pay per feature used. [W5][W6]
+- Margin levers (management-stated): value captured in usage pricing · royalty-free OpenAI IP through '32 · own silicon · software+hardware efficiency ("tokens per watt per dollar"). [S1]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Azure's reported growth number is a supply *choice*, not a demand read.**
@@ -59,7 +100,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Azure's own framing devices, restated so you can wield them on any prompt.*
 
 - **"Allocated-capacity guide."** A growth number from a supply-constrained business reflects an *allocation decision*, not demand. → metrics interpretation, capacity strategy. [S2]
@@ -69,49 +110,6 @@
 - **"AI workloads are not just AI accelerators."** Agents spin up containers, storage, CPU — so an AI boom is also a *classic-cloud* boom (Cobalt, migrations). → TAM sizing, second-order effects. [S2]
 - **"Who pays for all this? Evals and outcomes."** New AI spend is funded by moving money out of OpEx (labor, other line items) as business outcomes enter IT budgets — not by IT budgets growing. → market-sizing, GTM. [S1]
 - **"Agent control plane."** Governance (identity, security, audit) extends from users to *agents*, across any cloud — a new category (Agent 365). → product expansion, defensibility. [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- Azure revenue >$75B in FY25, +34% Y/Y; runs 400+ datacenters across 70+ regions — more regions than any provider. [W2][W1]
-- Azure growth: +40% Y/Y Q3 FY26 (+39% cc), "ahead of expectations"; +39% Q2 FY26. Q4 FY26 guide: +39–40% cc. [S1][S2]
-- Foundry catalog: 11,000+ models; 10,000+ customers use >1 model; 1,500+ use both Anthropic and OpenAI; 300+ customers on track to process >1 trillion tokens this year. [W5][S1][S2]
-- Fabric run-rate >$2B, +60%, 31,000 customers. Foundry customers spending $1M+/qtr grew ~80%. [S2]
-
-**Market arcs (est., third-party)**
-- Cloud infra market ~$419B in 2025 → projected >$800B by end-2026. [W3]
-- Share (early-2026 est., varies by source): AWS ~31–33%, **Azure ~23–24%**, Google ~12%. AWS–Azure gap narrowed from ~15pts (2020) to ~7pts (2026). [W3][W4]
-- Growth (FY25 est.): Google ~28% > Azure ~25% > AWS ~18%. At current gaps, Azure could reach AWS revenue parity ~2028–29. [W4] *(estimate — third-party)*
-
-**Segment financials (Intelligent Cloud, houses Azure)**
-| Metric | Q3 FY26 [S1] | Q2 FY26 [S2] |
-|---|---|---|
-| Intelligent Cloud rev | $34.7B, +30% (+28% cc) | $32.9B, +29% (+28% cc) |
-| IC operating margin | 40% | 42% |
-| Microsoft Cloud rev | $54.5B, +29%; GM 66% | $51.5B, +26%; GM 67% |
-| AI business ARR | >$37B, +123% Y/Y | — |
-| Commercial RPO | $627B, +99% Y/Y | $625B, +110%; ~45% OpenAI |
-
-**Infrastructure / silicon**
-- Maia 200 inference accelerator: TSMC 3nm, FP8/FP4, 216GB HBM3e @ 7TB/s, 272MB SRAM; "30%+ improved tokens per dollar" / "30%+ better TCO"; live in Iowa/Arizona. [S1][S2][W9]
-- Cobalt 200 CPU: first production servers live, in nearly half of DC regions (Databricks, Siemens, Snowflake). [S1][W10]
-- Fairwater (Mount Pleasant, WI) went live June 23, 2026; ~300MW ultra-dense GPU building, ~150k GB200-class GPUs; "AI super factory" linked to Atlanta via AI WAN. [S2][W8]
-- Added ~1 GW capacity per quarter; on track to "double overall footprint in 2 years." CapEx: $31.9B (Q3), $37.5B (Q2); CY26 CapEx ~$190B (incl. ~$25B higher component pricing). [S1][S2]
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- Consumption pricing: Azure OpenAI GPT-4o ~$2.50/M input tokens, $10.00/M output; Llama 3.3 70B serverless ~$0.59/$0.79 per M. Foundry platform itself free; you pay per feature used. [W5][W6]
-- Margin levers (management-stated): value captured in usage pricing · royalty-free OpenAI IP through '32 · own silicon · software+hardware efficiency ("tokens per watt per dollar"). [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Enterprise-led. Channels: (1) Microsoft's installed base — M365/Windows/AD relationships convert to Azure via bundled EA agreements and Azure consumption commitments (MACC); (2) first-party pull — M365 Copilot and GitHub Copilot run *on* Azure, so app-layer adoption is itself Azure demand; (3) procurement advantage — enterprises already have Microsoft on paper (procurement, compliance, licensing), an easier path than a net-new AWS vendor; (4) frontier-model draw — Azure OpenAI Service is the enterprise front door to GPT-5/Claude 4.5 with compliance + networking. [W7][S2]
-- **Engage** — Core loop: land a workload (VM lift-and-shift, SQL, or a Foundry model) → it spins up nearby usage (agents start containers, storage, CPU — "AI workloads are not just AI accelerators") → usage compounds. Aha for AI buyers: multi-model Foundry ("generate with Opus, check with Codex") on one governed harness. Surfaces: Azure portal, Foundry, Fabric (analytics), Arc (hybrid control plane), Agent 365 (agent governance). [S1][S2]
-- **Retain** — Switching costs: data gravity (egress fees, petabyte-scale stores), identity lock-in (Entra/AD as the enterprise auth backbone), Arc extending Azure management over on-prem + rival clouds, and multi-year MACC commitments. Retention shows up as RPO ($627B) and the pre-sold GPU book. Risk: memory/component price inflation and capacity limits can throttle the ability to *land* new workloads even when demand exists. [S1][S2]
-- **Monetize** — Pure usage (compute-hours, storage-GB, tokens, data-processed) + provisioned-throughput commitments + the emerging seat→consumption overage flow from M365 Copilot. Price fences: Global Standard (cheapest) vs Data Zone/Regional (compliance premium); commitment discounts on reserved capacity. Take-rate proxy = Microsoft Cloud GM ~66%, guided down to ~64% as AI infra scales. [S1][W5]
 
 ---
 

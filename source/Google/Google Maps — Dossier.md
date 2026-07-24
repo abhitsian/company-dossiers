@@ -4,9 +4,54 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Interview-prep tuned (product sense · strategy · design · metrics). Every fact grounded in a source; estimates labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — No acquisition cost by default: pre-installed on Android (billions of devices), the default map for Google Search local results, and the map embedded inside thousands of third-party apps (each embed is a funnel). Word-of-mouth and habit; no paid acquisition needed. 10B+ downloads [S4].
+- **Engage** — Two core loops. **(1) In-motion:** open → route → drive/walk → live reroute → arrive; used daily-to-weekly by ~75% of US smartphone users [S4]. **(2) At-rest discovery:** search a place → read reviews/photos/hours → decide → navigate → (increasingly) book. Aha moments: an ETA that beats reality; a reroute that saves 8 minutes; "the restaurant is open and 4.5 stars." New hooks: **Ask Maps** (conversational discovery), **Immersive Navigation** (3D lane-level guidance), **Live View** AR walking. Contributor loop: 300M+ Local Guides earn points and recognition for reviews, photos, and edits [S13][S17].
+- **Retain** — Retention is near 100% because of lock-in: switching means giving up your saved places, Timeline history, review reputation, and a *worse ETA*, because rivals lack the trip-density flywheel [S13]. Habit + default status + data moat keep churn near zero. Apple's decade-long rebuild still left it at ¼ the MAU [S11][S12].
+- **Monetize** — (1) **Local ads** via Google Ads: promoted pins, paid local listings ("Ad" tag), landmark directions — pay-per-click, tuned by Gemini relevance (+~10% relevance, Q1-26) [S1][S7]. (2) **Google Maps Platform** (Maps/Routes/Places APIs): per-call developer fees, consolidated and repriced in 2018 [S7]. (3) **Booking/transaction** partnerships (restaurants, hotels) — thin today; the agent-commerce upside is in §12. (4) No consumer subscription. ARPU ~$3.50 [S7, est.] — kept low on purpose.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale (all cited)**
+| Metric | Value | Source |
+|---|---|---|
+| Monthly active users | 2B+ (since late 2024, held through 2026) | [S4][S11] |
+| Share of global population using Maps monthly | ~25% | [S4] |
+| US monthly users | ~154M | [S4] |
+| Downloads (Play Store) | 10B+ | [S4] |
+| Businesses/listings mapped | 200M+ (~1.5M new/month) | [S4][S16] |
+| Community contributors / Local Guides | 300M+ | [S13][S17] |
+| Places in the dataset | 300M+ | [S8] |
+| Street View images | 220B+ across 100+ countries | [S13] |
+| Street View road miles driven | 10M+ | [S13] |
+| Third-party data sources feeding the map | 1,000+ | [S13] |
+| Traffic updates ingested | 5M / second | [S8] |
+| Daily driver contributions | 10M / day | [S8] |
+
+**Market arcs**
+- US navigation share: Google ~**67%**, Apple ~**25%**, Waze ~**8%** [S11][S12]. Global: Google **67–80%** [S12].
+- Apple Maps MAU: ~**500M** (¼ of Google's) [S11][S12].
+- Navigation-app sector revenue 2024: ~**$21B**, majority Google [S11].
+- Waze traffic-detection edge: **1–3 min faster** than Google Maps [S12].
+
+**Revenue (all ESTIMATES — no official Maps line exists) [S7]**
+- Total ~**$4.3B/yr** (dated ~2019–2020 basis): ~$3.5B local ads + ~$0.8B API/Platform.
+- ARPU (revenue per user per year) ~**$3.50** (benchmark: Facebook ~$25, Twitter ~$5.70, Pinterest ~$3.10) [S7].
+- Uber API bill ~**$28M (2018)**, ~10% of API revenue [S7].
+- Maps ~**3% of Alphabet revenue** [S7]; widely seen as under-monetized with room to roughly double.
+
+**Audited financials (Alphabet, Maps not broken out)**
+- Q1-26: consolidated revenue **$109.9B (+22%)**; Google Services **$89.6B (+16%)**; Search & Other **$60.4B (+19%)** — Maps ads sit inside this line [S1].
+- FY2025: Alphabet **$403B** (first year over $400B) [S3].
+
+**Unit economics note:** Maps costs almost nothing extra per consumer session (its infrastructure is shared across Search and Cloud), so extra ad relevance and extra API calls come at very high margin. Google still caps ad load to keep the map free and trusted. (See §4 Monetize; cross-ref `/follow-the-dollar`.)
+
+---
+
+## 3. Wow Vault ★
 *The non-obvious layer — what makes an interviewer lean in.*
 
 **★ Maps is the physical-world grounding layer for Gemini, not a nav app**
@@ -59,60 +104,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Grounding layer, not an app."** Maps' value to Google in the AI era is the truth-source that keeps an LLM tied to real places, hours, and traffic instead of making things up. → any "AI + Maps" or "Google's agent moat" question.
 - **"Expansionary, not cannibalizing."** Alphabet's whole-company framing: AI makes people *use the product more*, opening net-new queries to monetize rather than eating existing ones [S1][S2]. Ports directly to Ask Maps — conversational questions a map "could never answer before" [S8] are new query types to monetize.
 - **"Relevance is the lever, not load."** Monetize by making a fixed slot convert better (reading intent), not by adding slots [S1]. → "increase revenue without hurting UX."
 - **"Under-monetize on purpose to protect the default."** Trust and default status are the asset; Google harvests them slowly so it doesn't kill them [S7]. → trade-off / North-star questions.
 - **"The map is the ad surface."** Promoted pins, paid listings, and landmark directions live inside the core experience, not beside it [S7]. → ad-design questions.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale (all cited)**
-| Metric | Value | Source |
-|---|---|---|
-| Monthly active users | 2B+ (since late 2024, held through 2026) | [S4][S11] |
-| Share of global population using Maps monthly | ~25% | [S4] |
-| US monthly users | ~154M | [S4] |
-| Downloads (Play Store) | 10B+ | [S4] |
-| Businesses/listings mapped | 200M+ (~1.5M new/month) | [S4][S16] |
-| Community contributors / Local Guides | 300M+ | [S13][S17] |
-| Places in the dataset | 300M+ | [S8] |
-| Street View images | 220B+ across 100+ countries | [S13] |
-| Street View road miles driven | 10M+ | [S13] |
-| Third-party data sources feeding the map | 1,000+ | [S13] |
-| Traffic updates ingested | 5M / second | [S8] |
-| Daily driver contributions | 10M / day | [S8] |
-
-**Market arcs**
-- US navigation share: Google ~**67%**, Apple ~**25%**, Waze ~**8%** [S11][S12]. Global: Google **67–80%** [S12].
-- Apple Maps MAU: ~**500M** (¼ of Google's) [S11][S12].
-- Navigation-app sector revenue 2024: ~**$21B**, majority Google [S11].
-- Waze traffic-detection edge: **1–3 min faster** than Google Maps [S12].
-
-**Revenue (all ESTIMATES — no official Maps line exists) [S7]**
-- Total ~**$4.3B/yr** (dated ~2019–2020 basis): ~$3.5B local ads + ~$0.8B API/Platform.
-- ARPU (revenue per user per year) ~**$3.50** (benchmark: Facebook ~$25, Twitter ~$5.70, Pinterest ~$3.10) [S7].
-- Uber API bill ~**$28M (2018)**, ~10% of API revenue [S7].
-- Maps ~**3% of Alphabet revenue** [S7]; widely seen as under-monetized with room to roughly double.
-
-**Audited financials (Alphabet, Maps not broken out)**
-- Q1-26: consolidated revenue **$109.9B (+22%)**; Google Services **$89.6B (+16%)**; Search & Other **$60.4B (+19%)** — Maps ads sit inside this line [S1].
-- FY2025: Alphabet **$403B** (first year over $400B) [S3].
-
-**Unit economics note:** Maps costs almost nothing extra per consumer session (its infrastructure is shared across Search and Cloud), so extra ad relevance and extra API calls come at very high margin. Google still caps ad load to keep the map free and trusted. (See §4 Monetize; cross-ref `/follow-the-dollar`.)
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — No acquisition cost by default: pre-installed on Android (billions of devices), the default map for Google Search local results, and the map embedded inside thousands of third-party apps (each embed is a funnel). Word-of-mouth and habit; no paid acquisition needed. 10B+ downloads [S4].
-- **Engage** — Two core loops. **(1) In-motion:** open → route → drive/walk → live reroute → arrive; used daily-to-weekly by ~75% of US smartphone users [S4]. **(2) At-rest discovery:** search a place → read reviews/photos/hours → decide → navigate → (increasingly) book. Aha moments: an ETA that beats reality; a reroute that saves 8 minutes; "the restaurant is open and 4.5 stars." New hooks: **Ask Maps** (conversational discovery), **Immersive Navigation** (3D lane-level guidance), **Live View** AR walking. Contributor loop: 300M+ Local Guides earn points and recognition for reviews, photos, and edits [S13][S17].
-- **Retain** — Retention is near 100% because of lock-in: switching means giving up your saved places, Timeline history, review reputation, and a *worse ETA*, because rivals lack the trip-density flywheel [S13]. Habit + default status + data moat keep churn near zero. Apple's decade-long rebuild still left it at ¼ the MAU [S11][S12].
-- **Monetize** — (1) **Local ads** via Google Ads: promoted pins, paid local listings ("Ad" tag), landmark directions — pay-per-click, tuned by Gemini relevance (+~10% relevance, Q1-26) [S1][S7]. (2) **Google Maps Platform** (Maps/Routes/Places APIs): per-call developer fees, consolidated and repriced in 2018 [S7]. (3) **Booking/transaction** partnerships (restaurants, hotels) — thin today; the agent-commerce upside is in §12. (4) No consumer subscription. ARPU ~$3.50 [S7, est.] — kept low on purpose.
 
 ---
 

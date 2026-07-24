@@ -4,9 +4,47 @@
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. New Verticals = grocery + convenience + alcohol + retail + DashMart. Earnings facts tagged [S1]/[S2]; web facts tagged [S3]+. Estimates explicitly labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Cross-sell the installed base: turn 100M+ restaurant users into grocery/retail buyers (winning ~1 in 2 industry first-time grocery customers) [S1]. DashPass as the acquisition wrapper — the same subscription now covers non-restaurant categories [S2]. New merchant supply (Kroger, Family Dollar, +33 grocers in 2025) adds selection, which brings in customers on its own [S4].
+- **Engage** — Core loop: order restaurants → notice grocery/convenience in the same app → repeat more often. Aha = "the delivery beat the drive to the store." **DoubleDash** hook: add items from a second nearby store with no extra delivery fee or minimum, which drives cross-category attach (grocery + a restaurant meal) [S7]. Frequency framing: 20-25 eating occasions/week, 100+/month — the app covers a single-digit fraction [S1][S2].
+- **Retain** — DashPass: subscribers "retain more, order more, produce more gross profit dollars" [S2]. Switching cost = the physical catalog + reliable delivery (fewer substitutions). DashMart Fulfillment Services deepens retailer lock-in — DoorDash holds the inventory [S3]. Cohort data: existing cohorts spend a bigger share of their wallet over time [S2].
+- **Monetize** — (1) Consumer delivery + service fees per order; (2) DashPass subscription (flat fee, more categories covered) [S2]; (3) **DoorDash Ads / retail media** — CPG Sponsored Products against grocery/convenience demand, including DashMart as owned ad space; grocery ads "earlier to maturation... lots of runway" [S2][S10]; (4) DashMart first-party retail margin (DoorDash as the retailer); (5) DashMart Fulfillment Services (fulfillment-as-a-service fees) [S3]. On purpose *not* over-reliant on ads for grocery profit [S1].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & penetration**
+- ~30% of US monthly users order outside restaurants; goal 100% [S1][S2]. The arc: 20% (Dec'23) → 25% (Dec'24) → ~30% (2025-26) [S8].
+- ~1 in 2 first-time industry grocery-delivery customers start on DoorDash [S1].
+- Parent: 56M US monthly users / 100M+ annual customers (Q4'25) [S2].
+- On Valentine's & Mother's Day 2025, >1M convenience/retail/alcohol orders *each day* [S7].
+
+**Market arcs**
+- DoorDash #1 US third-party grocery+retail by *order volume* since late 2025, lead extending (YipitData) [S1][S7][S12].
+- Instacart grocery-delivery share by *dollars*: ~70% (2023) → 58% (2024) [S6]; a separate cut puts Instacart at 73% of 3P digital grocery sales, DoorDash ~14.9% of grocery intermediary sales [S6].
+
+**Verticals & footprint**
+- Categories: grocery, convenience, alcohol, retail; retail sub-segments include pets, flowers, health & beauty, sporting goods, home improvement (added 2024) [S8][S11].
+- Alcohol: ~30,000 SKUs across 35 states + DC + Puerto Rico [S7].
+- Kroger: ~2,700 stores live from Oct 1, 2025 — largest grocer on the platform [web search][S4].
+- DashMart: ~100+ US locations (est. ~192 across US/Canada/Australia); ~2,000 SKUs each; 5,600-11,000 sq ft dark stores; delivery in as little as 30 min [S5].
+- 2025 additions: Kroger, Family Dollar + 33 more grocery retailers [S4].
+
+**Profitability (New Verticals P&L)**
+- CFO: "we expect the overall new vertical portfolio to be gross profit positive in the second half [2026]... trending well" [S1][S2].
+- Retail + grocery turn unit-economic positive in H2 2026 [S2].
+- Drivers: "no one thing" — scale, density, logistics efficiency, larger baskets, cohorts maturing [S1][S2].
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- Grocery basket > restaurant basket (more dollars per order); mid-week "quick runs" + weekend "stock-up" baskets [S2].
+- Mature cohorts: basket size and order frequency both improving; each new cohort adopts faster [S1][S2].
+- No segment-level revenue/GOV table disclosed in either transcript [S1][S2].
+
+---
+
+## 3. Wow Vault ★
 *Non-obvious framings a sharp interviewer wouldn't already have. Ranked strongest first.*
 
 **★ The competitor isn't Instacart — it's you walking into the store.**
@@ -59,7 +97,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Restated so you can use them on any prompt.*
 
 - **"The competitor is the offline experience."** Grocery delivery is won against the ease of walking into a store, not against other apps. → any growth/TAM prompt. [S1]
@@ -69,46 +107,6 @@
 - **"Operating system for local commerce."** DoorDash sells small businesses the software + warehousing + cheapest delivery so they can compete across channels against the "1 or 2 behemoths" (Amazon). → platform-strategy prompts. [S2]
 - **"20-25 eating occasions a week, 100+ a month; we're a single-digit fraction."** Lots of room to grow — the app is nowhere near covering daily life. → north-star / frequency prompts. [S1][S2]
 - **"Don't over-rely on any one cost or revenue driver."** Profit comes from many small gains, not one lever. → unit-economics prompts. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & penetration**
-- ~30% of US monthly users order outside restaurants; goal 100% [S1][S2]. The arc: 20% (Dec'23) → 25% (Dec'24) → ~30% (2025-26) [S8].
-- ~1 in 2 first-time industry grocery-delivery customers start on DoorDash [S1].
-- Parent: 56M US monthly users / 100M+ annual customers (Q4'25) [S2].
-- On Valentine's & Mother's Day 2025, >1M convenience/retail/alcohol orders *each day* [S7].
-
-**Market arcs**
-- DoorDash #1 US third-party grocery+retail by *order volume* since late 2025, lead extending (YipitData) [S1][S7][S12].
-- Instacart grocery-delivery share by *dollars*: ~70% (2023) → 58% (2024) [S6]; a separate cut puts Instacart at 73% of 3P digital grocery sales, DoorDash ~14.9% of grocery intermediary sales [S6].
-
-**Verticals & footprint**
-- Categories: grocery, convenience, alcohol, retail; retail sub-segments include pets, flowers, health & beauty, sporting goods, home improvement (added 2024) [S8][S11].
-- Alcohol: ~30,000 SKUs across 35 states + DC + Puerto Rico [S7].
-- Kroger: ~2,700 stores live from Oct 1, 2025 — largest grocer on the platform [web search][S4].
-- DashMart: ~100+ US locations (est. ~192 across US/Canada/Australia); ~2,000 SKUs each; 5,600-11,000 sq ft dark stores; delivery in as little as 30 min [S5].
-- 2025 additions: Kroger, Family Dollar + 33 more grocery retailers [S4].
-
-**Profitability (New Verticals P&L)**
-- CFO: "we expect the overall new vertical portfolio to be gross profit positive in the second half [2026]... trending well" [S1][S2].
-- Retail + grocery turn unit-economic positive in H2 2026 [S2].
-- Drivers: "no one thing" — scale, density, logistics efficiency, larger baskets, cohorts maturing [S1][S2].
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- Grocery basket > restaurant basket (more dollars per order); mid-week "quick runs" + weekend "stock-up" baskets [S2].
-- Mature cohorts: basket size and order frequency both improving; each new cohort adopts faster [S1][S2].
-- No segment-level revenue/GOV table disclosed in either transcript [S1][S2].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Cross-sell the installed base: turn 100M+ restaurant users into grocery/retail buyers (winning ~1 in 2 industry first-time grocery customers) [S1]. DashPass as the acquisition wrapper — the same subscription now covers non-restaurant categories [S2]. New merchant supply (Kroger, Family Dollar, +33 grocers in 2025) adds selection, which brings in customers on its own [S4].
-- **Engage** — Core loop: order restaurants → notice grocery/convenience in the same app → repeat more often. Aha = "the delivery beat the drive to the store." **DoubleDash** hook: add items from a second nearby store with no extra delivery fee or minimum, which drives cross-category attach (grocery + a restaurant meal) [S7]. Frequency framing: 20-25 eating occasions/week, 100+/month — the app covers a single-digit fraction [S1][S2].
-- **Retain** — DashPass: subscribers "retain more, order more, produce more gross profit dollars" [S2]. Switching cost = the physical catalog + reliable delivery (fewer substitutions). DashMart Fulfillment Services deepens retailer lock-in — DoorDash holds the inventory [S3]. Cohort data: existing cohorts spend a bigger share of their wallet over time [S2].
-- **Monetize** — (1) Consumer delivery + service fees per order; (2) DashPass subscription (flat fee, more categories covered) [S2]; (3) **DoorDash Ads / retail media** — CPG Sponsored Products against grocery/convenience demand, including DashMart as owned ad space; grocery ads "earlier to maturation... lots of runway" [S2][S10]; (4) DashMart first-party retail margin (DoorDash as the retailer); (5) DashMart Fulfillment Services (fulfillment-as-a-service fees) [S3]. On purpose *not* over-reliant on ads for grocery profit [S1].
 
 ---
 

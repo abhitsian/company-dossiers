@@ -172,7 +172,7 @@ def render_section_body(raw_lines, flagship):
         out.append("<p>%s</p>" % inline(" ".join(para)))
     return "".join(out)
 
-SECTION_FLAGSHIP = {1: "wow", 12: "plays"}
+SECTION_FLAGSHIP = {3: "wow", 12: "plays"}
 
 SKILL_NAMES = ["follow-the-dollar", "company-dossier", "company-research", "product-teardown",
                "segment-strategy", "eigenquestions", "dossier-batch", "company-master", "shreyas-lens"]
@@ -286,9 +286,9 @@ def page(title, body_html, body_class, depth):
 </html>""" % (html.escape(title), base, CACHE_BUST, body_class, body_html, base, CACHE_BUST)
 
 SHORT_NAV = {
-    1: ("Wow Vault", "Get the take"), 2: ("Reframes", "Get the take"),
+    3: ("Wow Vault", "Get the take"), 4: ("Reframes", "Get the take"),
     9: ("Contrarian bets", "Get the take"), 10: ("Big picture", "Get the take"),
-    3: ("Numbers", "Understand the business"), 4: ("Business anatomy", "Understand the business"),
+    1: ("Business anatomy", "Understand the business"), 2: ("Numbers", "Understand the business"),
     5: ("Moats & weaknesses", "Understand the business"), 6: ("AI impact", "Understand the business"),
     7: ("Segments", "Understand the business"), 8: ("Strategy", "Understand the business"),
     11: ("Mistakes & opportunities", "Use it"), 12: ("Plays to run", "Use it"), 13: ("Interview arsenal", "Use it"),

@@ -4,9 +4,61 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Estimates labeled (est.). Every fact `[S#]`-tagged. RL = Reality Labs.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — *Rented distribution.* EssilorLuxottica retail (LensCrafters, Sunglass Hut, Ray-Ban Stores) plus Best Buy; fashion-brand pull (Ray-Ban, Oakley, more brands coming) [S1][S6]. Quest: $299 3S price wedge plus game IP (Deadpool VR, Star Wars, Marvel) [S3]. Scarcity marketing on Display (appointment-only demos, sell-outs) [S4]. Family-of-Apps cross-promotion sends 3.5B DAU toward Meta AI, the glasses' OS [S1].
+- **Engage** — *Two loops.* Glasses: capture (photo/video), Live AI Q&A, translation, messaging via Neural Band; the aha is "ask about what you're looking at, hands-free." Meta AI is moving from a tool you invoke to an always-on service [S3]. VR: gaming, Horizon social worlds, Horizon TV (Disney+, Universal) [S3]. Meta AI sessions per user up double-digit % after Muse Spark [S1].
+- **Retain** — Weak on glasses today (novelty risk; ~1–2 hr Live AI battery cap [S3]). Software updates push new features to *existing* devices (conversation focus, handwriting) to extend their life [S3][S14]. VR retention comes from the Horizon+ subscription (1M+) and the content slate [S10]. Switching cost is thin; no strong lock-in yet (a real weakness, §5).
+- **Monetize** — Hardware sales (near cost) plus an emerging monthly subscription for premium AI [S13]. Ads and agents on the glasses are the long-run play, making no money today [S1]. VR: headset sales plus the store's cut (take-rate) on 100+ apps clearing $1M [S10]. Beyond the device, glasses bring in about $0 extra per user today (ARPU = revenue per user) (est.).
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Fact | Value | Source |
+|---|---|---|
+| RL revenue Q1 2026 | $402M, −2% Y/Y (lower Quest, offset by AI-glasses growth) | [S1] |
+| RL revenue Q4 2025 | $955M, −12% Y/Y (lapped Quest 3S launch) | [S2] |
+| AI-glasses daily actives | **tripled Y/Y** | [S1] |
+| Smart glasses sold 2025 | ~7M units (~3x 2024) | [S5][S6] |
+| Cumulative smart glasses (since launch) | ~9M (est.) | [S5] |
+| Meta smart-glasses market share | ~70% (H1'25) → ~82% (H2'25) | [S7] |
+| Category growth H1 2025 | +110% YoY shipments | [S7] |
+| Planned production 2026 | double to ~20M units (30M+ if demand holds) | [S11] |
+| Quest active users 2025 | all-time high; monthly usage +30% Y/Y | [S10] |
+| Quest apps >$1M gross | 100+ | [S10] |
+| Horizon+ subscribers | 1M+ | [S10] |
+
+**Financials — the loss line**
+| Fact | Value | Source |
+|---|---|---|
+| RL cumulative operating loss since 2020 | ~$80B+ | [S8] |
+| RL Q1 2026 operating loss | >$4B | [S8] |
+| RL loss trajectory | 2026 "similar to 2025 and likely the peak" | [S2] |
+| Meta total revenue Q1 2026 (context) | $56.3B, +33% Y/Y; 41% op margin | [S1] |
+
+*RL is ~0.7% of Meta revenue but a multi-billion quarterly loss — funded entirely by the ~41%-margin ads engine [S1].*
+
+**Pricing (stated at Connect 2025)**
+| Product | Price | Availability | Source |
+|---|---|---|---|
+| Next-gen Ray-Ban Meta | from $379 | now | [S3] |
+| Oakley Meta Vanguard | $499 | ships Oct 21 | [S3] |
+| Meta Ray-Ban Display + Neural Band | $799 (set) | in stores Sep 30, 2025 | [S3][S4] |
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Hardware sells near or below cost as a wedge. The RL loss is mostly R&D, not COGS (COGS = cost to make the hardware) (est., inferred from $402M rev vs. >$4B loss) [S1][S8].
+- Money-making is deferred: Meta AI on glasses is free today; premium features sit behind a monthly subscription (hardware plus recurring revenue) [S13]. Long-run thesis: glasses become an ad and agent surface for the 3.5B-DAU (daily active users) Family of Apps [S1].
+- The Display product is supply-constrained: waitlists into 2026, near sell-out in stocked US stores within 48 hrs [S4].
+
+**Horizon Engine tech specs (Connect 2025)**
+- Meta Horizon Engine (replaced Unity runtime, ~2 yrs build): "4x faster to load/render worlds," "5x as many people in the same world" [S3].
+- Quest brightness: ~30-foot-lamberts equiv. vs. best theaters at 16 — "order of magnitude brighter"; ~20% more engagement from stereo 3D (Cameron) [S3].
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer. What makes an interviewer lean in.*
 
 **★ The product isn't the headset. It's the input method. The Neural Band is the real bet.**
@@ -55,7 +107,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"The metaverse pivoted to your face."** The immersive-world bet moved spend from VR toward glasses/wearables [S12]. The vision survived; the form factor changed → use on any "was X a failure?" prompt.
 - **"AI should serve people, not sit in a data center automating society."** Meta's wedge against OpenAI/Anthropic: help consumers directly, not automate enterprises [S3][S1] → strategy / differentiation prompts.
 - **"The last UI is no UI."** Endgame is AI-generated interface drawn in-lens on demand, not an app grid [S3] → product-vision prompts.
@@ -63,60 +115,6 @@
 - **"Build to billions, then monetize."** Meta's reflex: glasses/agents make no money today by design; monetization is "further out" [S1] → "how would you monetize" prompts (answer: not yet).
 - **"One or two people building in a week what took dozens months."** AI shrinks team size; RL is run leaner as a result [S1] → org / execution prompts.
 - **"Presence, lost to phones, regained through glasses."** The emotional job: phones pulled us out of the room; glasses put you back in it, heads up [S3] → JTBD (the job the product does for the user) / product-sense prompts.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Fact | Value | Source |
-|---|---|---|
-| RL revenue Q1 2026 | $402M, −2% Y/Y (lower Quest, offset by AI-glasses growth) | [S1] |
-| RL revenue Q4 2025 | $955M, −12% Y/Y (lapped Quest 3S launch) | [S2] |
-| AI-glasses daily actives | **tripled Y/Y** | [S1] |
-| Smart glasses sold 2025 | ~7M units (~3x 2024) | [S5][S6] |
-| Cumulative smart glasses (since launch) | ~9M (est.) | [S5] |
-| Meta smart-glasses market share | ~70% (H1'25) → ~82% (H2'25) | [S7] |
-| Category growth H1 2025 | +110% YoY shipments | [S7] |
-| Planned production 2026 | double to ~20M units (30M+ if demand holds) | [S11] |
-| Quest active users 2025 | all-time high; monthly usage +30% Y/Y | [S10] |
-| Quest apps >$1M gross | 100+ | [S10] |
-| Horizon+ subscribers | 1M+ | [S10] |
-
-**Financials — the loss line**
-| Fact | Value | Source |
-|---|---|---|
-| RL cumulative operating loss since 2020 | ~$80B+ | [S8] |
-| RL Q1 2026 operating loss | >$4B | [S8] |
-| RL loss trajectory | 2026 "similar to 2025 and likely the peak" | [S2] |
-| Meta total revenue Q1 2026 (context) | $56.3B, +33% Y/Y; 41% op margin | [S1] |
-
-*RL is ~0.7% of Meta revenue but a multi-billion quarterly loss — funded entirely by the ~41%-margin ads engine [S1].*
-
-**Pricing (stated at Connect 2025)**
-| Product | Price | Availability | Source |
-|---|---|---|---|
-| Next-gen Ray-Ban Meta | from $379 | now | [S3] |
-| Oakley Meta Vanguard | $499 | ships Oct 21 | [S3] |
-| Meta Ray-Ban Display + Neural Band | $799 (set) | in stores Sep 30, 2025 | [S3][S4] |
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Hardware sells near or below cost as a wedge. The RL loss is mostly R&D, not COGS (COGS = cost to make the hardware) (est., inferred from $402M rev vs. >$4B loss) [S1][S8].
-- Money-making is deferred: Meta AI on glasses is free today; premium features sit behind a monthly subscription (hardware plus recurring revenue) [S13]. Long-run thesis: glasses become an ad and agent surface for the 3.5B-DAU (daily active users) Family of Apps [S1].
-- The Display product is supply-constrained: waitlists into 2026, near sell-out in stocked US stores within 48 hrs [S4].
-
-**Horizon Engine tech specs (Connect 2025)**
-- Meta Horizon Engine (replaced Unity runtime, ~2 yrs build): "4x faster to load/render worlds," "5x as many people in the same world" [S3].
-- Quest brightness: ~30-foot-lamberts equiv. vs. best theaters at 16 — "order of magnitude brighter"; ~20% more engagement from stereo 3D (Cameron) [S3].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — *Rented distribution.* EssilorLuxottica retail (LensCrafters, Sunglass Hut, Ray-Ban Stores) plus Best Buy; fashion-brand pull (Ray-Ban, Oakley, more brands coming) [S1][S6]. Quest: $299 3S price wedge plus game IP (Deadpool VR, Star Wars, Marvel) [S3]. Scarcity marketing on Display (appointment-only demos, sell-outs) [S4]. Family-of-Apps cross-promotion sends 3.5B DAU toward Meta AI, the glasses' OS [S1].
-- **Engage** — *Two loops.* Glasses: capture (photo/video), Live AI Q&A, translation, messaging via Neural Band; the aha is "ask about what you're looking at, hands-free." Meta AI is moving from a tool you invoke to an always-on service [S3]. VR: gaming, Horizon social worlds, Horizon TV (Disney+, Universal) [S3]. Meta AI sessions per user up double-digit % after Muse Spark [S1].
-- **Retain** — Weak on glasses today (novelty risk; ~1–2 hr Live AI battery cap [S3]). Software updates push new features to *existing* devices (conversation focus, handwriting) to extend their life [S3][S14]. VR retention comes from the Horizon+ subscription (1M+) and the content slate [S10]. Switching cost is thin; no strong lock-in yet (a real weakness, §5).
-- **Monetize** — Hardware sales (near cost) plus an emerging monthly subscription for premium AI [S13]. Ads and agents on the glasses are the long-run play, making no money today [S1]. VR: headset sales plus the store's cut (take-rate) on 100+ apps clearing $1M [S10]. Beyond the device, glasses bring in about $0 extra per user today (ARPU = revenue per user) (est.).
 
 ---
 

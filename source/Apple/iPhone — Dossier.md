@@ -5,9 +5,53 @@
 > One file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Tuned for PM interview prep: product sense, strategy, design, metrics. Earnings facts tagged [S1]/[S2]; web facts carry inline URLs. Estimates labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Channels: Apple retail + online, carriers (trade-in + installment subsidies), big-box/resellers. The real acquisition engines: (1) **switchers** — "strong double-digit growth on switchers" [S2]; (2) **social/network pressure** — the blue-bubble/iMessage divide drives organic teen acquisition ([KTLA]); (3) **hand-me-down + trade-in** loops that keep old iPhones in-family and inside iOS. CAC posture: leans on unpaid network effects and brand, not paid marketing.
+- **Engage** — Core loop: the phone is the daily-life remote (comms, camera, payments, health, identity — e.g., Wallet Digital ID from US Passport [S2]). Aha moments cited by management: design, camera + selfie camera, display/ProMotion, performance, Center Stage, and Apple Intelligence "integrated across the platform" [S1][S2]. Frequency: many-times-daily; the iPhone is the hub the Watch/AirPods/Mac orbit.
+- **Retain** — Retention is the strongest asset: 99% satisfaction + "record upgraders" [S1][S2] → est. ~90%+ upgrade retention. Switching costs build with every attached device (>50% of Watch buyers new to product [S2]), iMessage/FaceTime lock-in, purchased media/apps, and muscle memory of iOS. Boring plumbing that retains: iCloud backup, Find My, device handoff, trade-in.
+- **Monetize** — Direct: hardware sale (ASP rising as buyers shift to Pro/Air, [CIRP]). Indirect & compounding: App Store commission (15–30%), **search ads across the App Store** (expanding), **Apple Maps ads (US/Canada, summer 2026)** [S1], iCloud storage, Apple Pay/Wallet, and the ~$550B+ developers have earned since 2008 [S2]. Price fences: storage tiers, Pro/Air premium, annual model cadence. Expansion: services attach per installed device.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- iPhone revenue: **$85.3B Dec-2025 qtr (+23% YoY)** [S2]; **$57B Mar-2026 qtr (+22% YoY), a March-quarter record** [S1].
+- iPhone ≈ 59% of products revenue in Dec-25 ($85.3B of $113.7B) [S2]; ≈ 71% of products revenue in Mar-26 ($57B of $80.2B) [S1]. *(Estimate: full-year iPhone share of total revenue ~50%.)*
+- FY2025 iPhone shipments **240.6M units, +7% YoY** — Apple's highest annual volume ever; #1 global vendor for 3rd straight year ([gizmochina](https://www.gizmochina.com/2026/01/14/smartphone-shipments-2025-apple-samsung-china-global-market/)).
+
+**Installed base & satisfaction**
+- **>2.5B active Apple devices**; ~**1.4B+ of them iPhones** (est., "1 in 4 active smartphones is an iPhone" — [Cult of Mac](https://www.cultofmac.com/news/iphone-smartphone-active-installed-base-2026)) [S1][S2].
+- iPhone US customer satisfaction **99%** (451 Research) [S1][S2].
+- ~79% Gen-Z share (2023) / 87% of US teens own an iPhone (Piper Sandler) — [KTLA](https://ktla.com/morning-news/gen-zs-obsession-with-blue-bubbles-sells-lots-of-apple-products/).
+
+**Market arcs (global smartphone)**
+- 2025 global shipments **1.26B units, +1.9%**; Apple + Samsung = 39% of the market ([gizmochina](https://www.gizmochina.com/2026/01/14/smartphone-shipments-2025-apple-samsung-china-global-market/)).
+- Q1 2026 market **−2.9% YoY to 293.8M** (first decline after 10 straight growth quarters). Samsung retook #1 at 21.2%; Apple 21.0% (61.8M); Xiaomi 11.5% ([IDC via accio](https://www.accio.com/business/global-smartphone-market-share-rankings-trend-2025)).
+- 2026 outlook: shipments forecast **−13.9% to 1.09B**, driven by "acute memory supply constraints" ([IDC](https://www.idc.com/promo/smartphone-market-share/)).
+
+**Pricing (ASP = average selling price; Apple stopped disclosing iPhone ASP in 2018)**
+- CIRP US-WARP: **$953 (Q4-24) → $971 (Q1-25) → $1,090 (Sep-25 qtr, record)**; iPhone ASP ~$1,032 in Q4-25, +11.5% YoY ([MacTech/CIRP](https://www.mactech.com/2025/11/05/cirp-iphone-17-launch-boosts-average-selling-price-by-a-lot/)).
+- iPhone 17 launch price ladder: **17 $799 · Air $999 · 17 Pro $1,099 · Pro Max $1,199** ([Macworld](https://www.macworld.com/article/2393967/iphone-17-release-date-specs-features-rumors.html)).
+
+**Audited financials (company, latest two Qs)**
+| Metric | Q1 FY26 (Dec-25) | Q2 FY26 (Mar-26) |
+|---|---|---|
+| Total revenue | $143.8B (+16%) [S2] | $111.2B (+17%) [S1] |
+| iPhone revenue | $85.3B (+23%) [S2] | $57.0B (+22%) [S1] |
+| Company GM | 48.2% [S2] | 49.3% [S1] |
+| Products GM | 40.7% [S2] | 38.7% [S1] |
+| Services GM | 76.5% [S2] | 76.7% [S1] |
+| Diluted EPS | $2.84 (+19%) [S2] | $2.01 (+22%) [S1] |
+
+**Unit economics (per-iPhone, estimates — cross-ref /follow-the-dollar)**
+- ASP ~$1,000+ (US-WARP proxy) × product GM ~38–41% → **~$390–410 gross profit per iPhone at sale** [S1][S2].
+- The bigger lifetime value is the attached services stream: a ~$1,000 iPhone every ~3–4 years plus recurring iCloud/App Store/subscription revenue at ~76% margin across a multi-year retention life *(estimate; Apple does not break out per-user Services)* [S1].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on iPhone specifically. Ranked strongest first.*
 
 **★ The constraint is silicon, not demand. Success caused the shortage.**
@@ -66,7 +110,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"The shortage is the demand signal."** A supply limit set by leading-edge chip capacity means demand beat the forecast. Read constrained-supply guidance as strength, not weakness. → metrics / strategy prompts. [S2][S1]
 - **"The device is the CAC for the annuity."** Hardware is one-time and mid-margin; it exists to buy a customer into a 76%-margin services stream. → business-model / unit-economics prompts. [S1]
@@ -74,52 +118,6 @@
 - **"Don't ship a confidently-wrong agent."** When the cost of a wrong action is high (acting on real personal data), reliability beats speed to market. Eat the delay. → AI eval / product-sense prompts. [CNBC]
 - **"Premium share ≠ unit share."** You can lose the volume war and win the profit war (China, global). → competition prompts. [gizmochina]
 - **"Integration is the product."** The iPhone's value is the tight Watch/AirPods/Mac/Services web around it; each added device raises switching cost. → moat / retention prompts. [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- iPhone revenue: **$85.3B Dec-2025 qtr (+23% YoY)** [S2]; **$57B Mar-2026 qtr (+22% YoY), a March-quarter record** [S1].
-- iPhone ≈ 59% of products revenue in Dec-25 ($85.3B of $113.7B) [S2]; ≈ 71% of products revenue in Mar-26 ($57B of $80.2B) [S1]. *(Estimate: full-year iPhone share of total revenue ~50%.)*
-- FY2025 iPhone shipments **240.6M units, +7% YoY** — Apple's highest annual volume ever; #1 global vendor for 3rd straight year ([gizmochina](https://www.gizmochina.com/2026/01/14/smartphone-shipments-2025-apple-samsung-china-global-market/)).
-
-**Installed base & satisfaction**
-- **>2.5B active Apple devices**; ~**1.4B+ of them iPhones** (est., "1 in 4 active smartphones is an iPhone" — [Cult of Mac](https://www.cultofmac.com/news/iphone-smartphone-active-installed-base-2026)) [S1][S2].
-- iPhone US customer satisfaction **99%** (451 Research) [S1][S2].
-- ~79% Gen-Z share (2023) / 87% of US teens own an iPhone (Piper Sandler) — [KTLA](https://ktla.com/morning-news/gen-zs-obsession-with-blue-bubbles-sells-lots-of-apple-products/).
-
-**Market arcs (global smartphone)**
-- 2025 global shipments **1.26B units, +1.9%**; Apple + Samsung = 39% of the market ([gizmochina](https://www.gizmochina.com/2026/01/14/smartphone-shipments-2025-apple-samsung-china-global-market/)).
-- Q1 2026 market **−2.9% YoY to 293.8M** (first decline after 10 straight growth quarters). Samsung retook #1 at 21.2%; Apple 21.0% (61.8M); Xiaomi 11.5% ([IDC via accio](https://www.accio.com/business/global-smartphone-market-share-rankings-trend-2025)).
-- 2026 outlook: shipments forecast **−13.9% to 1.09B**, driven by "acute memory supply constraints" ([IDC](https://www.idc.com/promo/smartphone-market-share/)).
-
-**Pricing (ASP = average selling price; Apple stopped disclosing iPhone ASP in 2018)**
-- CIRP US-WARP: **$953 (Q4-24) → $971 (Q1-25) → $1,090 (Sep-25 qtr, record)**; iPhone ASP ~$1,032 in Q4-25, +11.5% YoY ([MacTech/CIRP](https://www.mactech.com/2025/11/05/cirp-iphone-17-launch-boosts-average-selling-price-by-a-lot/)).
-- iPhone 17 launch price ladder: **17 $799 · Air $999 · 17 Pro $1,099 · Pro Max $1,199** ([Macworld](https://www.macworld.com/article/2393967/iphone-17-release-date-specs-features-rumors.html)).
-
-**Audited financials (company, latest two Qs)**
-| Metric | Q1 FY26 (Dec-25) | Q2 FY26 (Mar-26) |
-|---|---|---|
-| Total revenue | $143.8B (+16%) [S2] | $111.2B (+17%) [S1] |
-| iPhone revenue | $85.3B (+23%) [S2] | $57.0B (+22%) [S1] |
-| Company GM | 48.2% [S2] | 49.3% [S1] |
-| Products GM | 40.7% [S2] | 38.7% [S1] |
-| Services GM | 76.5% [S2] | 76.7% [S1] |
-| Diluted EPS | $2.84 (+19%) [S2] | $2.01 (+22%) [S1] |
-
-**Unit economics (per-iPhone, estimates — cross-ref /follow-the-dollar)**
-- ASP ~$1,000+ (US-WARP proxy) × product GM ~38–41% → **~$390–410 gross profit per iPhone at sale** [S1][S2].
-- The bigger lifetime value is the attached services stream: a ~$1,000 iPhone every ~3–4 years plus recurring iCloud/App Store/subscription revenue at ~76% margin across a multi-year retention life *(estimate; Apple does not break out per-user Services)* [S1].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Channels: Apple retail + online, carriers (trade-in + installment subsidies), big-box/resellers. The real acquisition engines: (1) **switchers** — "strong double-digit growth on switchers" [S2]; (2) **social/network pressure** — the blue-bubble/iMessage divide drives organic teen acquisition ([KTLA]); (3) **hand-me-down + trade-in** loops that keep old iPhones in-family and inside iOS. CAC posture: leans on unpaid network effects and brand, not paid marketing.
-- **Engage** — Core loop: the phone is the daily-life remote (comms, camera, payments, health, identity — e.g., Wallet Digital ID from US Passport [S2]). Aha moments cited by management: design, camera + selfie camera, display/ProMotion, performance, Center Stage, and Apple Intelligence "integrated across the platform" [S1][S2]. Frequency: many-times-daily; the iPhone is the hub the Watch/AirPods/Mac orbit.
-- **Retain** — Retention is the strongest asset: 99% satisfaction + "record upgraders" [S1][S2] → est. ~90%+ upgrade retention. Switching costs build with every attached device (>50% of Watch buyers new to product [S2]), iMessage/FaceTime lock-in, purchased media/apps, and muscle memory of iOS. Boring plumbing that retains: iCloud backup, Find My, device handoff, trade-in.
-- **Monetize** — Direct: hardware sale (ASP rising as buyers shift to Pro/Air, [CIRP]). Indirect & compounding: App Store commission (15–30%), **search ads across the App Store** (expanding), **Apple Maps ads (US/Canada, summer 2026)** [S1], iCloud storage, Apple Pay/Wallet, and the ~$550B+ developers have earned since 2008 [S2]. Price fences: storage tiers, Pro/Air premium, annual model cadence. Expansion: services attach per installed device.
 
 ---
 

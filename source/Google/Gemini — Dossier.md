@@ -4,9 +4,64 @@
 > **v1 — earnings-grounded + web research.** One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Grounding: (a) Alphabet earnings/investor material [Q1-26], [AI-remarks], [Q4-25]; (b) web research on Gemini's product facts, each cited with a URL. Estimates and third-party numbers are labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Distribution-led, near-zero cost to acquire a user. Default entry via Search AI Overviews (2.5B/mo) and AI Mode; pre-installed on Android (Gemini replacing Assistant); built into Chrome, Workspace (Gmail/Docs/Sheets), and Pixel (Gemini Live on Pixel 10a) [Q1-26], [AI-remarks]. The standalone app rode this base from 400M→900M MAU in a year [AI-remarks]. Sales & marketing is up (+23%, "Gemini app/Search marketing") but the real channel is Google's own surfaces, not paid ads [Q1-26].
+- **Engage** — Core loop: ask → answer → (increasingly) act. Hooks: multimodal input (voice/image ~1-in-6 AI Mode queries) [Q4-25]; Deep Research (agent-built multi-source reports); Canvas (turn a report into slides/quizzes/apps) ([aiblewmymind](https://aiblewmymind.substack.com/p/google-gemini-guide-every-feature-explained)); Gems (custom, doc-linked assistants); generative media — Nano Banana image (>50B images generated) and Veo video [AI-remarks], [deepmind]. Aha: "it did the whole task, not just told me how." Depth shows in tokens (3.2 quadrillion/mo) and query length (3x normal), not just opens [AI-remarks], [Q4-25].
+- **Retain** — Switching cost = data gravity + being embedded in the workflow. Personal Intelligence pulls context from Gmail/Drive/Calendar (live in >190 countries) [AI-remarks]; Gems and Canvas artifacts sit inside Google's stack; Workspace bundling makes Gemini the easiest option for 3B+ Workspace/Gmail users. Consumer AI-plan subs had their "strongest quarter ever" [Q1-26]. Weak spot: no Gemini-specific retention/churn number is public — reach is reported, stickiness is guessed.
+- **Monetize** — Four lines, ranked by dollars today: (1) **Ad-engine defense/growth** — Gemini's read of intent widens ad coverage past the old ~20% ceiling on "longer, more complex searches" [Q1-26]; the biggest dollar impact, and indirect. (2) **Consumer subscriptions** — Free / AI Plus $4.99 / AI Pro $19.99 / AI Ultra $99.99–$200; ~$1.2B in 2025 (est.) [getpanto]. (3) **Enterprise/API** — Gemini Enterprise seats (>8M), Vertex AI, direct API tokens, TPU sales — inside the +63% Cloud line [Q4-25], [Q1-26]. (4) **Agentic commerce** — Universal Cart + Universal Commerce Protocol (Ulta live with agent checkout) — an early take-rate chance [Q1-26]. Gemini-app ads held back on purpose [Q1-26].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale (product)**
+- Gemini app: **900M MAU** (I/O, May 2026), up from 400M a year earlier — "one of our fastest-growing products" [AI-remarks]. Prior points: 750M+ (Q4-25) [Q4-25]; ~450M start-2025. Independent (Sensor Tower) count ~**662M** May 2026 — label the gap [momentic], [aibusinessweekly].
+- AI Overviews: **>2.5B users/month**; AI Mode: **>1B MAU** (launched ~1 yr earlier) [AI-remarks].
+- Gemini powers **all 13 of Alphabet's >1B-user products** (5 have >3B) [AI-remarks].
+- Circle to Search on **580M+ Android devices** [Q4-25].
+
+**Usage intensity (the better signal)**
+- **3.2 quadrillion tokens/month** processed, ~300x in 2 years [AI-remarks]. First-party models: **>16B tokens/min via direct API** (up from 10B prior Q) [Q1-26].
+- AI Mode queries **3x longer** than a normal search; daily AI Mode queries/user **doubled** since launch; **~1 in 6** AI Mode queries are non-text (voice/image) [Q4-25].
+- Gemini 3 Pro: "fastest adoption of any model in our history"; processed **3x the daily tokens** of 2.5 Pro [Q4-25].
+
+**Enterprise (Cloud-side Gemini)**
+- **Gemini Enterprise:** paid MAUs +40% QoQ (Bosch, Citi Wealth, Merck, Mars) [Q1-26]; **>8M paid seats** across 2,800+ companies (Q4-25) [Q4-25].
+- **>120,000 enterprises** use Gemini; **95% of top-20 and >80% of top-100 SaaS companies** use Gemini [Q4-25].
+- Cloud revenue from GenAI-built products **+~800% YoY** (Q1-26) / +~400% (Q4-25) [Q1-26], [Q4-25]. 330 customers each processed >1T tokens; 35 hit 10T [Q1-26].
+- **Apple** named preferred cloud provider; next-gen Apple Foundation Models "based on Gemini technology" [Q4-25].
+
+**Monetization**
+- Gemini **subscription revenue ~$1.2B in 2025** (est., ~4x the ~$0.3B of 2024) [getpanto] — third-party, unaudited.
+- Total Alphabet paid subs (YouTube + Google One): **350M** [Q1-26]; "strongest quarter ever for consumer AI plans, driven by the Gemini app" [Q1-26].
+
+**Pricing (consumer, 2026)** — [gemini.google], [engadget], [felloai]
+| Tier | Price/mo | What you get |
+|---|---|---|
+| Free | $0 | Base models, limited Deep Research, Nano Banana image |
+| Google AI Plus | **$4.99** (cut from $7.99) | 400GB storage (2x), higher limits |
+| Google AI Pro | **$19.99** | 1M-token context, 20 Deep Research/day, 2TB storage |
+| Google AI Ultra (entry) | **$99.99** (cut from $249.99) | ~5x Pro limits, Antigravity access |
+| Google AI Ultra (top) | **$200** (cut from $250) | up to 20x Pro limits |
+- I/O 2026: paid plans moved from fixed daily prompt caps to **compute-based usage limits** — a text prompt spends far less of your allowance than a video/coding session [gemini.google], [felloai].
+
+**Competitive share (assistant market, May 2026)** — [momentic], [techcrunch], [aibusinessweekly]
+| Assistant | Global web-visit / usage share | MAU (Sensor Tower) |
+|---|---|---|
+| ChatGPT | ~46–54% (fell below 50% first time Mar-26) | ~1.1B |
+| **Gemini** | **~27.9%** (up from 18.2% Dec-24) | **~662M** |
+| Claude | ~9–10% (up from ~3% Dec-25) | ~245M |
+- US: ChatGPT ~58%, **Gemini ~19%**, Claude ~13% [aibusinessweekly].
+
+**Alphabet financials (context, Q1 FY2026)** — [Q1-26]
+- Consolidated revenue **$109.9B** (+22%); operating margin 36.1%; net income $62.6B.
+- Search & Other **$60.4B** (+19%); Google Cloud **$20.0B** (+63%, margin 17.8%→32.9%).
+- FY26 CapEx guide **$180–190B**; 2027 "significantly higher." Cloud backlog **$462B** (~2x QoQ).
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Gemini's serving cost fell 78% in one year — the cost curve, not the model, is the product story.**
@@ -65,7 +120,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can wield them.*
 
 - **"Expansionary moment."** AI doesn't replace the core behavior; it grows the total behavior (more, longer, richer queries). → any "will AI cannibalize the incumbent?" prompt. [AI-remarks]
@@ -75,63 +130,6 @@
 - **"Token volume as the real growth signal."** Tokens processed (3.2 quadrillion/month, 300x in 2 yrs) shows how deeply people use it, better than MAU. → metrics prompts — pick a usage-intensity metric over a reach metric. [AI-remarks]
 - **"Rebuilding ads, not porting them."** "We aren't just bringing existing ad formats into AI experiences. We are reinventing ads" — design the agent surface first, then the ad format. → monetization-design prompts. [Q1-26]
 - **"Compute allocation is a strategy lever."** ~half of ML compute goes to Cloud; training gets first claim — in a supply-constrained world, allocation IS strategy. → prioritization/trade-off prompts. [Q4-25]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale (product)**
-- Gemini app: **900M MAU** (I/O, May 2026), up from 400M a year earlier — "one of our fastest-growing products" [AI-remarks]. Prior points: 750M+ (Q4-25) [Q4-25]; ~450M start-2025. Independent (Sensor Tower) count ~**662M** May 2026 — label the gap [momentic], [aibusinessweekly].
-- AI Overviews: **>2.5B users/month**; AI Mode: **>1B MAU** (launched ~1 yr earlier) [AI-remarks].
-- Gemini powers **all 13 of Alphabet's >1B-user products** (5 have >3B) [AI-remarks].
-- Circle to Search on **580M+ Android devices** [Q4-25].
-
-**Usage intensity (the better signal)**
-- **3.2 quadrillion tokens/month** processed, ~300x in 2 years [AI-remarks]. First-party models: **>16B tokens/min via direct API** (up from 10B prior Q) [Q1-26].
-- AI Mode queries **3x longer** than a normal search; daily AI Mode queries/user **doubled** since launch; **~1 in 6** AI Mode queries are non-text (voice/image) [Q4-25].
-- Gemini 3 Pro: "fastest adoption of any model in our history"; processed **3x the daily tokens** of 2.5 Pro [Q4-25].
-
-**Enterprise (Cloud-side Gemini)**
-- **Gemini Enterprise:** paid MAUs +40% QoQ (Bosch, Citi Wealth, Merck, Mars) [Q1-26]; **>8M paid seats** across 2,800+ companies (Q4-25) [Q4-25].
-- **>120,000 enterprises** use Gemini; **95% of top-20 and >80% of top-100 SaaS companies** use Gemini [Q4-25].
-- Cloud revenue from GenAI-built products **+~800% YoY** (Q1-26) / +~400% (Q4-25) [Q1-26], [Q4-25]. 330 customers each processed >1T tokens; 35 hit 10T [Q1-26].
-- **Apple** named preferred cloud provider; next-gen Apple Foundation Models "based on Gemini technology" [Q4-25].
-
-**Monetization**
-- Gemini **subscription revenue ~$1.2B in 2025** (est., ~4x the ~$0.3B of 2024) [getpanto] — third-party, unaudited.
-- Total Alphabet paid subs (YouTube + Google One): **350M** [Q1-26]; "strongest quarter ever for consumer AI plans, driven by the Gemini app" [Q1-26].
-
-**Pricing (consumer, 2026)** — [gemini.google], [engadget], [felloai]
-| Tier | Price/mo | What you get |
-|---|---|---|
-| Free | $0 | Base models, limited Deep Research, Nano Banana image |
-| Google AI Plus | **$4.99** (cut from $7.99) | 400GB storage (2x), higher limits |
-| Google AI Pro | **$19.99** | 1M-token context, 20 Deep Research/day, 2TB storage |
-| Google AI Ultra (entry) | **$99.99** (cut from $249.99) | ~5x Pro limits, Antigravity access |
-| Google AI Ultra (top) | **$200** (cut from $250) | up to 20x Pro limits |
-- I/O 2026: paid plans moved from fixed daily prompt caps to **compute-based usage limits** — a text prompt spends far less of your allowance than a video/coding session [gemini.google], [felloai].
-
-**Competitive share (assistant market, May 2026)** — [momentic], [techcrunch], [aibusinessweekly]
-| Assistant | Global web-visit / usage share | MAU (Sensor Tower) |
-|---|---|---|
-| ChatGPT | ~46–54% (fell below 50% first time Mar-26) | ~1.1B |
-| **Gemini** | **~27.9%** (up from 18.2% Dec-24) | **~662M** |
-| Claude | ~9–10% (up from ~3% Dec-25) | ~245M |
-- US: ChatGPT ~58%, **Gemini ~19%**, Claude ~13% [aibusinessweekly].
-
-**Alphabet financials (context, Q1 FY2026)** — [Q1-26]
-- Consolidated revenue **$109.9B** (+22%); operating margin 36.1%; net income $62.6B.
-- Search & Other **$60.4B** (+19%); Google Cloud **$20.0B** (+63%, margin 17.8%→32.9%).
-- FY26 CapEx guide **$180–190B**; 2027 "significantly higher." Cloud backlog **$462B** (~2x QoQ).
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Distribution-led, near-zero cost to acquire a user. Default entry via Search AI Overviews (2.5B/mo) and AI Mode; pre-installed on Android (Gemini replacing Assistant); built into Chrome, Workspace (Gmail/Docs/Sheets), and Pixel (Gemini Live on Pixel 10a) [Q1-26], [AI-remarks]. The standalone app rode this base from 400M→900M MAU in a year [AI-remarks]. Sales & marketing is up (+23%, "Gemini app/Search marketing") but the real channel is Google's own surfaces, not paid ads [Q1-26].
-- **Engage** — Core loop: ask → answer → (increasingly) act. Hooks: multimodal input (voice/image ~1-in-6 AI Mode queries) [Q4-25]; Deep Research (agent-built multi-source reports); Canvas (turn a report into slides/quizzes/apps) ([aiblewmymind](https://aiblewmymind.substack.com/p/google-gemini-guide-every-feature-explained)); Gems (custom, doc-linked assistants); generative media — Nano Banana image (>50B images generated) and Veo video [AI-remarks], [deepmind]. Aha: "it did the whole task, not just told me how." Depth shows in tokens (3.2 quadrillion/mo) and query length (3x normal), not just opens [AI-remarks], [Q4-25].
-- **Retain** — Switching cost = data gravity + being embedded in the workflow. Personal Intelligence pulls context from Gmail/Drive/Calendar (live in >190 countries) [AI-remarks]; Gems and Canvas artifacts sit inside Google's stack; Workspace bundling makes Gemini the easiest option for 3B+ Workspace/Gmail users. Consumer AI-plan subs had their "strongest quarter ever" [Q1-26]. Weak spot: no Gemini-specific retention/churn number is public — reach is reported, stickiness is guessed.
-- **Monetize** — Four lines, ranked by dollars today: (1) **Ad-engine defense/growth** — Gemini's read of intent widens ad coverage past the old ~20% ceiling on "longer, more complex searches" [Q1-26]; the biggest dollar impact, and indirect. (2) **Consumer subscriptions** — Free / AI Plus $4.99 / AI Pro $19.99 / AI Ultra $99.99–$200; ~$1.2B in 2025 (est.) [getpanto]. (3) **Enterprise/API** — Gemini Enterprise seats (>8M), Vertex AI, direct API tokens, TPU sales — inside the +63% Cloud line [Q4-25], [Q1-26]. (4) **Agentic commerce** — Universal Cart + Universal Commerce Protocol (Ulta live with agent checkout) — an early take-rate chance [Q1-26]. Gemini-app ads held back on purpose [Q1-26].
 
 ---
 

@@ -5,9 +5,74 @@
 > Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Tuned for PM interview prep — product sense, strategy, design, metrics. Every fact source-tagged `[S#]`; estimates labelled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- *Sellers:* self-serve Seller Central signup; New Seller Incentives + FBA New Selection fee discounts (expanded Jan 2025) lower first-year cost to seed selection. Lowered fees in US/Europe/Brazil as an acquisition lever. [S1][S5]
+- *Buyers:* selection is the acquisition engine — the 3P long tail means "Amazon has it." Essentials + same-day pull frequency; Prime bundles the audience sellers rent. Haul defends the price-shopper who'd otherwise start at Temu. [S1][S2][S4]
+
+**Engage**
+- Core loop (seller): list → win Buy Box → buy ads/FBA to hold placement → reviews build up rank → reinvest. The aha: the first FBA sale ships from Amazon with zero seller logistics.
+- Core loop (buyer): search/Rufus → Prime-fast delivery → reorder (Subscribe & Save, Add to Delivery). Aha: same-day essentials arriving in hours. [S2]
+- New surfaces: Rufus/Alexa for Shopping (conversational discovery, "auto buy," "Buy for Me"), Lens visual search (+45%). [S2][S9]
+
+**Retain**
+- *Sellers:* switching costs = FBA inventory sitting in Amazon warehouses, review history tied to the ASIN, and the fact that no rival marketplace has comparable demand (Walmart/TikTok/Temu each ~$15-22B vs Amazon's ~$300B US 3P). Leaving means abandoning your audience. [S3][S4]
+- *Buyers:* Prime membership, saved payment, Subscribe & Save, and habit from essentials frequency. Perishable buyers shop ~2x more often. [S2]
+
+**Monetize** — four stacked lines on the same GMV:
+1. **Referral fee** (~15%) — the base rent on every sale. [S7]
+2. **FBA** (20-35%) — fulfillment + storage; also a moat (see Retain). [S8]
+3. **Advertising** (up to 15%) — the auction to escape the long tail; $17-21B/quarter. [S1][S2]
+4. **Subscriptions/services** — Seller/Brand tools, Subscribe & Save, plus emerging AI seller tooling. [S1]
+- Net: ~30% take rate on services alone, ~50% all-in — the highest-monetized layer of Amazon retail. [S8][S11]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- Total Amazon GMV 2025: **~$830B**; 1P $255B (31%), 3P **$575B (69%)**; both grew ~9% Y/Y (est., Marketplace Pulse). [S6]
+- 3P unit mix: **61%** (Q4'25), flat at 61-62% since Q4'24. [S2]
+- Worldwide paid units: **+12% Y/Y** (Q4'25, highest quarterly growth of 2025); **+15%** (Q1'26, "highest since tail end of COVID"). [S1][S2]
+- Active sellers **~1.65M** (est., end-2025; down from 2.4M in 2021) of **9.7M** registered accounts. [S3]
+- 600+ new notable brands added (Q1'26). [S1]
+
+**Seller economics (the take rate)**
+- Referral fee: 5-45% by category, **~15% typical**; frozen for 2025 & 2026. [S7]
+- FBA fulfillment + storage: **20-35%** of a typical seller's revenue. [S8]
+- Fuel surcharge: **3.5%** on FBA fulfillment fees, effective Apr 17 2026. [S7]
+- Advertising: up to ~15%. All-in effective cut: **~50%** of seller revenue. [S8]
+- **3P seller services revenue: $172.2B FY25; $52.8B Q4'25, +11% Y/Y** (audited). [S11]
+- Blended take rate proxy: $172.2B services rev ÷ $575B 3P GMV ≈ **~30%** (excludes ads; ~50% once ads/promos are added). [S6][S8]
+
+**Concentration**
+- <**8,000 sellers** = half of ~$300B US 3P GMV = **1.6%** of active base (est., Marketplace Pulse). [S3]
+
+**Category & feature signals**
+- Everyday essentials: ~2x category growth, **1 of 3 US units**. [S2]
+- Grocery: **>$150B** gross sales 2025, 2nd-largest US grocer, 150M+ American shoppers; perishables +40x Y/Y (Q1'26). [S1][S2]
+- Add to Delivery: **~10% of all Prime volume** within 6 months. [S2]
+- Amazon Haul: **1M+ items <$10**, 25+ countries; ~16% US monthly usage (vs Temu 28%, Shein 23%). [S2][S4]
+- Rufus / Alexa for Shopping: **300M+ users** (2025), buyers ~60% more likely to complete purchase; Lens visual search +45% Y/Y. [S2]
+
+**Competitor GMV (US, 2025, est.)**
+| Platform | US GMV (est.) | Model |
+|---|---|---|
+| Amazon (3P, US) | ~$300B | Marketplace + FBA + ads |
+| Temu | ~$22B | Direct-from-China, ultra-low price |
+| Walmart Marketplace | ~$15B | Marketplace + WFS |
+| TikTok Shop | ~$15B | Social/video commerce |
+[S3][S4]
+
+**Audited financials (context, FY25 / latest Q)**
+- North America revenue: $127.1B Q4'25 (+10%), 9% op margin; $104.1B Q1'26 (+12%). [S1][S2]
+- International revenue: $50.7B Q4'25 (+11% ex-FX), 2.1% op margin. [S2]
+- Amazon Advertising: $21.3B Q4'25 (+22%); $17.2B Q1'26 (+22%). [S1][S2]
+
+---
+
+## 3. Wow Vault ★
 
 **★ Marketplace is now most of Amazon's store, by both units and dollars — and the two numbers tell different stories.**
 - **Picture:** 3P is 61% of *units* [S2] but 69% of *GMV* ($575B of $830B) [S6]. Units have sat at 61-62% since Q4'24; GMV share kept climbing from 60% in 2019. [S6]
@@ -65,80 +130,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Retailers beat horizontal agents on all four."** Consumers want selection, low price, fast delivery, and trust; aggregators nail selection only. Use on any "will AI aggregators disintermediate X?" prompt — the incumbent with the full stack wins. [S1]
 - **"The barbell."** Amazon uses it for AWS demand, but it fits the marketplace: a head of ~8k pro sellers plus a fat tail of hobbyists, with a thin, churny middle. Any two-sided-marketplace question. [S2][S3]
 - **"Everyday-essentials halo."** Low-price, high-frequency SKUs aren't judged on their own margin; they're judged on the downstream cart they pull. Reframe for any "why sell low-margin X?" [S2]
 - **"Cut the rate to grow the base."** Lowering seller fees is a supply-acquisition lever, not a giveaway. Use for pricing-power / marketplace-flywheel prompts. [S1]
 - **"Capacity put into service is immediately useful."** Amazon's logistics framing — same-day nodes pay off as soon as they're built. Reuse for any infra-heavy product where the question is "won't you overbuild?" [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- Total Amazon GMV 2025: **~$830B**; 1P $255B (31%), 3P **$575B (69%)**; both grew ~9% Y/Y (est., Marketplace Pulse). [S6]
-- 3P unit mix: **61%** (Q4'25), flat at 61-62% since Q4'24. [S2]
-- Worldwide paid units: **+12% Y/Y** (Q4'25, highest quarterly growth of 2025); **+15%** (Q1'26, "highest since tail end of COVID"). [S1][S2]
-- Active sellers **~1.65M** (est., end-2025; down from 2.4M in 2021) of **9.7M** registered accounts. [S3]
-- 600+ new notable brands added (Q1'26). [S1]
-
-**Seller economics (the take rate)**
-- Referral fee: 5-45% by category, **~15% typical**; frozen for 2025 & 2026. [S7]
-- FBA fulfillment + storage: **20-35%** of a typical seller's revenue. [S8]
-- Fuel surcharge: **3.5%** on FBA fulfillment fees, effective Apr 17 2026. [S7]
-- Advertising: up to ~15%. All-in effective cut: **~50%** of seller revenue. [S8]
-- **3P seller services revenue: $172.2B FY25; $52.8B Q4'25, +11% Y/Y** (audited). [S11]
-- Blended take rate proxy: $172.2B services rev ÷ $575B 3P GMV ≈ **~30%** (excludes ads; ~50% once ads/promos are added). [S6][S8]
-
-**Concentration**
-- <**8,000 sellers** = half of ~$300B US 3P GMV = **1.6%** of active base (est., Marketplace Pulse). [S3]
-
-**Category & feature signals**
-- Everyday essentials: ~2x category growth, **1 of 3 US units**. [S2]
-- Grocery: **>$150B** gross sales 2025, 2nd-largest US grocer, 150M+ American shoppers; perishables +40x Y/Y (Q1'26). [S1][S2]
-- Add to Delivery: **~10% of all Prime volume** within 6 months. [S2]
-- Amazon Haul: **1M+ items <$10**, 25+ countries; ~16% US monthly usage (vs Temu 28%, Shein 23%). [S2][S4]
-- Rufus / Alexa for Shopping: **300M+ users** (2025), buyers ~60% more likely to complete purchase; Lens visual search +45% Y/Y. [S2]
-
-**Competitor GMV (US, 2025, est.)**
-| Platform | US GMV (est.) | Model |
-|---|---|---|
-| Amazon (3P, US) | ~$300B | Marketplace + FBA + ads |
-| Temu | ~$22B | Direct-from-China, ultra-low price |
-| Walmart Marketplace | ~$15B | Marketplace + WFS |
-| TikTok Shop | ~$15B | Social/video commerce |
-[S3][S4]
-
-**Audited financials (context, FY25 / latest Q)**
-- North America revenue: $127.1B Q4'25 (+10%), 9% op margin; $104.1B Q1'26 (+12%). [S1][S2]
-- International revenue: $50.7B Q4'25 (+11% ex-FX), 2.1% op margin. [S2]
-- Amazon Advertising: $21.3B Q4'25 (+22%); $17.2B Q1'26 (+22%). [S1][S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- *Sellers:* self-serve Seller Central signup; New Seller Incentives + FBA New Selection fee discounts (expanded Jan 2025) lower first-year cost to seed selection. Lowered fees in US/Europe/Brazil as an acquisition lever. [S1][S5]
-- *Buyers:* selection is the acquisition engine — the 3P long tail means "Amazon has it." Essentials + same-day pull frequency; Prime bundles the audience sellers rent. Haul defends the price-shopper who'd otherwise start at Temu. [S1][S2][S4]
-
-**Engage**
-- Core loop (seller): list → win Buy Box → buy ads/FBA to hold placement → reviews build up rank → reinvest. The aha: the first FBA sale ships from Amazon with zero seller logistics.
-- Core loop (buyer): search/Rufus → Prime-fast delivery → reorder (Subscribe & Save, Add to Delivery). Aha: same-day essentials arriving in hours. [S2]
-- New surfaces: Rufus/Alexa for Shopping (conversational discovery, "auto buy," "Buy for Me"), Lens visual search (+45%). [S2][S9]
-
-**Retain**
-- *Sellers:* switching costs = FBA inventory sitting in Amazon warehouses, review history tied to the ASIN, and the fact that no rival marketplace has comparable demand (Walmart/TikTok/Temu each ~$15-22B vs Amazon's ~$300B US 3P). Leaving means abandoning your audience. [S3][S4]
-- *Buyers:* Prime membership, saved payment, Subscribe & Save, and habit from essentials frequency. Perishable buyers shop ~2x more often. [S2]
-
-**Monetize** — four stacked lines on the same GMV:
-1. **Referral fee** (~15%) — the base rent on every sale. [S7]
-2. **FBA** (20-35%) — fulfillment + storage; also a moat (see Retain). [S8]
-3. **Advertising** (up to 15%) — the auction to escape the long tail; $17-21B/quarter. [S1][S2]
-4. **Subscriptions/services** — Seller/Brand tools, Subscribe & Save, plus emerging AI seller tooling. [S1]
-- Net: ~30% take rate on services alone, ~50% all-in — the highest-monetized layer of Amazon retail. [S8][S11]
 
 ---
 

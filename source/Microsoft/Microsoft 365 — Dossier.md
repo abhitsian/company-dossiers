@@ -5,9 +5,48 @@
 > One living file. Order: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Estimates are labeled (est.). Earnings facts cite [S1]/[S2]; web facts cite the URL inline.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Enterprise: top-down IT plus the EA (Enterprise Agreement) motion; land at E3, expand to E5/Copilot. Copilot land-and-expand is the current engine — customers with >50K seats quadrupled Y/Y, marquee wins (Accenture 740K) [S1]. SMB/frontline is where *seat* growth now comes from [S1]. Consumer: OEM/Windows distribution, the OneDrive storage hook, and now Copilot/ChatGPT-equivalent as the draw ([pricing](https://www.microsoft.com/en-us/microsoft-365/business/with-copilot-plans-and-pricing)).
+- **Engage** — Core loop = daily work already lives in Outlook/Teams/Word/Excel; Copilot sits inside that surface, and every Copilot/agent conversation "feeds back into Work IQ, making it even more context-rich" — a data flywheel [S1]. Aha moments: Agent Mode in Excel ("kind of didn't work until it started working" [S1]), Cowork returning a *finished deliverable* not a draft ([microsoft.com](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/)). Engagement proof: Copilot weekly use = Outlook level [S1].
+- **Retain** — Switching cost is the accumulated org data (Work IQ), the file formats, the identity system (Entra), and the dual-stack reality (64% run both but rarely fully leave). Gross retention est. very high (enterprise EA lock-in); the risk is *not* churn but under-adoption of the paid AI tier. Frontline/SMB seat growth offsets flat enterprise seat count [S1].
+- **Monetize** — Multiple revenue lines: (1) commercial cloud seats E3/E5 [S1]; (2) Copilot add-on ($21 SMB / $30 enterprise) [web]; (3) E7 Frontier bundle at $99 [S1]; (4) consumer subs (Personal/Family) +33% cloud [S1]; (5) emerging **usage-based consumption** (Cowork credits, agent runs) [S1][web]; (6) declining transactional/on-prem products [S1]. Price fences = the SKU ladder (E3→E5→Copilot→E7); expansion = ARPU up-tier, since seats only +6% [S1][S2].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- Paid commercial M365 seats: **450M+**, +6% Y/Y [S2]. Growth mainly SMB + frontline [S1].
+- Consumer subscriptions: **~95M**, +7% [S1] (89.0M at FY25 Q4, [electroiq.com](https://electroiq.com/stats/microsoft-365-statistics/)).
+- M365 apps used by **430M+** people ([sqmagazine.co.uk](https://sqmagazine.co.uk/microsoft-365-statistics/)).
+- M365 Copilot paid seats: **20M+**, seat adds **+250% Y/Y** [S1] (was 15M / +160% one quarter prior [S2]).
+- Customers with >50K Copilot seats **quadrupled Y/Y**; Accenture 740K+ (largest); Bayer, J&J, Mercedes, Roche each 90K+ [S1].
+- Work IQ data layer: **17 exabytes, +35% Y/Y** [S1].
+
+**Segment financials (P&BP — houses M365 Commercial + Consumer, plus LinkedIn & Dynamics)**
+- P&BP revenue **$35.0B, +17% (+13% cc)**; op income +21%; **op margin 60%** [S1].
+- M365 Commercial Cloud **+19% (+15% cc)**, "ahead of expectations" [S1].
+- M365 Consumer Cloud **+33% (+29% cc)** [S1].
+- M365 Commercial *products* (transactional/on-prem) **+1% (−3% cc)** — Office 2024 one-time purchases returning to normal levels [S1].
+- Q4 FY26 P&BP guide: $37–37.3B (+12–13%) [S1].
+
+**Pricing ladder (web)**
+- Consumer: Personal ~$99.99/yr, Family ~$129/yr (up to 6) — now bundle Copilot (ChatGPT-Plus-equivalent) + 1TB OneDrive ([microsoft.com pricing](https://www.microsoft.com/en-us/microsoft-365/business/with-copilot-plans-and-pricing)).
+- Copilot SMB add-on: **$30 → $21/user/mo** (orgs <300 users) from Dec 1, 2025; enterprise add-on stays $30 ([redriver.com](https://redriver.com/collaboration/microsoft-365-price-increase-2026)).
+- **E7 = $99/user/mo** (annual), Frontier Suite [S1] (web).
+- Commercial price increases effective July 1, 2026: **5% on E5 up to ~43% on some Frontline** configs ([redriver.com](https://redriver.com/collaboration/microsoft-365-price-increase-2026)).
+
+**Market position**
+- Enterprise productivity SaaS share ~**77%** (Gartner, Aug 2025); M365 + Google Workspace ≈ **96%** combined ([medhacloud.com](https://medhacloud.com/blog/microsoft-365-statistics-2026)).
+- **64%** of orgs run dual-stack (M365 + Workspace) ([gartner.com](https://www.gartner.com/en/documents/6860166)).
+
+**Unit economics (est., cross-ref /follow-the-dollar)**
+- Follow one E5 seat (~$57/mo est.) → the segment's 60% op margin implies ~$34/mo op income per revenue-dollar-equivalent [S1]; the classic apps cost almost nothing extra to serve one more seat, so each up-tier (E5→Copilot→E7) is nearly pure added margin *until* Copilot's inference cost enters — which is why usage-based pricing exists, to pass the token cost through to the customer. [S1]
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ The business model is being rewritten mid-flight: a "seat" is becoming a consumption pack, not a license.**
@@ -60,7 +99,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Seat plus consumption."** Every per-user business becomes per-user *and* usage; the seat is a base entitlement plus a metered overage. → use on any SaaS pricing / monetization prompt. [S1]
 - **"The most important database in the company."** The product's defensibility is the customer's own accumulated data, not the features. → moat / defensibility prompts. [S1][S2]
@@ -68,47 +107,6 @@
 - **"Allocated-capacity guide, not a demand read."** A reported growth number can be a supply *choice* (capacity goes to first-party first), not a ceiling. → metrics-interpretation prompts. [S2]
 - **"Win back fans."** Framing a quality/turnaround effort around a user who left, not a funnel metric. → the consumer/turnaround side (Windows, Xbox, Bing). [S1]
 - **"Tokens per watt per dollar."** For an AI-infra product, the thing you optimize is output per unit of energy per dollar, not raw model quality. → efficiency / COGS prompts. [S2]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- Paid commercial M365 seats: **450M+**, +6% Y/Y [S2]. Growth mainly SMB + frontline [S1].
-- Consumer subscriptions: **~95M**, +7% [S1] (89.0M at FY25 Q4, [electroiq.com](https://electroiq.com/stats/microsoft-365-statistics/)).
-- M365 apps used by **430M+** people ([sqmagazine.co.uk](https://sqmagazine.co.uk/microsoft-365-statistics/)).
-- M365 Copilot paid seats: **20M+**, seat adds **+250% Y/Y** [S1] (was 15M / +160% one quarter prior [S2]).
-- Customers with >50K Copilot seats **quadrupled Y/Y**; Accenture 740K+ (largest); Bayer, J&J, Mercedes, Roche each 90K+ [S1].
-- Work IQ data layer: **17 exabytes, +35% Y/Y** [S1].
-
-**Segment financials (P&BP — houses M365 Commercial + Consumer, plus LinkedIn & Dynamics)**
-- P&BP revenue **$35.0B, +17% (+13% cc)**; op income +21%; **op margin 60%** [S1].
-- M365 Commercial Cloud **+19% (+15% cc)**, "ahead of expectations" [S1].
-- M365 Consumer Cloud **+33% (+29% cc)** [S1].
-- M365 Commercial *products* (transactional/on-prem) **+1% (−3% cc)** — Office 2024 one-time purchases returning to normal levels [S1].
-- Q4 FY26 P&BP guide: $37–37.3B (+12–13%) [S1].
-
-**Pricing ladder (web)**
-- Consumer: Personal ~$99.99/yr, Family ~$129/yr (up to 6) — now bundle Copilot (ChatGPT-Plus-equivalent) + 1TB OneDrive ([microsoft.com pricing](https://www.microsoft.com/en-us/microsoft-365/business/with-copilot-plans-and-pricing)).
-- Copilot SMB add-on: **$30 → $21/user/mo** (orgs <300 users) from Dec 1, 2025; enterprise add-on stays $30 ([redriver.com](https://redriver.com/collaboration/microsoft-365-price-increase-2026)).
-- **E7 = $99/user/mo** (annual), Frontier Suite [S1] (web).
-- Commercial price increases effective July 1, 2026: **5% on E5 up to ~43% on some Frontline** configs ([redriver.com](https://redriver.com/collaboration/microsoft-365-price-increase-2026)).
-
-**Market position**
-- Enterprise productivity SaaS share ~**77%** (Gartner, Aug 2025); M365 + Google Workspace ≈ **96%** combined ([medhacloud.com](https://medhacloud.com/blog/microsoft-365-statistics-2026)).
-- **64%** of orgs run dual-stack (M365 + Workspace) ([gartner.com](https://www.gartner.com/en/documents/6860166)).
-
-**Unit economics (est., cross-ref /follow-the-dollar)**
-- Follow one E5 seat (~$57/mo est.) → the segment's 60% op margin implies ~$34/mo op income per revenue-dollar-equivalent [S1]; the classic apps cost almost nothing extra to serve one more seat, so each up-tier (E5→Copilot→E7) is nearly pure added margin *until* Copilot's inference cost enters — which is why usage-based pricing exists, to pass the token cost through to the customer. [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Enterprise: top-down IT plus the EA (Enterprise Agreement) motion; land at E3, expand to E5/Copilot. Copilot land-and-expand is the current engine — customers with >50K seats quadrupled Y/Y, marquee wins (Accenture 740K) [S1]. SMB/frontline is where *seat* growth now comes from [S1]. Consumer: OEM/Windows distribution, the OneDrive storage hook, and now Copilot/ChatGPT-equivalent as the draw ([pricing](https://www.microsoft.com/en-us/microsoft-365/business/with-copilot-plans-and-pricing)).
-- **Engage** — Core loop = daily work already lives in Outlook/Teams/Word/Excel; Copilot sits inside that surface, and every Copilot/agent conversation "feeds back into Work IQ, making it even more context-rich" — a data flywheel [S1]. Aha moments: Agent Mode in Excel ("kind of didn't work until it started working" [S1]), Cowork returning a *finished deliverable* not a draft ([microsoft.com](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/)). Engagement proof: Copilot weekly use = Outlook level [S1].
-- **Retain** — Switching cost is the accumulated org data (Work IQ), the file formats, the identity system (Entra), and the dual-stack reality (64% run both but rarely fully leave). Gross retention est. very high (enterprise EA lock-in); the risk is *not* churn but under-adoption of the paid AI tier. Frontline/SMB seat growth offsets flat enterprise seat count [S1].
-- **Monetize** — Multiple revenue lines: (1) commercial cloud seats E3/E5 [S1]; (2) Copilot add-on ($21 SMB / $30 enterprise) [web]; (3) E7 Frontier bundle at $99 [S1]; (4) consumer subs (Personal/Family) +33% cloud [S1]; (5) emerging **usage-based consumption** (Cowork credits, agent runs) [S1][web]; (6) declining transactional/on-prem products [S1]. Price fences = the SKU ladder (E3→E5→Copilot→E7); expansion = ARPU up-tier, since seats only +6% [S1][S2].
 
 ---
 

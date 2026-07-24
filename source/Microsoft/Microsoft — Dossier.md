@@ -4,9 +4,61 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — The installed base is the channel: 450M+ M365 commercial seats [S2] are the entry point for Copilot (the >50K-seat group quadrupled Y/Y [S1]). Deals land both top-down (Accenture 740K, Publicis 95K) and bottom-up (GitHub Copilot 4.7M individual subs, +75% [S2]; Copilot Pro+ individual +77% Q/Q). Azure lands through Foundry model access (widest model choice of any hyperscaler [S2]) and migrations. New commercial seat growth is now mainly SMB + frontline [S1] — the least-penetrated edges of the base.
+- **Engage** — The core loop is the Work IQ flywheel: usage → richer org-context → better Copilot/agent answers → more usage [S1]. The "aha" is the sudden capability jump (Agent Mode in Excel that "didn't work until it started working" [S1]). Agent Mode is now on by default across Word/Excel/PowerPoint; "Cowork" hands off tasks [S1]. Proof of engagement: Copilot weekly use = Outlook's [S1]; agent MAU +6x YTD; queries per user +~20% Q/Q [S1]; conversations per user doubled Y/Y [S2]. Surfaces span M365 apps, GitHub, Teams (as a data source feeding Work IQ), the consumer Copilot app (DAU ~3x Y/Y [S2]), Security Copilot, and Dragon (healthcare).
+- **Retain** — Switching costs come from the M365 data graph (17 exabytes, +35% Y/Y [S1]) plus identity/compliance (Entra, Purview auditing 24B Copilot interactions [S2]). RPO $627B, +99% [S1], ~2.5yr duration, locks in multiyear commitments. E5 and Copilot lift revenue per seat within existing seats [S1]. Agent 365 deepens lock-in by extending governance to third-party agents [S2]. Weak spot: "weaker renewals as customers balance spend between per-seat and seats-plus-consumption" [S1].
+- **Monetize** — Several lines, each with its own unit: (1) M365 per-seat plus E5/Copilot revenue uplift; (2) the new seats-plus-consumption overage (metered, discounted for commitment) [S1]; (3) Azure usage (tokens, compute, storage — "AI workloads are not just AI accelerators" [S2]); (4) LinkedIn (subscriptions plus Marketing/Talent Solutions, agentic Talent at >$450M run-rate [S1]); (5) GitHub (moving to usage-based pricing June 1 [S1]); (6) gaming (Game Pass plus content); (7) Windows OEM. Price fences: seat tiers (E5, E7 "predominantly seat-based with consumption components" [S1]), Copilot add-on, and commitment discounts on usage.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers — grouped by theme.*
+
+**Headline scale (Q3 FY2026, qtr ended Mar 2026) [S1]**
+- Total revenue **$82.9B, +18% Y/Y** (+15% cc); beat +$1.46B. EPS **$4.27, +21%** (+18% cc adj. OpenAI); beat +$0.21.
+- Gross margin **68%** (down Y/Y on AI infra). Operating margin **46%** (up slightly). Op income +20%.
+- Microsoft Cloud **$54.5B, +29%** (+25% cc); Cloud GM **66%**.
+- **AI business ARR >$37B, +123% Y/Y.**
+- CapEx **$31.9B** (down from last quarter; ~2/3 short-lived GPU/CPU assets). Cash from ops **$46.7B, +26%**. FCF **$15.8B**. Capital returned **$10.2B**. Headcount declined Y/Y.
+- **RPO $627B, +99% Y/Y**, ~2.5yr duration, ~25% recognized in next 12mo.
+
+**Segments (Q3 FY26) [S1]**
+| Segment | Revenue | Growth | Op margin |
+|---|---|---|---|
+| Productivity & Business Processes | $35.0B | +17% (+13% cc) | 60% |
+| Intelligent Cloud | $34.7B | +30% (+28% cc) | 40% |
+| More Personal Computing | $13.2B | −1% (−3% cc) | 28% |
+- Azure **+40%** (+39% cc). Bookings **+7% ex-OpenAI**; −4% (−6% cc) incl. OpenAI Azure commitments.
+
+**Prior quarter for trend (Q2 FY26, qtr ended Dec 2025) [S2]**
+- Revenue **$81.3B, +17%**; EPS **$4.14, +24%**; op margin **47%**. Cloud **$51.5B, +26%** (first time >$50B); Cloud GM 67%.
+- Azure **+39%** (+38% cc). CapEx **$37.5B**. **Commercial bookings +230%** (OpenAI + Anthropic). **RPO $625B, +110%**; **~45% of RPO is OpenAI**, the other 55% (~$350B) grew 28%.
+- $10B GAAP OIE gain from the OpenAI recap (equity-method mark).
+
+**Product KPIs [S1 unless noted]**
+- **M365 Copilot: >20M paid seats**; seat adds +250% Y/Y; customers with >50K seats quadrupled Y/Y; Accenture >740,000 seats (largest); Bayer, J&J, Mercedes, Roche each 90,000+; 625 product updates in a year (+50%). *(Q2: 15M seats, +160% adds, DAU +10x, 35K+-seat customers tripled — Fiserv, ING, NASA, Westpac; Publicis 95,000+.)* [S2]
+- **M365 commercial paid seats +6% Y/Y** to **over 450M** [S2]; growth mainly SMB + frontline. ARPU (revenue per user) led by E5 + Copilot.
+- **M365 Consumer subs ~95M (+7%)** [S1]; consumer cloud +33% (+29% cc).
+- **GitHub Copilot:** nearly 140,000 orgs [S1]; **4.7M paid subs, +75% Y/Y** [S2]; enterprise subs nearly tripled Y/Y; usage-based pricing from June 1 [S1].
+- **LinkedIn:** 1.3B members; revenue +12% (+9% cc); Talent Solutions agentic products **>$450M annualized run-rate** [S1].
+- **Azure Foundry:** >10,000 customers used >1 model [S1]; 1,500+ use both Anthropic and OpenAI [S2]; 300+ customers on track to process >1T tokens this year [S1]. **Fabric run-rate >$2B, +60%, 31,000 customers** [S2].
+- **Dragon Copilot:** 100,000+ providers, 21M patient encounters (+3x) [S2].
+- **Xbox:** gaming revenue −7% (−9% cc); content & services −5% [S1]; new records for monthly active users and streaming hours; Game Pass changes; impairment charges in gaming OpEx.
+
+**Guidance signals [S1]**
+- Q4 FY26: total rev **$86.7–87.8B** (+13–15%); **Azure +39–40% cc**; MS Cloud GM ~64%; CapEx **>$40B** (incl. ~$5B higher component pricing).
+- **CY2026 CapEx ~$190B** (~$25B from higher component pricing). Capacity-constrained *"at least through 2026."* ~$900M one-time voluntary-retirement costs. FY27: *"another year of double-digit revenue and operating income growth."*
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- AI-business unit margins run **above** the cloud-transition era at the same stage [S1]; overall GM is diluted only by the infra build.
+- ~2/3 of CapEx is short-lived (GPU/CPU) and *"correlates with revenue"*; long-dated GPU contracts pre-sold *"for the entirety of their useful life"* [S1][S2].
+- Silicon efficiency: Maia 200 **+30% tokens/dollar**; MAI-Transcribe-1 **+67% GPU efficiency**; 50% inference throughput gain on OpenAI-powered Copilots [S1][S2].
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Azure's reported growth rate is a management CHOICE, not a read on demand.**
@@ -71,7 +123,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can wield them on any prompt.*
 
 - **"Allocated capacity guide."** A reported growth number is a supply-allocation choice, not a demand ceiling — when supply is the limit, the printed number is what is left after higher-value uses are served first. Use on any metrics-interpretation or capacity-limited-growth question. [S2]
@@ -82,60 +134,6 @@
 - **"It sort of kind of didn't work until it started working."** Capability shows up as a sudden jump (Agent Mode in Excel) — you need capacity already built to catch that jump. Use on why-invest-ahead-of-demand. [S1]
 - **"Win back fans."** For a business you have under-served (consumer: Windows, Xbox, Bing, Edge), make the goal quality and trust, not growth. Use on turnaround / prioritization. [S1]
 - **"Business outcomes making their way into IT budgets."** New spend is funded by moving money from OpEx tied to measured outcomes, not by growing the budget. Use on TAM / willingness-to-pay. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers — grouped by theme.*
-
-**Headline scale (Q3 FY2026, qtr ended Mar 2026) [S1]**
-- Total revenue **$82.9B, +18% Y/Y** (+15% cc); beat +$1.46B. EPS **$4.27, +21%** (+18% cc adj. OpenAI); beat +$0.21.
-- Gross margin **68%** (down Y/Y on AI infra). Operating margin **46%** (up slightly). Op income +20%.
-- Microsoft Cloud **$54.5B, +29%** (+25% cc); Cloud GM **66%**.
-- **AI business ARR >$37B, +123% Y/Y.**
-- CapEx **$31.9B** (down from last quarter; ~2/3 short-lived GPU/CPU assets). Cash from ops **$46.7B, +26%**. FCF **$15.8B**. Capital returned **$10.2B**. Headcount declined Y/Y.
-- **RPO $627B, +99% Y/Y**, ~2.5yr duration, ~25% recognized in next 12mo.
-
-**Segments (Q3 FY26) [S1]**
-| Segment | Revenue | Growth | Op margin |
-|---|---|---|---|
-| Productivity & Business Processes | $35.0B | +17% (+13% cc) | 60% |
-| Intelligent Cloud | $34.7B | +30% (+28% cc) | 40% |
-| More Personal Computing | $13.2B | −1% (−3% cc) | 28% |
-- Azure **+40%** (+39% cc). Bookings **+7% ex-OpenAI**; −4% (−6% cc) incl. OpenAI Azure commitments.
-
-**Prior quarter for trend (Q2 FY26, qtr ended Dec 2025) [S2]**
-- Revenue **$81.3B, +17%**; EPS **$4.14, +24%**; op margin **47%**. Cloud **$51.5B, +26%** (first time >$50B); Cloud GM 67%.
-- Azure **+39%** (+38% cc). CapEx **$37.5B**. **Commercial bookings +230%** (OpenAI + Anthropic). **RPO $625B, +110%**; **~45% of RPO is OpenAI**, the other 55% (~$350B) grew 28%.
-- $10B GAAP OIE gain from the OpenAI recap (equity-method mark).
-
-**Product KPIs [S1 unless noted]**
-- **M365 Copilot: >20M paid seats**; seat adds +250% Y/Y; customers with >50K seats quadrupled Y/Y; Accenture >740,000 seats (largest); Bayer, J&J, Mercedes, Roche each 90,000+; 625 product updates in a year (+50%). *(Q2: 15M seats, +160% adds, DAU +10x, 35K+-seat customers tripled — Fiserv, ING, NASA, Westpac; Publicis 95,000+.)* [S2]
-- **M365 commercial paid seats +6% Y/Y** to **over 450M** [S2]; growth mainly SMB + frontline. ARPU (revenue per user) led by E5 + Copilot.
-- **M365 Consumer subs ~95M (+7%)** [S1]; consumer cloud +33% (+29% cc).
-- **GitHub Copilot:** nearly 140,000 orgs [S1]; **4.7M paid subs, +75% Y/Y** [S2]; enterprise subs nearly tripled Y/Y; usage-based pricing from June 1 [S1].
-- **LinkedIn:** 1.3B members; revenue +12% (+9% cc); Talent Solutions agentic products **>$450M annualized run-rate** [S1].
-- **Azure Foundry:** >10,000 customers used >1 model [S1]; 1,500+ use both Anthropic and OpenAI [S2]; 300+ customers on track to process >1T tokens this year [S1]. **Fabric run-rate >$2B, +60%, 31,000 customers** [S2].
-- **Dragon Copilot:** 100,000+ providers, 21M patient encounters (+3x) [S2].
-- **Xbox:** gaming revenue −7% (−9% cc); content & services −5% [S1]; new records for monthly active users and streaming hours; Game Pass changes; impairment charges in gaming OpEx.
-
-**Guidance signals [S1]**
-- Q4 FY26: total rev **$86.7–87.8B** (+13–15%); **Azure +39–40% cc**; MS Cloud GM ~64%; CapEx **>$40B** (incl. ~$5B higher component pricing).
-- **CY2026 CapEx ~$190B** (~$25B from higher component pricing). Capacity-constrained *"at least through 2026."* ~$900M one-time voluntary-retirement costs. FY27: *"another year of double-digit revenue and operating income growth."*
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- AI-business unit margins run **above** the cloud-transition era at the same stage [S1]; overall GM is diluted only by the infra build.
-- ~2/3 of CapEx is short-lived (GPU/CPU) and *"correlates with revenue"*; long-dated GPU contracts pre-sold *"for the entirety of their useful life"* [S1][S2].
-- Silicon efficiency: Maia 200 **+30% tokens/dollar**; MAI-Transcribe-1 **+67% GPU efficiency**; 50% inference throughput gain on OpenAI-powered Copilots [S1][S2].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — The installed base is the channel: 450M+ M365 commercial seats [S2] are the entry point for Copilot (the >50K-seat group quadrupled Y/Y [S1]). Deals land both top-down (Accenture 740K, Publicis 95K) and bottom-up (GitHub Copilot 4.7M individual subs, +75% [S2]; Copilot Pro+ individual +77% Q/Q). Azure lands through Foundry model access (widest model choice of any hyperscaler [S2]) and migrations. New commercial seat growth is now mainly SMB + frontline [S1] — the least-penetrated edges of the base.
-- **Engage** — The core loop is the Work IQ flywheel: usage → richer org-context → better Copilot/agent answers → more usage [S1]. The "aha" is the sudden capability jump (Agent Mode in Excel that "didn't work until it started working" [S1]). Agent Mode is now on by default across Word/Excel/PowerPoint; "Cowork" hands off tasks [S1]. Proof of engagement: Copilot weekly use = Outlook's [S1]; agent MAU +6x YTD; queries per user +~20% Q/Q [S1]; conversations per user doubled Y/Y [S2]. Surfaces span M365 apps, GitHub, Teams (as a data source feeding Work IQ), the consumer Copilot app (DAU ~3x Y/Y [S2]), Security Copilot, and Dragon (healthcare).
-- **Retain** — Switching costs come from the M365 data graph (17 exabytes, +35% Y/Y [S1]) plus identity/compliance (Entra, Purview auditing 24B Copilot interactions [S2]). RPO $627B, +99% [S1], ~2.5yr duration, locks in multiyear commitments. E5 and Copilot lift revenue per seat within existing seats [S1]. Agent 365 deepens lock-in by extending governance to third-party agents [S2]. Weak spot: "weaker renewals as customers balance spend between per-seat and seats-plus-consumption" [S1].
-- **Monetize** — Several lines, each with its own unit: (1) M365 per-seat plus E5/Copilot revenue uplift; (2) the new seats-plus-consumption overage (metered, discounted for commitment) [S1]; (3) Azure usage (tokens, compute, storage — "AI workloads are not just AI accelerators" [S2]); (4) LinkedIn (subscriptions plus Marketing/Talent Solutions, agentic Talent at >$450M run-rate [S1]); (5) GitHub (moving to usage-based pricing June 1 [S1]); (6) gaming (Game Pass plus content); (7) Windows OEM. Price fences: seat tiers (E5, E7 "predominantly seat-based with consumption components" [S1]), Copilot add-on, and commitment discounts on usage.
 
 ---
 

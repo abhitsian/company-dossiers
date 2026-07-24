@@ -4,9 +4,49 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > **v1 — earnings-grounded + web research.** *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Every fact is sourced; estimates labeled (est.).*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Near-zero paid customer-acquisition cost; growth is organic + network effects (friend graph, Marketplace listings, invite/tag loops). New-user acquisition is now saturated in the West; growth comes from ARPU + emerging-market reach and from Meta AI pulling users into chat threads inside Facebook (Facebook is the *primary Meta AI driver in the US*) [S1][S2]. Interest-based friend recommendations (shared hobbies, not just mutuals) widen the graph [S5].
+- **Engage** — Two loops run in parallel: (1) the **algorithmic discovery feed** (Reels, recommended content, same-day freshness, AI-translated video) tuned for time-spent, and (2) the **friend/utility graph** (Friends tab, Groups, Marketplace, Local, Events, Dating) tuned for reasons-to-return. The aha varies by segment (see §7). Video is the engagement engine; the redesign re-adds friend/local surfaces to defend daily-return reasons the pure algo feed can't. [S1][S4][S5]
+- **Retain** — Switching cost = the friend graph + photo history + Groups membership + Marketplace reputation, none portable. Boring plumbing that retains: Marketplace listings, local Buy-Nothing / community Groups, Events, and Dating create utility no feed-competitor replicates. Family DAU dipped slightly in Q1'26 only due to Iran outages + Russia WhatsApp block — "would've grown QoQ absent these" [S1].
+- **Monetize** — ~97–98% advertising [S6]. Levers: impressions (ad load, +19% Q1) × price-per-ad (+12%) × conversion (off-site conversion coverage drove +1.6% conversion rates; incremental attribution +24% incremental conversions) [S1][S2]. Newer lines: **creator affiliate / product-tagging** (commission on tagged products, in test) [S1], Marketplace ads, and eventually agent/commerce commissions. Facebook itself carries little subscription revenue (Meta Verified is small vs. WhatsApp paid messaging in "FoA Other").
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers grouped by theme. Estimates labeled.*
+
+**Headline scale**
+- **~2.0B+ DAU on Facebook** (Dec 2025, Meta management) [S2]; ~3.07B MAU / ~2.11B DAU per third-party trackers (late 2025) [S7].
+- Meta Family **daily actives 3.56B** (March 2026) [S1]; **3.5B+** (Dec 2025) [S2].
+- Facebook DAU/MAU engagement ratio ~68.7%, up ~5.5% Y/Y (est., third-party) [S7].
+- Largest audiences: **India ~581.6M**, **US ~253.6M** (est., third-party) [S7].
+
+**Engagement / product arcs**
+- Video time **+8% globally** Q1'26 — largest QoQ gain in 4 years; US/Canada ranking changes drove +9% watch time [S1].
+- Q4'25: **7% lift** in organic feed + video views — largest quarterly revenue impact from Facebook launches in 2 years; **>25% more** same-day Reels surfaced QoQ [S2].
+- Same-day posts **>30%** of recommended Reels, 2× Y/Y [S1].
+- **>0.5B weekly** viewers of AI-translated/dubbed video (FB+IG) [S1].
+- H2'25 ad **redistribution ≈ 4× the revenue impact** of Facebook ad-load increases [S2]; GEM + sequence learning drove **3.5% lift in ad clicks** [S2].
+
+**Marketplace / commerce**
+- **~1.2B monthly Marketplace users** (est.), ~40% of Facebook users; **~51% social-commerce share**; ~54% ad-click→purchase conversion inside Marketplace (est., third-party) [S6].
+
+**Meta ads engine (Family-wide, applies to Facebook)**
+- FoA ad revenue **$55.0B** Q1'26 (+33% Y/Y); impressions +19%, price/ad +12% [S1]. Q4'25 FoA ad rev **$58.1B**; impressions +18%, price/ad +6% [S2].
+- Value-optimization suite ARR **>$20B** (>2× Y/Y); partnership ads run-rate **>$10B** (>2×) [S1]; video-gen ad tools combined run-rate **$10B** in Q4 [S2].
+
+**Audited financials (Meta, FY reference for the ad engine Facebook feeds)**
+- Q1'26: Total rev **$56.3B** (+33%); FoA rev $55.9B; operating income **$22.9B** (41% margin) [S1].
+- Q4'25: Total rev **$59.9B** (+24%); operating income $24.7B (41% margin) [S2].
+- FY'26 CapEx guide **$125–145B** (raised); FY'26 opex **$162–169B** [S1].
+
+**Unit economics** *(cross-ref `/follow-the-dollar`)*
+- Family ARPP is not broken out per-app; Meta FoA global ARPU ~$60/yr (average ad revenue per person per year), US/Canada highest (est., third-party) [S6]. **Constraint:** Facebook is ~97–98% ad-monetized [S6]. Every incremental dollar is an impression × price × conversion function, which is exactly what §1's ranking bets move.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — mechanism, contrarian bets, reframes, "only-they-can-do-this." Ranked.*
 
 **★ Ad-load redistribution beat ad-load increases by ~4×**
@@ -65,7 +105,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Facebook's own framing devices, restated to wield on any prompt.*
 
 - **"Redistribution over load."** Revenue from better *placement* of fixed inventory, not more inventory → use on any "how do you grow revenue without hurting UX" question. [S2]
@@ -75,48 +115,6 @@
 - **"Format evolution: text → photo → video → immersive."** Each format shift is a re-platforming of the same social graph → use on "future of Facebook / feed" prompts. [S2]
 - **"Give it to my mother" quality bar.** Ship when a normal person's parent would use it, not on a launch date → use on quality-vs-speed / launch-readiness prompts. [S1]
 - **"AI amplifies people, it doesn't replace them."** Zuckerberg's contrarian consumer thesis (vs. AI-automates-society) → use on AI-strategy / mission prompts. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers grouped by theme. Estimates labeled.*
-
-**Headline scale**
-- **~2.0B+ DAU on Facebook** (Dec 2025, Meta management) [S2]; ~3.07B MAU / ~2.11B DAU per third-party trackers (late 2025) [S7].
-- Meta Family **daily actives 3.56B** (March 2026) [S1]; **3.5B+** (Dec 2025) [S2].
-- Facebook DAU/MAU engagement ratio ~68.7%, up ~5.5% Y/Y (est., third-party) [S7].
-- Largest audiences: **India ~581.6M**, **US ~253.6M** (est., third-party) [S7].
-
-**Engagement / product arcs**
-- Video time **+8% globally** Q1'26 — largest QoQ gain in 4 years; US/Canada ranking changes drove +9% watch time [S1].
-- Q4'25: **7% lift** in organic feed + video views — largest quarterly revenue impact from Facebook launches in 2 years; **>25% more** same-day Reels surfaced QoQ [S2].
-- Same-day posts **>30%** of recommended Reels, 2× Y/Y [S1].
-- **>0.5B weekly** viewers of AI-translated/dubbed video (FB+IG) [S1].
-- H2'25 ad **redistribution ≈ 4× the revenue impact** of Facebook ad-load increases [S2]; GEM + sequence learning drove **3.5% lift in ad clicks** [S2].
-
-**Marketplace / commerce**
-- **~1.2B monthly Marketplace users** (est.), ~40% of Facebook users; **~51% social-commerce share**; ~54% ad-click→purchase conversion inside Marketplace (est., third-party) [S6].
-
-**Meta ads engine (Family-wide, applies to Facebook)**
-- FoA ad revenue **$55.0B** Q1'26 (+33% Y/Y); impressions +19%, price/ad +12% [S1]. Q4'25 FoA ad rev **$58.1B**; impressions +18%, price/ad +6% [S2].
-- Value-optimization suite ARR **>$20B** (>2× Y/Y); partnership ads run-rate **>$10B** (>2×) [S1]; video-gen ad tools combined run-rate **$10B** in Q4 [S2].
-
-**Audited financials (Meta, FY reference for the ad engine Facebook feeds)**
-- Q1'26: Total rev **$56.3B** (+33%); FoA rev $55.9B; operating income **$22.9B** (41% margin) [S1].
-- Q4'25: Total rev **$59.9B** (+24%); operating income $24.7B (41% margin) [S2].
-- FY'26 CapEx guide **$125–145B** (raised); FY'26 opex **$162–169B** [S1].
-
-**Unit economics** *(cross-ref `/follow-the-dollar`)*
-- Family ARPP is not broken out per-app; Meta FoA global ARPU ~$60/yr (average ad revenue per person per year), US/Canada highest (est., third-party) [S6]. **Constraint:** Facebook is ~97–98% ad-monetized [S6]. Every incremental dollar is an impression × price × conversion function, which is exactly what §1's ranking bets move.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Near-zero paid customer-acquisition cost; growth is organic + network effects (friend graph, Marketplace listings, invite/tag loops). New-user acquisition is now saturated in the West; growth comes from ARPU + emerging-market reach and from Meta AI pulling users into chat threads inside Facebook (Facebook is the *primary Meta AI driver in the US*) [S1][S2]. Interest-based friend recommendations (shared hobbies, not just mutuals) widen the graph [S5].
-- **Engage** — Two loops run in parallel: (1) the **algorithmic discovery feed** (Reels, recommended content, same-day freshness, AI-translated video) tuned for time-spent, and (2) the **friend/utility graph** (Friends tab, Groups, Marketplace, Local, Events, Dating) tuned for reasons-to-return. The aha varies by segment (see §7). Video is the engagement engine; the redesign re-adds friend/local surfaces to defend daily-return reasons the pure algo feed can't. [S1][S4][S5]
-- **Retain** — Switching cost = the friend graph + photo history + Groups membership + Marketplace reputation, none portable. Boring plumbing that retains: Marketplace listings, local Buy-Nothing / community Groups, Events, and Dating create utility no feed-competitor replicates. Family DAU dipped slightly in Q1'26 only due to Iran outages + Russia WhatsApp block — "would've grown QoQ absent these" [S1].
-- **Monetize** — ~97–98% advertising [S6]. Levers: impressions (ad load, +19% Q1) × price-per-ad (+12%) × conversion (off-site conversion coverage drove +1.6% conversion rates; incremental attribution +24% incremental conversions) [S1][S2]. Newer lines: **creator affiliate / product-tagging** (commission on tagged products, in test) [S1], Marketplace ads, and eventually agent/commerce commissions. Facebook itself carries little subscription revenue (Meta Verified is small vs. WhatsApp paid messaging in "FoA Other").
 
 ---
 

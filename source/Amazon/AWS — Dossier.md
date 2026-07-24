@@ -5,9 +5,55 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag), not appended. Estimates are labeled (est.).*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Bottoms-up developer self-serve (free tier, per-second billing, no contract) is the main funnel: ~92% of customers spend <$1K/mo, seeded as startups/individual devs. [S3][S8] On top: enterprise field sales + the Enterprise Discount Program (multi-year committed spend → backlog $364B). [S1] AI is now the top-of-funnel wedge — Bedrock/model access brings in new logos (OpenAI, Anthropic, Perplexity) who then pull core consumption. [S1][S2] Startup dominance is a deliberate CAC play: win them cheap early, ride their growth.
+- **Engage** — The aha is "provision infrastructure in seconds, pay only for what you use." Core loop: build on EC2/S3/Lambda → data piles up in S3 → more services attach to that data → consumption compounds. [S8] AI deepens the loop: inference "lives near the data," so training on AWS pulls storage/DB/networking. [S1] Surfaces: console + CLI + SDKs + Marketplace; Bedrock/SageMaker for the AI layer; Kiro (AI IDE, devs +150% QoQ) as the newest dev on-ramp. [S2]
+- **Retain** — Gross retention is high by design: data gravity (egress fees + petabytes in S3), IAM/security config lock-in, Reserved Instances / Savings Plans (1–3 yr commits for up to ~72% off), and 200+ services wired deep into apps. [S8] Net revenue expansion is the real story — existing customers grow usage as their own businesses and AI workloads scale; backlog +40% Y/Y shows committed forward spend. [S2] The boring plumbing (billing granularity, SLAs, compliance certs, security posture) is one of the four reasons customers cite for choosing AWS. [S1]
+- **Monetize** — Pure consumption/usage-based: compute (per-second EC2, Lambda per-invocation), storage (S3 per-GB-month by class), data transfer (egress), managed databases (RDS/DynamoDB), and the AI stack (Bedrock per-token, SageMaker, Trainium capacity). [S8] Price fences: on-demand (flexible, priciest) → Savings Plans/Reserved (commit for discount) → Spot (up to ~90% off, interruptible). [S8] Expansion levers: new higher-margin services (AI, security, analytics) and owning the chip — Trainium under Bedrock means AWS keeps margin the reseller model can't. [S1][S2]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated, less-quoted. Grouped.*
+
+**Headline scale & product**
+- AWS Q1'26 revenue $37.6B, **+28% Y/Y** (up 480bps), ~$150B annualized run-rate; fastest growth in **15 quarters**. [S1]
+- AWS Q4'25 revenue $35.6B, +24% Y/Y; $142B run-rate; op income $12.5B; **~35% op margin** (35% TTM, +40bps Y/Y). [S2]
+- AWS op income Q1'26 $14.2B. AWS carries the profit: ~19% of Amazon revenue but the majority of consolidated op income (est. — company total op income $23.9B Q1'26). [S1]
+- **200+** on-demand services; **39** launched Regions, 3+ AZs each (~114+ AZs). [S6]
+- ~30% of global cloud infrastructure (Q2'25); Azure ~20%, Google Cloud ~13%; Big Three ~63–68%. [S3]
+
+**Backlog & demand**
+- Backlog **$364B** (Q1'26), excludes a new Anthropic $100B+ deal. Was $244B in Q4'25 (+40% Y/Y, +22% Q/Q). [S1][S2]
+- Bedrock: **125,000+** customers (~80% of Fortune 100); spend **+170% QoQ**; more tokens processed in Q1 than all prior years combined. [S1]
+- AI run-rate **>$15B**; "nearly 260x" AWS's own first-3-years run-rate. [S1]
+
+**Custom silicon (the differentiator block)**
+- Chips run-rate **>$20B** (Trainium + Graviton), ~40% QoQ growth; **"would be $50B standalone… top-3 data center chip business."** [S1]
+- Trainium2: ~30% better price-performance vs comparable GPUs; 1.4M+ chips; "fastest ramping chip launch ever"; 100,000+ companies; largely sold out. [S1][S2]
+- Trainium3 (shipping early 2026): 30–40% more price-performance; Trn3 UltraServers pack up to 144 chips, ~4.4x compute / 4x energy efficiency vs Trainium2. Trainium4 ~18 months out, much pre-reserved. [S1][S4]
+- Trainium revenue commitments **>$225B**; multi-gigawatt commitments from Anthropic + OpenAI. [S1]
+- Graviton (Arm): up to 40% better price-performance vs x86; used by **98% of top-1,000 EC2 customers**; Meta committed "tens of millions of cores." [S1][S2]
+
+**Capacity / physical footprint**
+- Added **>1.2 GW** power in Q4'25; **3.9 GW** over 12 months = "twice what we had in 2022 when we were an $80B run-rate business"; plans to double capacity again by end of '27. [S2]
+- Cash CapEx $43.2B in Q1'26 (mostly AWS + genAI); FY '26 Amazon-wide CapEx ~$200B, "predominantly AWS." [S1][S2]
+
+**Customer base (web)**
+- ~4.19M customers (businesses with a physical address); ~92% spend <$1K/month — a long-tail, self-serve base under a few whale accounts. [S3]
+- Marquee logos: Netflix, LinkedIn (est. ~$13M/mo), Meta/Instagram, Disney, Anthropic, OpenAI, Visa, NBA, BlackRock, Perplexity, Salesforce, Adobe. "More of the top-500 US startups use AWS than the next 2 providers combined." [S2][S6]
+
+**Reliability (web)**
+- Oct 19–20, 2025 us-east-1 outage: ~15 hrs, 17M+ outage reports (Snapchat, Reddit, Venmo, Slack, Atlassian, Roblox); root cause a latent DNS race condition in DynamoDB; est. insured losses up to $581M. [S7]
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- ~35% segment op margin (Q4'25) is the P&L engine of all of Amazon; the AI headwind is depreciation on CapEx, offset by the custom-silicon cost advantage. [S2]
+- CapEx-to-revenue timing: cash out 6–24 months before billing; DC useful life 30+ yrs, servers/chips 5–6 yrs → early-wave FCF compresses by design. [S1]
+
+---
+
+## 3. Wow Vault ★
 *The non-obvious layer. Ranked strongest first.*
 
 **★ AI is a CPU story, not just a GPU story**
@@ -72,7 +118,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *AWS's own framing devices, restated to use on any prompt.*
 
 - **"AI is a GPU story… but agents are a CPU story."** As work shifts from answering to acting, demand pulls onto general-purpose compute. → any "future of infrastructure demand" prompt. [S1]
@@ -83,54 +129,6 @@
 - **"The model is stateless; the moat is the state."** The durable layer is memory/identity/session around the model, not the model. → agent-platform design. [S1]
 - **"Retailers beat horizontal agents on all 4 (selection, price, speed, trust); the infra owner taxes all agents."** → agentic-commerce / platform-power prompts. [S1][S2]
 - **"Teaching a child a foreign language early."** Nova Forge lets enterprises inject their own data at the *pretraining* stage, not just fine-tune at the end. → "how do enterprises get differentiated models?" [S2]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated, less-quoted. Grouped.*
-
-**Headline scale & product**
-- AWS Q1'26 revenue $37.6B, **+28% Y/Y** (up 480bps), ~$150B annualized run-rate; fastest growth in **15 quarters**. [S1]
-- AWS Q4'25 revenue $35.6B, +24% Y/Y; $142B run-rate; op income $12.5B; **~35% op margin** (35% TTM, +40bps Y/Y). [S2]
-- AWS op income Q1'26 $14.2B. AWS carries the profit: ~19% of Amazon revenue but the majority of consolidated op income (est. — company total op income $23.9B Q1'26). [S1]
-- **200+** on-demand services; **39** launched Regions, 3+ AZs each (~114+ AZs). [S6]
-- ~30% of global cloud infrastructure (Q2'25); Azure ~20%, Google Cloud ~13%; Big Three ~63–68%. [S3]
-
-**Backlog & demand**
-- Backlog **$364B** (Q1'26), excludes a new Anthropic $100B+ deal. Was $244B in Q4'25 (+40% Y/Y, +22% Q/Q). [S1][S2]
-- Bedrock: **125,000+** customers (~80% of Fortune 100); spend **+170% QoQ**; more tokens processed in Q1 than all prior years combined. [S1]
-- AI run-rate **>$15B**; "nearly 260x" AWS's own first-3-years run-rate. [S1]
-
-**Custom silicon (the differentiator block)**
-- Chips run-rate **>$20B** (Trainium + Graviton), ~40% QoQ growth; **"would be $50B standalone… top-3 data center chip business."** [S1]
-- Trainium2: ~30% better price-performance vs comparable GPUs; 1.4M+ chips; "fastest ramping chip launch ever"; 100,000+ companies; largely sold out. [S1][S2]
-- Trainium3 (shipping early 2026): 30–40% more price-performance; Trn3 UltraServers pack up to 144 chips, ~4.4x compute / 4x energy efficiency vs Trainium2. Trainium4 ~18 months out, much pre-reserved. [S1][S4]
-- Trainium revenue commitments **>$225B**; multi-gigawatt commitments from Anthropic + OpenAI. [S1]
-- Graviton (Arm): up to 40% better price-performance vs x86; used by **98% of top-1,000 EC2 customers**; Meta committed "tens of millions of cores." [S1][S2]
-
-**Capacity / physical footprint**
-- Added **>1.2 GW** power in Q4'25; **3.9 GW** over 12 months = "twice what we had in 2022 when we were an $80B run-rate business"; plans to double capacity again by end of '27. [S2]
-- Cash CapEx $43.2B in Q1'26 (mostly AWS + genAI); FY '26 Amazon-wide CapEx ~$200B, "predominantly AWS." [S1][S2]
-
-**Customer base (web)**
-- ~4.19M customers (businesses with a physical address); ~92% spend <$1K/month — a long-tail, self-serve base under a few whale accounts. [S3]
-- Marquee logos: Netflix, LinkedIn (est. ~$13M/mo), Meta/Instagram, Disney, Anthropic, OpenAI, Visa, NBA, BlackRock, Perplexity, Salesforce, Adobe. "More of the top-500 US startups use AWS than the next 2 providers combined." [S2][S6]
-
-**Reliability (web)**
-- Oct 19–20, 2025 us-east-1 outage: ~15 hrs, 17M+ outage reports (Snapchat, Reddit, Venmo, Slack, Atlassian, Roblox); root cause a latent DNS race condition in DynamoDB; est. insured losses up to $581M. [S7]
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- ~35% segment op margin (Q4'25) is the P&L engine of all of Amazon; the AI headwind is depreciation on CapEx, offset by the custom-silicon cost advantage. [S2]
-- CapEx-to-revenue timing: cash out 6–24 months before billing; DC useful life 30+ yrs, servers/chips 5–6 yrs → early-wave FCF compresses by design. [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Bottoms-up developer self-serve (free tier, per-second billing, no contract) is the main funnel: ~92% of customers spend <$1K/mo, seeded as startups/individual devs. [S3][S8] On top: enterprise field sales + the Enterprise Discount Program (multi-year committed spend → backlog $364B). [S1] AI is now the top-of-funnel wedge — Bedrock/model access brings in new logos (OpenAI, Anthropic, Perplexity) who then pull core consumption. [S1][S2] Startup dominance is a deliberate CAC play: win them cheap early, ride their growth.
-- **Engage** — The aha is "provision infrastructure in seconds, pay only for what you use." Core loop: build on EC2/S3/Lambda → data piles up in S3 → more services attach to that data → consumption compounds. [S8] AI deepens the loop: inference "lives near the data," so training on AWS pulls storage/DB/networking. [S1] Surfaces: console + CLI + SDKs + Marketplace; Bedrock/SageMaker for the AI layer; Kiro (AI IDE, devs +150% QoQ) as the newest dev on-ramp. [S2]
-- **Retain** — Gross retention is high by design: data gravity (egress fees + petabytes in S3), IAM/security config lock-in, Reserved Instances / Savings Plans (1–3 yr commits for up to ~72% off), and 200+ services wired deep into apps. [S8] Net revenue expansion is the real story — existing customers grow usage as their own businesses and AI workloads scale; backlog +40% Y/Y shows committed forward spend. [S2] The boring plumbing (billing granularity, SLAs, compliance certs, security posture) is one of the four reasons customers cite for choosing AWS. [S1]
-- **Monetize** — Pure consumption/usage-based: compute (per-second EC2, Lambda per-invocation), storage (S3 per-GB-month by class), data transfer (egress), managed databases (RDS/DynamoDB), and the AI stack (Bedrock per-token, SageMaker, Trainium capacity). [S8] Price fences: on-demand (flexible, priciest) → Savings Plans/Reserved (commit for discount) → Spot (up to ~90% off, interruptible). [S8] Expansion levers: new higher-margin services (AI, security, analytics) and owning the chip — Trainium under Bedrock means AWS keeps margin the reseller model can't. [S1][S2]
 
 ---
 

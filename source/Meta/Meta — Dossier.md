@@ -4,9 +4,81 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag), not appended. Every fact grounded in a source; estimates labeled.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Organic/viral: the network *is* the acquisition channel; four 2B-scale apps feed each other (WhatsApp is the primary Meta AI driver in India/Indonesia; Facebook in the U.S. [S2]). New surfaces (Threads, the Meta AI standalone app "consistently near the top of the app stores" [S1]) ride the existing graph. Hardware acquires a *new* user context — glasses as a beachhead for always-on AI [S3].
+
+- **Engage** — Core loop = ranked feed/Reels driven by the recommendation engine; the aha is content that feels made-for-you. Hooks compounding in 2026: AI-translated/dubbed video (>0.5B weekly [S1]) grows the pool of content across languages; same-day posts now >30% of recommended Reels, 2x a year ago [S1] (freshness → return frequency); AI-generated *personalized* content is the next hook [S1]. Meta AI moving from an "invoked tool" to an "always-on service" on glasses [S3].
+
+- **Retain** — Switching costs = the social graph + message history (WhatsApp/Messenger), the boring plumbing that makes leaving expensive. Retention risk is external, not competitive: the QoQ DAU dip was outages + a Russia block [S1], not churn. RL/glasses add a *hardware* lock-in layer (Neural Band, Horizon worlds) on top of the software graph.
+
+- **Monetize** — Ads are ~98% of revenue and "by far the most important driver for the next couple of years" [S2]. Growth levers: impressions +19% and price/ad +12% *at the same time* in Q1'26 [S1] (volume and yield both up); a stack of ad-AI products each at multibillion run-rates (value-optimization >$20B ARR, partnership ads $10B, video-gen tools $10B, incremental attribution multibillion [S1][S2]). Emerging lines: FoA-Other +74% on WhatsApp paid messaging + subscriptions [S1]; business AIs (10M weekly convos, unmonetized, commissions/premium/high-compute tiers planned [S1]); WhatsApp Status ads; hardware unit sales (glasses at $379–$799 [S3]).
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers — grouped by theme.*
+
+**Headline scale (Q1'26, Mar) [S1]**
+- Family daily active users (DAU) **3.56B** (slight dip from Dec quarter-over-quarter — blamed on Iran outages + Russia WhatsApp block; "would've grown QoQ absent these").
+- Prior quarter (Q4'25, Dec): **3.5B+** family DAU; **2B+** each on Facebook and WhatsApp; Instagram "just shy" of 2B [S2].
+- Employees **77,900+**, −1% QoQ, with a **layoff (RIF) planned in May** [S1] (vs. 78,800+, +6% year-over-year a quarter earlier [S2]).
+
+**Audited financials — latest two quarters**
+
+| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
+|---|---|---|
+| Total revenue | **$56.3B** (+33% Y/Y) | $59.9B (+24% Y/Y) |
+| Family of Apps rev | $55.9B | $58.9B |
+| — FoA ad revenue | $55.0B (impressions +19%, price/ad +12%) | $58.1B (impressions +18%, price/ad +6%) |
+| — FoA Other revenue | $885M (+74%) | $801M (+54%) |
+| Reality Labs rev | $402M (−2%) | $955M (−12%) |
+| Total expenses | $33.4B (+35%) | $35.1B (+40%) |
+| Operating income | **$22.9B** (41% margin) | $24.7B (41% margin) |
+| Net income / EPS | $26.8B / $10.44 (ex-tax-benefit $18.7B / **$7.31**) | $22.8B / $8.88 |
+| Tax rate | −23% (one-off $8.03B benefit; ex-benefit 14%) | 10% |
+| CapEx (incl. finance leases) | $19.8B | $22.1B |
+| Free cash flow | $12.4B | $14.1B |
+| Cash & marketable securities | $81.2B (debt $58.7B) | $81.6B (debt $58.7B) |
+| Buybacks | none mentioned | ~$0 (first zero-buyback quarter in ~a year) |
+
+*(CapEx = spending on data centers and equipment; free cash flow = cash left after that spending; EPS = profit per share.)*
+
+**Guidance & commitments**
+- Q2'26 revenue **$58–61B** (~2% currency tailwind) [S1].
+- FY2026 expenses **$162–169B** (unchanged across both calls) [S1][S2].
+- FY2026 CapEx **$125–145B** — *raised* from the $115–135B given a quarter earlier [S2], driven by "higher component costs, particularly memory pricing" [S1].
+- **$107B increase in contractual commitments** in Q1 alone, from cloud + infra deals coming online 2026–2027 [S1].
+- FY26 operating income above 2025 in *absolute dollars* (they clarified: absolute, not growth rate) [S2].
+- RL operating losses "similar to 2025 levels" and "will likely be the peak" [S2].
+
+**Product-engine numbers**
+- Meta AI: "double-digit % increase in sessions per user" after the Muse Spark rollout [S1]; "daily actives generating media tripled Y/Y" in Q4 [S2]; "available in over 200 markets" [S2].
+- Facebook video time **+8% globally** in Q1'26 — "largest QoQ gain in 4 years"; US/Canada ranking changes drove +9% watch time [S1]. Q4'25: a "7% lift in views of organic feed and video posts… largest quarterly revenue impact from Facebook product launches in the past two years" [S2].
+- Instagram Reels **+10% time spent** (Q1'26) [S1]; watch time "+30% Y/Y in the U.S." and original content 75% of recommendations (+10pts) [S2].
+- **>0.5B users/week** watching AI-translated/dubbed videos [S1].
+- Threads: "20% lift in time spent" from Q4 optimizations [S2]; ads expanded to UK/EU/Brazil [S2].
+- AI glasses daily users **tripled Y/Y** [S1]; sales "more than tripled last year" [S2].
+
+**Unit-economics / monetization signals**
+- Value-optimization suite ARR (annual recurring revenue) **>$20B**, >2x Y/Y [S1]; partnerships-ads run-rate >2x to **$10B** [S1].
+- Video-gen ad tools "hit **$10B** combined run rate," QoQ growth "outpacing overall ads by nearly 3x" [S2].
+- Incremental-attribution product: "24% increase in incremental conversions vs. standard attribution… multibillion-dollar run rate 7 months post-launch" [S2].
+- Off-site conversion coverage drove **+1.6% conversion rates**; off-site the driver [S1].
+- WhatsApp paid messaging "crossing a **$2B annual run rate** in Q4" [S2].
+- WhatsApp Status ads: "hundreds of millions viewing them daily" [S1].
+- Internal AI-coding: "30% increase in output per engineer" since start of 2025; power users +80% Y/Y [S2].
+
+**Hardware pricing (Connect 2025) [S3]**
+| Product | Price | Availability |
+|---|---|---|
+| Next-gen Ray-Ban Meta | from **$379** | Now |
+| Oakley Meta Vanguard | **$499** | Ships Oct 21 |
+| Meta Ray-Ban Display + Neural Band | **$799** (set) | In stores Sep 30 |
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer — what makes an interviewer lean in.*
 
 **★ Redistributing ads beat adding ads — by 4x**
@@ -77,7 +149,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can wield them on any prompt.*
 
 - **"Redistribution beats ad load."** Growth from allocating existing supply better, not adding supply → monetization & metrics questions on any marketplace/feed. [S2]
@@ -89,80 +161,6 @@
 - **"Format evolution: text → photo → video → an explosion of new media formats."** Each format shift resets engagement; glasses are "the ultimate incarnation" → platform-timing questions. [S2][S3]
 - **"AI-generated UI on demand."** The endgame isn't apps; it's interfaces rendered into your vision as needed → future-of-computing questions. [S3]
 - **"Presence, lost to phones, regained with glasses."** Frame the product problem as an emotional job (presence), not a spec → product-design / vision questions. [S3]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers — grouped by theme.*
-
-**Headline scale (Q1'26, Mar) [S1]**
-- Family daily active users (DAU) **3.56B** (slight dip from Dec quarter-over-quarter — blamed on Iran outages + Russia WhatsApp block; "would've grown QoQ absent these").
-- Prior quarter (Q4'25, Dec): **3.5B+** family DAU; **2B+** each on Facebook and WhatsApp; Instagram "just shy" of 2B [S2].
-- Employees **77,900+**, −1% QoQ, with a **layoff (RIF) planned in May** [S1] (vs. 78,800+, +6% year-over-year a quarter earlier [S2]).
-
-**Audited financials — latest two quarters**
-
-| Metric | Q1 2026 [S1] | Q4 2025 [S2] |
-|---|---|---|
-| Total revenue | **$56.3B** (+33% Y/Y) | $59.9B (+24% Y/Y) |
-| Family of Apps rev | $55.9B | $58.9B |
-| — FoA ad revenue | $55.0B (impressions +19%, price/ad +12%) | $58.1B (impressions +18%, price/ad +6%) |
-| — FoA Other revenue | $885M (+74%) | $801M (+54%) |
-| Reality Labs rev | $402M (−2%) | $955M (−12%) |
-| Total expenses | $33.4B (+35%) | $35.1B (+40%) |
-| Operating income | **$22.9B** (41% margin) | $24.7B (41% margin) |
-| Net income / EPS | $26.8B / $10.44 (ex-tax-benefit $18.7B / **$7.31**) | $22.8B / $8.88 |
-| Tax rate | −23% (one-off $8.03B benefit; ex-benefit 14%) | 10% |
-| CapEx (incl. finance leases) | $19.8B | $22.1B |
-| Free cash flow | $12.4B | $14.1B |
-| Cash & marketable securities | $81.2B (debt $58.7B) | $81.6B (debt $58.7B) |
-| Buybacks | none mentioned | ~$0 (first zero-buyback quarter in ~a year) |
-
-*(CapEx = spending on data centers and equipment; free cash flow = cash left after that spending; EPS = profit per share.)*
-
-**Guidance & commitments**
-- Q2'26 revenue **$58–61B** (~2% currency tailwind) [S1].
-- FY2026 expenses **$162–169B** (unchanged across both calls) [S1][S2].
-- FY2026 CapEx **$125–145B** — *raised* from the $115–135B given a quarter earlier [S2], driven by "higher component costs, particularly memory pricing" [S1].
-- **$107B increase in contractual commitments** in Q1 alone, from cloud + infra deals coming online 2026–2027 [S1].
-- FY26 operating income above 2025 in *absolute dollars* (they clarified: absolute, not growth rate) [S2].
-- RL operating losses "similar to 2025 levels" and "will likely be the peak" [S2].
-
-**Product-engine numbers**
-- Meta AI: "double-digit % increase in sessions per user" after the Muse Spark rollout [S1]; "daily actives generating media tripled Y/Y" in Q4 [S2]; "available in over 200 markets" [S2].
-- Facebook video time **+8% globally** in Q1'26 — "largest QoQ gain in 4 years"; US/Canada ranking changes drove +9% watch time [S1]. Q4'25: a "7% lift in views of organic feed and video posts… largest quarterly revenue impact from Facebook product launches in the past two years" [S2].
-- Instagram Reels **+10% time spent** (Q1'26) [S1]; watch time "+30% Y/Y in the U.S." and original content 75% of recommendations (+10pts) [S2].
-- **>0.5B users/week** watching AI-translated/dubbed videos [S1].
-- Threads: "20% lift in time spent" from Q4 optimizations [S2]; ads expanded to UK/EU/Brazil [S2].
-- AI glasses daily users **tripled Y/Y** [S1]; sales "more than tripled last year" [S2].
-
-**Unit-economics / monetization signals**
-- Value-optimization suite ARR (annual recurring revenue) **>$20B**, >2x Y/Y [S1]; partnerships-ads run-rate >2x to **$10B** [S1].
-- Video-gen ad tools "hit **$10B** combined run rate," QoQ growth "outpacing overall ads by nearly 3x" [S2].
-- Incremental-attribution product: "24% increase in incremental conversions vs. standard attribution… multibillion-dollar run rate 7 months post-launch" [S2].
-- Off-site conversion coverage drove **+1.6% conversion rates**; off-site the driver [S1].
-- WhatsApp paid messaging "crossing a **$2B annual run rate** in Q4" [S2].
-- WhatsApp Status ads: "hundreds of millions viewing them daily" [S1].
-- Internal AI-coding: "30% increase in output per engineer" since start of 2025; power users +80% Y/Y [S2].
-
-**Hardware pricing (Connect 2025) [S3]**
-| Product | Price | Availability |
-|---|---|---|
-| Next-gen Ray-Ban Meta | from **$379** | Now |
-| Oakley Meta Vanguard | **$499** | Ships Oct 21 |
-| Meta Ray-Ban Display + Neural Band | **$799** (set) | In stores Sep 30 |
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Organic/viral: the network *is* the acquisition channel; four 2B-scale apps feed each other (WhatsApp is the primary Meta AI driver in India/Indonesia; Facebook in the U.S. [S2]). New surfaces (Threads, the Meta AI standalone app "consistently near the top of the app stores" [S1]) ride the existing graph. Hardware acquires a *new* user context — glasses as a beachhead for always-on AI [S3].
-
-- **Engage** — Core loop = ranked feed/Reels driven by the recommendation engine; the aha is content that feels made-for-you. Hooks compounding in 2026: AI-translated/dubbed video (>0.5B weekly [S1]) grows the pool of content across languages; same-day posts now >30% of recommended Reels, 2x a year ago [S1] (freshness → return frequency); AI-generated *personalized* content is the next hook [S1]. Meta AI moving from an "invoked tool" to an "always-on service" on glasses [S3].
-
-- **Retain** — Switching costs = the social graph + message history (WhatsApp/Messenger), the boring plumbing that makes leaving expensive. Retention risk is external, not competitive: the QoQ DAU dip was outages + a Russia block [S1], not churn. RL/glasses add a *hardware* lock-in layer (Neural Band, Horizon worlds) on top of the software graph.
-
-- **Monetize** — Ads are ~98% of revenue and "by far the most important driver for the next couple of years" [S2]. Growth levers: impressions +19% and price/ad +12% *at the same time* in Q1'26 [S1] (volume and yield both up); a stack of ad-AI products each at multibillion run-rates (value-optimization >$20B ARR, partnership ads $10B, video-gen tools $10B, incremental attribution multibillion [S1][S2]). Emerging lines: FoA-Other +74% on WhatsApp paid messaging + subscriptions [S1]; business AIs (10M weekly convos, unmonetized, commissions/premium/high-compute tiers planned [S1]); WhatsApp Status ads; hardware unit sales (glasses at $379–$799 [S3]).
 
 ---
 

@@ -4,9 +4,55 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Scope note: Threads has no standalone P&L. Company financials [S1][S2] are Meta-wide; Threads-specific numbers come from web research and are labeled est. where an analyst projected them.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Main channel: one-tap Instagram sign-up (inherited graph and identity), so CAC ≈ $0 for the seed base [S6]. Secondary: X-user displacement as X sheds ~12% of DAU/yr [S7]; cross-posting and embeds; Meta cross-app promotion (IG, FB surfaces). No paid user acquisition needed — the small tactic that compounds is defaulting the IG username and avatar so the profile is pre-filled.
+- **Engage** — Core loop: react to the moment → post/reply → get replies → return. Ranking rewards **replies and back-and-forth depth** (median engagement ~3.8–4.5%, above older text networks) [S4]. Hooks that deepen the loop: native DMs (Jul 2025, group chats ≤50) [S5][S6], Communities (200+ topics, custom emojis, champion badges) [S5][S6], Live Chats during events (Apr 2026) [S5][S6], Ghost posts (24h auto-delete) [S6], custom feeds from profile tags, "Dear Algo" feed steering [S5]. The aha: a stranger replies to your text take — the low-effort conversation Instagram's visual feed doesn't offer.
+- **Retain** — No public gross/net retention. The historical churn driver was novelty fading (−80% DAU post-launch) [S6]; the fix has been steady ranking work (+20% time-spent, Q4 2025) [S2] plus adding reasons to return (DMs, Communities). Switching cost is weak (text is portable; ActivityPub/fediverse export has existed since 2024 [S6]) — retention rests on graph lock-in via Instagram, not on data lock-in.
+- **Monetize** — One line today: **ads**, served through Meta's existing Ads Manager and 1T-parameter recommender [S8][S1]. Price fences: CPM under IG during the land-grab (est.) [S8]. Expansion path: creator revenue pool to fund supply [S8]; future paid features and a Meta Verified halo. Take-rate and ARPU are held down near-term ("low" delivery) to protect the still-recovering engagement loop [S8].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Metric | Value | Date | Source |
+|---|---|---|---|
+| MAU | ~500M (est.) | Q2 2026 | [S4] |
+| MAU | 400M | Aug 2025 → Jan 2026 ad base | [S6][S8] |
+| MAU | 450M+ | Apr 2026 | [S8] |
+| DAU | 150M | 2026 | [S4] |
+| Mobile DAU | 141.5M (vs X 125M) | Jan 2026 | [S4][S7] |
+| MAU (prior year) | 350M | Q2 2025 | [S4] |
+| Time-spent lift from ranking | +20% | Q4 2025 | [S2] |
+| YoY DAU growth | +37.8% | Jan 2026 | [S7] |
+| Median engagement rate (est.) | ~3.8–4.5% | 2026 | [S4] |
+| Launch speed | 100M users in 5 days | Jul 2023 | [S6] |
+| Post limits | 500 chars / 5-min video | — | [S6] |
+
+**Market arcs**
+- X DAU −11.9% YoY; Bluesky DAU −44.4% YoY (Jan 2026) — Threads is the only one of the three growing [S7].
+- Bluesky ~41.4M total users (Dec 2025) — about a tenth the size of Threads [S7].
+- Threads is forecast to pass X on US monthly users by 2027 [S7].
+
+**Monetization (all early-stage estimates)**
+- Analyst-projected Threads revenue ~$11.3B for 2026 (est., single analyst) [S4][S8].
+- Global ads rollout announced Jan 21, 2026; delivery week of Jan 27; multi-month ramp, delivery kept "low" [S8].
+- Early CPM ~$3–8; CPC ~$0.30–1.50; CPMs 30–40% below Instagram (est.) [S8]. (CPC = cost per click.)
+- Creator revenue pool ~$100–200M globally for verified accounts with >5,000 followers (est.) [S8].
+
+**Meta-wide context Threads inherits (audited, Q1 2026)** [S1]
+- Meta revenue $56.3B (+33% YoY); FoA ad revenue $55.0B; impressions +19%, price per ad +12%; operating margin 41%.
+- Family DAU 3.56B (Mar 2026) [S1]; 3.5B+ (Dec 2025) [S2].
+- 1T-parameter ad recommender at inference; +1.6% conversion from off-site coverage [S1].
+- FY2026 CapEx guide $125–145B [S1].
+
+**Unit economics (Threads-specific, cross-ref /follow-the-dollar)**
+- No standalone ARPU (average revenue per user) disclosed. Rough frame: ~500M MAU × Meta FoA-style monetization, but Threads ARPU is a fraction of IG's given the deliberately low ad load and below-IG CPMs [S8]. Cost to serve one more user ≈ near-zero (shares Meta infra and ad stack); the binding constraint is *inventory quality and engagement per session*, not delivery cost.
+
+---
+
+## 3. Wow Vault ★
 
 **★ Threads is the only X-challenger that got to borrow a billion-user network on day one — distribution, not product, is the moat.**
 - **Mechanism:** Instagram's identity graph (username, followers, profile) seeded Threads at once → 100M users in 5 days, "fastest-growing consumer software application in history" [S6]. Bluesky and Mastodon had to build a graph from zero; Threads inherited one.
@@ -64,7 +110,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Build to hundreds of millions, then monetize."** Zuckerberg's stated Threads order — reach a large engaged base before turning on ads, because early monetization strains a fragile retention loop [S6][S1]. Use on: any 0→1 consumer monetization-timing question.
 - **"Borrow the graph."** The category-defining move: don't build a social graph from scratch, inherit one from a sister product [S6]. Use on: cold-start / network-effects / new-app-distribution questions.
@@ -72,54 +118,6 @@
 - **"Redistribution beats load."** Meta-wide finding: changing *when and to whom* content and ads show delivered ~4x the revenue impact of raising ad load [S2]. Use on: monetization-without-hurting-experience questions.
 - **"Big models teach, small models serve."** Meta trains giant models (GEM, the 1T-parameter recommender) then distills what they know into lightweight run-time models [S2][S1]. Use on: AI-cost / how-to-ship-LLM-quality-at-scale questions.
 - **"A feed instruction is a post."** "Dear Algo" turns ranking control into a user-written command that expires [S5]. Use on: algorithmic-transparency / user-control design questions.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Metric | Value | Date | Source |
-|---|---|---|---|
-| MAU | ~500M (est.) | Q2 2026 | [S4] |
-| MAU | 400M | Aug 2025 → Jan 2026 ad base | [S6][S8] |
-| MAU | 450M+ | Apr 2026 | [S8] |
-| DAU | 150M | 2026 | [S4] |
-| Mobile DAU | 141.5M (vs X 125M) | Jan 2026 | [S4][S7] |
-| MAU (prior year) | 350M | Q2 2025 | [S4] |
-| Time-spent lift from ranking | +20% | Q4 2025 | [S2] |
-| YoY DAU growth | +37.8% | Jan 2026 | [S7] |
-| Median engagement rate (est.) | ~3.8–4.5% | 2026 | [S4] |
-| Launch speed | 100M users in 5 days | Jul 2023 | [S6] |
-| Post limits | 500 chars / 5-min video | — | [S6] |
-
-**Market arcs**
-- X DAU −11.9% YoY; Bluesky DAU −44.4% YoY (Jan 2026) — Threads is the only one of the three growing [S7].
-- Bluesky ~41.4M total users (Dec 2025) — about a tenth the size of Threads [S7].
-- Threads is forecast to pass X on US monthly users by 2027 [S7].
-
-**Monetization (all early-stage estimates)**
-- Analyst-projected Threads revenue ~$11.3B for 2026 (est., single analyst) [S4][S8].
-- Global ads rollout announced Jan 21, 2026; delivery week of Jan 27; multi-month ramp, delivery kept "low" [S8].
-- Early CPM ~$3–8; CPC ~$0.30–1.50; CPMs 30–40% below Instagram (est.) [S8]. (CPC = cost per click.)
-- Creator revenue pool ~$100–200M globally for verified accounts with >5,000 followers (est.) [S8].
-
-**Meta-wide context Threads inherits (audited, Q1 2026)** [S1]
-- Meta revenue $56.3B (+33% YoY); FoA ad revenue $55.0B; impressions +19%, price per ad +12%; operating margin 41%.
-- Family DAU 3.56B (Mar 2026) [S1]; 3.5B+ (Dec 2025) [S2].
-- 1T-parameter ad recommender at inference; +1.6% conversion from off-site coverage [S1].
-- FY2026 CapEx guide $125–145B [S1].
-
-**Unit economics (Threads-specific, cross-ref /follow-the-dollar)**
-- No standalone ARPU (average revenue per user) disclosed. Rough frame: ~500M MAU × Meta FoA-style monetization, but Threads ARPU is a fraction of IG's given the deliberately low ad load and below-IG CPMs [S8]. Cost to serve one more user ≈ near-zero (shares Meta infra and ad stack); the binding constraint is *inventory quality and engagement per session*, not delivery cost.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Main channel: one-tap Instagram sign-up (inherited graph and identity), so CAC ≈ $0 for the seed base [S6]. Secondary: X-user displacement as X sheds ~12% of DAU/yr [S7]; cross-posting and embeds; Meta cross-app promotion (IG, FB surfaces). No paid user acquisition needed — the small tactic that compounds is defaulting the IG username and avatar so the profile is pre-filled.
-- **Engage** — Core loop: react to the moment → post/reply → get replies → return. Ranking rewards **replies and back-and-forth depth** (median engagement ~3.8–4.5%, above older text networks) [S4]. Hooks that deepen the loop: native DMs (Jul 2025, group chats ≤50) [S5][S6], Communities (200+ topics, custom emojis, champion badges) [S5][S6], Live Chats during events (Apr 2026) [S5][S6], Ghost posts (24h auto-delete) [S6], custom feeds from profile tags, "Dear Algo" feed steering [S5]. The aha: a stranger replies to your text take — the low-effort conversation Instagram's visual feed doesn't offer.
-- **Retain** — No public gross/net retention. The historical churn driver was novelty fading (−80% DAU post-launch) [S6]; the fix has been steady ranking work (+20% time-spent, Q4 2025) [S2] plus adding reasons to return (DMs, Communities). Switching cost is weak (text is portable; ActivityPub/fediverse export has existed since 2024 [S6]) — retention rests on graph lock-in via Instagram, not on data lock-in.
-- **Monetize** — One line today: **ads**, served through Meta's existing Ads Manager and 1T-parameter recommender [S8][S1]. Price fences: CPM under IG during the land-grab (est.) [S8]. Expansion path: creator revenue pool to fund supply [S8]; future paid features and a Meta Verified halo. Take-rate and ARPU are held down near-term ("low" delivery) to protect the still-recovering engagement loop [S8].
 
 ---
 

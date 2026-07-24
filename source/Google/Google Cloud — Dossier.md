@@ -4,9 +4,73 @@
 > **v1 — earnings-grounded + web research.** Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, `[S#]`-tag), not appended. Every fact grounded; estimates labeled (est.).*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- **Enterprise direct sales + $1B+ strategic deals** — new-customer acquisition doubled Y/Y; deal count in the $100M–$1B band doubled [Q1-26].
+- **Partner/ISV channel** — partner ecosystem seats grew **9x Y/Y** [Q1-26]; partner AI solutions **+~300% Y/Y**, top-15 software-partner commitments **+16x Y/Y** [Q4-25].
+- **Marquee reference wins** — Apple named Google "preferred cloud provider" + next-gen Apple Foundation Models "based on Gemini technology" [Q4-25]; Anthropic/OpenAI as TPU compute customers [S8][S9].
+- **Free tier + Model Garden breadth** — 200+ foundation models including Anthropic Claude, self-serve on-ramp [S6].
+
+**Engage** (the core loop)
+- **Consumption loop:** land a workload → tokens/queries flow → Gemini spreads into BigQuery/Workspace → usage compounds. Token volume is the engagement telemetry [AI-remarks].
+- **The aha:** an enterprise runs an agent on its own data via Gemini Enterprise / BigQuery and gets a working result — 75% of Cloud customers reach AI products [AI-remarks].
+- **Surfaces:** GCP infra (Compute Engine, Cloud Run, GKE), BigQuery (data), Gemini Enterprise Agent Platform (formerly Vertex AI — build/scale/govern/optimize agents) [S1][S6], Workspace (Gmail/Docs/Sheets + no-code Workspace Studio agent builder) [S6], Security (Wiz + Mandiant) [Q1-26].
+- **Agent interoperability:** Agent2Agent (A2A) v1.0 protocol, in production at 150 orgs, governed by the Linux Foundation [S6].
+
+**Retain**
+- **Net expansion:** existing customers exceed initial commitments by **45%** [Q1-26] → NRR well above 100% (est. 130%+).
+- **Switching costs:** $462B backlog with >50% locked beyond 24 months [Q1-26]; data gravity in BigQuery; committed-use discounts (1yr/3yr) trade flexibility for lower rates and create lock-in [S7].
+- **The plumbing that compounds:** consumption-based billing, region-specific CUDs, secure-by-default (blocks 10M spam emails/min) [AI-remarks], IAM/VPC as the substrate everything else sits on [S1].
+
+**Monetize**
+- **Consumption (GCP core):** Compute/storage/network/BigQuery billed pay-as-you-go; **committed-use discounts** (spend-based, 10% for 1yr / 20% for 3yr) + **sustained-use discounts** on uncommitted usage [S7]. BigQuery = on-demand (per-TB scanned) or capacity/CUD.
+- **AI/model consumption:** per-token pricing across Gemini tiers; GenAI-built revenue +800% Y/Y [Q1-26].
+- **Per-seat SaaS:** Gemini Enterprise seats (>8M paid, 2,800+ companies) [Q4-25]; Workspace subscriptions.
+- **Hardware sales (new):** TPUs sold into customer data centers — small % of revenue late 2026, "vast majority realized in 2027," lumpy quarter-to-quarter [Q1-26].
+- **Security:** Wiz + Mandiant + Google Threat Intelligence as a paid multi-cloud layer [Q1-26].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- Q1-26 Cloud revenue **$20.0B, +63% Y/Y**; op income **$6.6–7B, tripled Y/Y**; margin **32.9%** (from 17.8%) [Q1-26][AI-remarks].
+- Annual run-rate **>$70B** (as of Q4-25) [Q4-25]; **14 product lines each >$1B/yr** [Q4-25].
+- **75%** of Cloud customers use AI products [AI-remarks]; AI customers use **1.8x** as many products [Q4-25].
+
+**Margin arc (the story in one column)**
+| Period | Revenue | Op margin | Note | Source |
+|---|---|---|---|---|
+| FY2023 | $33B | 5.2% | first full-year profit | [S10] |
+| FY2024 | ~$42B | ~11% (est.) | double-digit reached | [S10] |
+| Q4-24 | — | 17.5% | | [Q4-25] |
+| Q4-25 | $17.7B | 30.1% (+48% rev) | op income >2x | [Q4-25] |
+| Q1-26 | $20.0B | 32.9% (+63% rev) | op income tripled | [Q1-26] |
+
+**Demand / backlog**
+- Backlog **$462B** Q1-26 (from $240B Q4-25) [Q1-26][Q4-25]; >50% recognized within 24 mo → **~$230B contracted by mid-2028** [S10].
+- New-customer acquisition **doubled Y/Y**; number of $100M–$1B deals **doubled**; "multiple $1B-plus deals" [Q1-26]. 2025 $1B+ deals passed the prior 3 years combined [Q4-25].
+- Existing-customer expansion: **+45%** over initial commitments (Q1-26) vs +30% (Q4-25) [Q1-26][Q4-25].
+
+**AI usage telemetry**
+- **>16B tokens/min** first-party direct API (Q1-26) [Q1-26]; **300x** monthly token growth in 2 years [AI-remarks].
+- **330 customers >1T tokens** / 35 >10T tokens (12-mo) [Q1-26]; Gemini-powered BigQuery workflows **+30x Y/Y** [Q1-26].
+- GenAI-built product revenue **+~800% Y/Y** (Q1-26) [Q1-26]; **+~400% Y/Y** (Q4-25) [Q4-25].
+- Gemini Enterprise paid MAUs **+40% QoQ** [Q1-26]; **>8M paid seats across 2,800+ companies** (Q4-25) [Q4-25]; >120,000 enterprises use Gemini [Q4-25].
+
+**Market position (external, 2025)**
+- Cloud infra share ~**13–14%** (#3), behind AWS ~28–29% and Azure ~20–21% [S5]. Worldwide cloud infra ~$419B in 2025; Big Three ~63% [S5].
+- Growth-rate ranking flips the share ranking: Google **+63%** > Azure **+40%** > AWS **+19%** [S5][Q1-26].
+
+**Unit economics (cross-ref /follow-the-dollar)**
+- Serving-cost deflation: Gemini serving unit cost **−78% over 2025** [Q4-25]; core AI response cost **−30% since Gemini 3** [Q1-26].
+- TPU total cost of ownership ~**44% below** a GB200 server config; outside customers see **~30%** lower cost than Nvidia (est., analyst) [S8].
+- Gemini 3.1 Pro ~**$1.74/M tokens** vs Claude Opus 4.7 ~$4.10, GPT-5.5 ~$4.35 — ~58–60% cheaper, TPU-driven [S8].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ Google Cloud margin nearly DOUBLED in one year while its AI revenue grew ~800% — which kills the "AI is lower-margin" thesis.**
@@ -59,7 +123,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"The binding constraint is supply, not demand."** When a business can't fill demand, the whole capital question flips from "will they find customers?" to "can they build fast enough?" — use on any infra/marketplace prompt where growth looks capped. [Q1-26]
 - **"Serving-cost deflation is the margin engine."** Margin can grow while price falls, as long as unit cost falls faster. Applies to any AI-feature economics question. [Q4-25]
@@ -68,72 +132,6 @@
 - **"Tokens are the telemetry."** Usage volume is the leading indicator before revenue. Use for AI-platform north-star questions. [AI-remarks]
 - **"Return-gated allocation."** Every compute dollar is rationed through a return framework, with frontier training first. Use for prioritization prompts. [Q1-26]
 - **"AI is the wedge, the data warehouse is the expansion."** New tech lands, existing product lines grow usage. Use for land-and-expand strategy. [Q1-26]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- Q1-26 Cloud revenue **$20.0B, +63% Y/Y**; op income **$6.6–7B, tripled Y/Y**; margin **32.9%** (from 17.8%) [Q1-26][AI-remarks].
-- Annual run-rate **>$70B** (as of Q4-25) [Q4-25]; **14 product lines each >$1B/yr** [Q4-25].
-- **75%** of Cloud customers use AI products [AI-remarks]; AI customers use **1.8x** as many products [Q4-25].
-
-**Margin arc (the story in one column)**
-| Period | Revenue | Op margin | Note | Source |
-|---|---|---|---|---|
-| FY2023 | $33B | 5.2% | first full-year profit | [S10] |
-| FY2024 | ~$42B | ~11% (est.) | double-digit reached | [S10] |
-| Q4-24 | — | 17.5% | | [Q4-25] |
-| Q4-25 | $17.7B | 30.1% (+48% rev) | op income >2x | [Q4-25] |
-| Q1-26 | $20.0B | 32.9% (+63% rev) | op income tripled | [Q1-26] |
-
-**Demand / backlog**
-- Backlog **$462B** Q1-26 (from $240B Q4-25) [Q1-26][Q4-25]; >50% recognized within 24 mo → **~$230B contracted by mid-2028** [S10].
-- New-customer acquisition **doubled Y/Y**; number of $100M–$1B deals **doubled**; "multiple $1B-plus deals" [Q1-26]. 2025 $1B+ deals passed the prior 3 years combined [Q4-25].
-- Existing-customer expansion: **+45%** over initial commitments (Q1-26) vs +30% (Q4-25) [Q1-26][Q4-25].
-
-**AI usage telemetry**
-- **>16B tokens/min** first-party direct API (Q1-26) [Q1-26]; **300x** monthly token growth in 2 years [AI-remarks].
-- **330 customers >1T tokens** / 35 >10T tokens (12-mo) [Q1-26]; Gemini-powered BigQuery workflows **+30x Y/Y** [Q1-26].
-- GenAI-built product revenue **+~800% Y/Y** (Q1-26) [Q1-26]; **+~400% Y/Y** (Q4-25) [Q4-25].
-- Gemini Enterprise paid MAUs **+40% QoQ** [Q1-26]; **>8M paid seats across 2,800+ companies** (Q4-25) [Q4-25]; >120,000 enterprises use Gemini [Q4-25].
-
-**Market position (external, 2025)**
-- Cloud infra share ~**13–14%** (#3), behind AWS ~28–29% and Azure ~20–21% [S5]. Worldwide cloud infra ~$419B in 2025; Big Three ~63% [S5].
-- Growth-rate ranking flips the share ranking: Google **+63%** > Azure **+40%** > AWS **+19%** [S5][Q1-26].
-
-**Unit economics (cross-ref /follow-the-dollar)**
-- Serving-cost deflation: Gemini serving unit cost **−78% over 2025** [Q4-25]; core AI response cost **−30% since Gemini 3** [Q1-26].
-- TPU total cost of ownership ~**44% below** a GB200 server config; outside customers see **~30%** lower cost than Nvidia (est., analyst) [S8].
-- Gemini 3.1 Pro ~**$1.74/M tokens** vs Claude Opus 4.7 ~$4.10, GPT-5.5 ~$4.35 — ~58–60% cheaper, TPU-driven [S8].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- **Enterprise direct sales + $1B+ strategic deals** — new-customer acquisition doubled Y/Y; deal count in the $100M–$1B band doubled [Q1-26].
-- **Partner/ISV channel** — partner ecosystem seats grew **9x Y/Y** [Q1-26]; partner AI solutions **+~300% Y/Y**, top-15 software-partner commitments **+16x Y/Y** [Q4-25].
-- **Marquee reference wins** — Apple named Google "preferred cloud provider" + next-gen Apple Foundation Models "based on Gemini technology" [Q4-25]; Anthropic/OpenAI as TPU compute customers [S8][S9].
-- **Free tier + Model Garden breadth** — 200+ foundation models including Anthropic Claude, self-serve on-ramp [S6].
-
-**Engage** (the core loop)
-- **Consumption loop:** land a workload → tokens/queries flow → Gemini spreads into BigQuery/Workspace → usage compounds. Token volume is the engagement telemetry [AI-remarks].
-- **The aha:** an enterprise runs an agent on its own data via Gemini Enterprise / BigQuery and gets a working result — 75% of Cloud customers reach AI products [AI-remarks].
-- **Surfaces:** GCP infra (Compute Engine, Cloud Run, GKE), BigQuery (data), Gemini Enterprise Agent Platform (formerly Vertex AI — build/scale/govern/optimize agents) [S1][S6], Workspace (Gmail/Docs/Sheets + no-code Workspace Studio agent builder) [S6], Security (Wiz + Mandiant) [Q1-26].
-- **Agent interoperability:** Agent2Agent (A2A) v1.0 protocol, in production at 150 orgs, governed by the Linux Foundation [S6].
-
-**Retain**
-- **Net expansion:** existing customers exceed initial commitments by **45%** [Q1-26] → NRR well above 100% (est. 130%+).
-- **Switching costs:** $462B backlog with >50% locked beyond 24 months [Q1-26]; data gravity in BigQuery; committed-use discounts (1yr/3yr) trade flexibility for lower rates and create lock-in [S7].
-- **The plumbing that compounds:** consumption-based billing, region-specific CUDs, secure-by-default (blocks 10M spam emails/min) [AI-remarks], IAM/VPC as the substrate everything else sits on [S1].
-
-**Monetize**
-- **Consumption (GCP core):** Compute/storage/network/BigQuery billed pay-as-you-go; **committed-use discounts** (spend-based, 10% for 1yr / 20% for 3yr) + **sustained-use discounts** on uncommitted usage [S7]. BigQuery = on-demand (per-TB scanned) or capacity/CUD.
-- **AI/model consumption:** per-token pricing across Gemini tiers; GenAI-built revenue +800% Y/Y [Q1-26].
-- **Per-seat SaaS:** Gemini Enterprise seats (>8M paid, 2,800+ companies) [Q4-25]; Workspace subscriptions.
-- **Hardware sales (new):** TPUs sold into customer data centers — small % of revenue late 2026, "vast majority realized in 2027," lumpy quarter-to-quarter [Q1-26].
-- **Security:** Wiz + Mandiant + Google Threat Intelligence as a paid multi-cloud layer [Q1-26].
 
 ---
 

@@ -4,9 +4,48 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time. Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact in a source; label estimates.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Barbell entry products pull in new segments: Moto/Wait & Save (cheap, +75% frequency, later upgrade to UberX), plus Women Preferred, Teens, and a simple older-demographic product [S1][S2]; each new product or use-case adds a +25% first-time-acquisition lift [S1]. Cross-app is the cheapest channel — 30% of eligible Mobility users haven't tried Eats, and ~$15B a year already flows app-to-app [S1]. In AV cities, novelty and lower price pull first-time riders faster than the rest of the country [S2]. New countries add fresh audience (7 new Delivery markets; Finland hit #1 on the App Store at launch) [S1]. An "AI-enabled" sales force speeds up merchant sign-ups [S2].
+- **Engage** — The core loop is liquidity: more riders → shorter ETAs and lower prices → more drivers. Frequency comes from the low-end products (+75% frequency) and destination prediction (AI pre-predicts 3/4 of rides) [S1]. The aha moment differs by mode — a reliable 3-minute ETA on Mobility; grocery/retail selection on Delivery. Multi-product deepens the relationship: 40% use more than one product, and each added product raises retention [S2].
+- **Retain** — Uber One is the retention spine: >50M members, >50% of bookings, "very, very sticky" across food, grocery and AV [S1][S2]. Switching costs come from accumulated perks (no delivery fees, no fees above a $60 grocery basket, 10% hotel credits that pay for the membership) [S1]. Steady prices (enabled by the insurance flip) protect long-run demand and cut churn from price shocks [S2]. Management names "strong" retention as a Delivery growth driver [S1].
+- **Monetize** — Four lines: Mobility (take-rate on rides, +20% GB, record margins) [S1]; Delivery (take-rate plus grocery/retail, +23% GB) [S1]; Freight (logistics, low margin, back to growth) [S1]; Advertising (>2% of delivery GBs, room to grow from enterprise plus early grocery/retail/mobility ad products) [S2]. Uber One membership fees are a fifth line and the anchor for the other four. Price fences: barbell tiers (Wait & Save vs Reserve/premium), member-only fee waivers, and Reserve's higher margin [S1][S2].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated numbers grouped by theme. Growth rates only where sources gave no absolute $.*
+
+**Headline scale & product**
+- Trips run-rate: **15B annualized**, "accelerated again" (Q4'25) [S2]. Monthly active platform consumers (MAPCs): **>202M**, growth 14%→18% over 2025 [S2]. Annual active base: **>450M** [S2]. Drivers/couriers: **>10M** globally [S1].
+- Uber One: **>50M** members, +50% Y/Y, **>50% of bookings** (Q1'26) [S1]; was 46M at Q4'25 [S2]; 30M at end-2024 [S1]. Multi-product: **40%** of Q4 consumers used >1 Uber product [S2].
+
+**Market arcs (growth rates, sources gave no absolute segment $)**
+- Gross bookings: **+22% Y/Y** (Q4'25) — 5th straight year of >20% annual GB [S2]; **+21%** (Q1'26) [S1]. Audience **+17% Y/Y** [S1].
+- Mobility GBs **+20%** with "record margins" (Q1'26) [S1]. Delivery GBs **+23%**, led by grocery/retail [S1]. Freight "returned to growth for the first time in nearly 2 years" [S1].
+- AV Mobility trips grew **>10× Y/Y** (Q1'26) [S1]; on track for up to **15 AV cities** by year-end, **>30** autonomous partners [S1].
+
+**Geo & segment splits**
+- **30%** of bookings from major cities; **70%** of the US is outside top markets and **~75% of US profits** come from there [S2]. **60%** of Mobility GBs are international [S2]. Sparse markets grow **1.5–2×** faster and are only ~20% of global Mobility trips today [S2]. Airports ≈ **15%** of Mobility GBs [S1].
+- Cross-sell: **~$15B run-rate** Delivery GBs start in the Mobility app [S1]; **30%** of eligible Mobility consumers have never used Uber Eats [S1].
+- Barbell: low-cost products **+75% frequency**; premium **3.5× profit growth**; both **+25%** first-time acquisition [S1]. Low-end and high-end each grew **40%** last year [S2].
+
+**Audited financials (FY + latest Q)**
+| Metric | Q1'26 [S1] | Q4/FY'25 [S2] |
+|---|---|---|
+| Revenue | $13.20B, +14.48% Y/Y (missed ~$60M) | $14.37B, +20.13% Y/Y (beat $43M) |
+| EPS (non-GAAP) | $0.72, beat $0.03, +44% Y/Y | $0.71, missed $0.08 |
+| Adj. EBITDA | — | **$8.7B FY25, +35%** |
+| Free cash flow | — | **$9.8B FY25, +42%** (~$10B, growing ~40%) |
+| Buybacks | **record $3B** returned this quarter | ~50% FCF-to-shareholders; steady buyback cadence; investment-grade |
+- EPS growing "more than twice as fast as bookings" (+44% vs +21% GB) [S1]. *No consolidated operating income, CapEx, or absolute GMV disclosed in either source.*
+
+**Unit economics** *(cross-ref /follow-the-dollar; sources give directional levers, not a full per-trip waterfall)*
+- Insurance savings of "hundreds of millions" recycled into lower prices, where demand responds strongly [S1][S2]. AV utilization edge: **+30% trips/vehicle/day** vs 1P [S2]. Advertising: delivery ad penetration now **>2%** (the prior target ceiling), which management sees as far too low; enterprise ad growth is outpacing SMB [S2].
+
+---
+
+## 3. Wow Vault ★
 *The selective, non-obvious layer. Ranked strongest first.*
 
 **★ Uber added 50× the trips the entire AV industry added — the "AV disruption" is a rounding error against Uber's base**
@@ -77,7 +116,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated to use on any prompt.*
 
 - **"Winner-take-most in 3P."** Uber grants that AV hardware and software will have many players (Waymo, Pony, WeRide, Baidu, Waabi, Wayve, Nuro, Avride, NVIDIA-standardized) [S2]; it claims to win most of the third-party demand layer they all route through. → competitive-moat, platform-strategy questions.
@@ -88,47 +127,6 @@
 - **"Marriott doesn't own its hotels."** AV fleets get financed by PE firms and banks (like data centers), so Uber scales AV supply without owning it [S2]. → capital-allocation / balance-sheet.
 - **"Democratize AV data."** Uber and NVIDIA pool 3M+ hours of real-world pickup/drop-off data and give it to the whole ecosystem, erasing the small AV player's biggest disadvantage [S2] and stopping any single AV maker from winning. → platform / coopetition strategy.
 - **"On-demand → planned."** Reserve proved users will pre-book, opening airports and hotels as new planned-demand surfaces [S1]. → new-market entry / adjacency.
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated numbers grouped by theme. Growth rates only where sources gave no absolute $.*
-
-**Headline scale & product**
-- Trips run-rate: **15B annualized**, "accelerated again" (Q4'25) [S2]. Monthly active platform consumers (MAPCs): **>202M**, growth 14%→18% over 2025 [S2]. Annual active base: **>450M** [S2]. Drivers/couriers: **>10M** globally [S1].
-- Uber One: **>50M** members, +50% Y/Y, **>50% of bookings** (Q1'26) [S1]; was 46M at Q4'25 [S2]; 30M at end-2024 [S1]. Multi-product: **40%** of Q4 consumers used >1 Uber product [S2].
-
-**Market arcs (growth rates, sources gave no absolute segment $)**
-- Gross bookings: **+22% Y/Y** (Q4'25) — 5th straight year of >20% annual GB [S2]; **+21%** (Q1'26) [S1]. Audience **+17% Y/Y** [S1].
-- Mobility GBs **+20%** with "record margins" (Q1'26) [S1]. Delivery GBs **+23%**, led by grocery/retail [S1]. Freight "returned to growth for the first time in nearly 2 years" [S1].
-- AV Mobility trips grew **>10× Y/Y** (Q1'26) [S1]; on track for up to **15 AV cities** by year-end, **>30** autonomous partners [S1].
-
-**Geo & segment splits**
-- **30%** of bookings from major cities; **70%** of the US is outside top markets and **~75% of US profits** come from there [S2]. **60%** of Mobility GBs are international [S2]. Sparse markets grow **1.5–2×** faster and are only ~20% of global Mobility trips today [S2]. Airports ≈ **15%** of Mobility GBs [S1].
-- Cross-sell: **~$15B run-rate** Delivery GBs start in the Mobility app [S1]; **30%** of eligible Mobility consumers have never used Uber Eats [S1].
-- Barbell: low-cost products **+75% frequency**; premium **3.5× profit growth**; both **+25%** first-time acquisition [S1]. Low-end and high-end each grew **40%** last year [S2].
-
-**Audited financials (FY + latest Q)**
-| Metric | Q1'26 [S1] | Q4/FY'25 [S2] |
-|---|---|---|
-| Revenue | $13.20B, +14.48% Y/Y (missed ~$60M) | $14.37B, +20.13% Y/Y (beat $43M) |
-| EPS (non-GAAP) | $0.72, beat $0.03, +44% Y/Y | $0.71, missed $0.08 |
-| Adj. EBITDA | — | **$8.7B FY25, +35%** |
-| Free cash flow | — | **$9.8B FY25, +42%** (~$10B, growing ~40%) |
-| Buybacks | **record $3B** returned this quarter | ~50% FCF-to-shareholders; steady buyback cadence; investment-grade |
-- EPS growing "more than twice as fast as bookings" (+44% vs +21% GB) [S1]. *No consolidated operating income, CapEx, or absolute GMV disclosed in either source.*
-
-**Unit economics** *(cross-ref /follow-the-dollar; sources give directional levers, not a full per-trip waterfall)*
-- Insurance savings of "hundreds of millions" recycled into lower prices, where demand responds strongly [S1][S2]. AV utilization edge: **+30% trips/vehicle/day** vs 1P [S2]. Advertising: delivery ad penetration now **>2%** (the prior target ceiling), which management sees as far too low; enterprise ad growth is outpacing SMB [S2].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Barbell entry products pull in new segments: Moto/Wait & Save (cheap, +75% frequency, later upgrade to UberX), plus Women Preferred, Teens, and a simple older-demographic product [S1][S2]; each new product or use-case adds a +25% first-time-acquisition lift [S1]. Cross-app is the cheapest channel — 30% of eligible Mobility users haven't tried Eats, and ~$15B a year already flows app-to-app [S1]. In AV cities, novelty and lower price pull first-time riders faster than the rest of the country [S2]. New countries add fresh audience (7 new Delivery markets; Finland hit #1 on the App Store at launch) [S1]. An "AI-enabled" sales force speeds up merchant sign-ups [S2].
-- **Engage** — The core loop is liquidity: more riders → shorter ETAs and lower prices → more drivers. Frequency comes from the low-end products (+75% frequency) and destination prediction (AI pre-predicts 3/4 of rides) [S1]. The aha moment differs by mode — a reliable 3-minute ETA on Mobility; grocery/retail selection on Delivery. Multi-product deepens the relationship: 40% use more than one product, and each added product raises retention [S2].
-- **Retain** — Uber One is the retention spine: >50M members, >50% of bookings, "very, very sticky" across food, grocery and AV [S1][S2]. Switching costs come from accumulated perks (no delivery fees, no fees above a $60 grocery basket, 10% hotel credits that pay for the membership) [S1]. Steady prices (enabled by the insurance flip) protect long-run demand and cut churn from price shocks [S2]. Management names "strong" retention as a Delivery growth driver [S1].
-- **Monetize** — Four lines: Mobility (take-rate on rides, +20% GB, record margins) [S1]; Delivery (take-rate plus grocery/retail, +23% GB) [S1]; Freight (logistics, low margin, back to growth) [S1]; Advertising (>2% of delivery GBs, room to grow from enterprise plus early grocery/retail/mobility ad products) [S2]. Uber One membership fees are a fifth line and the anchor for the other four. Price fences: barbell tiers (Wait & Save vs Reserve/premium), member-only fee waivers, and Reserve's higher margin [S1][S2].
 
 ---
 

@@ -4,9 +4,55 @@
 > **v1 — earnings-grounded + web research.** One living file. Order: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Estimates labeled [est]. Earnings cited [S1]/[S2]; web facts cite the source in the §15 log.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+*(Two customers: **advertisers** buy the product; **consumers** supply the buying intent that ads run against. Serve both or the loop breaks.)*
+
+- **Acquire (advertisers)** — Self-serve onboarding for SMB restaurants (Sponsored Listings in the Merchant portal); managed/enterprise sales for chains, CPG, and retailers; the Premier merchant plan auto-runs ads at no extra cost [S5]. Symbiosys pulls in brands already buying Google/Meta by extending their existing stack without a rebuild [S4]. CPG came in through a dedicated product suite (targeting, measurement) once "the code was cracked" [S1].
+- **Engage** — Core loop: consumer searches or browses → the ad enters a relevance-weighted auction → a sponsored result shows (Sponsored Listing, Sponsored Product, Sponsored Brand, or Spotlight homepage unit) → the order completes → closed-loop attribution goes back to the advertiser. The advertiser's aha is the first ROAS dashboard showing a completed, attributed, mostly-new-customer order. Surfaces: homepage (Spotlight), Global Search results, category browse, and off-app (Google/Meta/display via Symbiosys) [S3][S6].
+- **Retain (advertisers)** — Measurable ROAS + Sales Lift studies + category-share dashboards give a clear reason to keep spend on-platform; Smart Campaigns / auto-bidding remove the work of staying (the agent keeps the campaign ROI-positive) [S2][S3]. Ad load stays low so consumer conversion — the thing advertisers pay for — doesn't decay [S1]. Switching cost = DoorDash's own purchase data as the measurement source of truth.
+- **Monetize** — On-app auction, **pay-per-order** (Sponsored Listings) or CPC/CPM-style for CPG Sponsored Products; premium homepage placement (Spotlight); off-app media arbitrage via Symbiosys (buy open-web media, mark it up, attribute it to DoorDash sales); measurement/clean-room partnerships (LiveRamp) as a retention/upsell layer. Ad dollars are spent back into the marketplace rather than kept as margin [S1].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Fact | Value | Source |
+|---|---|---|
+| Ad run-rate (DoorDash + Wolt) | >$1B annualized, crossed 2024 | [S8] |
+| Advertisers (DoorDash + Wolt + Deliveroo) | 400,000 (Jun 2026) | [S3] |
+| Advertisers (prior data point) | ~150,000 (mid-2025) | [S4] |
+| Countries operated | 30+ | [S4][S8] |
+| Symbiosys acquisition | $175M, announced Jun 11 2025 | [S4] |
+| Ads as % of parent gross profit / EBITDA | ~15% / ~36% [est, 2024] | [S7] |
+
+**Product performance metrics**
+| Metric | Value | Source |
+|---|---|---|
+| Sponsored Listings avg ROAS | ~$6 per $1, over one month | [S5] |
+| Ad-driven orders from new customers | 45%+ | [S5] |
+| CPG average sales lift (Sponsored Products) | 30%+ | [S6] |
+| Spotlight (homepage) CTR vs. banner | 2× (early test) | [S3] |
+| Auto-bidding campaigns beating input ROAS | 95%+ (Feb 2026 test) | [S3] |
+| Consumers new to advertiser (LiveRamp) | 80%+ | [S3] |
+| First-time-customer share of sales | 20%+ restaurants / 36%+ CPG | [S3] |
+| Symbiosys post-acquisition | advertisers 2×, spend 3× [S2]; media $ ~2× [S3] | [S2][S3] |
+
+**Earnings-volunteered (no absolutes given)**
+- Q1 2026: ads "at a record high... never gone better," growth from SMBs + larger restaurant/retail advertisers + notably CPG [S1].
+- Q4 2025: ads a "big part" of record FY25, framed as "a derivative or an output of the growth from our marketplace" [S2].
+- Grocery/retail ads "earlier to that maturation... a lot more opportunity and runway" — focus so far mostly restaurant-side [S2].
+
+**Competitive benchmarks (2024–25)**
+| Player | Ad revenue / run-rate | Note | Source |
+|---|---|---|---|
+| Instacart | $958M (2024), ~30% of revenue; ~$1.45B forecast 2025 | Carrot Ads white-label to 220+ retailer sites; baskets >$100 | [S7][S9] |
+| Uber Advertising | $1.5B+ run-rate (1Q25), >60% YoY; ">$2B annualized" cited 2025–26 | "Journey ads" across mobility + delivery | [S7][S9] |
+| DoorDash + Wolt Ads | >$1B run-rate (2024) | ~66% US restaurant delivery share as demand base | [S7][S8] |
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on a DoorDash Ads prompt.*
 
 **★ "Best-of-breed discovery is worthless without fulfillment" — why DoorDash Ads holds up against an ad network that only owns the top of the funnel.**
@@ -65,61 +111,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"Retail media, not advertising."** DoorDash Ads is lower-funnel, ROAS-measured performance media aimed at in-market shoppers. Judge it like Amazon/Instacart ads, not like Meta brand reach. → product-sense, competitive.
 - **"The ad dollar is a unit-econ dollar."** Ad profit is spent back to grow the marketplace, not kept as margin [S1]. → metrics / strategy ("why doesn't ad margin show in guidance").
 - **"Lower ad load is the product."** Scarce inventory protects conversion and retention; growth comes from better matching + off-app, not more ads [S1]. → product-design ("grow revenue without hurting UX").
 - **"Best end-to-end beats best discovery."** Owning the impression is worthless without owning delivery [S2]. → moat / agentic-AI defense.
 - **"Agents are channel partners, not disintermediators."** AI shoppers and off-app channels are new tops-of-funnel that DoorDash *chooses* to feed, because retention lives after checkout [S1][S2]. → strategy under AI disruption.
 - **"Cracking the code on a segment."** Each advertiser type (SMB restaurant → enterprise chain → CPG → retailer) needs a different product; you don't sell one ad product to all [S1]. → segmentation (§7).
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Fact | Value | Source |
-|---|---|---|
-| Ad run-rate (DoorDash + Wolt) | >$1B annualized, crossed 2024 | [S8] |
-| Advertisers (DoorDash + Wolt + Deliveroo) | 400,000 (Jun 2026) | [S3] |
-| Advertisers (prior data point) | ~150,000 (mid-2025) | [S4] |
-| Countries operated | 30+ | [S4][S8] |
-| Symbiosys acquisition | $175M, announced Jun 11 2025 | [S4] |
-| Ads as % of parent gross profit / EBITDA | ~15% / ~36% [est, 2024] | [S7] |
-
-**Product performance metrics**
-| Metric | Value | Source |
-|---|---|---|
-| Sponsored Listings avg ROAS | ~$6 per $1, over one month | [S5] |
-| Ad-driven orders from new customers | 45%+ | [S5] |
-| CPG average sales lift (Sponsored Products) | 30%+ | [S6] |
-| Spotlight (homepage) CTR vs. banner | 2× (early test) | [S3] |
-| Auto-bidding campaigns beating input ROAS | 95%+ (Feb 2026 test) | [S3] |
-| Consumers new to advertiser (LiveRamp) | 80%+ | [S3] |
-| First-time-customer share of sales | 20%+ restaurants / 36%+ CPG | [S3] |
-| Symbiosys post-acquisition | advertisers 2×, spend 3× [S2]; media $ ~2× [S3] | [S2][S3] |
-
-**Earnings-volunteered (no absolutes given)**
-- Q1 2026: ads "at a record high... never gone better," growth from SMBs + larger restaurant/retail advertisers + notably CPG [S1].
-- Q4 2025: ads a "big part" of record FY25, framed as "a derivative or an output of the growth from our marketplace" [S2].
-- Grocery/retail ads "earlier to that maturation... a lot more opportunity and runway" — focus so far mostly restaurant-side [S2].
-
-**Competitive benchmarks (2024–25)**
-| Player | Ad revenue / run-rate | Note | Source |
-|---|---|---|---|
-| Instacart | $958M (2024), ~30% of revenue; ~$1.45B forecast 2025 | Carrot Ads white-label to 220+ retailer sites; baskets >$100 | [S7][S9] |
-| Uber Advertising | $1.5B+ run-rate (1Q25), >60% YoY; ">$2B annualized" cited 2025–26 | "Journey ads" across mobility + delivery | [S7][S9] |
-| DoorDash + Wolt Ads | >$1B run-rate (2024) | ~66% US restaurant delivery share as demand base | [S7][S8] |
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-*(Two customers: **advertisers** buy the product; **consumers** supply the buying intent that ads run against. Serve both or the loop breaks.)*
-
-- **Acquire (advertisers)** — Self-serve onboarding for SMB restaurants (Sponsored Listings in the Merchant portal); managed/enterprise sales for chains, CPG, and retailers; the Premier merchant plan auto-runs ads at no extra cost [S5]. Symbiosys pulls in brands already buying Google/Meta by extending their existing stack without a rebuild [S4]. CPG came in through a dedicated product suite (targeting, measurement) once "the code was cracked" [S1].
-- **Engage** — Core loop: consumer searches or browses → the ad enters a relevance-weighted auction → a sponsored result shows (Sponsored Listing, Sponsored Product, Sponsored Brand, or Spotlight homepage unit) → the order completes → closed-loop attribution goes back to the advertiser. The advertiser's aha is the first ROAS dashboard showing a completed, attributed, mostly-new-customer order. Surfaces: homepage (Spotlight), Global Search results, category browse, and off-app (Google/Meta/display via Symbiosys) [S3][S6].
-- **Retain (advertisers)** — Measurable ROAS + Sales Lift studies + category-share dashboards give a clear reason to keep spend on-platform; Smart Campaigns / auto-bidding remove the work of staying (the agent keeps the campaign ROI-positive) [S2][S3]. Ad load stays low so consumer conversion — the thing advertisers pay for — doesn't decay [S1]. Switching cost = DoorDash's own purchase data as the measurement source of truth.
-- **Monetize** — On-app auction, **pay-per-order** (Sponsored Listings) or CPC/CPM-style for CPG Sponsored Products; premium homepage placement (Spotlight); off-app media arbitrage via Symbiosys (buy open-web media, mark it up, attribute it to DoorDash sales); measurement/clean-room partnerships (LiveRamp) as a retention/upsell layer. Ad dollars are spent back into the marketplace rather than kept as margin [S1].
 
 ---
 

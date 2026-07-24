@@ -4,9 +4,48 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Scope note: "Apple Services" is the reporting segment, not one product. It's a portfolio with very different economics — App Store (almost pure profit) and Apple TV (loses money) sit on the same line.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Services costs **almost nothing to acquire a customer**; the ~2.5B installed base is the funnel, paid for by hardware sales. Channels: device setup (default Safari→Google, iCloud storage prompt, Apple Pay wallet), free-tier→paid (5GB iCloud is deliberately too small → paid upsell), App Store as billing rails for third parties (billing 1B+ subs, many not Apple's own). Small tactic: pre-loaded, logged-in, card-on-file removes every signup step.
+- **Engage** — Core loop: using the device creates a Services touchpoint (open App Store, tap to pay, ask Siri, stream). Frequency ranges from daily (Pay, Music, Search) to background (iCloud backup). The aha moment differs per sub-line: App Store = "the app I want is one tap + Face ID"; iCloud = "my photos survived a lost phone"; Pay = "checkout with no card." **>850M weekly App Store users** is the engagement anchor. [S2]
+- **Retain** — Switching costs are the whole game: purchased apps, iCloud photo library, iMessage, subscriptions, Wallet, Apple One bundling. **Apple One** raises switching cost on purpose by locking Music+TV+iCloud+Arcade into one cancel decision. TV runs at a loss precisely to lower overall churn. Paid subs growing double digits; transacting and paid accounts at all-time highs. [S1][S8]
+- **Monetize** — Several units under one line: (1) App Store commission (per-transaction, 15–30% on digital goods); (2) Advertising (pay-per-click/per-impression, App Store + Maps + News); (3) Subscription revenue per user (iCloud, Music, TV, Arcade, Fitness+, News+, AppleCare); (4) the Google rent; (5) Apple Pay/payment fees. Price fences: iCloud tiers (50GB/200GB/2TB), Apple One tiers, commission tiers by business size. Growth = raise revenue per active device as the base grows. [S1][S10]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated, less-quoted figures.*
+
+**Headline scale**
+- Services revenue: **$31.0B in Q2 FY26 (+16% YoY)**, all-time record; **$30.0B in Q1 FY26 (+14%)**; **~$109.3B FY2025** (from ~$96.2B FY24). [S1][S2][S3]
+- Services gross margin: **76.7%** (Q2 FY26), **76.5%** (Q1 FY26) — vs Products ~38.7–40.7%. [S1][S2]
+- Installed base **>2.5B active devices**; **>1B paid subscriptions**; App Store **>850M weekly active users**; developers earned **>$550B since 2008**. [S1][S2][S4]
+
+**App Store economics**
+- App Store handled **$1.4T** in billings/sales in 2025; **>90% commission-free**; digital goods (commissioned) ≈ **$149B**; in-app ad billings ≈ **$151B**. Commission tiers 15–30%. [S10]
+- US alone: $406B handled in 2024. [S10]
+
+**Advertising**
+- Projected **>$10B ad revenue in 2026** (~$8.5B US), up from ~$4.7B in 2022; on track to ~$13.7B by 2027 (est.). [S7]
+- 2026 expansion: more App Store *search-results* ads; **Apple Maps ads** launching US/Canada summer 2026. [S1]
+
+**Apple TV**
+- ~**45M subscribers**; **>$1B/yr operating loss**; ~$4.5B annual content spend (down from ~$5B). [S8]
+- F1: The Movie ≈ **$600M** worldwide (Apple's biggest film). Apple TV: 800+ wins / 3,400+ nominations in 6 yrs; Dec viewership +36% YoY. [S1][S2][S8]
+
+**Bundle / pricing (est. anchors, US)**
+- Apple One: Individual **$19.95/mo**, Family **$25.95**, Premier **$37.95**. Rebranded **Apple TV+ → "Apple TV"** (Nov 2025) with new Apple One logo. [S9]
+
+**The Google check**
+- Est. **~$20B/yr** from Google for the Safari default (paid to route traffic); worst-case removal ≈ **$12.5B/yr** hit (~15% of EPS, J.P. Morgan). Survived the Sept-2025 remedy (non-exclusive allowed). [S6]
+
+**Other**
+- Apple Pay stopped **>$1B in fraud** for partners in a year; Tap to Pay in **50+ markets**; Wallet Digital ID (from US Passport) launched. [S1][S2]
+- Contested signal: third-party data put App Store growth at ~7% vs the reported Services +14% — Apple declined to break out the category. [S2]
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in. Ranked strongest first.*
 
 **★ The most profitable "product" in the portfolio is one word in a court order, not something Apple builds**
@@ -59,7 +98,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Apple's own framing devices, restated to use on any prompt.*
 
 - **"The installed base is the foundation for new growth."** Every product sale is a Services *sign-up* with no extra acquisition cost — so the growth question is "how do we raise revenue per active device?" not "how do we acquire?" → growth/strategy prompts. [S2]
@@ -68,47 +107,6 @@
 - **"Respecting people's fundamental right to privacy" *while* expanding ads.** Privacy as a wall around Apple's *own* first-party data, not an anti-ad stance → competitive-strategy prompts. [S1]
 - **Razor-and-blades, inverted.** Hardware is the high-margin razor; some Services (TV) are loss-leader *blades* that exist to sell more razors. Don't assume every line has to profit → portfolio/loss-leader prompts. [S8]
 - **"Transacting accounts" and "paid accounts" as the real health metric.** Not revenue — accounts that pay at all, and accounts that pay for subscriptions, both at all-time highs → engagement metrics prompts. [S1]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated, less-quoted figures.*
-
-**Headline scale**
-- Services revenue: **$31.0B in Q2 FY26 (+16% YoY)**, all-time record; **$30.0B in Q1 FY26 (+14%)**; **~$109.3B FY2025** (from ~$96.2B FY24). [S1][S2][S3]
-- Services gross margin: **76.7%** (Q2 FY26), **76.5%** (Q1 FY26) — vs Products ~38.7–40.7%. [S1][S2]
-- Installed base **>2.5B active devices**; **>1B paid subscriptions**; App Store **>850M weekly active users**; developers earned **>$550B since 2008**. [S1][S2][S4]
-
-**App Store economics**
-- App Store handled **$1.4T** in billings/sales in 2025; **>90% commission-free**; digital goods (commissioned) ≈ **$149B**; in-app ad billings ≈ **$151B**. Commission tiers 15–30%. [S10]
-- US alone: $406B handled in 2024. [S10]
-
-**Advertising**
-- Projected **>$10B ad revenue in 2026** (~$8.5B US), up from ~$4.7B in 2022; on track to ~$13.7B by 2027 (est.). [S7]
-- 2026 expansion: more App Store *search-results* ads; **Apple Maps ads** launching US/Canada summer 2026. [S1]
-
-**Apple TV**
-- ~**45M subscribers**; **>$1B/yr operating loss**; ~$4.5B annual content spend (down from ~$5B). [S8]
-- F1: The Movie ≈ **$600M** worldwide (Apple's biggest film). Apple TV: 800+ wins / 3,400+ nominations in 6 yrs; Dec viewership +36% YoY. [S1][S2][S8]
-
-**Bundle / pricing (est. anchors, US)**
-- Apple One: Individual **$19.95/mo**, Family **$25.95**, Premier **$37.95**. Rebranded **Apple TV+ → "Apple TV"** (Nov 2025) with new Apple One logo. [S9]
-
-**The Google check**
-- Est. **~$20B/yr** from Google for the Safari default (paid to route traffic); worst-case removal ≈ **$12.5B/yr** hit (~15% of EPS, J.P. Morgan). Survived the Sept-2025 remedy (non-exclusive allowed). [S6]
-
-**Other**
-- Apple Pay stopped **>$1B in fraud** for partners in a year; Tap to Pay in **50+ markets**; Wallet Digital ID (from US Passport) launched. [S1][S2]
-- Contested signal: third-party data put App Store growth at ~7% vs the reported Services +14% — Apple declined to break out the category. [S2]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Services costs **almost nothing to acquire a customer**; the ~2.5B installed base is the funnel, paid for by hardware sales. Channels: device setup (default Safari→Google, iCloud storage prompt, Apple Pay wallet), free-tier→paid (5GB iCloud is deliberately too small → paid upsell), App Store as billing rails for third parties (billing 1B+ subs, many not Apple's own). Small tactic: pre-loaded, logged-in, card-on-file removes every signup step.
-- **Engage** — Core loop: using the device creates a Services touchpoint (open App Store, tap to pay, ask Siri, stream). Frequency ranges from daily (Pay, Music, Search) to background (iCloud backup). The aha moment differs per sub-line: App Store = "the app I want is one tap + Face ID"; iCloud = "my photos survived a lost phone"; Pay = "checkout with no card." **>850M weekly App Store users** is the engagement anchor. [S2]
-- **Retain** — Switching costs are the whole game: purchased apps, iCloud photo library, iMessage, subscriptions, Wallet, Apple One bundling. **Apple One** raises switching cost on purpose by locking Music+TV+iCloud+Arcade into one cancel decision. TV runs at a loss precisely to lower overall churn. Paid subs growing double digits; transacting and paid accounts at all-time highs. [S1][S8]
-- **Monetize** — Several units under one line: (1) App Store commission (per-transaction, 15–30% on digital goods); (2) Advertising (pay-per-click/per-impression, App Store + Maps + News); (3) Subscription revenue per user (iCloud, Music, TV, Arcade, Fitness+, News+, AppleCare); (4) the Google rent; (5) Apple Pay/payment fees. Price fences: iCloud tiers (50GB/200GB/2TB), Apple One tiers, commission tiers by business size. Growth = raise revenue per active device as the base grows. [S1][S10]
 
 ---
 

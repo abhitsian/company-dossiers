@@ -4,9 +4,94 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *How to use: feed sources over time (earnings, transcripts, decks, articles). Each new source is MERGED (dedupe, sharpen, `[S#]`-tag, correct), not appended. Ground every fact; label estimates. All financials below come from three 2026 sources — the Q1'26 call, a June'26 AI/capital-raise investor presentation, and the Q4'25 call.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+**Acquire**
+- **Search/consumer:** default distribution (Chrome, Android, browser deals), zero-marginal-cost virality; AI Overviews/AI Mode are now the top-of-funnel re-acquire mechanism (2.5B+ / 1B+ users) [S2]. S&M +23% YoY on Gemini-app + Search marketing — a rare deliberate paid push [S1].
+- **Cloud:** enterprise sales motion; new-customer acquisition doubled YoY; partner ecosystem seats +9x YoY [S1]. Wiz (closed March'26) adds a security-led land motion [S1].
+- **Gemini app:** consumer land via free tier; >900M MAU, "one of our fastest-growing products" [S2]. Open models (Gemma, 500M+ downloads) bring in developers at the top of the funnel [S1].
+
+**Engage**
+- **Core loop:** query → AI answer/action → more queries (the expansionary flywheel). AI Mode queries 3x longer, 1-in-6 non-text — deeper sessions [S3]. Personal Intelligence + Gemini Spark (24/7 background agent) push from *answers* to *actions* [S2].
+- **YouTube:** led U.S. streaming watch time 3 years running; >200M living-room hours/day; Shorts >200B daily views, >10M channels publishing Shorts daily [S1][S2][S3]. "Ask YouTube" conversational search (Gemini) deepens engagement [S2].
+- **Aha:** the moment an AI answer finishes a task that used to take five links (agentic restaurant booking, Search Live, Direct Offers checkout) [S1].
+
+**Retain**
+- **Switching costs:** for enterprise, the $462B backlog *is* the retention story — multi-year roadmap commitments, >50% beyond 24 months [S1][S2]. Existing customers spend +45% over their initial commitment [S1].
+- **Consumer:** 350M paid subs (YouTube Premium + Google One AI plans); largest quarterly non-trial YT Music+Premium net-adds since the 2018 launch; subs growing faster than ads [S1]. Ecosystem lock-in via 13 products with >1B users.
+- **Plumbing:** secure-by-default (blocks 10M spam emails/min); Google AI Threat Defense (Gemini+Wiz+CodeMender+Mandiant) raises the enterprise switching cost on the security axis [S2].
+
+**Monetize**
+- **Search ads (the profit engine):** ~$60B/qtr, +19%. Ad coverage has historically been ~20%; management sees **upside** as Gemini's grasp of intent lets it sell ads on long/complex queries it couldn't monetize before. >30% of customer search spend now runs on AI-enabled campaigns (AI Max / Performance Max) [S1].
+- **YouTube:** ads (DR-led) + subscriptions; 2025 total >$60B; in some markets (incl. U.S.) Shorts earns *more* revenue per watch-hour than in-stream [S2][S3].
+- **Cloud:** consumption-priced compute + Gemini Enterprise seats + TPU hardware (new line, mostly 2027 revenue) [S1].
+- **Subscriptions:** 350M subs; tiered Gemini/Google One plans charge the power user more as usage climbs [S1].
+- **Network ads:** the declining line (−4% / −2%), monetizing third-party inventory — structurally weak, noted without a fix [S1][S3].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+- 13 products with **>1B users** (5 with **>3B**); Gemini now powers all 13 [S2].
+- Gemini app **>900M MAU**, more than doubled in a year (was 750M+ / 350M earlier in the arc) [S2][S3][S1].
+- AI Overviews **>2.5B users/mo**; AI Mode **>1B monthly users** (~1 yr after launch) [S2].
+- Total paid subscriptions **350M** (YouTube + Google One) [S1][S2]; 325M+ a quarter earlier [S3].
+- FY2025 revenue **>$400B** — more than double 2020; +$63B added in a trailing year [S2].
+- Over the last 5 years, **operating income tripled**; op margin **33% TTM** [S2].
+
+**AI / infra telemetry**
+- First-party direct-API throughput **>16B tokens/min** (7B → 10B → 16B across three quarters) [S1][S3].
+- Total token throughput **300x in 2 years** (9.7T/mo → 3.2 quadrillion/mo); internal dev tooling **>3T tokens/day** [S2].
+- Gemini serving unit cost **−78% in 2025**; core AI-response cost **−30% since Gemini 3**; Search latency **−35% / 5 yrs** [S3][S1][S2].
+- Gemma 4 **>50M downloads in weeks**; open models **>500M total downloads** [S1].
+- Antigravity **>1.5M WAU**; **~50% of Google's code written by agents** (engineer-reviewed) [S3].
+- 8th-gen TPU: **8i = +80% perf/dollar** vs prior gen; **8t = 3x Ironwood processing, 2x perf** [S1].
+
+**Audited financials — Q1 FY2026 [S1]**
+
+| Metric | Q1'26 | Y/Y |
+|---|---|---|
+| Consolidated revenue | $109.9B | +22% (+19% cc) |
+| Operating income | $39.7B | +30% |
+| Operating margin | 36.1% | — |
+| Net income | $62.6B | +81% |
+| EPS | $5.11 | +82% |
+| Operating cash flow | $45.8B (Q1) / $174.4B TTM | — |
+| Free cash flow | $10.1B (Q1) / $64.4B TTM | — |
+| CapEx | $35.7B | ~60% servers / 40% DC & networking |
+| Cash & mkt. securities | $126.8B | — |
+| Long-term debt | $77.5B → ~$100B+ pro-forma post-raise | +~$20B issued post-Q1, 6 currencies [S2] |
+
+**Segment revenue — Q1'26 [S1] (Q4'25 in parens [S3])**
+
+| Segment | Q1'26 rev | Y/Y | Op income / margin |
+|---|---|---|---|
+| **Google Services** | $89.6B ($95.9B) | +16% (+14%) | $40.6B / **45.3%** (41.9%) |
+| — Search & Other | $60.4B ($63.1B) | **+19%** (+17%) | retail + financial services led |
+| — YouTube ads | $9.9B ($11.4B) | +11% (+9%) | DR-led, then brand |
+| — Network ads | $7.0B ($7.8B) | **−4%** (−2%) | the one shrinking line |
+| — Subs, Platforms & Devices | $12.4B ($13.6B) | +19% (+17%) | YT Music/Premium + Google One AI |
+| **Google Cloud** | $20.0B ($17.7B) | **+63%** (+48%) | $6.6B / **32.9%** (30.1%; from 17.8%) |
+| **Other Bets** | $411M ($370M) | — | op loss **$2.1B** ($3.6B incl. Waymo charge) |
+
+**Capital / structure**
+- **FY26 CapEx raised to $180–190B** (from $175–185B; includes the **Intersect** acquisition) = ~6x 2022's ~$31B, ~2x 2025 [S1][S2]. **2027 CapEx to "significantly increase."**
+- Q4'25: FY revenue **$403B (+15%)**; CapEx **$91.4B FY**; buyback **$5.5B** + dividend **$2.5B** (Q4) [S3]. Q1'26: **5% dividend increase**; **equity offering announced** June'26 [S1][S2].
+- Cloud **backlog $462B** (was $240B, +55% QoQ), **>50% recognized in 24 months** [S1][S3][S2].
+- Verily deconsolidated; GFiber to combine with Astound (deconsolidates ~Q4) [S1].
+- 2025 depreciation +38% ($15.3B→$21.1B); 2026 growth rate to "meaningfully increase" — ongoing P&L pressure + energy [S3][S1].
+
+**Cloud unit-economics signals**
+- New-customer acquisition **doubled YoY**; **doubled** the number of $100M–$1B deals; "multiple $1B-plus deals" [S1][S2].
+- Existing customers **spent 45% more than their initial commitments** (was 30% in Q4) [S1][S3].
+- Gemini Enterprise paid MAUs **+40% QoQ**; **>8M paid seats / 2,800+ companies** [S1][S3].
+- **75% of Cloud customers use AI products**; AI customers use **1.8x** as many products [S2][S3].
+- 14 Cloud product lines each **>$1B** annual revenue [S3].
+
+---
+
+## 3. Wow Vault ★
 *Ranked non-obvious insights. Each: the claim → why it's non-obvious → how to deploy → source.*
 
 **★ AI cuts Google's own cost to serve a query, it doesn't just add revenue — that falling cost, not pricing, is what powers both the "no cannibalization" story and Cloud's margin doubling.**
@@ -70,7 +155,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The company's own framing devices, restated so you can use them on any prompt.*
 
 - **"Expansionary moment."** New tech (AI) grows the *total* amount of the core behavior instead of replacing it — shown by all-time-high queries. Use on any "will X cannibalize the core?" prompt; the sharp move is to ask for the *total-volume* metric, not the share metric. [S1][S2][S3]
@@ -81,93 +166,6 @@
 - **"Customers aren't just buying services — they're committing to a long-term AI roadmap with us."** Recasts backlog from sales pipeline to switching cost. Use on retention / lock-in questions. [S2]
 - **Full-stack as the moat rivals can't copy.** *"The only provider to offer first-party solutions across the entire enterprise AI stack"* — infrastructure → security → DeepMind research → models → 1B-user products. Use on "what's Google's durable AI advantage?" [S2]
 - **"We're not rushing anything here"** (on Gemini-app ads). Deliberate sequencing: free tier + subscriptions first, ad format proven in AI Mode *then* ported to the Gemini app. Use on monetization-timing / patience questions. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-- 13 products with **>1B users** (5 with **>3B**); Gemini now powers all 13 [S2].
-- Gemini app **>900M MAU**, more than doubled in a year (was 750M+ / 350M earlier in the arc) [S2][S3][S1].
-- AI Overviews **>2.5B users/mo**; AI Mode **>1B monthly users** (~1 yr after launch) [S2].
-- Total paid subscriptions **350M** (YouTube + Google One) [S1][S2]; 325M+ a quarter earlier [S3].
-- FY2025 revenue **>$400B** — more than double 2020; +$63B added in a trailing year [S2].
-- Over the last 5 years, **operating income tripled**; op margin **33% TTM** [S2].
-
-**AI / infra telemetry**
-- First-party direct-API throughput **>16B tokens/min** (7B → 10B → 16B across three quarters) [S1][S3].
-- Total token throughput **300x in 2 years** (9.7T/mo → 3.2 quadrillion/mo); internal dev tooling **>3T tokens/day** [S2].
-- Gemini serving unit cost **−78% in 2025**; core AI-response cost **−30% since Gemini 3**; Search latency **−35% / 5 yrs** [S3][S1][S2].
-- Gemma 4 **>50M downloads in weeks**; open models **>500M total downloads** [S1].
-- Antigravity **>1.5M WAU**; **~50% of Google's code written by agents** (engineer-reviewed) [S3].
-- 8th-gen TPU: **8i = +80% perf/dollar** vs prior gen; **8t = 3x Ironwood processing, 2x perf** [S1].
-
-**Audited financials — Q1 FY2026 [S1]**
-
-| Metric | Q1'26 | Y/Y |
-|---|---|---|
-| Consolidated revenue | $109.9B | +22% (+19% cc) |
-| Operating income | $39.7B | +30% |
-| Operating margin | 36.1% | — |
-| Net income | $62.6B | +81% |
-| EPS | $5.11 | +82% |
-| Operating cash flow | $45.8B (Q1) / $174.4B TTM | — |
-| Free cash flow | $10.1B (Q1) / $64.4B TTM | — |
-| CapEx | $35.7B | ~60% servers / 40% DC & networking |
-| Cash & mkt. securities | $126.8B | — |
-| Long-term debt | $77.5B → ~$100B+ pro-forma post-raise | +~$20B issued post-Q1, 6 currencies [S2] |
-
-**Segment revenue — Q1'26 [S1] (Q4'25 in parens [S3])**
-
-| Segment | Q1'26 rev | Y/Y | Op income / margin |
-|---|---|---|---|
-| **Google Services** | $89.6B ($95.9B) | +16% (+14%) | $40.6B / **45.3%** (41.9%) |
-| — Search & Other | $60.4B ($63.1B) | **+19%** (+17%) | retail + financial services led |
-| — YouTube ads | $9.9B ($11.4B) | +11% (+9%) | DR-led, then brand |
-| — Network ads | $7.0B ($7.8B) | **−4%** (−2%) | the one shrinking line |
-| — Subs, Platforms & Devices | $12.4B ($13.6B) | +19% (+17%) | YT Music/Premium + Google One AI |
-| **Google Cloud** | $20.0B ($17.7B) | **+63%** (+48%) | $6.6B / **32.9%** (30.1%; from 17.8%) |
-| **Other Bets** | $411M ($370M) | — | op loss **$2.1B** ($3.6B incl. Waymo charge) |
-
-**Capital / structure**
-- **FY26 CapEx raised to $180–190B** (from $175–185B; includes the **Intersect** acquisition) = ~6x 2022's ~$31B, ~2x 2025 [S1][S2]. **2027 CapEx to "significantly increase."**
-- Q4'25: FY revenue **$403B (+15%)**; CapEx **$91.4B FY**; buyback **$5.5B** + dividend **$2.5B** (Q4) [S3]. Q1'26: **5% dividend increase**; **equity offering announced** June'26 [S1][S2].
-- Cloud **backlog $462B** (was $240B, +55% QoQ), **>50% recognized in 24 months** [S1][S3][S2].
-- Verily deconsolidated; GFiber to combine with Astound (deconsolidates ~Q4) [S1].
-- 2025 depreciation +38% ($15.3B→$21.1B); 2026 growth rate to "meaningfully increase" — ongoing P&L pressure + energy [S3][S1].
-
-**Cloud unit-economics signals**
-- New-customer acquisition **doubled YoY**; **doubled** the number of $100M–$1B deals; "multiple $1B-plus deals" [S1][S2].
-- Existing customers **spent 45% more than their initial commitments** (was 30% in Q4) [S1][S3].
-- Gemini Enterprise paid MAUs **+40% QoQ**; **>8M paid seats / 2,800+ companies** [S1][S3].
-- **75% of Cloud customers use AI products**; AI customers use **1.8x** as many products [S2][S3].
-- 14 Cloud product lines each **>$1B** annual revenue [S3].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-**Acquire**
-- **Search/consumer:** default distribution (Chrome, Android, browser deals), zero-marginal-cost virality; AI Overviews/AI Mode are now the top-of-funnel re-acquire mechanism (2.5B+ / 1B+ users) [S2]. S&M +23% YoY on Gemini-app + Search marketing — a rare deliberate paid push [S1].
-- **Cloud:** enterprise sales motion; new-customer acquisition doubled YoY; partner ecosystem seats +9x YoY [S1]. Wiz (closed March'26) adds a security-led land motion [S1].
-- **Gemini app:** consumer land via free tier; >900M MAU, "one of our fastest-growing products" [S2]. Open models (Gemma, 500M+ downloads) bring in developers at the top of the funnel [S1].
-
-**Engage**
-- **Core loop:** query → AI answer/action → more queries (the expansionary flywheel). AI Mode queries 3x longer, 1-in-6 non-text — deeper sessions [S3]. Personal Intelligence + Gemini Spark (24/7 background agent) push from *answers* to *actions* [S2].
-- **YouTube:** led U.S. streaming watch time 3 years running; >200M living-room hours/day; Shorts >200B daily views, >10M channels publishing Shorts daily [S1][S2][S3]. "Ask YouTube" conversational search (Gemini) deepens engagement [S2].
-- **Aha:** the moment an AI answer finishes a task that used to take five links (agentic restaurant booking, Search Live, Direct Offers checkout) [S1].
-
-**Retain**
-- **Switching costs:** for enterprise, the $462B backlog *is* the retention story — multi-year roadmap commitments, >50% beyond 24 months [S1][S2]. Existing customers spend +45% over their initial commitment [S1].
-- **Consumer:** 350M paid subs (YouTube Premium + Google One AI plans); largest quarterly non-trial YT Music+Premium net-adds since the 2018 launch; subs growing faster than ads [S1]. Ecosystem lock-in via 13 products with >1B users.
-- **Plumbing:** secure-by-default (blocks 10M spam emails/min); Google AI Threat Defense (Gemini+Wiz+CodeMender+Mandiant) raises the enterprise switching cost on the security axis [S2].
-
-**Monetize**
-- **Search ads (the profit engine):** ~$60B/qtr, +19%. Ad coverage has historically been ~20%; management sees **upside** as Gemini's grasp of intent lets it sell ads on long/complex queries it couldn't monetize before. >30% of customer search spend now runs on AI-enabled campaigns (AI Max / Performance Max) [S1].
-- **YouTube:** ads (DR-led) + subscriptions; 2025 total >$60B; in some markets (incl. U.S.) Shorts earns *more* revenue per watch-hour than in-stream [S2][S3].
-- **Cloud:** consumption-priced compute + Gemini Enterprise seats + TPU hardware (new line, mostly 2027 revenue) [S1].
-- **Subscriptions:** 350M subs; tiered Gemini/Google One plans charge the power user more as usage climbs [S1].
-- **Network ads:** the declining line (−4% / −2%), monetizing third-party inventory — structurally weak, noted without a fix [S1][S3].
 
 ---
 

@@ -4,9 +4,56 @@
 > **v1 — earnings-grounded + web research**
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail. Estimates labeled *(est.)*.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — The ad tier IS a sign-up channel. Price ($8.99) sits below a rising ad-free wall ($20 Standard) [S1][S10], so about half of new sign-ups land here [S14]. No CAC disclosed; the "spend" is the subscription revenue Netflix gives up vs an ad-free plan, made back through advertising plus the narrowing ARM gap [S2]. Live/sports events (NFL talks, WBC) spike sign-ups around communal moments [S1].
+- **Engage** — Same catalog as ad-free minus a shrinking set of licensed titles behind a lock icon [S9]; 1080p and 2 streams removed the early "feels cheap" friction [S9]. The core loop is normal Netflix (personalized recommender), with ads inserted at about 4–5 min/hr, 86% mid-roll [S3]. 80%+ of ad members watch weekly, ~41 hrs/mo [S15][S3]. The aha: "it's the full Netflix, just cheaper" — ads are light enough that members "pay as much attention to mid-roll ads as… the shows" [S6].
+- **Retain** — Rides Netflix's overall retention machine: churn "every region better year-over-year," CSAT "all-time high," retention "among the best in the industry" [S1][S2]. Switching cost on the ad tier is low (easy up/downgrade), which is fine — the design intent is to *move members up* to ad-free as they'll pay more, capturing them either way. The rising ad-free price makes staying on the ad tier the obvious choice for price-sensitive members.
+- **Monetize** — Two revenue lines per ad member: (1) subscription ($8.99) and (2) advertising (CPM × impressions × fill rate). Price fences: ad load, resolution, streams. Growth levers: fill rate + more inventory at premium CPMs [S2], programmatic distribution [S1], first-party-data targeting premiums (+10–15%) [S3], and new formats (pause, interactive) that open new ad slots and higher-yield placements [S8]. Live events create peak-CPM inventory on demand [S1].
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product**
+| Metric | Value | Source |
+|---|---|---|
+| Ad-tier price (US) | $8.99/mo (after Jan 2025 +$1 hike) | [S1][S9] |
+| Ad-free Standard (US) | ~$20/mo (May 2026) — the wall the ad tier sits under | [S10] |
+| Monthly active viewers (new metric) | 250M+ (Upfront 2026); 190M (Nov 2025) | [S15][S4] |
+| Monthly active users (old metric) | 94M (May 2025) | [S6] |
+| Weekly active share of ad members | 80%+ watch every week | [S15] |
+| Share of new signups choosing ad tier | ~50% globally; >50% in ad markets | [S1][S14] |
+| Avg viewing time, ad-tier user | ~41 hrs/month *(est., third-party)* | [S3] |
+| Video quality / streams | 1080p, 2 concurrent devices | [S9] |
+
+**Ad product mechanics**
+| Metric | Value | Source |
+|---|---|---|
+| Ad load | 4–5 min/hr (vs 9–16 legacy TV/rivals) | [S3][S12] |
+| Placement mix | ~86% mid-roll, rest pre-roll; non-skippable | [S3] |
+| Ad lengths | 10 / 15 / 30 sec | [S3] |
+| CPM — direct | $30–65 (targeting/seasonality) | [S3][S12] |
+| CPM — programmatic | $20–30 | [S12] |
+| Min spend | ~$18K (7-day) / ~$75K/mo direct *(est.)* | [S3] |
+| Programmatic share of non-live ads | approaching / passing 50% | [S1][S15] |
+
+**Business arcs**
+| Metric | Value | Source |
+|---|---|---|
+| Ad revenue 2024 → 2025 → 2026 | doubled → 2.5x ('25) → ~$3B target ('26, "roughly doubling") | [S1][S2] |
+| Advertiser base | 4,000+ (grew 70%+ Y/Y in 2025) | [S1] |
+| Long-run forecast | ~$9B/yr by 2028–29 *(est., third-party)* | [S3] |
+| Ad markets | own ad-tech stack live across 12 markets; +15 markets announced May 2026 | [S2][S7] |
+
+**Company context (for framing)**
+- Paid members end-2025: "more than 325 million"; audience "approaching nearly 1 billion people" [S1][S2].
+- 2026 company revenue guide ~$51B (+14%); operating margin 31.5% [S2]. The ad tier is a small but fastest-doubling slice.
+- Netflix value-per-hour claim: US subscribers "pay the least per hour of viewing" vs SVOD; a competitor costs "2x per hour" [S1].
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in on a Netflix Ads product prompt.*
 
 **★ The ad tier is priced as a sign-up funnel, not an ad product**
@@ -59,7 +106,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"The ad tier is the funnel."** Cheapest way in, priced against a rising ad-free wall; ad revenue follows sign-ups [S1][S10]. → strategy / pricing prompts.
 - **"The ARM gap is the roadmap."** Under-monetization = stored upside Netflix controls, released via fill rate, not a discount to defend [S2]. → monetization prompts.
 - **"Not all engagement is created equal."** View-hours is "an overly simplified view"; live and communal viewing carry outsized ad and retention value [S1][S2]. → metrics prompts.
@@ -67,55 +114,6 @@
 - **"Own the currency."** Don't let a third-party gauge set your reported value or the unit advertisers buy on; build your own measurement [S1][S15]. → competitive prompts.
 - **"Scarcity is the CPM."** Low ad load is the pricing moat, not a revenue ceiling [S3][S12]. → product-tradeoff prompts.
 - **"Count people, not profiles."** With co-viewing, the household is the real reach unit, not the login [S5]. → metric-definition prompts.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product**
-| Metric | Value | Source |
-|---|---|---|
-| Ad-tier price (US) | $8.99/mo (after Jan 2025 +$1 hike) | [S1][S9] |
-| Ad-free Standard (US) | ~$20/mo (May 2026) — the wall the ad tier sits under | [S10] |
-| Monthly active viewers (new metric) | 250M+ (Upfront 2026); 190M (Nov 2025) | [S15][S4] |
-| Monthly active users (old metric) | 94M (May 2025) | [S6] |
-| Weekly active share of ad members | 80%+ watch every week | [S15] |
-| Share of new signups choosing ad tier | ~50% globally; >50% in ad markets | [S1][S14] |
-| Avg viewing time, ad-tier user | ~41 hrs/month *(est., third-party)* | [S3] |
-| Video quality / streams | 1080p, 2 concurrent devices | [S9] |
-
-**Ad product mechanics**
-| Metric | Value | Source |
-|---|---|---|
-| Ad load | 4–5 min/hr (vs 9–16 legacy TV/rivals) | [S3][S12] |
-| Placement mix | ~86% mid-roll, rest pre-roll; non-skippable | [S3] |
-| Ad lengths | 10 / 15 / 30 sec | [S3] |
-| CPM — direct | $30–65 (targeting/seasonality) | [S3][S12] |
-| CPM — programmatic | $20–30 | [S12] |
-| Min spend | ~$18K (7-day) / ~$75K/mo direct *(est.)* | [S3] |
-| Programmatic share of non-live ads | approaching / passing 50% | [S1][S15] |
-
-**Business arcs**
-| Metric | Value | Source |
-|---|---|---|
-| Ad revenue 2024 → 2025 → 2026 | doubled → 2.5x ('25) → ~$3B target ('26, "roughly doubling") | [S1][S2] |
-| Advertiser base | 4,000+ (grew 70%+ Y/Y in 2025) | [S1] |
-| Long-run forecast | ~$9B/yr by 2028–29 *(est., third-party)* | [S3] |
-| Ad markets | own ad-tech stack live across 12 markets; +15 markets announced May 2026 | [S2][S7] |
-
-**Company context (for framing)**
-- Paid members end-2025: "more than 325 million"; audience "approaching nearly 1 billion people" [S1][S2].
-- 2026 company revenue guide ~$51B (+14%); operating margin 31.5% [S2]. The ad tier is a small but fastest-doubling slice.
-- Netflix value-per-hour claim: US subscribers "pay the least per hour of viewing" vs SVOD; a competitor costs "2x per hour" [S1].
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — The ad tier IS a sign-up channel. Price ($8.99) sits below a rising ad-free wall ($20 Standard) [S1][S10], so about half of new sign-ups land here [S14]. No CAC disclosed; the "spend" is the subscription revenue Netflix gives up vs an ad-free plan, made back through advertising plus the narrowing ARM gap [S2]. Live/sports events (NFL talks, WBC) spike sign-ups around communal moments [S1].
-- **Engage** — Same catalog as ad-free minus a shrinking set of licensed titles behind a lock icon [S9]; 1080p and 2 streams removed the early "feels cheap" friction [S9]. The core loop is normal Netflix (personalized recommender), with ads inserted at about 4–5 min/hr, 86% mid-roll [S3]. 80%+ of ad members watch weekly, ~41 hrs/mo [S15][S3]. The aha: "it's the full Netflix, just cheaper" — ads are light enough that members "pay as much attention to mid-roll ads as… the shows" [S6].
-- **Retain** — Rides Netflix's overall retention machine: churn "every region better year-over-year," CSAT "all-time high," retention "among the best in the industry" [S1][S2]. Switching cost on the ad tier is low (easy up/downgrade), which is fine — the design intent is to *move members up* to ad-free as they'll pay more, capturing them either way. The rising ad-free price makes staying on the ad tier the obvious choice for price-sensitive members.
-- **Monetize** — Two revenue lines per ad member: (1) subscription ($8.99) and (2) advertising (CPM × impressions × fill rate). Price fences: ad load, resolution, streams. Growth levers: fill rate + more inventory at premium CPMs [S2], programmatic distribution [S1], first-party-data targeting premiums (+10–15%) [S3], and new formats (pause, interactive) that open new ad slots and higher-yield placements [S8]. Live events create peak-CPM inventory on demand [S1].
 
 ---
 

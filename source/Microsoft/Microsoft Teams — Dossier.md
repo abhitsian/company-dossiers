@@ -4,9 +4,47 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. Estimates labeled `[est]`. Earnings facts tagged `[S1]`/`[S2]`; web facts carry inline URLs.*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Mostly **bundle-driven**: pre-installed in Office 365 / M365 for 450M+ commercial seats; day-one distribution into 181 markets (2017). Free tier + Essentials for SMB. COVID was the accelerant (remote-work default). Frontline/SMB is where *seat* growth still comes from (+6% Y/Y, "mainly SMB + frontline") [S1]. Post-unbundling, a new motion: standalone Teams SKU sold to non-Office shops.
+- **Engage** — Core loop: **chat ↔ meeting ↔ channel ↔ file**, all inside the M365 identity/graph. Aha = "the meeting I just left already has notes, action items, and a Copilot I can ask." Frequency is the weapon: 200M+ daily meeting participants. New hooks deepening the loop: Facilitator (in-meeting agent), meeting recap templates (Speaker/Executive summaries), AI Workflows (no-code automation), Copilot Chat across channels/calls, channel AI agents drafting status reports ([Microsoft support](https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de), [Ignite blog](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/)).
+- **Retain** — Switching costs are the whole game: identity (Entra), org graph, meeting history, Teams Phone numbers, line-of-business app integrations, third-party bots. Boring plumbing that locks in: calendar/Outlook interop, SharePoint file backing, admin/compliance (Purview audits 24B Copilot interactions, +9x Y/Y) [S2]. The EU forced 10-yr interop/portability commitments precisely because these costs are so sticky ([CNBC](https://www.cnbc.com/2025/09/12/microsoft-avoids-big-fine-as-eu-accepts-deal-to-unbundle-teams.html)).
+- **Monetize** — Layers: (1) bundled into M365/Office seat ARPU (per-seat revenue; E5 + Copilot driving it up) [S2]; (2) standalone SKUs post-unbundling (Essentials $4, Enterprise $5.25); (3) Teams Premium add-on (advanced AI/meeting features) `[est]`; (4) **Teams Phone** (PSTN calling minutes) — a real consumption line; (5) the emerging **agent/Copilot consumption** meter. Price fence: E5 tier + Copilot add-on; expansion via seats → consumption overage.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale (all third-party / `[est]` — Microsoft discloses none directly)**
+| Metric | Value | Source |
+|---|---|---|
+| MAU | ~320–360M (mid-2025) | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/), [businessofapps](https://www.businessofapps.com/data/microsoft-teams-statistics/) |
+| DAU | ~320M (2026, +23% Y/Y) `[est]` | [saasultra](https://www.saasultra.com/microsoft-teams-statistics/) |
+| Meeting hours/mo | 7B+, ~+18% Y/Y `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
+| Daily meeting participants | 200M+ `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
+| Organizations | 1M+ | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
+| Est. revenue | >$8B (≈50% of M365 commercial users on Teams) `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
+
+**Market arcs (methodology-dependent — cite the cut)**
+| Cut | Teams | Zoom | Slack | Google Meet |
+|---|---|---|---|---|
+| Broad UC/collaboration | 48% | 42% | 8% | 6% |
+| Video conferencing (2024) | 32% | 56% | — | 5.5% |
+- Source: [SQ Magazine](https://sqmagazine.co.uk/zoom-vs-microsoft-teams-statistics/), [electroiq](https://electroiq.com/stats/zoom-vs-google-meet-statistics/). *Teams leads collaboration; Zoom still leads pure video. Only ~14% of Slack's base uses its video.*
+
+**Bundle economics (the part that IS disclosed) [S1][S2]**
+- P&BP segment: **$35.0B, +17% (+13% cc), 60% op margin** (Q3 FY26) [S1]; $34.1B, +16%, 60% op margin (Q2 FY26) [S2].
+- M365 Commercial cloud +19% (+15% cc); paid seats +6% Y/Y to **>450M** [S2].
+- M365 Copilot: **>20M paid seats**, seat adds +250% Y/Y [S1]; DAU +10x Y/Y, conversations/user doubled Y/Y [S2].
+
+**Unit economics (Teams-specific, mostly est.)**
+- Standalone list: Teams Essentials **$4/user/mo**; Teams Enterprise add-on **$5.25/user/mo** (post-Nov 2025) ([proarch](https://www.proarch.com/blog/microsoft-teams-pricing-licensing-copilot), [Microsoft](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-enterprise-options)).
+- Cost per meeting-minute is near-zero (rides existing Azure); the **new variable cost is AI inference** — MAI-Transcribe-1 cut GPU cost via a "67% GPU efficiency" gain, with an explicit "reduce COGS" goal [S1].
+- Cross-ref `/follow-the-dollar`: the interesting unit is now **cost-per-agent-invocation**, not cost-per-seat.
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — non-obvious framings, mechanisms, tensions.*
 
 **★ Teams' new job is to be the human surface for Work IQ, not a chat app**
@@ -59,53 +97,13 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 
 - **"Seats are entitlements to consumption."** A license is a pre-paid consumption pack; the UI is a convenience wrapper. Use on any SaaS pricing / "how would you monetize AI features" prompt. [S1]
 - **"Work IQ = the most important database, changing every second."** Reframes an app's exhaust (messages, meetings, files) as the real asset; the app is the sensor. Use on data-moat / defensibility prompts. [S1]
 - **"Allocated-capacity guide, not a demand read."** Hood on Azure — the printed number is a *choice* of where scarce GPUs go (first-party Copilots first, then R&D, then Azure) [S2]. Use on "why is this metric flat?" — the answer may be supply allocation, not demand.
 - **"Decouple the harness from the model."** The product is the context-rich shell (Teams + Work IQ); the model underneath is swappable (Claude Opus 4.7 now runs inside M365 Copilot — [futurework.blog](https://futurework.blog/2026/05/29/whats-new-and-coming-next-to-microsoft-365-copilot-and-teams/)). Use on platform-strategy / build-vs-buy-model prompts. [S1]
 - **"Win back fans."** Microsoft's own frame for consumer/quality-debt products (Xbox, Bing) [S1] — a tell for "we over-monetized and lost trust." Teams is not in this bucket, which is itself a signal of its health.
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale (all third-party / `[est]` — Microsoft discloses none directly)**
-| Metric | Value | Source |
-|---|---|---|
-| MAU | ~320–360M (mid-2025) | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/), [businessofapps](https://www.businessofapps.com/data/microsoft-teams-statistics/) |
-| DAU | ~320M (2026, +23% Y/Y) `[est]` | [saasultra](https://www.saasultra.com/microsoft-teams-statistics/) |
-| Meeting hours/mo | 7B+, ~+18% Y/Y `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
-| Daily meeting participants | 200M+ `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
-| Organizations | 1M+ | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
-| Est. revenue | >$8B (≈50% of M365 commercial users on Teams) `[est]` | [demandsage](https://www.demandsage.com/microsoft-teams-statistics/) |
-
-**Market arcs (methodology-dependent — cite the cut)**
-| Cut | Teams | Zoom | Slack | Google Meet |
-|---|---|---|---|---|
-| Broad UC/collaboration | 48% | 42% | 8% | 6% |
-| Video conferencing (2024) | 32% | 56% | — | 5.5% |
-- Source: [SQ Magazine](https://sqmagazine.co.uk/zoom-vs-microsoft-teams-statistics/), [electroiq](https://electroiq.com/stats/zoom-vs-google-meet-statistics/). *Teams leads collaboration; Zoom still leads pure video. Only ~14% of Slack's base uses its video.*
-
-**Bundle economics (the part that IS disclosed) [S1][S2]**
-- P&BP segment: **$35.0B, +17% (+13% cc), 60% op margin** (Q3 FY26) [S1]; $34.1B, +16%, 60% op margin (Q2 FY26) [S2].
-- M365 Commercial cloud +19% (+15% cc); paid seats +6% Y/Y to **>450M** [S2].
-- M365 Copilot: **>20M paid seats**, seat adds +250% Y/Y [S1]; DAU +10x Y/Y, conversations/user doubled Y/Y [S2].
-
-**Unit economics (Teams-specific, mostly est.)**
-- Standalone list: Teams Essentials **$4/user/mo**; Teams Enterprise add-on **$5.25/user/mo** (post-Nov 2025) ([proarch](https://www.proarch.com/blog/microsoft-teams-pricing-licensing-copilot), [Microsoft](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-enterprise-options)).
-- Cost per meeting-minute is near-zero (rides existing Azure); the **new variable cost is AI inference** — MAI-Transcribe-1 cut GPU cost via a "67% GPU efficiency" gain, with an explicit "reduce COGS" goal [S1].
-- Cross-ref `/follow-the-dollar`: the interesting unit is now **cost-per-agent-invocation**, not cost-per-seat.
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Mostly **bundle-driven**: pre-installed in Office 365 / M365 for 450M+ commercial seats; day-one distribution into 181 markets (2017). Free tier + Essentials for SMB. COVID was the accelerant (remote-work default). Frontline/SMB is where *seat* growth still comes from (+6% Y/Y, "mainly SMB + frontline") [S1]. Post-unbundling, a new motion: standalone Teams SKU sold to non-Office shops.
-- **Engage** — Core loop: **chat ↔ meeting ↔ channel ↔ file**, all inside the M365 identity/graph. Aha = "the meeting I just left already has notes, action items, and a Copilot I can ask." Frequency is the weapon: 200M+ daily meeting participants. New hooks deepening the loop: Facilitator (in-meeting agent), meeting recap templates (Speaker/Executive summaries), AI Workflows (no-code automation), Copilot Chat across channels/calls, channel AI agents drafting status reports ([Microsoft support](https://support.microsoft.com/en-us/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de), [Ignite blog](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/)).
-- **Retain** — Switching costs are the whole game: identity (Entra), org graph, meeting history, Teams Phone numbers, line-of-business app integrations, third-party bots. Boring plumbing that locks in: calendar/Outlook interop, SharePoint file backing, admin/compliance (Purview audits 24B Copilot interactions, +9x Y/Y) [S2]. The EU forced 10-yr interop/portability commitments precisely because these costs are so sticky ([CNBC](https://www.cnbc.com/2025/09/12/microsoft-avoids-big-fine-as-eu-accepts-deal-to-unbundle-teams.html)).
-- **Monetize** — Layers: (1) bundled into M365/Office seat ARPU (per-seat revenue; E5 + Copilot driving it up) [S2]; (2) standalone SKUs post-unbundling (Essentials $4, Enterprise $5.25); (3) Teams Premium add-on (advanced AI/meeting features) `[est]`; (4) **Teams Phone** (PSTN calling minutes) — a real consumption line; (5) the emerging **agent/Copilot consumption** meter. Price fence: E5 tier + Copilot add-on; expansion via seats → consumption overage.
 
 ---
 

@@ -5,9 +5,46 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *Every fact ties to a source; estimates are labeled [EST]. Copilot is a product family, not one app — where it matters, this file separates M365 Copilot (enterprise), Copilot consumer app, GitHub Copilot, and the agent platform (Copilot Studio / Agent 365).*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire** — Distribution is the whole game. Copilot is an *add-on to software the customer already owns* (M365, Windows, GitHub, Dynamics, Security), so the channel is the existing Microsoft enterprise agreement and field/partner motion — near-zero new CAC (cost to acquire a customer). Land-and-expand: seat pilots → >50K-seat commitments (quadrupled Y/Y). Consumer app rides Windows 11 / Edge / Bing default placement. Free tier (Copilot Chat, GitHub Copilot Free) as the top of funnel. [S1][S2][S5]
+- **Engage** — Core loop: work happens in M365 → Copilot reads the context (Work IQ) → drafts/analyzes/acts inline → output feeds back into Work IQ. Aha = "it already knows my last meeting / this thread / who owns this." Surfaces: in-app side pane (Word/Excel/PPT/Outlook/Teams), standalone Copilot app (chat/search/agents), Agent Mode (default, runs multi-step on its own), Cowork (task delegation), Scout (always-on personal agent). Frequency claim: weekly ≈ Outlook for actives; usage jumped post-redesign (PPT +43%, Excel +33%, Outlook +30%, Word +27%). [S1][S7]
+- **Retain** — Switching cost = the M365 graph + governance + habit; you can't take Work IQ to a rival. But retention is contested: long pilots, weak renewals as customers "balance per-seat vs seats-plus-consumption," and low free-choice preference (8%) mean adoption ≠ stickiness at the user level. Enterprise lock-in is structural (ecosystem), not earned (delight). [S1][S5][S8]
+- **Monetize** — Multiple lines, each on a different unit: M365 Copilot per-seat/mo (+ overage consumption); GitHub Copilot per-seat + AI Credits; Copilot Studio/agents metered; Security Copilot consumption; Dragon per-encounter. Expansion = seat count → seat depth (more agents/user) → consumption overage. Price fences: seat tiers bundle base entitlements, overages meter with commitment discounts for predictability. [S1][S9]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+*Specific, dated, rare — not the ones everyone quotes.*
+
+**Headline scale & product**
+- M365 Copilot: **>20M paid seats**; seat adds **+250% Y/Y** (Q3 FY26), "fastest growth since launch." Prior quarter (Q2 FY26): 15M seats, +160% Y/Y, DAU +10x Y/Y, conversations/user doubled Y/Y. [S1][S2]
+- Customers with >50K seats **quadrupled Y/Y**; Accenture **>740,000 seats** (largest win); Bayer, J&J, Mercedes, Roche each committed **90,000+**. Prior quarter: 35K+ seat customers tripled (Fiserv, ING, NASA, Westpac; Publicis 95,000+). [S1][S2]
+- **625 updates over the past year, +50%.** First-party agent MAU +6x YTD; queries/user +~20% Q/Q; weekly engagement ≈ Outlook. [S1]
+- Consumer Copilot app: daily users **~3x Y/Y** (Q2 FY26); **~6M DAU as of Feb 2026** per third-party data — vs ChatGPT ~440M, Gemini ~82M, Claude ~9M. [S2][S3]
+- GitHub Copilot: **4.7M paid subs, +75% Y/Y** (Q2 FY26); "nearly 140,000 organizations"; enterprise subs nearly tripled Y/Y (Q3 FY26); CLI usage nearly doubling M/M; **moved to usage-based billing June 1, 2026**. [S1][S2][S9]
+- Dragon Copilot (healthcare): 100,000+ providers, 21M patient encounters (+3x). Security Copilot customers +2x Y/Y; 24B Copilot interactions audited by Purview (+9x Y/Y). [S1][S2]
+
+**Market arcs**
+- ~**70% of Fortune 500** hold M365 Copilot licenses, but 20M seats ≈ **~4% of ~450M+ paid M365 commercial seats**. Independent weekly-active usage estimated **20–35% of purchased seats**. [S2][S8]
+- Free-choice preference (Recon Analytics, 150K+ users): ChatGPT 70% / Gemini 18% / Copilot 8% primary. [S5]
+
+**Segments / adjacent (company-wide, FY26)**
+- Productivity & Business Processes (houses M365 Copilot): **$35.0B, +17%**, op margin **60%**. M365 Commercial Cloud +19%; ARPU (revenue per user) growth "led by E5 and M365 Copilot." [S1]
+- AI business ARR **>$37B, +123% Y/Y**. Foundry: 10,000+ customers used >1 model; Anthropic+OpenAI model use +2x Q/Q. [S1]
+
+**Audited financials (FY26 latest Q — Q3, ended Mar 2026)** [S1]
+- Total revenue **$82.9B, +18% Y/Y**; EPS **$4.27**; gross margin (revenue left after cost of sales) **68%**; operating margin **46%**.
+- Microsoft Cloud **$54.5B, +29%**, GM 66%. RPO (contracted revenue not yet recognized) **$627B, +99% Y/Y**. CapEx **$31.9B/qtr**, CY2026 CapEx guided **~$190B**.
+
+**Unit economics** *(cross-ref /follow-the-dollar)*
+- Pricing fences: M365 Copilot enterprise add-on **$30/user/mo** (now bundles Copilot for Sales/Service/Finance). Copilot Business standalone **~$18–21/user/mo**. All-in enterprise cost = base E3/E5 ($36–57) + $30 = **$66–87/user/mo**. [S4][S5]
+- Consumption alt: M365 Copilot Chat (pay-per-use, launched Jan 2025) drops the per-seat commitment. GitHub Copilot Pro $10, Pro+ $39, Business $19, Enterprise $39 — now + AI Credits at **$0.01/credit** on token use. [S8][S9]
+- Cost levers: royalty-free OpenAI IP through 2032 (no rev-share to OpenAI); first-party silicon Maia 200 "+30% tokens/dollar"; MAI models cutting COGS (cost of goods sold) (Transcribe-1 +67% GPU efficiency, Image-2 +260%). [S1]
+
+---
+
+## 3. Wow Vault ★
 *What makes an interviewer lean in — ranked strongest first.*
 
 **★ Microsoft is quietly re-pricing the whole software industry: "any per-user business will become per-user AND usage."**
@@ -66,7 +103,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *Microsoft's framing devices, restated to use on any prompt.*
 
 - **"A license business plus a consumption business."** Every per-seat SaaS line turns into seat (base entitlement) + metered overage. → monetization / pricing questions. [S1]
@@ -76,45 +113,6 @@
 - **"Allocated-capacity guide, not a demand read."** A reported growth number can be a supply-allocation choice. → metrics-interpretation questions. [S2]
 - **"Progressive disclosure — a task-aware workspace, not a text box."** The 2026 redesign idea: start clean, show capability in context. → product-design questions. [S7]
 - **"Agent control plane" (Agent 365).** Govern agents built on ANY cloud the way you govern users — identity, security, lifecycle. → platform-extension questions. [S2]
-
----
-
-## 3. Numbers that signal depth
-*Specific, dated, rare — not the ones everyone quotes.*
-
-**Headline scale & product**
-- M365 Copilot: **>20M paid seats**; seat adds **+250% Y/Y** (Q3 FY26), "fastest growth since launch." Prior quarter (Q2 FY26): 15M seats, +160% Y/Y, DAU +10x Y/Y, conversations/user doubled Y/Y. [S1][S2]
-- Customers with >50K seats **quadrupled Y/Y**; Accenture **>740,000 seats** (largest win); Bayer, J&J, Mercedes, Roche each committed **90,000+**. Prior quarter: 35K+ seat customers tripled (Fiserv, ING, NASA, Westpac; Publicis 95,000+). [S1][S2]
-- **625 updates over the past year, +50%.** First-party agent MAU +6x YTD; queries/user +~20% Q/Q; weekly engagement ≈ Outlook. [S1]
-- Consumer Copilot app: daily users **~3x Y/Y** (Q2 FY26); **~6M DAU as of Feb 2026** per third-party data — vs ChatGPT ~440M, Gemini ~82M, Claude ~9M. [S2][S3]
-- GitHub Copilot: **4.7M paid subs, +75% Y/Y** (Q2 FY26); "nearly 140,000 organizations"; enterprise subs nearly tripled Y/Y (Q3 FY26); CLI usage nearly doubling M/M; **moved to usage-based billing June 1, 2026**. [S1][S2][S9]
-- Dragon Copilot (healthcare): 100,000+ providers, 21M patient encounters (+3x). Security Copilot customers +2x Y/Y; 24B Copilot interactions audited by Purview (+9x Y/Y). [S1][S2]
-
-**Market arcs**
-- ~**70% of Fortune 500** hold M365 Copilot licenses, but 20M seats ≈ **~4% of ~450M+ paid M365 commercial seats**. Independent weekly-active usage estimated **20–35% of purchased seats**. [S2][S8]
-- Free-choice preference (Recon Analytics, 150K+ users): ChatGPT 70% / Gemini 18% / Copilot 8% primary. [S5]
-
-**Segments / adjacent (company-wide, FY26)**
-- Productivity & Business Processes (houses M365 Copilot): **$35.0B, +17%**, op margin **60%**. M365 Commercial Cloud +19%; ARPU (revenue per user) growth "led by E5 and M365 Copilot." [S1]
-- AI business ARR **>$37B, +123% Y/Y**. Foundry: 10,000+ customers used >1 model; Anthropic+OpenAI model use +2x Q/Q. [S1]
-
-**Audited financials (FY26 latest Q — Q3, ended Mar 2026)** [S1]
-- Total revenue **$82.9B, +18% Y/Y**; EPS **$4.27**; gross margin (revenue left after cost of sales) **68%**; operating margin **46%**.
-- Microsoft Cloud **$54.5B, +29%**, GM 66%. RPO (contracted revenue not yet recognized) **$627B, +99% Y/Y**. CapEx **$31.9B/qtr**, CY2026 CapEx guided **~$190B**.
-
-**Unit economics** *(cross-ref /follow-the-dollar)*
-- Pricing fences: M365 Copilot enterprise add-on **$30/user/mo** (now bundles Copilot for Sales/Service/Finance). Copilot Business standalone **~$18–21/user/mo**. All-in enterprise cost = base E3/E5 ($36–57) + $30 = **$66–87/user/mo**. [S4][S5]
-- Consumption alt: M365 Copilot Chat (pay-per-use, launched Jan 2025) drops the per-seat commitment. GitHub Copilot Pro $10, Pro+ $39, Business $19, Enterprise $39 — now + AI Credits at **$0.01/credit** on token use. [S8][S9]
-- Cost levers: royalty-free OpenAI IP through 2032 (no rev-share to OpenAI); first-party silicon Maia 200 "+30% tokens/dollar"; MAI models cutting COGS (cost of goods sold) (Transcribe-1 +67% GPU efficiency, Image-2 +260%). [S1]
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire** — Distribution is the whole game. Copilot is an *add-on to software the customer already owns* (M365, Windows, GitHub, Dynamics, Security), so the channel is the existing Microsoft enterprise agreement and field/partner motion — near-zero new CAC (cost to acquire a customer). Land-and-expand: seat pilots → >50K-seat commitments (quadrupled Y/Y). Consumer app rides Windows 11 / Edge / Bing default placement. Free tier (Copilot Chat, GitHub Copilot Free) as the top of funnel. [S1][S2][S5]
-- **Engage** — Core loop: work happens in M365 → Copilot reads the context (Work IQ) → drafts/analyzes/acts inline → output feeds back into Work IQ. Aha = "it already knows my last meeting / this thread / who owns this." Surfaces: in-app side pane (Word/Excel/PPT/Outlook/Teams), standalone Copilot app (chat/search/agents), Agent Mode (default, runs multi-step on its own), Cowork (task delegation), Scout (always-on personal agent). Frequency claim: weekly ≈ Outlook for actives; usage jumped post-redesign (PPT +43%, Excel +33%, Outlook +30%, Word +27%). [S1][S7]
-- **Retain** — Switching cost = the M365 graph + governance + habit; you can't take Work IQ to a rival. But retention is contested: long pilots, weak renewals as customers "balance per-seat vs seats-plus-consumption," and low free-choice preference (8%) mean adoption ≠ stickiness at the user level. Enterprise lock-in is structural (ecosystem), not earned (delight). [S1][S5][S8]
-- **Monetize** — Multiple lines, each on a different unit: M365 Copilot per-seat/mo (+ overage consumption); GitHub Copilot per-seat + AI Credits; Copilot Studio/agents metered; Security Copilot consumption; Dragon per-encounter. Expansion = seat count → seat depth (more agents/user) → consumption overage. Price fences: seat tiers bundle base entitlements, overages meter with commitment discounts for predictability. [S1][S9]
 
 ---
 

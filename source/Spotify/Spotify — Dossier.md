@@ -3,9 +3,95 @@
 > **SPOT** · ~$459/sh · P/E (FWD) ~31 · SA/Wall-St **BUY**, Quant **HOLD** · Updated **2026-07-23** · Sources: **6** (see log)
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+*The full mechanics, trivial included.*
+
+**Acquire**
+- Word-of-mouth is the #1 channel: *"the single biggest source of new users is a recommendation from an existing user."* Brand love compounds paid-marketing efficiency, free→premium conversion, and retention. [S1]
+- The free tier is the funnel: **60% of subscribers originate on free** [S5]; enhanced free tier (late Q3'25) framed as a "leaky bucket" — plug the holes, the water rises, driving the record +38M Q4'25 MAU adds [S4].
+- Ubiquity: everywhere across devices; historically partnered *with* its biggest competitors (Meta, Google, Apple, TikTok); now inside ChatGPT and Claude. [S1][S3]
+- Culture as acquisition: Wrapped (630M shares); the 20th-birthday experience drove the biggest single intake day ever; artist advocacy (BTS, Bad Bunny). [S1][S4]
+- Local payments as a conversion mechanic: Pix Automático (Brazil), UPI Autopay (India, >90% of intake at 85% cheaper). [S1]
+
+**Engage**
+- Philosophy: days-in-a-month over minutes-in-a-session; three axes = days × devices × verticals; the CFO ranks engagement above user count. [S1][S3][S5]
+- Depth: 100M users at ~100% DAU/MAU; US streaming hours/user +20% over 5 yrs; DJ ~90–94M subs / >4B hours. [S1][S4]
+- Verticals stack, they don't cannibalize: *"add one more vertical and engagement increases, churn drops dramatically."* Music → +podcast → +audiobooks = the most-engaged, best-retained cohort; Fitness is newest (Peloton; 70% of premium work out monthly). [S5][S1]
+- Personalization is the engine: DJ, Discover Weekly, Release Radar, SongDNA (52M in 4 weeks), Taste Profile, Prompted Playlists. Chain: personalization → engagement → conversion → LTV. [S1][S3]
+- Multiplayer hooks: Jam (2× YoY, >100M mo hrs), collaborative playlists, Blend, Messaging, Wrapped Party; 500M subscribe to someone else's playlist. [S1]
+
+**Retain**
+- Churn is best-in-class; US Jan'26 $1 hike (same as Jun'24) → "no surprises at all"; latest round spanned >150 countries with no churn change. Absolute bps still undisclosed. [S1][S3][S4][S5]
+- Switching costs are habit + data + social, not contracts: 20 yrs of taste data shaping your experience, your library, your social graph, cross-device presence.
+- Retention plumbing: family/Duo/student plans (household lock-in), offline mode, no content-gate, prepaid subscription.
+- LTV: US +70% since 2022; similar across maturity stages. [S1]
+
+**Monetize**
+- Three engines: ads (free) · subscription (premium) · top-ups/add-ons (head of the curve). [S3]
+- Subscription: Student $6.99 / Individual $12.99 / Duo / Family; blended ARPU ~€4.70/mo; pay-gate on functionality. [S1][S3]
+- Add-ons: Audiobooks+ (>1M, ~$100M ARR, LTV multiples of premium); personal-podcast credits; creator memberships; AI remix. [S1]
+- Pricing: 15-yr flat baseline → now raising with minimal churn; shifting from collective to **per-market** pricing (refuses a fixed cadence); tiering roadmap = bundled → top-up → à-la-carte, "more coming in the next 11 months." [S1][S5]
+- Ads: Ad GM +441 bps to 19.5% while revenue −4% (margin-over-revenue trade); biddable >1/3; 70% of ad creative AI-generated; Amazon & Yahoo DSPs; H2'26 revenue inflection. [S6][S1][S5]
+- Marketplace (artist tools): gross profit 4× in 4 yrs; margin-accretive. [S1]
+- Reserved: $1.5B ticket sales driven; a premium perk today, direct monetization TBD. [S1]
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale & product** [S1 unless noted]
+- 761M MAU (Q1'26) / ~293M subs / 184 markets — 2× the nearest music service.
+- 100M users at ~100% DAU/MAU (28+ days/mo); ~2/3 of all premium music streams happen on Spotify.
+- 3.4 trillion taste signals/day (+43% YTD). ~250M-track catalog (2M in 2008) [S4]. Global streaming share ~60%+ [S5].
+- Penetration: 3.5% of humanity subscribes; 96%+ still to win. Only 47% of streams in English; in 90% of markets the top artist sings in a local language.
+- Free-first: 71% of subs used free before converting; **60% of subscribers originate on the free tier** [S5]; free users +90% since last Investor Day.
+
+**Market arcs** [S1]
+- US: conversion 32%→60% over 10 yrs on 4× base; premium penetration still <20%; LTV +70% since 2022.
+- Brazil: conversion 22%→44% since 2016; base 14× → 27× subs; Pix Automático at 90% lower cost than cards.
+- India: launched 2019 as #10 → now #1; <10% premium; Premium Platinum ~2× price, >7% of subs in months; subs 7× vs last Investor Day; UPI Autopay = 90% of intake at 85% cheaper.
+
+**Verticals** [S1]
+- Audiobooks: ~20% of US market in ~2 yrs; catalog 150K→700K titles; hours +60% (24→25); Audiobooks+ >1M users, ~$100M ARR by Jul'26.
+- Podcast: 500M video-podcast streamers (+50% YoY); 2nd yr profitable, path to 40% margin; audio podcast +3 days/mo, video +1 more; sponsorships +100% YoY.
+- Music video: 2/3 of premium have watched; +85% song streams after watching its video.
+- Wrapped: 630M shares; 20th-birthday experience drove the biggest single day of subscriber intake ever (~100M engaged in 6 days).
+
+**FY2025 & Q4'25 — audited (shareholder deck)** [S6]
+| Metric | FY2025 | Q4'25 |
+|---|---|---|
+| Revenue | €17,186M (+10%; +13% cc) | €4,531M (+7%; +13% cc) |
+| — Premium / Ad-Supported | €15,350M / €1,836M | €4,013M / €518M (ad −4% reported) |
+| Gross margin | 32.0% | 33.1% — Premium **34.8%** / Ad **19.5%** |
+| Operating income / margin | €2,198M / 12.8% (from 8.7% in '24) | €701M / 15.5% |
+| Net income / diluted EPS | €2,212M / €10.51 | €1,174M / €4.43 |
+| Free cash flow | €2,874M (record; ~17% margin) | €834M |
+| Premium ARPU | — | €4.70 (−3% reported / +2% cc; FX drag) |
+| Liquidity / employees | €9.5B cash+STI, no debt / 7,323 FTEs | — |
+| Regional MAU | RoW 37% · Europe 26% · LatAm 21% · NA 16% | |
+| Regional subs | Europe 36% · NA 25% · LatAm 23% · RoW 15% | |
+| 5-yr MAU / subs | 406M→751M / 180M→290M | |
+
+*Trajectory:* Q4'25 = 751M MAU / 290M subs; Q1'26 = 761M / 293M (the deck is one quarter behind; its Q1'26 guide was 759M/293M, which Q1 beat). Q1'26 ARPU +5.7% YoY; ad revenue down by design.
+
+**Industry payouts** [S1]: >$11B to music in 2025 ($70B all-time); artists earning >$100K/yr tripled since 2017; $10B to podcasting in 5 yrs.
+
+**Unit economics — per Premium subscriber** *(estimate, `/follow-the-dollar`; Premium GM corrected to 34.8% audited [S6])*
+| Item | Figure |
+|---|---|
+| Blended Premium ARPU | ~€4.70/mo; +5.7% YoY (Q1'26) |
+| Content cost | ~65% of Premium revenue (implied by 34.8% GM) |
+| Contribution margin | ~€1.6/sub/mo |
+| CAC (fully loaded) | ~€15–25 (organic-heavy; free tier converts) |
+| CAC payback | ~12 mo |
+| LTV (GM-adj, ~2.2%/mo churn, 60mo cap) | ~€70 |
+| LTV:CAC | ~3.5:1 |
+| Binding constraint | gross margin (supplier power), not CAC or churn |
+| One number to watch | blended GM → 35–40% |
+
+---
+
+## 3. Wow Vault ★
 *Ranked non-obvious insights. Each: the claim → why it's non-obvious → how to deploy → source.*
 
 **★ Spotify keeps ~35¢ of every Premium dollar; ~65¢ leaves for rights holders before it pays for anything else — its gross-margin ceiling is set by suppliers, not by operations.**
@@ -111,7 +197,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 *The framing devices, wieldable on almost any prompt.*
 
 - **"No such thing as an average user."** An average is an artifact of a single price point over a power-law demand curve. → pricing/segmentation.
@@ -130,94 +216,6 @@
 - **"With productivity on tap, planning matters more, not less."** When agents do the building, the scarce skill is plans good enough to keep them utilized. → how AI changes teams. [S4]
 - **"Engagement can matter more than user count."** The CFO ranks engagement above subs; adding a vertical doesn't cannibalize, it stacks hours and drops churn. → engagement/multi-product. [S5]
 - **"Grow the market, don't take share."** 3.5% of the world pays; 10–15% isn't crazy — the 1B-subs goal is market creation. → TAM/estimation. [S4][S5]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale & product** [S1 unless noted]
-- 761M MAU (Q1'26) / ~293M subs / 184 markets — 2× the nearest music service.
-- 100M users at ~100% DAU/MAU (28+ days/mo); ~2/3 of all premium music streams happen on Spotify.
-- 3.4 trillion taste signals/day (+43% YTD). ~250M-track catalog (2M in 2008) [S4]. Global streaming share ~60%+ [S5].
-- Penetration: 3.5% of humanity subscribes; 96%+ still to win. Only 47% of streams in English; in 90% of markets the top artist sings in a local language.
-- Free-first: 71% of subs used free before converting; **60% of subscribers originate on the free tier** [S5]; free users +90% since last Investor Day.
-
-**Market arcs** [S1]
-- US: conversion 32%→60% over 10 yrs on 4× base; premium penetration still <20%; LTV +70% since 2022.
-- Brazil: conversion 22%→44% since 2016; base 14× → 27× subs; Pix Automático at 90% lower cost than cards.
-- India: launched 2019 as #10 → now #1; <10% premium; Premium Platinum ~2× price, >7% of subs in months; subs 7× vs last Investor Day; UPI Autopay = 90% of intake at 85% cheaper.
-
-**Verticals** [S1]
-- Audiobooks: ~20% of US market in ~2 yrs; catalog 150K→700K titles; hours +60% (24→25); Audiobooks+ >1M users, ~$100M ARR by Jul'26.
-- Podcast: 500M video-podcast streamers (+50% YoY); 2nd yr profitable, path to 40% margin; audio podcast +3 days/mo, video +1 more; sponsorships +100% YoY.
-- Music video: 2/3 of premium have watched; +85% song streams after watching its video.
-- Wrapped: 630M shares; 20th-birthday experience drove the biggest single day of subscriber intake ever (~100M engaged in 6 days).
-
-**FY2025 & Q4'25 — audited (shareholder deck)** [S6]
-| Metric | FY2025 | Q4'25 |
-|---|---|---|
-| Revenue | €17,186M (+10%; +13% cc) | €4,531M (+7%; +13% cc) |
-| — Premium / Ad-Supported | €15,350M / €1,836M | €4,013M / €518M (ad −4% reported) |
-| Gross margin | 32.0% | 33.1% — Premium **34.8%** / Ad **19.5%** |
-| Operating income / margin | €2,198M / 12.8% (from 8.7% in '24) | €701M / 15.5% |
-| Net income / diluted EPS | €2,212M / €10.51 | €1,174M / €4.43 |
-| Free cash flow | €2,874M (record; ~17% margin) | €834M |
-| Premium ARPU | — | €4.70 (−3% reported / +2% cc; FX drag) |
-| Liquidity / employees | €9.5B cash+STI, no debt / 7,323 FTEs | — |
-| Regional MAU | RoW 37% · Europe 26% · LatAm 21% · NA 16% | |
-| Regional subs | Europe 36% · NA 25% · LatAm 23% · RoW 15% | |
-| 5-yr MAU / subs | 406M→751M / 180M→290M | |
-
-*Trajectory:* Q4'25 = 751M MAU / 290M subs; Q1'26 = 761M / 293M (the deck is one quarter behind; its Q1'26 guide was 759M/293M, which Q1 beat). Q1'26 ARPU +5.7% YoY; ad revenue down by design.
-
-**Industry payouts** [S1]: >$11B to music in 2025 ($70B all-time); artists earning >$100K/yr tripled since 2017; $10B to podcasting in 5 yrs.
-
-**Unit economics — per Premium subscriber** *(estimate, `/follow-the-dollar`; Premium GM corrected to 34.8% audited [S6])*
-| Item | Figure |
-|---|---|
-| Blended Premium ARPU | ~€4.70/mo; +5.7% YoY (Q1'26) |
-| Content cost | ~65% of Premium revenue (implied by 34.8% GM) |
-| Contribution margin | ~€1.6/sub/mo |
-| CAC (fully loaded) | ~€15–25 (organic-heavy; free tier converts) |
-| CAC payback | ~12 mo |
-| LTV (GM-adj, ~2.2%/mo churn, 60mo cap) | ~€70 |
-| LTV:CAC | ~3.5:1 |
-| Binding constraint | gross margin (supplier power), not CAC or churn |
-| One number to watch | blended GM → 35–40% |
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-*The full mechanics, trivial included.*
-
-**Acquire**
-- Word-of-mouth is the #1 channel: *"the single biggest source of new users is a recommendation from an existing user."* Brand love compounds paid-marketing efficiency, free→premium conversion, and retention. [S1]
-- The free tier is the funnel: **60% of subscribers originate on free** [S5]; enhanced free tier (late Q3'25) framed as a "leaky bucket" — plug the holes, the water rises, driving the record +38M Q4'25 MAU adds [S4].
-- Ubiquity: everywhere across devices; historically partnered *with* its biggest competitors (Meta, Google, Apple, TikTok); now inside ChatGPT and Claude. [S1][S3]
-- Culture as acquisition: Wrapped (630M shares); the 20th-birthday experience drove the biggest single intake day ever; artist advocacy (BTS, Bad Bunny). [S1][S4]
-- Local payments as a conversion mechanic: Pix Automático (Brazil), UPI Autopay (India, >90% of intake at 85% cheaper). [S1]
-
-**Engage**
-- Philosophy: days-in-a-month over minutes-in-a-session; three axes = days × devices × verticals; the CFO ranks engagement above user count. [S1][S3][S5]
-- Depth: 100M users at ~100% DAU/MAU; US streaming hours/user +20% over 5 yrs; DJ ~90–94M subs / >4B hours. [S1][S4]
-- Verticals stack, they don't cannibalize: *"add one more vertical and engagement increases, churn drops dramatically."* Music → +podcast → +audiobooks = the most-engaged, best-retained cohort; Fitness is newest (Peloton; 70% of premium work out monthly). [S5][S1]
-- Personalization is the engine: DJ, Discover Weekly, Release Radar, SongDNA (52M in 4 weeks), Taste Profile, Prompted Playlists. Chain: personalization → engagement → conversion → LTV. [S1][S3]
-- Multiplayer hooks: Jam (2× YoY, >100M mo hrs), collaborative playlists, Blend, Messaging, Wrapped Party; 500M subscribe to someone else's playlist. [S1]
-
-**Retain**
-- Churn is best-in-class; US Jan'26 $1 hike (same as Jun'24) → "no surprises at all"; latest round spanned >150 countries with no churn change. Absolute bps still undisclosed. [S1][S3][S4][S5]
-- Switching costs are habit + data + social, not contracts: 20 yrs of taste data shaping your experience, your library, your social graph, cross-device presence.
-- Retention plumbing: family/Duo/student plans (household lock-in), offline mode, no content-gate, prepaid subscription.
-- LTV: US +70% since 2022; similar across maturity stages. [S1]
-
-**Monetize**
-- Three engines: ads (free) · subscription (premium) · top-ups/add-ons (head of the curve). [S3]
-- Subscription: Student $6.99 / Individual $12.99 / Duo / Family; blended ARPU ~€4.70/mo; pay-gate on functionality. [S1][S3]
-- Add-ons: Audiobooks+ (>1M, ~$100M ARR, LTV multiples of premium); personal-podcast credits; creator memberships; AI remix. [S1]
-- Pricing: 15-yr flat baseline → now raising with minimal churn; shifting from collective to **per-market** pricing (refuses a fixed cadence); tiering roadmap = bundled → top-up → à-la-carte, "more coming in the next 11 months." [S1][S5]
-- Ads: Ad GM +441 bps to 19.5% while revenue −4% (margin-over-revenue trade); biddable >1/3; 70% of ad creative AI-generated; Amazon & Yahoo DSPs; H2'26 revenue inflection. [S6][S1][S5]
-- Marketplace (artist tools): gross profit 4× in 4 yrs; margin-accretive. [S1]
-- Reserved: $1.5B ticket sales driven; a premium perk today, direct monetization TBD. [S1]
 
 ---
 

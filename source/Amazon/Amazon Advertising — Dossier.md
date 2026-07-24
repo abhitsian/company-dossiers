@@ -4,9 +4,55 @@
 > One living file. Arc: **Facts → Insights → Differentiators → Plays.** Skim the bold headlines for the gist; drill for detail.
 > *v1 — earnings-grounded + web research. Ground every fact in a source; estimates labeled (est.).*
 
+## 1. Business anatomy — Acquire / Engage / Retain / Monetize
+
+- **Acquire (advertisers).** Self-serve funnel: any 3P seller (61% of units [S2]) or 1P brand can launch Sponsored Products in minutes from Seller/Vendor Central — no minimum. Up-funnel: Sponsored Brands/Display, then Sponsored TV and DSP (agency and enterprise, once high-minimum, now open to SMBs via resellers [S7]). The store itself is the top of the acquisition funnel — every seller who lists is a latent advertiser. Creative Agent removes the production-cost barrier that kept SMBs out of video and CTV. [S1]
+- **Engage.** Core loop for a seller: launch campaign → win auction → gain sales velocity → earn organic rank ("halo") → grow → spend more to defend and expand. The aha is the TACoS realization — ads aren't a cost, they're the organic-growth flywheel. [S9] Amazon's own hooks: a unified Campaign Manager (merged Ads Console and DSP, late 2025) [S4], Ads Agent managing hundreds of campaigns, performance dashboards, and new-to-brand metrics.
+- **Retain.** Switching cost is high: a seller's organic rank, review velocity, and Best-Seller badges all follow from sustained ad spend on Amazon — stop and you lose position to rivals who keep bidding. The catalog, the buyer graph, and fulfillment are all Amazon-locked. Net revenue retention is structurally high because ad spend is defensive as much as offensive (you bid on your own brand terms so rivals don't). No public NRR, but the halo mechanic makes churn self-punishing. [S9]
+- **Monetize.** Several lines on one purchase graph: (1) **Sponsored Products** — CPC auction, largest offering, bottom-funnel [S2]; (2) **Sponsored Brands / Display** — CPC, brand plus retargeting, on and off Amazon; (3) **Sponsored TV / Prime Video / DSP** — CPM, CTV plus programmatic across Amazon-owned (Fire TV, Twitch, IMDb, Music) and third-party (Netflix, Disney+, Hulu) inventory [S7][S8]; (4) emerging **Sponsored Prompts** in the shopping agent (free beta as of 2026, monetization pending) [S8]. Take-rate is the auction clearing price; ARPU (revenue per advertiser) grows as sellers move up-funnel from search to CTV.
+
 ---
 
-## 1. Wow Vault ★
+## 2. Numbers that signal depth
+
+**Headline scale**
+| Metric | Value | Source |
+|---|---|---|
+| Amazon Ads revenue, Q1 2026 | $17.2B, +22% Y/Y | [S1] |
+| Amazon Ads revenue, Q4 2025 | $21.3B, +22% Y/Y | [S2] |
+| Full-year 2025 ad revenue | $68B+ | [S6] |
+| Incremental ad revenue added in 2025 | $12B+ | [S2][S6] |
+| US retail-media revenue 2025 (ex-Prime Video/Twitch) | $60.6B | [S5] |
+| US ad-rev forecast 2026 | ~$56.7B (17.9% growth) | [S4] |
+
+**Market arcs**
+| Metric | Value | Source |
+|---|---|---|
+| Amazon share of US retail media 2025 | 75%+ (some measures ~79.7%) | [S3][S5] |
+| Walmart Connect (2nd) 2026 forecast | $5.99B | [S4] |
+| Amazon + Walmart share of *incremental* retail media 2026 | 89% | [S5] |
+| Amazon ad growth vs. Meta (14.2%) / Google (5.6%) | ~18% | [S4] |
+
+**Surfaces & AI**
+| Metric | Value | Source |
+|---|---|---|
+| Prime Video ad-supported viewers (global) | 315M+ (from 200M early-2024), 16 countries | [S2][S4] |
+| Marketer ↑ in Prime Video spend, past year | +59% | [S4] |
+| Rufus users (before Alexa-for-Shopping rebrand) | 300M used in 2025; ~250M MAU | [S2][S8] |
+| Brand Prompt continuation rate | ~20% keep talking about the brand | [S1] |
+| Sponsored-prompt buyers who are new-to-brand | ~70% | [S4] |
+| Creative Agent country coverage | 7 countries | [S1] |
+| Ads Agent early beta: time saved / ACoS improvement | 30–40% / 12–18% (vendor-reported) | [S8] |
+
+**Unit economics (seller-side, industry benchmarks — not Amazon-reported)**
+- Sponsored Products CPC ≈ $1/click (varies by category). [S7 context]
+- Healthy account: ACoS ~28–30%, TACoS ~10–15%; 30–60% of brand revenue comes directly from ads, the rest organic. [S9]
+- DSP was historically CPM-based with high minimums; in 2025 resellers opened DSP to SMBs with <$10K budgets. [S7]
+- Ad-segment operating margin: **not disclosed**; est. 40%+ contribution given near-zero marginal inventory cost (est., inferred from the all-time-high 13.1% total op-margin [S1]).
+
+---
+
+## 3. Wow Vault ★
 *Non-obvious layer — what makes an interviewer lean in. Ranked strongest first.*
 
 **★ Amazon Advertising is a high-margin cash machine hiding inside a low-margin retailer**
@@ -59,7 +105,7 @@
 
 ---
 
-## 2. Reframes & mental models to borrow
+## 4. Reframes & mental models to borrow
 - **"The shelf is already paid for."** An ad slot on a page the retail business already loaded costs ~zero at the margin → use on any margin/monetization prompt.
 - **"Sell the queue, run the queue."** Amazon charges for position on a ranking it also controls → pricing-power and durability prompts.
 - **"Rent visibility to seed organic (ACoS vs. TACoS)."** Ads buy sales velocity that earns free rank; the gap between the two metrics is the halo → metrics/analytics prompts. [S9]
@@ -67,54 +113,6 @@
 - **"Horizontal agents aggregate; retailers do all four."** Selection, price, delivery, trust — the retailer-agent thesis → AI-disruption prompts. [S1]
 - **"Barbell / full-funnel."** Bottom-funnel search (harvest intent) plus top-funnel CTV (create intent) in one purchase-graph buy → strategy/roadmap prompts.
 - **"More turns, more slots."** A conversation sells better than a results page because it has more sponsored moments → agentic-commerce prompts. [S1]
-
----
-
-## 3. Numbers that signal depth
-
-**Headline scale**
-| Metric | Value | Source |
-|---|---|---|
-| Amazon Ads revenue, Q1 2026 | $17.2B, +22% Y/Y | [S1] |
-| Amazon Ads revenue, Q4 2025 | $21.3B, +22% Y/Y | [S2] |
-| Full-year 2025 ad revenue | $68B+ | [S6] |
-| Incremental ad revenue added in 2025 | $12B+ | [S2][S6] |
-| US retail-media revenue 2025 (ex-Prime Video/Twitch) | $60.6B | [S5] |
-| US ad-rev forecast 2026 | ~$56.7B (17.9% growth) | [S4] |
-
-**Market arcs**
-| Metric | Value | Source |
-|---|---|---|
-| Amazon share of US retail media 2025 | 75%+ (some measures ~79.7%) | [S3][S5] |
-| Walmart Connect (2nd) 2026 forecast | $5.99B | [S4] |
-| Amazon + Walmart share of *incremental* retail media 2026 | 89% | [S5] |
-| Amazon ad growth vs. Meta (14.2%) / Google (5.6%) | ~18% | [S4] |
-
-**Surfaces & AI**
-| Metric | Value | Source |
-|---|---|---|
-| Prime Video ad-supported viewers (global) | 315M+ (from 200M early-2024), 16 countries | [S2][S4] |
-| Marketer ↑ in Prime Video spend, past year | +59% | [S4] |
-| Rufus users (before Alexa-for-Shopping rebrand) | 300M used in 2025; ~250M MAU | [S2][S8] |
-| Brand Prompt continuation rate | ~20% keep talking about the brand | [S1] |
-| Sponsored-prompt buyers who are new-to-brand | ~70% | [S4] |
-| Creative Agent country coverage | 7 countries | [S1] |
-| Ads Agent early beta: time saved / ACoS improvement | 30–40% / 12–18% (vendor-reported) | [S8] |
-
-**Unit economics (seller-side, industry benchmarks — not Amazon-reported)**
-- Sponsored Products CPC ≈ $1/click (varies by category). [S7 context]
-- Healthy account: ACoS ~28–30%, TACoS ~10–15%; 30–60% of brand revenue comes directly from ads, the rest organic. [S9]
-- DSP was historically CPM-based with high minimums; in 2025 resellers opened DSP to SMBs with <$10K budgets. [S7]
-- Ad-segment operating margin: **not disclosed**; est. 40%+ contribution given near-zero marginal inventory cost (est., inferred from the all-time-high 13.1% total op-margin [S1]).
-
----
-
-## 4. Business anatomy — Acquire / Engage / Retain / Monetize
-
-- **Acquire (advertisers).** Self-serve funnel: any 3P seller (61% of units [S2]) or 1P brand can launch Sponsored Products in minutes from Seller/Vendor Central — no minimum. Up-funnel: Sponsored Brands/Display, then Sponsored TV and DSP (agency and enterprise, once high-minimum, now open to SMBs via resellers [S7]). The store itself is the top of the acquisition funnel — every seller who lists is a latent advertiser. Creative Agent removes the production-cost barrier that kept SMBs out of video and CTV. [S1]
-- **Engage.** Core loop for a seller: launch campaign → win auction → gain sales velocity → earn organic rank ("halo") → grow → spend more to defend and expand. The aha is the TACoS realization — ads aren't a cost, they're the organic-growth flywheel. [S9] Amazon's own hooks: a unified Campaign Manager (merged Ads Console and DSP, late 2025) [S4], Ads Agent managing hundreds of campaigns, performance dashboards, and new-to-brand metrics.
-- **Retain.** Switching cost is high: a seller's organic rank, review velocity, and Best-Seller badges all follow from sustained ad spend on Amazon — stop and you lose position to rivals who keep bidding. The catalog, the buyer graph, and fulfillment are all Amazon-locked. Net revenue retention is structurally high because ad spend is defensive as much as offensive (you bid on your own brand terms so rivals don't). No public NRR, but the halo mechanic makes churn self-punishing. [S9]
-- **Monetize.** Several lines on one purchase graph: (1) **Sponsored Products** — CPC auction, largest offering, bottom-funnel [S2]; (2) **Sponsored Brands / Display** — CPC, brand plus retargeting, on and off Amazon; (3) **Sponsored TV / Prime Video / DSP** — CPM, CTV plus programmatic across Amazon-owned (Fire TV, Twitch, IMDb, Music) and third-party (Netflix, Disney+, Hulu) inventory [S7][S8]; (4) emerging **Sponsored Prompts** in the shopping agent (free beta as of 2026, monetization pending) [S8]. Take-rate is the auction clearing price; ARPU (revenue per advertiser) grows as sellers move up-funnel from search to CTV.
 
 ---
 

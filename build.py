@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate the Company Dossiers static site from markdown sources in source/{Company}/*.md."""
-import os, re, html, glob
+import os, re, html, glob, hashlib
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "source")
@@ -8,7 +8,17 @@ OUT_COMPANIES = os.path.join(ROOT, "companies")
 
 ACCENTS = ["#3b5dc9", "#ff6b6b", "#4ecdc4", "#b07aff", "#f97316", "#00d4aa", "#e0ac4c", "#7b96f5", "#c9506b", "#5aa9e6"]
 
-CACHE_BUST = "2026072301"
+def _compute_cache_bust():
+    # Content-addressed, not hand-bumped: hashes style.css + this script (the source of nav.js's
+    # generation logic) so browser/CDN caches invalidate automatically whenever either changes.
+    h = hashlib.sha256()
+    for p in (os.path.join(ROOT, "css", "style.css"), os.path.abspath(__file__)):
+        if os.path.exists(p):
+            with open(p, "rb") as f:
+                h.update(f.read())
+    return h.hexdigest()[:10]
+
+CACHE_BUST = _compute_cache_bust()
 
 def slugify(name):
     s = name.lower().strip()

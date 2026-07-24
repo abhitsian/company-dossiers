@@ -7,25 +7,25 @@
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 *The full mechanics, trivial included.*
 
-**Acquire**
+**Acquire** — how new users first find and start using the product; for Meta, the network is the funnel: four 2B-scale apps and new surfaces like Threads ride the existing graph instead of pulling in users cold.
 - Organic/viral is the acquisition channel: the network *is* the funnel — four 2B-scale apps feed each other, so new surfaces ride the existing graph instead of acquiring cold.
 - Regional split within the graph: WhatsApp is the primary Meta AI driver in India/Indonesia; Facebook drives it in the U.S. [S2]
 - New surfaces ride the graph: Threads, and the standalone Meta AI app — "consistently near the top of the app stores" [S1].
 - Hardware opens a *new* acquisition surface: glasses as a beachhead for always-on AI, a user context the phone-based graph can't reach [S3].
 
-**Engage**
+**Engage** — what makes people open the app and how often; for Meta, that's the ranked feed and Reels recommendation engine, kept fresh with same-day posts and AI-translated video.
 - Core loop = ranked feed/Reels driven by the recommendation engine; the aha is content that feels made-for-you.
 - AI-translated/dubbed video (>0.5B weekly [S1]) grows the pool of content across languages.
 - Same-day posts are now >30% of recommended Reels, 2x a year ago [S1] — freshness drives return frequency.
 - AI-generated *personalized* content is the next hook [S1].
 - Meta AI is moving from an "invoked tool" to an "always-on service" on glasses [S3].
 
-**Retain**
+**Retain** — what keeps users from leaving; for Meta, that's switching costs built into the social graph and message history on WhatsApp/Messenger, with glasses hardware adding a second lock-in layer.
 - Switching costs are the social graph plus message history (WhatsApp/Messenger) — the boring plumbing that makes leaving expensive.
 - Retention risk is external, not competitive: the QoQ DAU dip was outages plus a Russia block [S1], not churn.
 - RL/glasses add a *hardware* lock-in layer (Neural Band, Horizon worlds) on top of the software graph.
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue; for Meta, that's advertising, ~98% of revenue, sold against that engagement, plus emerging lines like WhatsApp paid messaging and business AI.
 - Ads are ~98% of revenue and "by far the most important driver for the next couple of years" [S2].
 - Growth levers move together: impressions +19% and price/ad +12% *at the same time* in Q1'26 [S1] — volume and yield both up.
 - A stack of ad-AI products each at multibillion run-rates: value-optimization >$20B ARR, partnership ads $10B, video-gen tools $10B, incremental attribution multibillion [S1][S2].

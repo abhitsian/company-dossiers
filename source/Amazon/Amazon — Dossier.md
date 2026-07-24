@@ -6,28 +6,28 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. For Amazon, Prime Video content is the widely-cited top of the funnel, with cheap entry points like Haul and lower seller fees pulling in price-sensitive shoppers and sellers.
 - Prime is the top of the funnel — Prime Video is now "an important driver of new member acquisition" and "a large and profitable business in its own right." [S1][S2]
 - Prime Video content draws viewers: TNF was the most-watched season ever (15M avg viewers); the Packers-Bears wild card game drew 31.6M viewers, the most-streamed NFL game ever. [S1][S2]
 - Cheap essentials + grocery pull frequency and keep Amazon "front of mind." [S1][S2]
 - Amazon Haul (1M+ items under $10, live in 25+ countries) and lower 3P seller fees (US/Europe/Brazil) bring in both shoppers and supply. [S1][S2]
 - AWS wins on the widest capability set and startup share — "more of the top 500 US startups than the next 2 providers combined." [S1][S2]
 
-**Engage**
+**Engage** — what makes people use the product often, not just once. For Amazon, the loop runs on delivery speed and frequency (same-day, Amazon Now) plus conversational shopping surfaces (Rufus, Alexa+) that multiply how often and how much people interact.
 - The core loop is frequency: same-day and perishables drive 2–3x visit frequency and 80%+ higher spend. [S1][S2]
 - Quick delivery (Amazon Now, <30 min, live in 9 countries; India +25% MoM) triples shopping frequency for people who try it. [S1][S2]
 - Rufus (300M+ users) deepens engagement through conversational shopping. [S1][S2]
 - Alexa+ deepens engagement further — users do everything 2–3x more than on classic Alexa. [S1][S2]
 - Add to Delivery is already 10% of Prime volume. [S1][S2]
 
-**Retain**
+**Retain** — what stops existing users from switching to a competitor. For Amazon, that's bundling (Prime) on the consumer side and technical lock-in (chip commitments, backlog, the AI-to-core spend link) on the AWS side.
 - The Prime bundle (delivery + video + music + grocery perks) is the switching cost. [S1][S2]
 - On AWS, retention builds through the AI-to-core link: "as customers spend more on AI, we see corresponding demand in core." [S1][S2]
 - AWS carries a $364B backlog. [S1][S2]
 - Nova Forge/Trainium create lock-in through own-data training and committed chip capacity. [S1][S2]
 - Graviton is deeply embedded plumbing, running at 98% of top customers. [S1][S2]
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. For Amazon, that's marketplace fees and FBA on retail, cloud consumption on AWS, and ads layered into shopping and streaming, with AWS carrying most of the profit.
 - Retail/marketplace: 61% 3P unit mix, seller fees + FBA. [S1][S2]
 - AWS: ~$150B run-rate, 35% margin. [S1][S2]
 - Ads: ~$17B/qtr, sponsored products the largest format. [S1][S2]

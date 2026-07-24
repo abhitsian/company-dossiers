@@ -6,22 +6,22 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. For DoorDash, the main engine is cross-category conversion of its own existing restaurant users into grocery and retail, with rented channels (search partners, in-store foot traffic) as secondary top-of-funnel.
 - New-vertical grocery as an acquisition engine: ~1 in 2 new-to-industry grocery customers captured. [S1] Getting existing restaurant MAUs to cross into new categories (the 30%→100% crossover) is the cheapest acquisition — same user, new job. [S1][S2]
 - Channel partners (Google historically; AI agents prospectively) drive "a small percentage" of traffic — treated as rentable top-of-funnel, not owned. [S1][S2]
 - In-store business (Dash Forward, Sept '25) sends foot traffic to restaurants via DashPass access/value — an acquire/re-engage hybrid. [S2]
 
-**Engage**
+**Engage** — what makes users come back and how often. DoorDash's loop is order → fulfill end-to-end → expand into adjacent categories, with fulfillment reliability (the right item, in stock, on time) as the hook rather than discovery.
 - Core loop: order → fulfill end-to-end → expand into adjacent categories (restaurant → grocery → retail → DashMart). Frequency thesis: mid-week "quick runs" + weekend "stock-up" baskets; each successive cohort adopts faster; existing cohorts grow share of wallet. [S2]
 - The aha = the exact item arrives, in-stock, on time — fulfillment quality is the engagement hook, not discovery. [S1]
 - Surface-by-surface: DashPass (membership), Ads (merchant-facing), DoorDash for Business (corporate: DashPass + Meal Manager + catering + group ordering, newly launched workplace catering). [S1]
 
-**Retain**
+**Retain** — what keeps users from leaving. DoorDash relies on DashPass membership plus the accumulated switching cost of a multi-category habit, backed by fulfillment infrastructure that cuts the substitutions/out-of-stocks that normally drive churn.
 - DashPass is the retention spine ("critical," core since 2017/2018): record subscribers in Q4 AND FY25; growth from both sign-ups and retention, across DoorDash, Deliveroo, and Wolt (record quarter). [S1][S2]
 - Switching cost = accumulated multi-category habit + membership value expansion (more categories at "effectively the same fee"). [S2]
 - Boring plumbing that compounds: the proprietary physical-world catalog (fewer substitutions/out-of-stocks via DashMart Fulfillment Services) directly attacks the #1 grocery churn driver. [S1]
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. DoorDash's mix is marketplace commissions (the primary line), DashPass subscriptions, merchant/CPG advertising, and a corporate line, kept below rivals on ad load by design.
 - **Marketplace commissions** (restaurant + new verticals) — primary line, GOV-driven; no take-rate disclosed.
 - **DashPass / memberships** — subscription; monetized through retention + frequency + gross-profit dollars, not price hikes ("effectively the same fee" while adding categories). [S2]
 - **Ads** — "record high," fastest-growing; SMBs, large restaurant/retail advertisers, and CPG; Smart Campaigns (an agent that buys ROI-positive campaigns for merchants); Symbiosis-driven advertiser + spend growth. Expanding into off-site/syndicated ads, in-store, and buying on behalf of advertisers off DoorDash. Reinvested, not margined. [S1][S2]

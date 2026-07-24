@@ -6,28 +6,28 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. For Microsoft, new products ride the existing M365 seat base into accounts rather than needing separate acquisition marketing: deals land both top-down through enterprise contracts and bottom-up through individual subscriptions.
 - The installed base is the channel: 450M+ M365 commercial seats [S2] are the entry point for Copilot; the >50K-seat customer group quadrupled Y/Y [S1].
 - Deals land top-down: Accenture 740K seats, Publicis 95K seats.
 - Deals land bottom-up too: GitHub Copilot 4.7M individual subs, +75% [S2]; Copilot Pro+ individual subs +77% Q/Q.
 - Azure lands through Foundry model access — the widest model choice of any hyperscaler [S2] — and through migrations.
 - New commercial seat growth is now mainly SMB + frontline [S1], the least-penetrated edges of the base.
 
-**Engage**
+**Engage** — what makes people use the product, and how often. For Microsoft, the loop is a data flywheel: usage builds richer org-context, which makes Copilot's answers better, which drives more usage, reinforced by agent features now on by default across the M365 apps.
 - The core loop is the Work IQ flywheel: usage → richer org-context → better Copilot/agent answers → more usage [S1].
 - The "aha" is the sudden capability jump — Agent Mode in Excel that "didn't work until it started working" [S1].
 - Agent Mode is now on by default across Word/Excel/PowerPoint; "Cowork" hands off tasks [S1].
 - Proof of engagement: Copilot weekly use = Outlook's [S1]; agent MAU +6x YTD; queries per user +~20% Q/Q [S1]; conversations per user doubled Y/Y [S2].
 - Surfaces span M365 apps, GitHub, Teams (as a data source feeding Work IQ), the consumer Copilot app (DAU ~3x Y/Y [S2]), Security Copilot, and Dragon (healthcare).
 
-**Retain**
+**Retain** — what keeps customers from leaving. For Microsoft, it's switching costs: the M365 data graph and identity/compliance systems (Entra, Purview) are hard to rip out, and multiyear commitments (RPO) lock the relationship in further.
 - Switching costs come from the M365 data graph — 17 exabytes, +35% Y/Y [S1] — plus identity/compliance: Entra, Purview auditing 24B Copilot interactions [S2].
 - RPO $627B, +99% [S1], ~2.5yr duration, locks in multiyear commitments.
 - E5 and Copilot lift revenue per seat within existing seats [S1].
 - Agent 365 deepens lock-in by extending governance to third-party agents [S2].
 - Weak spot: "weaker renewals as customers balance spend between per-seat and seats-plus-consumption" [S1].
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. For Microsoft, it's several parallel lines running side by side: per-seat M365/E5/Copilot pricing, Azure and GitHub usage-based billing, LinkedIn subscriptions and ads, and gaming/Windows OEM — a mix shifting from flat per-seat toward metered consumption.
 - Several lines, each with its own unit. The base line is M365 per-seat plus E5/Copilot revenue uplift.
 - The new seats-plus-consumption overage: metered, discounted for commitment [S1].
 - Azure usage: tokens, compute, storage — "AI workloads are not just AI accelerators" [S2].

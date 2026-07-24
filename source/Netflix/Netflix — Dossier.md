@@ -6,25 +6,25 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. For Netflix, this runs on content and fandom driving word of mouth, with the $8.99 ads tier as the low-price entry point.
 - Acquisition runs on content and fandom: hit franchises create advocates who pull in new members "beyond the hours watched." [S2]
 - The ads plan at **$8.99 in the US** is "a great entry point, highly accessible" — a low-price way into the ecosystem. [S1]
 - Live and games each bring their own acquisition traits; live events "drive different acquisition characteristics," while games' observed acquisition effect is honestly called "really small to date." [S1]
 - Regional wins: APAC = "strongest FX-neutral revenue growth market"; Japan had "highest quarter of paid net adds in our history," helped by WBC live driving ad sales. [S1]
 
-**Engage**
+**Engage** — what makes people use it, and how often. For Netflix, the core loop is personalized recommendations surfacing content to watch, extended into podcasts, live events, and games to fill more of the day.
 - Core loop = personalized recommendations surface content → watch → the engine learns. A "new-architecture recommender" is being built to "improve the current personalization" and "iterate and improve more quickly." [S1]
 - The product experience "acts as a force multiplier to the large content investments." [S1]
 - Engagement is measured by the private quality metric, not raw hours; total view hours H2'25 +2% Y/Y (~1.5B added hours); branded originals +9% Y/Y (~half of viewing). [S2]
 - Expanding surfaces to fill empty space: podcasts (daytime + mobile slot), live events, games on TV ("a new canvas for players and developers"). [S1]
 
-**Retain**
+**Retain** — what keeps subscribers from canceling. For Netflix, this comes from switching costs built up through personalization, catalog breadth, and the lowest cost per hour, reinforced by games and live.
 - Retention "every region was better year-over-year"; churn "improved year-on-year"; CSAT at "all-time high"; retention "among the best in the industry." [S1][S2]
 - The quality metric is validated by its link to retention — "improving that number improves the business." [S1]
 - Switching costs = built-up personalization + catalog breadth + cheapest cost per hour, so leaving means paying ~2× per hour elsewhere. [S1]
 - Games and live work as retention plumbing: cloud games "drive more engagement, more retention"; gameplay "can have a positive impact on member retention." [S2][S1]
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. For Netflix, this is subscription tiers (including the $8.99 ads plan) plus a fast-growing advertising business, with games and live monetized more indirectly.
 - Subscription tiers, including the $8.99 US ads plan; US price increase with "early signals in line with expectations," built into guidance. [S1]
 - Advertising: targeting ~$3B in 2026 (~2× 2025's 2.5×); own ad-tech stack, >4,000 advertisers, programmatic heading past 50% of nonlive ads; CPMs kept premium via fill rate + inventory. First-party data being opened up "in a privacy-safe way" to improve media buys. [S1][S2]
 - Games: included in membership today (Netflix Playground for kids is "no ads, no in-app purchases... included in your membership"); monetization is deferred, ramped "based on demonstrated performance and growing returns." [S1]

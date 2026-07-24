@@ -6,27 +6,27 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product; for Apple, this runs almost entirely through the hardware sale itself, with the 2.5B installed base then driving cross-sell into every other product and service.
 - The main channel is the hardware sale itself: iPhone ($57–85B/qtr) is both the product and the moment a customer is won.
 - New-to-product ratios are the tell: over half of Watch buyers, ~half of Mac buyers, over half of iPad buyers are first-timers [S2][S1].
 - In China and India, the majority of Mac/iPad/Watch buyers are new to the product [S2][S1].
 - Switchers into iPhone are growing "strong double-digit" [S2].
 - The 2.5B installed base is then the channel for *every other* product and service — cross-sell, not paid acquisition.
 
-**Engage**
+**Engage** — what makes people use the product, and how often; for Apple, that's the device itself as a daily habit (Apple Intelligence, camera, Health tracking) reinforced by content surfaces like the App Store and Apple TV.
 - The device is the daily loop: Apple Intelligence, camera, Center Stage, and now on-device AI are the hooks across the platform [S1].
 - Health is a rising hook — users "wearing their watch to sleep" to check scores creates a 24-hour engagement surface [S2].
 - Hypertension alerts create doctor-conversation moments, another engagement trigger tied to Health [S2].
 - App Store: >850M weekly users [S2].
 - Apple TV as an engagement/retention surface: F1, MLS in 100+ countries with no blackouts, Friday Night Baseball; Dec viewership +36% YoY [S1][S2].
 
-**Retain**
+**Retain** — what keeps users from leaving; for Apple, that's ecosystem switching costs (iMessage, Apple Pay, Health history, Watch-iPhone pairing) backed by high satisfaction scores.
 - Switching costs are the ecosystem: iMessage, Wallet/Digital ID, Apple Pay, purchased apps/content, Watch-iPhone pairing, Health data history.
 - 99% iPhone satisfaction and 96% Watch satisfaction are the early signs of retention [S1][S2].
 - Paid subscriptions growing double-digit; transacting and paid accounts at all-time highs [S2].
 - Health features that "save lives" are the strongest lock-in — you don't drop the device watching your hypertension [S1].
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue; for Apple, that's two engines — lower-margin hardware and much higher-margin Services (subscriptions, commissions, and a fast-rising ads business).
 - Two engines: **Products** and **Services**. Products carry ~38.7% GM, with in-house chips protecting and lifting that margin [S1][S2].
 - **Services** carry ~76.7% GM: App Store commissions, subscriptions (Music, TV+, iCloud, Arcade, Fitness+), payment services (Apple Pay, Tap to Pay in 50+ markets), and cloud [S1][S2].
 - The fast-rising **advertising** business inside Services: App Store search ads (expanded), and Apple Maps ads launching summer in US/Canada [S1][S2].

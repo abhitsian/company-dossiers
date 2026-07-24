@@ -6,22 +6,22 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. Here it's mostly distribution already built into other products (Chrome/Android defaults for Search, a free tier for Gemini) rather than paid marketing, with Cloud the exception, still won through direct enterprise sales.
 - **Search/consumer:** default distribution (Chrome, Android, browser deals), zero-marginal-cost virality; AI Overviews/AI Mode are now the top-of-funnel re-acquire mechanism (2.5B+ / 1B+ users) [S2]. S&M +23% YoY on Gemini-app + Search marketing — a rare deliberate paid push [S1].
 - **Cloud:** enterprise sales motion; new-customer acquisition doubled YoY; partner ecosystem seats +9x YoY [S1]. Wiz (closed March'26) adds a security-led land motion [S1].
 - **Gemini app:** consumer land via free tier; >900M MAU, "one of our fastest-growing products" [S2]. Open models (Gemma, 500M+ downloads) bring in developers at the top of the funnel [S1].
 
-**Engage**
+**Engage** — what makes people use the product, and how often. Here it's a query-in, AI-answer-or-action-out loop that deepens each session, plus a parallel loop on YouTube through watch time and Shorts.
 - **Core loop:** query → AI answer/action → more queries (the expansionary flywheel). AI Mode queries 3x longer, 1-in-6 non-text — deeper sessions [S3]. Personal Intelligence + Gemini Spark (24/7 background agent) push from *answers* to *actions* [S2].
 - **YouTube:** led U.S. streaming watch time 3 years running; >200M living-room hours/day; Shorts >200B daily views, >10M channels publishing Shorts daily [S1][S2][S3]. "Ask YouTube" conversational search (Gemini) deepens engagement [S2].
 - **Aha:** the moment an AI answer finishes a task that used to take five links (agentic restaurant booking, Search Live, Direct Offers checkout) [S1].
 
-**Retain**
+**Retain** — what keeps users from leaving. Here it's multi-year contract commitments (the $462B Cloud backlog) on the enterprise side, and subscriptions plus being embedded across 13 products with 1B+ users each on the consumer side.
 - **Switching costs:** for enterprise, the $462B backlog *is* the retention story — multi-year roadmap commitments, >50% beyond 24 months [S1][S2]. Existing customers spend +45% over their initial commitment [S1].
 - **Consumer:** 350M paid subs (YouTube Premium + Google One AI plans); largest quarterly non-trial YT Music+Premium net-adds since the 2018 launch; subs growing faster than ads [S1]. Ecosystem lock-in via 13 products with >1B users.
 - **Plumbing:** secure-by-default (blocks 10M spam emails/min); Google AI Threat Defense (Gemini+Wiz+CodeMender+Mandiant) raises the enterprise switching cost on the security axis [S2].
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. Here it's mainly advertising (Search and YouTube), layered with Cloud consumption pricing and enterprise seats, plus a growing subscriptions line.
 - **Search ads (the profit engine):** ~$60B/qtr, +19%. Ad coverage has historically been ~20%; management sees **upside** as Gemini's grasp of intent lets it sell ads on long/complex queries it couldn't monetize before. >30% of customer search spend now runs on AI-enabled campaigns (AI Max / Performance Max) [S1].
 - **YouTube:** ads (DR-led) + subscriptions; 2025 total >$60B; in some markets (incl. U.S.) Shorts earns *more* revenue per watch-hour than in-stream [S2][S3].
 - **Cloud:** consumption-priced compute + Gemini Enterprise seats + TPU hardware (new line, mostly 2027 revenue) [S1].

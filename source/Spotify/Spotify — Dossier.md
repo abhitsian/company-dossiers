@@ -6,27 +6,27 @@
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 *The full mechanics, trivial included.*
 
-**Acquire**
+**Acquire** — how new users first find and start using the product; for Spotify, growth runs mainly on word-of-mouth referrals and a free tier engineered to convert, not paid marketing.
 - Word-of-mouth is the #1 channel: *"the single biggest source of new users is a recommendation from an existing user."* Brand love compounds paid-marketing efficiency, free→premium conversion, and retention. [S1]
 - The free tier is the funnel: **60% of subscribers originate on free** [S5]; enhanced free tier (late Q3'25) framed as a "leaky bucket" — plug the holes, the water rises, driving the record +38M Q4'25 MAU adds [S4].
 - Ubiquity: everywhere across devices; historically partnered *with* its biggest competitors (Meta, Google, Apple, TikTok); now inside ChatGPT and Claude. [S1][S3]
 - Culture as acquisition: Wrapped (630M shares); the 20th-birthday experience drove the biggest single intake day ever; artist advocacy (BTS, Bad Bunny). [S1][S4]
 - Local payments as a conversion mechanic: Pix Automático (Brazil), UPI Autopay (India, >90% of intake at 85% cheaper). [S1]
 
-**Engage**
+**Engage** — what makes people use a product and how often; for Spotify, that's stacking verticals (music, podcasts, audiobooks, fitness) with deep personalization (DJ, Discover Weekly, Blend) to drive daily, cross-device habit.
 - Philosophy: days-in-a-month over minutes-in-a-session; three axes = days × devices × verticals; the CFO ranks engagement above user count. [S1][S3][S5]
 - Depth: 100M users at ~100% DAU/MAU; US streaming hours/user +20% over 5 yrs; DJ ~90–94M subs / >4B hours. [S1][S4]
 - Verticals stack, they don't cannibalize: *"add one more vertical and engagement increases, churn drops dramatically."* Music → +podcast → +audiobooks = the most-engaged, best-retained cohort; Fitness is newest (Peloton; 70% of premium work out monthly). [S5][S1]
 - Personalization is the engine: DJ, Discover Weekly, Release Radar, SongDNA (52M in 4 weeks), Taste Profile, Prompted Playlists. Chain: personalization → engagement → conversion → LTV. [S1][S3]
 - Multiplayer hooks: Jam (2× YoY, >100M mo hrs), collaborative playlists, Blend, Messaging, Wrapped Party; 500M subscribe to someone else's playlist. [S1]
 
-**Retain**
+**Retain** — what keeps users from leaving; for Spotify, that's switching costs built on years of taste data, library, and social graph rather than contract lock-in, durable enough that recent price hikes haven't moved churn.
 - Churn is best-in-class; US Jan'26 $1 hike (same as Jun'24) → "no surprises at all"; latest round spanned >150 countries with no churn change. Absolute bps still undisclosed. [S1][S3][S4][S5]
 - Switching costs are habit + data + social, not contracts: 20 yrs of taste data shaping your experience, your library, your social graph, cross-device presence.
 - Retention plumbing: family/Duo/student plans (household lock-in), offline mode, no content-gate, prepaid subscription.
 - LTV: US +70% since 2022; similar across maturity stages. [S1]
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue; for Spotify, that's three engines — ads, subscription, and add-ons — with subscription doing most of the work and pricing now shifting from a flat global rate to per-market increases.
 - Three engines: ads (free) · subscription (premium) · top-ups/add-ons (head of the curve). [S3]
 - Subscription: Student $6.99 / Individual $12.99 / Duo / Family; blended ARPU ~€4.70/mo; pay-gate on functionality. [S1][S3]
 - Add-ons: Audiobooks+ (>1M, ~$100M ARR, LTV multiples of premium); personal-podcast credits; creator memberships; AI remix. [S1]

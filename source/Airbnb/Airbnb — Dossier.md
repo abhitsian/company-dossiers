@@ -6,23 +6,23 @@
 
 ## 1. Business anatomy — Acquire / Engage / Retain / Monetize
 
-**Acquire**
+**Acquire** — how new users first find and start using the product. For Airbnb, growth runs through the app's own funnel, host supply pulled in by live events, adjacent products (experiences, services, hotels) recapturing users already in the store, and AI search as a newly opening inbound channel.
 - **Direct/brand-led + app funnel:** app nights +22% YoY, now 63% of nights — the app is the acquisition + retention flywheel. [S1] First-time bookers +10%, led by Brazil/Japan/India. [S1]
 - **Events as supply-acquisition:** the single "very best way to add supply" — 40,000 Paris hosts retained, >50% of Games-specific listings still live 6 months later. [S2][S1]
 - **Adjacency as demand-recapture:** experiences/services/hotels catch users "already in our store" and route them to stays. Experiences: ~1/3 book a stay within 90 days. [S1]
 - **AI search as inbound:** chatbot traffic converts higher than Google — a positive top-of-funnel channel, "nothing banked into our outlook." [S2]
 
-**Engage**
+**Engage** — what makes people use the product, and how often. For Airbnb, engagement centers on a search → message host → book → review loop (85–90% of guests message a host), with experiences and services layered in to push usage beyond one big trip a year.
 - **Core loop:** search → message host (85–90% of guests message) → book → review. The message thread + review corpus are the engagement AND the moat. [S2][S1]
 - **Higher-frequency wedge:** experiences/services push usage "beyond just a big trip" — the strategic answer to Airbnb's low-frequency problem. [S2]
 - **Personalization over tabs:** because 100% of bookers have a verified account, the surface is deeply personalized, not tab-segmented. [S1]
 
-**Retain**
+**Retain** — what keeps users from switching to a competitor. For Airbnb, retention rests on accumulated switching costs — verified identity, review history, saved trips, host relationships — not on a loyalty program, which the company is holding in reserve.
 - **Switching costs:** verified identity (200M IDs), review history (500M reviews), saved trips, host relationships — none portable to a competitor or a chatbot. [S2]
 - **Supply retention:** individual hosts rate higher than property managers → durable, exclusive, sticky long-tail supply. [S1] Event-onboarded hosts retained >50% at 6 months. [S1]
 - **No loyalty program yet** — a retention lever held in reserve. [S1]
 
-**Monetize**
+**Monetize** — how the company turns usage into revenue. For Airbnb, this runs through take rate/fees, RNPL installment financing that lifts average day rate, and new revenue lines (experiences, services, hotels) beyond the core stays commission.
 - **Take rate:** rising via single/simplified fee structure + a new **insurance program**; management guides FY26 adj. EBITDA margin "at least 35%." [S1]
 - **RNPL (~20% of GBV):** raises ADR (mix-shift to nicer/larger homes) and lengthens lead times; costs near-term fee-recognition timing. [S1][S2]
 - **New revenue lines:** experiences, services (first-party photography; third-party grocery via Instacart, airport pickup), hotels (recapture), Delta miles rev-share partnership. [S1][S2]

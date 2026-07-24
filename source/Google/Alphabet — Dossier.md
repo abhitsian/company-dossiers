@@ -289,16 +289,58 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 *Gaps first:* (a) 900M Gemini-app users un-monetized; (b) agentic *actions* thin vs. agentic *answers*; (c) Network ads decaying with no strategy; (d) TPU external channel nascent; (e) consumer-AI pricing (one price, power-law demand) under-segmented; (f) UCP live at only a handful of merchants.
 
-- **Play #1 — Agentic commerce owned end-to-end (UCP + Direct Offers + checkout).** *Move:* make Google the agent that *completes* the purchase inside AI Mode/Gemini, not just surfaces the offer. *Gap:* actions lag answers. *Why Google:* owns the query, the intent model, the ad relationship, *and* the UCP standard rivals are adopting. *10×:* turns high-intent queries directly into transactions (a take-rate on top of the ad rate). *Proof-point:* Ulta live + Gap/L'Oréal/Chewy pilots — expand to a category. [S1]
-- **Play #2 — Gemini Spark as the always-on personal agent tier.** *Move:* a paid 24/7 background agent that runs recurring tasks (bookings, monitoring, research). *Gap:* agentic actions thin. *Why Google:* Personal Intelligence + 13 products of context + cheapest serving cost. *10×:* a new consumer subscription line above Google One. *Proof:* Spark already shipping — meter task-completions. [S2]
-- **Play #3 — Run ads on the Gemini app using a proven AI Mode format.** *Move:* port the validated AI Mode ad format to the 900M-MAU app once proven. *Gap:* the largest un-monetized asset. *Why Google:* the ad stack + advertiser relationships already exist. *100×:* a second Search-scale ad surface. *Proof:* run a small ad test the moment AI Mode monetization stabilizes. [S1]
-- **Play #4 — TPU-as-a-product channel, ROIC-gated.** *Move:* scale direct TPU sales into enterprise + frontier-lab data centers. *Gap:* channel nascent, revenue mostly 2027. *Why Google:* 10-yr TPU track record, +80% perf/$, "same hardware that powers Gemini." *10×:* opens a "previously untapped addressable market" AND lowers Google's own compute cost. *Proof:* the multiple $1B+ deals already signed. [S1][S2]
-- **Play #5 — AI-modernize the mainstream enterprise via BigQuery/Workspace.** *Move:* make every existing data/productivity workflow Gemini-native (low switching cost). *Gap:* Microsoft bundles its install base. *Why Google:* BigQuery Gemini workflows already +30x; 75% of Cloud customers use AI. *10×:* expansion revenue (+45% over commitment) across 14 $1B lines. *Proof:* Agentic Data Cloud (Amex, Vodafone). [S1]
-- **Play #6 — Cross-format brand ads with Gemini measurement.** *Move:* one brand buy across living-room YouTube + Shorts + podcasts with AI-verified lift. *Gap:* brand lags DR; measurement weak. *Why Google:* owns the #1 streamer + Shorts + podcast inventory + Gemini creator tooling. *10×:* pull TV brand budgets. *Proof:* Supergoop!/Liza Koshy 93% product / 55% brand lift. [S1][S3]
-- **Play #7 — Own the agentic-dev developer via Antigravity + Gemma.** *Move:* Antigravity (agentic orchestration) + open Gemma as the default startup stack. *Gap:* OpenAI/Anthropic own startup mindshare. *Why Google:* ~50% of its *own* code is agent-written — dogfooded at scale; Gemma 500M+ downloads. *10×:* the next generation builds on Google's stack → Cloud pull-through. *Proof:* millions of Antigravity devs already. [S2][S3]
+**1. Agentic commerce owned end-to-end (UCP + Direct Offers + checkout) — 10×**
+- Move: make Google the agent that completes the purchase inside AI Mode/Gemini, not just surfaces the offer.
+- Gap: actions lag answers.
+- Why Google: owns the query, the intent model, the ad relationship, and the UCP standard rivals are adopting.
+- 10×: turns high-intent queries directly into transactions (a take-rate on top of the ad rate).
+- Proof: Ulta live + Gap/L'Oréal/Chewy pilots — expand to a category. [S1]
+
+**2. Gemini Spark as the always-on personal agent tier — 10×**
+- Move: a paid 24/7 background agent that runs recurring tasks (bookings, monitoring, research).
+- Gap: agentic actions thin.
+- Why Google: Personal Intelligence + 13 products of context + cheapest serving cost.
+- 10×: a new consumer subscription line above Google One.
+- Proof: Spark already shipping — meter task-completions. [S2]
+
+**3. Run ads on the Gemini app using a proven AI Mode format — 100×**
+- Move: port the validated AI Mode ad format to the 900M-MAU app once proven.
+- Gap: the largest un-monetized asset.
+- Why Google: the ad stack + advertiser relationships already exist.
+- 100×: a second Search-scale ad surface.
+- Proof: run a small ad test the moment AI Mode monetization stabilizes. [S1]
+
+**4. TPU-as-a-product channel, ROIC-gated — 10×**
+- Move: scale direct TPU sales into enterprise + frontier-lab data centers.
+- Gap: channel nascent, revenue mostly 2027.
+- Why Google: 10-yr TPU track record, +80% perf/$, "same hardware that powers Gemini."
+- 10×: opens a "previously untapped addressable market" AND lowers Google's own compute cost.
+- Proof: the multiple $1B+ deals already signed. [S1][S2]
+
+**5. AI-modernize the mainstream enterprise via BigQuery/Workspace — 10×**
+- Move: make every existing data/productivity workflow Gemini-native (low switching cost).
+- Gap: Microsoft bundles its install base.
+- Why Google: BigQuery Gemini workflows already +30x; 75% of Cloud customers use AI.
+- 10×: expansion revenue (+45% over commitment) across 14 $1B lines.
+- Proof: Agentic Data Cloud (Amex, Vodafone). [S1]
+
+**6. Cross-format brand ads with Gemini measurement — 10×**
+- Move: one brand buy across living-room YouTube + Shorts + podcasts with AI-verified lift.
+- Gap: brand lags DR; measurement weak.
+- Why Google: owns the #1 streamer + Shorts + podcast inventory + Gemini creator tooling.
+- 10×: pull TV brand budgets.
+- Proof: Supergoop!/Liza Koshy 93% product / 55% brand lift. [S1][S3]
+
+**7. Own the agentic-dev developer via Antigravity + Gemma — 10×**
+- Move: Antigravity (agentic orchestration) + open Gemma as the default startup stack.
+- Gap: OpenAI/Anthropic own startup mindshare.
+- Why Google: ~50% of its own code is agent-written — dogfooded at scale; Gemma 500M+ downloads.
+- 10×: the next generation builds on Google's stack → Cloud pull-through.
+- Proof: millions of Antigravity devs already. [S2][S3]
 
 **Small compounding wins:** widen ad coverage past 20% one query-class at a time; port Premium Lite to +12 countries; genre-level podcast ad buying; Maps promoted-pins relevance +10%; Shorts revenue-per-watch-hour beating in-stream in more markets; deconsolidate more capital-heavy Other Bets; each perf/$ TPU-generation gain compounds into lower serving cost.
 

@@ -260,15 +260,45 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (a) 70% of MAUs haven't crossed into non-restaurant categories; (b) DashPass frequency (~2×/week) sits at single-digit-% of the 100+/month occasion pool; (c) partner-store inventory truth is thin (handful of DashMart FS partners); (d) grocery/retail/CPG ads under-monetized vs restaurant; (e) corporate catering supply side unbuilt; (f) autonomy demand-orchestration under-used.
 
-- **Inventory-truth layer at scale (DashMart Fulfillment Services everywhere)** · closes the grocery experience gap (#c) · **why DoorDash:** it owns the proprietary physical-world catalog + Dasher network to keep it live · **100×** on grocery (the same-or-larger-than-restaurant TAM) · first cheap proof: publish zero-substitution rate on Kroger/CVS pilots vs offline. [S1][S2]
-- **Category-crossover engine (30%→100%)** · closes the unserved-cross-sell job (#a) · **why DoorDash:** same authenticated MAU, existing fulfillment · **10×** on GOV-per-MAU · proof: measured lift when a restaurant user is nudged into a first grocery order. [S1][S2]
-- **DashPass occasion-expansion** · closes frequency headroom (#b) · **why DoorDash:** membership + low-ad-load trust already in place · **10×** on frequency toward the 100/month ceiling · proof: convert gas-rewards demand into retained DashPass orders. [S1][S2]
-- **Self-driving ads for retail + CPG** · closes ad under-monetization (#d) · **why DoorDash:** Smart Campaigns + Symbiosis + real purchase data; CPG "cracked" · **10×** on ad revenue while holding ad load · proof: extend "always ROI-positive" auto-campaigns to CPG advertisers off-site/syndicated. [S1][S2]
-- **B2B catering fulfillment stack** · closes the workplace-catering job (#e) · **why DoorDash:** DoorDash for Business + Meal Manager + logistics · **10×** on the corporate line · proof: capacity/menu tooling that lets one restaurant reliably serve a 40-person order. [S1]
-- **Autonomy demand-orchestration marketplace** · closes AV under-use (#f) · **why DoorDash:** fleet-agnostic routing + demand density + real-world catalog · **100×** on cost structure if it becomes the routing brain for third-party AVs/drones · proof: publish live mixed-fleet delivery volume. [S1][S2]
+**1. Inventory-truth layer at scale — 100×**
+- Move: DashMart Fulfillment Services everywhere — grows grocery, the same-or-larger-than-restaurant TAM.
+- Gap: closes the grocery experience gap (#c).
+- Why DoorDash: it owns the proprietary physical-world catalog + Dasher network to keep it live.
+- Proof: publish zero-substitution rate on Kroger/CVS pilots vs offline. [S1][S2]
+
+**2. Category-crossover engine — 10×**
+- Move: grow category crossover from 30% to 100% of MAUs, lifting GOV-per-MAU.
+- Gap: closes the unserved-cross-sell job (#a).
+- Why DoorDash: same authenticated MAU, existing fulfillment.
+- Proof: measured lift when a restaurant user is nudged into a first grocery order. [S1][S2]
+
+**3. DashPass occasion-expansion — 10×**
+- Move: DashPass occasion-expansion, pushing frequency toward the 100/month ceiling.
+- Gap: closes frequency headroom (#b).
+- Why DoorDash: membership + low-ad-load trust already in place.
+- Proof: convert gas-rewards demand into retained DashPass orders. [S1][S2]
+
+**4. Self-driving ads for retail + CPG — 10×**
+- Move: self-driving ads for retail + CPG, growing ad revenue while holding ad load.
+- Gap: closes ad under-monetization (#d).
+- Why DoorDash: Smart Campaigns + Symbiosis + real purchase data; CPG "cracked."
+- Proof: extend "always ROI-positive" auto-campaigns to CPG advertisers off-site/syndicated. [S1][S2]
+
+**5. B2B catering fulfillment stack — 10×**
+- Move: B2B catering fulfillment stack, growing the corporate line.
+- Gap: closes the workplace-catering job (#e).
+- Why DoorDash: DoorDash for Business + Meal Manager + logistics.
+- Proof: capacity/menu tooling that lets one restaurant reliably serve a 40-person order. [S1]
+
+**6. Autonomy demand-orchestration marketplace — 100×**
+- Move: autonomy demand-orchestration marketplace — become the routing brain for third-party AVs/drones, cutting cost structure if it lands.
+- Gap: closes AV under-use (#f).
+- Why DoorDash: fleet-agnostic routing + demand density + real-world catalog.
+- Proof: publish live mixed-fleet delivery volume. [S1][S2]
 
 **Small compounding wins (a dozen 5%s is a double):** lower substitution rate per store; +1 category per crossover cohort; DashPass small-run free-delivery nudges; CPG advertiser onboarding via agents "with perfect quality"; workplace-catering group-order defaults; retiring redundant stack features to reclaim velocity; timing platform reinvestment to storm-soft quarters. [S1][S2]
 

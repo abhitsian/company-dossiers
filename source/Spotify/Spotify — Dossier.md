@@ -346,7 +346,7 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
-*Each: move · gap · why Spotify can run it · size · first proof-point. Ranked by impact × right-to-win.*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **1. Superfan commerce layer — 100×**
 - Move: the artist↔superfan commerce rail — presales (Reserved is the wedge), merch, memberships, tips, drops; Spotify takes a cut.

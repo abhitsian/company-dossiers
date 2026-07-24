@@ -30,6 +30,7 @@ def slugify(name):
 def inline(text):
     text = html.escape(text, quote=False)
     text = re.sub(r"\[S(\d+)\]", r'<sup class="cite"><a href="#cite-s\1">S\1</a></sup>', text)
+    text = re.sub(r"§(\d+)", r'<a href="#s\1" class="section-ref">§\1</a>', text)
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', text)
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)

@@ -292,15 +292,51 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (a) multiplayer group-booking tooling; (b) low-commitment high-frequency entry at scale; (c) hotel-native conversion surface; (d) a differentiated loyalty/demand-retention layer; (e) systematized always-on event-supply onboarding.
 
-- **Play #1 — Native multiplayer trip surface (compare · vote · split · lock).** Move: build the group-decision layer Airbnb bookings already require. Gap it closes: multiplayer coordination leaks to WhatsApp. Why THIS company: 100% of bookers are verified accounts + RNPL already lets one person lock a bigger home without fronting the cost. **10×** on group-trip conversion; also the moat-deepening feature ("chatbots are single-player"). First proof-point: a shared shortlist + split-pay on 5+BR listings in one market. [S1][S2]
-- **Play #2 — Experiences as the trust on-ramp for first-timers.** Move: route trust-threshold first-timers into a $20 low-stakes experience before a stay. Gap: experiences under-used as an acquisition wedge. Why THIS company: ~1/3 of experience-bookers book a stay within 90 days; first-time bookers already at post-2022 highs. **10×** on first-timer→stay conversion. Proof-point: a "try Airbnb for $X" experience-first onboarding in Brazil/Japan/India. [S1]
-- **Play #3 — Scale the high-frequency wedge past city-by-city.** Move: templatize the Paris/LA experiences playbook into a global rollout engine. Gap: frequency (the "big-trip-only" weakness). Why THIS company: ~50% of experience bookings are non-home guests — a genuinely new, higher-frequency audience. **10×** on sessions/user. Proof-point: a repeatable city-launch kit measured on experience→stay 90-day conversion. [S2][S1]
-- **Play #4 — Differentiated loyalty as a two-sided demand-retention layer.** Move: a status/benefits program keyed to verified identity + fandom-depth data (not additive points), extended as a repeat-demand tool for independent hotel supply. Gap: no loyalty program; independents lack one and feel franchise pressure. Why THIS company: 200M verified IDs + 500M reviews = the data to spot true repeat/loyal travelers no competitor holds. **10×** on repeat frequency + independent-supply lock. Proof-point: invite-only status tier for top independents in NYC. [S1]
-- **Play #5 — Always-on event-supply engine.** Move: productize event-onboarding (the Olympics motion) into a continuous, self-serve supply campaign around every festival/conference/game. Gap: event onboarding is episodic. Why THIS company: >50% of event-listings retained at 6 months, 40,000 Paris hosts still hosting — proven retention economics. **10×** on unique-supply growth in target cities. Proof-point: an "event host" flow auto-triggered by demand-spike detection. [S1][S2]
-- **Play #6 — Hotel-native conversion surface (recapture).** Move: a dedicated hotel search/compare experience for the searchers who don't find a home. Gap: conversion "significantly lower than Booking.com." Why THIS company: the demand is already in the store and paid-for. **100×** framing (management sizes it multibillion). Proof-point: A/B a hotel-optimized results surface for no-home-found sessions. [S1]
+**1. Native multiplayer trip surface (compare · vote · split · lock) — 10×**
+- Move: build the group-decision layer Airbnb bookings already require.
+- Gap: multiplayer coordination leaks to WhatsApp.
+- Why Airbnb: 100% of bookers are verified accounts [S1] + RNPL already lets one person lock a bigger home without fronting the cost. [S2]
+- Size: group-trip conversion; also the moat-deepening feature ("chatbots are single-player").
+- Proof: a shared shortlist + split-pay on 5+BR listings in one market.
+
+**2. Experiences as the trust on-ramp for first-timers — 10×**
+- Move: route trust-threshold first-timers into a $20 low-stakes experience before a stay.
+- Gap: experiences under-used as an acquisition wedge.
+- Why Airbnb: ~1/3 of experience-bookers book a stay within 90 days; first-time bookers already at post-2022 highs. [S1]
+- Size: first-timer→stay conversion.
+- Proof: a "try Airbnb for $X" experience-first onboarding in Brazil/Japan/India.
+
+**3. Scale the high-frequency wedge past city-by-city — 10×**
+- Move: templatize the Paris/LA experiences playbook into a global rollout engine.
+- Gap: frequency (the "big-trip-only" weakness).
+- Why Airbnb: ~50% of experience bookings are non-home guests — a genuinely new, higher-frequency audience. [S2][S1]
+- Size: sessions/user.
+- Proof: a repeatable city-launch kit measured on experience→stay 90-day conversion.
+
+**4. Differentiated loyalty as a two-sided demand-retention layer — 10×**
+- Move: a status/benefits program keyed to verified identity + fandom-depth data (not additive points), extended as a repeat-demand tool for independent hotel supply.
+- Gap: no loyalty program; independents lack one and feel franchise pressure. [S1]
+- Why Airbnb: 200M verified IDs + 500M reviews = the data to spot true repeat/loyal travelers no competitor holds.
+- Size: repeat frequency + independent-supply lock.
+- Proof: invite-only status tier for top independents in NYC.
+
+**5. Always-on event-supply engine — 10×**
+- Move: productize event-onboarding (the Olympics motion) into a continuous, self-serve supply campaign around every festival/conference/game.
+- Gap: event onboarding is episodic.
+- Why Airbnb: >50% of event-listings retained at 6 months, 40,000 Paris hosts still hosting — proven retention economics. [S1][S2]
+- Size: unique-supply growth in target cities.
+- Proof: an "event host" flow auto-triggered by demand-spike detection.
+
+**6. Hotel-native conversion surface (recapture) — 100×**
+- Move: a dedicated hotel search/compare experience for the searchers who don't find a home.
+- Gap: conversion "significantly lower than Booking.com." [S1]
+- Why Airbnb: the demand is already in the store and paid-for.
+- Size: framing (management sizes it multibillion).
+- Proof: A/B a hotel-optimized results surface for no-home-found sessions.
 
 **Small compounding wins:** single-fee → dynamic pricing/fees (foundational) [S2]; insurance program take-rate lift [S1]; Delta miles rev-share to raise trip value [S1][S2]; cancellation-curve tuning on RNPL [S1]; airport-pickup + grocery (Instacart) to make "every part of the trip better" [S1][S2]; sponsored listings (in testing, nothing banked) [S2].
 

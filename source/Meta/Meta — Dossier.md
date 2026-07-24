@@ -302,15 +302,45 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps first:** (1) Enormous engagement generates *personalized-content supply* only from other users — Meta doesn't yet generate the content itself at scale. (2) Business AIs (10M weekly convos) are entirely unmonetized [S1]. (3) The assistant leads in shopping *intent* but the purchase loop isn't closed [S1]. (4) Presence is still 2D despite owning messaging. (5) Creating immersive content is "really hard" [S3], throttling the Horizon ecosystem. (6) Ad creative + campaign management is AI-assisted but not yet autonomous.
 
-- **Play #1 — Generative personalized content feed.** *Move:* generate bespoke content ("personalized content created specifically for users" [S1]) to supplement human posts. *Gap:* content-supply ceiling on engagement. *Why Meta:* owns the first-principles content-understanding model [S1] + the ranking engine + the audience. *10× or 100×:* 100× — near-infinite, per-user content supply removes the human-supply constraint entirely. *First proof-point:* AI-generated Reels interstitials for a cohort, measure incremental watch time.
-- **Play #2 — Creator commerce take-rate.** *Move:* scale affiliate/product-tagging [S1] into a full creator storefront with payouts. *Gap:* thin creator monetization. *Why Meta:* the tagging tests + the shopping-competent assistant + billions of buyers. *10×:* a new creator-economy revenue line. *Proof-point:* commission revenue per tagged Reel in the current test partners [S1].
-- **Play #3 — Autonomous ad agent.** *Move:* turn the ad-AI stack (value-opt, video-gen, incremental attribution [S1][S2]) into one agent that plans, generates, targets, and optimizes a campaign end-to-end for an SMB. *Gap:* today it's tools, not an agent. *Why Meta:* it already owns every component at multibillion run-rate. *10×:* cuts SMB ad production cost → expands the advertiser base. *Proof-point:* an SMB spends $X via a single prompt, measure ROAS vs. manual.
-- **Play #4 — Presence layer on glasses.** *Move:* productize conversation-focus + AI translation [S3] into a "be present anywhere" experience. *Gap:* presence lost to phones [S3]. *Why Meta:* owns messaging + the glasses + Neural Band. *10×:* a new social primitive beyond the 2D feed. *Proof-point:* retention lift among glasses users who use conversation-focus weekly.
-- **Play #5 — Prompt-to-world creation.** *Move:* ship Horizon Studio's agentic assistant [S3] as consumer prompt-to-world, shareable in feed [S2]. *Gap:* 3D content is "really hard" to make [S3]. *Why Meta:* the engine (4x faster load, 5x concurrency [S3]) + the AI generation tools + feed distribution. *100×:* turns every user into a world-builder, seeding the metaverse ecosystem. *Proof-point:* worlds-created-per-day after prompt-to-world beta.
-- **Play #6 — Close the shopping loop.** *Move:* let Meta AI complete purchases in-chat (the shopping strength [S1] → transaction). *Gap:* intent without a closed loop; business AIs unmonetized [S1]. *Why Meta:* assistant leads in shopping + business AIs at 10M weekly convos + WhatsApp commerce rails. *100×:* a commerce take-rate across billions of conversations — the largest untapped revenue pool named in the sources. *Proof-point:* completed in-chat purchases in the LatAm/Indonesia SMB business-AI markets [S1].
+**1. Generative personalized content feed — 100×**
+- Move: generate bespoke content ("personalized content created specifically for users" [S1]) to supplement human posts.
+- Gap: content-supply ceiling on engagement.
+- Why Meta: owns the first-principles content-understanding model [S1] + the ranking engine + the audience. Near-infinite, per-user content supply removes the human-supply constraint entirely.
+- Proof: AI-generated Reels interstitials for a cohort, measure incremental watch time.
+
+**2. Creator commerce take-rate — 10×**
+- Move: scale affiliate/product-tagging [S1] into a full creator storefront with payouts.
+- Gap: thin creator monetization.
+- Why Meta: the tagging tests + the shopping-competent assistant + billions of buyers. A new creator-economy revenue line.
+- Proof: commission revenue per tagged Reel in the current test partners [S1].
+
+**3. Autonomous ad agent — 10×**
+- Move: turn the ad-AI stack (value-opt, video-gen, incremental attribution [S1][S2]) into one agent that plans, generates, targets, and optimizes a campaign end-to-end for an SMB.
+- Gap: today it's tools, not an agent.
+- Why Meta: it already owns every component at multibillion run-rate. Cuts SMB ad production cost → expands the advertiser base.
+- Proof: an SMB spends $X via a single prompt, measure ROAS vs. manual.
+
+**4. Presence layer on glasses — 10×**
+- Move: productize conversation-focus + AI translation [S3] into a "be present anywhere" experience.
+- Gap: presence lost to phones [S3].
+- Why Meta: owns messaging + the glasses + Neural Band. A new social primitive beyond the 2D feed.
+- Proof: retention lift among glasses users who use conversation-focus weekly.
+
+**5. Prompt-to-world creation — 100×**
+- Move: ship Horizon Studio's agentic assistant [S3] as consumer prompt-to-world, shareable in feed [S2].
+- Gap: 3D content is "really hard" to make [S3].
+- Why Meta: the engine (4x faster load, 5x concurrency [S3]) + the AI generation tools + feed distribution. Turns every user into a world-builder, seeding the metaverse ecosystem.
+- Proof: worlds-created-per-day after prompt-to-world beta.
+
+**6. Close the shopping loop — 100×**
+- Move: let Meta AI complete purchases in-chat (the shopping strength [S1] → transaction).
+- Gap: intent without a closed loop; business AIs unmonetized [S1].
+- Why Meta: assistant leads in shopping + business AIs at 10M weekly convos + WhatsApp commerce rails. A commerce take-rate across billions of conversations — the largest untapped revenue pool named in the sources.
+- Proof: completed in-chat purchases in the LatAm/Indonesia SMB business-AI markets [S1].
 
 **Small compounding wins (a dozen 5%s = a double):** same-day-post freshness in Reels (already 2x'd to >30% [S1]); AI-dubbing more languages (>0.5B weekly [S1]); Status ads density creep ("low in the near term" [S2] — headroom); Threads ad rollout to remaining markets [S2]; WhatsApp paid-messaging expansion ($2B run rate [S2]); off-site conversion coverage (+1.6% [S1]); routing more ad requests to the escalation model when a sale is likely [S1]; MTIA into training to cut inference cost [S2].
 

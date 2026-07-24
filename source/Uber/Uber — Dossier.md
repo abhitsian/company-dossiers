@@ -256,16 +256,45 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
-*Gaps first, then plays. Ranked by impact × right-to-win.*
-
 **Gaps:** (a) the suburban profit pool is under-penetrated (only ~20% of trips) [S2]; (b) planned-life demand beyond airports/hotels is unbuilt [S1]; (c) 30% of Mobility users untapped for Eats [S1]; (d) Advertising is sub-scale versus its own raised ambition [S2]; (e) grocery selection still 30–40% of what's addressable in many countries [S2].
 
-1. **Suburban liquidity flywheel** — move: dedicated sparse-market supply incentives + Moto/Wait & Save density. Gap: (a). Why Uber: it already earns ~75% of US profit there and grows it 1.5–2× faster [S2]. **10×** the segment AVs can't reach for years. Proof-point: pick 5 sparse metros, guarantee sub-X-minute ETA, measure trip-growth lift.
-2. **Planned-life bundle (hotels + events + reservations)** — move: extend Reserve's on-demand→planned proof into a bookable "get me there + stay there" bundle on the 700K-hotel Expedia base. Gap: (b). Why Uber: Reserve already proved planned behavior; hotel credits pay for the membership [S1]. **10×** on Reserve's higher-margin GB. Proof-point: bundle ride + hotel in 3 event cities, measure Uber One attach.
-3. **Cross-service concierge (Mobility→Eats activation)** — move: AI-personalized nudge to convert the 30% who've never tried Eats inside the Mobility app. Gap: (c). Why Uber: $15B already flows app-to-app; the demand is owned and free [S1]. **10×** on cross-app GB. Proof-point: post-ride Eats offer, measure first-order conversion.
-4. **Advertising past 2% → the margin layer** — move: enterprise catch-up + grocery/retail/mobility ad formats on existing GB. Gap: (d). Why Uber: high-intent purchase data + management-admitted runway [S2]. **10×** on a near-100%-margin line that closes the rev/GB gap. Proof-point: enterprise ad pilot, measure penetration vs SMB.
-5. **Premium × membership** — move: fold 3.5×-profit premium tiers into Uber One perks so status-riders anchor to membership. Gap: premium under-cross-sold. Why Uber: the barbell already grows the high end 40% [S1][S2]. **10×** on premium GB retention. Proof-point: member-only premium credit, measure premium frequency.
-6. **AV utilization marketplace** — move: package "list your AV on Uber for +30% utilization + trough backfill" as the default route to market for every AV maker. Gap: 3P-supply orchestration. Why Uber: the only network with rides + delivery + freight to fill troughs [S2]. **100×** if it becomes the industry-standard demand layer. Proof-point: sign 2 more of the >30 partners to exclusive utilization SLAs.
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
+
+**1. Suburban liquidity flywheel — 10×**
+- Move: dedicated sparse-market supply incentives + Moto/Wait & Save density.
+- Gap: (a).
+- Why Uber: it already earns ~75% of US profit there and grows it 1.5–2× faster [S2]. 10× the segment AVs can't reach for years.
+- Proof: pick 5 sparse metros, guarantee sub-X-minute ETA, measure trip-growth lift.
+
+**2. Planned-life bundle (hotels + events + reservations) — 10×**
+- Move: extend Reserve's on-demand→planned proof into a bookable "get me there + stay there" bundle on the 700K-hotel Expedia base.
+- Gap: (b).
+- Why Uber: Reserve already proved planned behavior; hotel credits pay for the membership [S1]. 10× on Reserve's higher-margin GB.
+- Proof: bundle ride + hotel in 3 event cities, measure Uber One attach.
+
+**3. Cross-service concierge (Mobility→Eats activation) — 10×**
+- Move: AI-personalized nudge to convert the 30% who've never tried Eats inside the Mobility app.
+- Gap: (c).
+- Why Uber: $15B already flows app-to-app; the demand is owned and free [S1]. 10× on cross-app GB.
+- Proof: post-ride Eats offer, measure first-order conversion.
+
+**4. Advertising past 2% → the margin layer — 10×**
+- Move: enterprise catch-up + grocery/retail/mobility ad formats on existing GB.
+- Gap: (d).
+- Why Uber: high-intent purchase data + management-admitted runway [S2]. 10× on a near-100%-margin line that closes the rev/GB gap.
+- Proof: enterprise ad pilot, measure penetration vs SMB.
+
+**5. Premium × membership — 10×**
+- Move: fold 3.5×-profit premium tiers into Uber One perks so status-riders anchor to membership.
+- Gap: premium under-cross-sold.
+- Why Uber: the barbell already grows the high end 40% [S1][S2]. 10× on premium GB retention.
+- Proof: member-only premium credit, measure premium frequency.
+
+**6. AV utilization marketplace — 100×**
+- Move: package "list your AV on Uber for +30% utilization + trough backfill" as the default route to market for every AV maker.
+- Gap: 3P-supply orchestration.
+- Why Uber: the only network with rides + delivery + freight to fill troughs [S2]. 100× if it becomes the industry-standard demand layer.
+- Proof: sign 2 more of the >30 partners to exclusive utilization SLAs.
 
 **Small compounding wins:** destination-prediction-driven one-tap rebooking (already 3/4 predicted) [S1]; airport-on-landing auto-pickup expansion [S1]; grocery selection adds (5 of top-10 US grocers signed — finish the list) [S2]; Women Preferred / Teens / older-simple product rollout to new geos [S2]; member fee-waiver expansion (>$60 grocery basket) to new categories [S1].
 

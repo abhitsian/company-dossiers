@@ -279,14 +279,44 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (1) The health *platform* is unbuilt — life-saving hardware, no clinical/subscription services layer. (2) The Mac-as-AI-platform demand has no product and no supply. (3) Advertising is early — only App Store + Maps, on the world's best-defended first-party data. (4) The consumer assistant is rented, not owned. (5) Enterprise (Apple Business) is a new, under-scaled wedge. (6) First-time China/India buyers are supply- and price-capped.
 
-- **Play: Health-as-a-Service.** Move: a clinical-grade health subscription (insights, doctor-sharing, long-term risk) on top of the Watch. *Gap it closes:* under-earning health platform. *Why Apple:* only Apple pairs a 96%-satisfaction medical-credible device with Health history lock-in and privacy trust. *10×* Wearables earnings; turns an accessory into a health platform. *First proof:* paid hypertension/sleep insight tier for existing Watch owners. [S1][S2]
-- **Play: Mac AI Cloud / on-prem agent platform + Apple Business.** Move: build Mac Studio/mini into the private-inference box, sold through Apple Business with enterprise tooling. *Gap:* AI-dev demand Apple already sees with no product. *Why Apple:* Perplexity/Freshworks/Marsh already chose Mac; chips + on-device privacy is the pitch. *10×* enterprise revenue on hardware Apple already ships. *First proof:* an Apple Business AI-dev SKU + guaranteed supply for enterprise buyers. [S1]
-- **Play: Apple Ads Network at scale.** Move: extend first-party ads from App Store search + Maps to more surfaces (News, TV app, Wallet offers) with privacy-preserving targeting. *Gap:* ads are early; the data moat sits idle. *Why Apple:* it killed everyone else's targeting — its first-party position can't be attacked. *100×* on a near-100%-margin line that lifts Services mix. *First proof:* the Maps summer launch (US/Canada) is the wedge — measure lift, then expand. [S1]
-- **Play: iPhone financing / entry-tier to win first-timers.** Move: aggressive financing + entry SKU in China/India where the majority of buyers are new. *Gap:* first-timers are price- and supply-capped. *Why Apple:* top-selling model already; the base is still growing. *10×* base expansion in the highest-growth countries. *First proof:* localized financing + iPhone 17E positioning. [S1][S2]
-- **Play: own the personal-agent layer (privacy-native).** Move: make Siri the private, on-device agent that runs your apps — the answer to the agentic-phone threat Cook keeps dodging. *Gap:* the assistant is rented and behind. *Why Apple:* on-device + PCC + Health/Wallet/Messages context no rival can see. *100×* if it defends the form factor; existential if a rival gets there first. *First proof:* the Google-powered next-gen Siri, but with the agent control owned by Apple. [S1][S2]
+**1. Health-as-a-Service — 10×**
+- Move: a clinical-grade health subscription (insights, doctor-sharing, long-term risk) on top of the Watch.
+- Gap: under-earning health platform.
+- Why Apple: only Apple pairs a 96%-satisfaction medical-credible device with Health history lock-in and privacy trust.
+- Size: Wearables earnings; turns an accessory into a health platform.
+- Proof: paid hypertension/sleep insight tier for existing Watch owners. [S1][S2]
+
+**2. Mac AI Cloud / on-prem agent platform + Apple Business — 10×**
+- Move: build Mac Studio/mini into the private-inference box, sold through Apple Business with enterprise tooling.
+- Gap: AI-dev demand Apple already sees with no product.
+- Why Apple: Perplexity/Freshworks/Marsh already chose Mac; chips + on-device privacy is the pitch.
+- Size: enterprise revenue on hardware Apple already ships.
+- Proof: an Apple Business AI-dev SKU + guaranteed supply for enterprise buyers. [S1]
+
+**3. Apple Ads Network at scale — 100×**
+- Move: extend first-party ads from App Store search + Maps to more surfaces (News, TV app, Wallet offers) with privacy-preserving targeting.
+- Gap: ads are early; the data moat sits idle.
+- Why Apple: it killed everyone else's targeting — its first-party position can't be attacked.
+- Size: a near-100%-margin line that lifts Services mix.
+- Proof: the Maps summer launch (US/Canada) is the wedge — measure lift, then expand. [S1]
+
+**4. iPhone financing / entry-tier to win first-timers — 10×**
+- Move: aggressive financing + entry SKU in China/India where the majority of buyers are new.
+- Gap: first-timers are price- and supply-capped.
+- Why Apple: top-selling model already; the base is still growing.
+- Size: base expansion in the highest-growth countries.
+- Proof: localized financing + iPhone 17E positioning. [S1][S2]
+
+**5. Own the personal-agent layer (privacy-native) — 100×**
+- Move: make Siri the private, on-device agent that runs your apps — the answer to the agentic-phone threat Cook keeps dodging.
+- Gap: the assistant is rented and behind.
+- Why Apple: on-device + PCC + Health/Wallet/Messages context no rival can see.
+- Size: defends the form factor if it works; existential if a rival gets there first.
+- Proof: the Google-powered next-gen Siri, but with the agent control owned by Apple. [S1][S2]
 
 **Small compounding wins:** expand Tap to Pay markets (already 50+); Wallet Digital ID rollout state-by-state; AirPods Live Translation as an Apple Intelligence hook; F1/MLS no-blackout as a retention lever; 3D-printed recycled titanium as a cost + sustainability nudge; App Store search-ads density tuning. A dozen 5%s is a double. [S1][S2]
 

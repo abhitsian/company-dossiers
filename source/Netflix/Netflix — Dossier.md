@@ -279,15 +279,45 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (a) the Moment-Joiner need is under-served — live is thin; (b) mid-market and local advertisers can't self-serve, so inventory outpaces demand; (c) the fandom-to-game loop reaches only ~10% of eligible members; (d) no unified trusted kids surface (Playground is games-only); (e) first-party data is a scaled asset only just being opened to advertisers.
 
-- **Play #1 — New-architecture recommender across regions.** Closes the Unwinder's cross-region taste gap. Why Netflix: it owns the proprietary engagement data + the private quality metric to train against. 10×. First proof: lift in the quality metric in one diluting market (e.g. Japan) without adding content spend. [S1]
-- **Play #2 — Annual live tentpole cadence.** Closes the Moment-Joiner gap with a few marquee events/year (fights, finals, WBC-style). Why Netflix: live drives outsized value + higher CPMs on fewer hours, and it already ran WBC and NFL moments. 10×. First proof: CPM premium + acquisition-trait lift on one event. [S1]
-- **Play #3 — IP-universe games loop at franchise scale.** Closes the Superfan post-finale drop-off. Why Netflix: owns the IP on both sides, and "both mediums do better" is already observed. 100× (turns every tentpole into a two-sided engagement engine). First proof: retention delta for members who play a same-universe game vs. show-only. [S1][S2]
-- **Play #4 — Unified kids trust surface.** Extend Playground from games-only to a single curated, ad-free, IAP-free video+games space for the Family Gatekeeper. Why Netflix: kids is one of four focus areas and Playground already proves the walled model. 10×. First proof: engagement + parent-trust CSAT in Playground households. [S1]
-- **Play #5 — Close the ad-tier ARM gap.** Turn stored upside into revenue via fill rate + programmatic + first-party data. Why Netflix: owns the stack and the data; explicitly a multi-year focus. 10× on ad revenue. First proof: ad-tier ARM converging toward ad-free ARM in the 12 live markets. [S2]
-- **Play #6 — Mid-market / self-serve programmatic ads.** Open beyond top accounts via DSPs to fill growing inventory. Why Netflix: programmatic already heading past 50% of nonlive ads; DSPs being added. 10× on advertiser count. First proof: fill-rate lift + advertiser-count growth beyond the top-account base. [S1]
+**1. New-architecture recommender across regions — 10×**
+- Move: a new-architecture recommender across regions.
+- Gap: closes the Unwinder's cross-region taste gap.
+- Why Netflix: owns the proprietary engagement data + the private quality metric to train against. [S1]
+- Proof: lift in the quality metric in one diluting market (e.g. Japan) without adding content spend.
+
+**2. Annual live tentpole cadence — 10×**
+- Move: a few marquee live events/year (fights, finals, WBC-style).
+- Gap: closes the Moment-Joiner gap.
+- Why Netflix: live drives outsized value + higher CPMs on fewer hours, and it already ran WBC and NFL moments. [S1]
+- Proof: CPM premium + acquisition-trait lift on one event.
+
+**3. IP-universe games loop at franchise scale — 100×**
+- Move: an IP-universe games loop at franchise scale — turns every tentpole into a two-sided engagement engine.
+- Gap: closes the Superfan post-finale drop-off.
+- Why Netflix: owns the IP on both sides, and "both mediums do better" is already observed. [S1][S2]
+- Proof: retention delta for members who play a same-universe game vs. show-only.
+
+**4. Unified kids trust surface — 10×**
+- Move: extend Playground from games-only to a single curated, ad-free, IAP-free video+games space.
+- Gap: serves the Family Gatekeeper's need for a unified, trusted kids surface.
+- Why Netflix: kids is one of four focus areas and Playground already proves the walled model. [S1]
+- Proof: engagement + parent-trust CSAT in Playground households.
+
+**5. Close the ad-tier ARM gap — 10×**
+- Move: turn stored upside into revenue via fill rate + programmatic + first-party data (10× on ad revenue).
+- Gap: closes the ad-tier ARM gap.
+- Why Netflix: owns the stack and the data; explicitly a multi-year focus. [S2]
+- Proof: ad-tier ARM converging toward ad-free ARM in the 12 live markets.
+
+**6. Mid-market / self-serve programmatic ads — 10×**
+- Move: open beyond top accounts via DSPs to fill growing inventory (10× on advertiser count).
+- Gap: closes the mid-market / local-advertiser self-serve gap.
+- Why Netflix: programmatic already heading past 50% of nonlive ads; DSPs being added. [S1]
+- Proof: fill-rate lift + advertiser-count growth beyond the top-account base.
 
 **Small compounding wins (a dozen 5%s):** raise fill rate market-by-market; ship interactive/modular ad formats globally by Q2'26; roll cloud TV games to the remaining ~2/3 of members by upgrading TV clients; expand FIFA/party-game catalog for engagement upticks; use >6 months of campaign data to sharpen RFPs; add DSPs; lean podcasts into the daytime/mobile white space; extend the WB 45-day theatrical window learnings to release cadence; expand APAC/Japan momentum; iterate contextual ad relevance via AI. [S1][S2]
 

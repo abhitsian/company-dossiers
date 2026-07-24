@@ -267,14 +267,44 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (1) the agent control plane is a moat but not its own revenue line; (2) the OpEx→IT reallocation thesis is claimed, not measured for the buyer; (3) usage pricing lacks self-serve/SMB on-ramps and spend guardrails; (4) the consumer Copilot is one integration away from owning in-chat commerce; (5) LinkedIn's 1.3B-member graph is barely joined to Work IQ.
 
-- **Play #1 — Monetize the agent control plane.** Move: price Agent 365 as its own governance SKU (per-agent, per-audit) instead of a Copilot add-on. Gap: the governance moat makes no money. Why Microsoft: only cross-cloud agent control plane, backed by Entra/Purview (24B interactions audited [S2]). **10×** on governance revenue. Proof-point: charge a per-governed-agent fee to the Adobe/SAP/ServiceNow/Workday partner agents already on it [S2].
-- **Play #2 — Ship the ROI ledger (outcome metering).** Move: turn the "cost per decreasing / revenue increasing" claim [S1] into a per-customer outcome dashboard tied to spend. Gap: the funding thesis is invisible to the CFO who must move OpEx. Why Microsoft: it holds both the work-data (Work IQ) and the usage meter. **10×** on durable willingness-to-pay. Proof-point: pilot an outcome ledger with a few of the >50K-seat accounts (Accenture, J&J) [S1].
-- **Play #3 — Self-serve consumption on-ramp + spend guardrails.** Move: a usage-native, budget-capped Copilot tier for SMB/frontline and for GitHub's usage pricing [S1]. Gap: the usage model is built for enterprises; SMB/frontline is where seat growth actually is [S1] and where the "usage out of control" fear bites hardest [S2]. Why Microsoft: 450M-seat base [S2] plus consumer billing rails. **100×** on SMB reach. Proof-point: budgets and alerts on GitHub Copilot usage pricing at the June-1 cutover [S1].
-- **Play #4 — Commerce-native consumer Copilot.** Move: extend Copilot checkout (PayPal/Shopify/Stripe [S2]) into a take-rate commerce layer inside the assistant. Gap: the consumer surface is barely monetized; the search-ad engine is weak [S2]. Why Microsoft: consumer Copilot DAU ~3x [S2] plus OS distribution. **10×** on consumer money that routes around Bing-ad weakness. Proof-point: measure GMV and take-rate through checkout on the existing DAU base.
-- **Play #5 — Fuse LinkedIn's graph into Work IQ.** Move: connect the 1.3B-member professional graph [S1] to the org data graph for sourcing/screening agents (already >$450M run-rate [S1]) and for enterprise context. Gap: two of Microsoft's biggest proprietary graphs run separately. Why Microsoft: it owns both. **10×** on Talent Solutions plus a richer Work IQ. Proof-point: a hiring-manager agent that reasons over both graphs inside the security boundary.
+**1. Monetize the agent control plane — 10×**
+- Move: price Agent 365 as its own governance SKU (per-agent, per-audit) instead of a Copilot add-on.
+- Gap: the governance moat makes no money.
+- Why Microsoft: only cross-cloud agent control plane, backed by Entra/Purview (24B interactions audited [S2]).
+- Size: 10× on governance revenue.
+- Proof: charge a per-governed-agent fee to the Adobe/SAP/ServiceNow/Workday partner agents already on it [S2].
+
+**2. Ship the ROI ledger (outcome metering) — 10×**
+- Move: turn the "cost per decreasing / revenue increasing" claim [S1] into a per-customer outcome dashboard tied to spend.
+- Gap: the funding thesis is invisible to the CFO who must move OpEx.
+- Why Microsoft: it holds both the work-data (Work IQ) and the usage meter.
+- Size: 10× on durable willingness-to-pay.
+- Proof: pilot an outcome ledger with a few of the >50K-seat accounts (Accenture, J&J) [S1].
+
+**3. Self-serve consumption on-ramp + spend guardrails — 100×**
+- Move: a usage-native, budget-capped Copilot tier for SMB/frontline and for GitHub's usage pricing [S1].
+- Gap: the usage model is built for enterprises; SMB/frontline is where seat growth actually is [S1] and where the "usage out of control" fear bites hardest [S2].
+- Why Microsoft: 450M-seat base [S2] plus consumer billing rails.
+- Size: 100× on SMB reach.
+- Proof: budgets and alerts on GitHub Copilot usage pricing at the June-1 cutover [S1].
+
+**4. Commerce-native consumer Copilot — 10×**
+- Move: extend Copilot checkout (PayPal/Shopify/Stripe [S2]) into a take-rate commerce layer inside the assistant.
+- Gap: the consumer surface is barely monetized; the search-ad engine is weak [S2].
+- Why Microsoft: consumer Copilot DAU ~3x [S2] plus OS distribution.
+- Size: 10× on consumer money that routes around Bing-ad weakness.
+- Proof: measure GMV and take-rate through checkout on the existing DAU base.
+
+**5. Fuse LinkedIn's graph into Work IQ — 10×**
+- Move: connect the 1.3B-member professional graph [S1] to the org data graph for sourcing/screening agents (already >$450M run-rate [S1]) and for enterprise context.
+- Gap: two of Microsoft's biggest proprietary graphs run separately.
+- Why Microsoft: it owns both.
+- Size: 10× on Talent Solutions plus a richer Work IQ.
+- Proof: a hiring-manager agent that reasons over both graphs inside the security boundary.
 
 **Small compounding wins:** 625 Copilot updates/yr (+50%) [S1]; per-token silicon gains (Maia +30% tokens/$, MAI-Transcribe +67% GPU efficiency [S1][S2]); Fairwater DCs online early (6 weeks [S1]); Cobalt CPU expansion cutting non-GPU COGS [S1]; each is a 5% that stacks into the AI-margin lead.
 

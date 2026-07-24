@@ -280,16 +280,51 @@
 ---
 
 ## 12. What's missing → Plays to run *(10× / 100× — hypotheses, not today)*
+*Each play defines the format once, here: a concrete move, tied to a gap above, that only this company can run because of an asset it already owns, sized 10× (meaningfully grows an existing line) or 100× (a structurally new, larger business), with the cheapest proof-point to test it before committing further. Bullets below, one per play component -- never one run-on sentence.*
 
 **Gaps:** (1) an end-to-end shopping agent that finishes the buy (Rufus still only helps); (2) an ad-money standard for agent chats (admitted missing); (3) quick-delivery density outside India/US; (4) Trainium software ecosystem to unseat NVIDIA default; (5) the enterprise "fat middle" not yet spending; (6) own-data model lock-in under-marketed; (7) seller creative spread across too many tools.
 
-- **Play #1 — Own replenishment as a subscription-grade auto-restock.** Move: turn Add to Delivery + Amazon Now + perishables into a predictive auto-restock agent. Gap it closes: the replenishment shopper still starts the order. Why Amazon: only it has purchase history + logistics density + 2,300-city perishable reach. **10×** frequency. First proof: extend India's tripled-frequency quick-delivery pattern to 3 more metros with auto-restock. [S1][S2]
-- **Play #2 — Rufus finishes the buy (agentic checkout with sponsored prompts built in).** Move: a multi-turn agent that completes the purchase, with sponsored spots inside the flow. Gap: the agent still only helps; the ad-money standard is missing. Why Amazon: 300M Rufus users + first-party demand data + "retailers do all 4." **10×** on ads per session. First proof: Brand-Prompt continue-rate (~20%) → measured extra sponsored revenue per conversation. [S1][S2]
-- **Play #3 — Zero-cost seller storefront generation.** Move: extend Seller Central AI visualization + Creative Agent into full listing + ad + creative auto-generation for SMBs. Gap: seller creation is spread across too many tools and costs money. Why Amazon: it hosts the demand + the creative agent. **10×** SMB onboarding speed. First proof: SMB creative is already "so much faster… no longer spend as much money." [S1]
-- **Play #4 — Make Trainium the default, not the alternative.** Move: invest in the software/porting layer so switching off NVIDIA is trivial. Gap: NVIDIA is the default. Why Amazon: 30–40% price-perf edge + pre-subscribed capacity + Meta/Anthropic/OpenAI commitments. **100×** on chip run-rate ($20B → top-3). First proof: managed migration for the next multi-GW commitment. [S1]
-- **Play #5 — Sell the "fat middle" enterprise a turnkey Nova-Forge + Trainium + stateful-agent bundle.** Move: package own-data training + own silicon + managed stateful runtime as one enterprise offer. Gap: the lasting majority hasn't started spending. Why Amazon: only it owns all three layers. **10×** durable enterprise AWS demand. First proof: Bedrock spend +170% QoQ as the leading indicator. [S1][S2]
-- **Play #6 — Charge for the agent runtime, not just the model.** Move: meter stateful identity/state persistence ("nobody else has") as a paid layer. Gap: value is moving off the model. Why Amazon: it built the runtime. **10×** margin resilience as models become commodities. First proof: AgentCore usage attach to Bedrock spend. [S1]
-- **Play #7 — Grocery as the front door for the daily habit.** Move: use Whole Foods (550+, +100) + perishables to make Amazon the default daily grocery agent. Gap: 2nd-largest grocer but not the daily default outside essentials. Why Amazon: $150B gross sales + same-day density + 80%-higher-basket data. **10×** on visit frequency → downstream basket. First proof: expand the perishable-buyer 2x-frequency cohort. [S1][S2]
+**1. Own replenishment as a subscription-grade auto-restock — 10× frequency**
+- Move: turn Add to Delivery + Amazon Now + perishables into a predictive auto-restock agent.
+- Gap: the replenishment shopper still starts the order.
+- Why Amazon: only it has purchase history + logistics density + 2,300-city perishable reach. [S1][S2]
+- Proof: extend India's tripled-frequency quick-delivery pattern to 3 more metros with auto-restock. [S1][S2]
+
+**2. Rufus finishes the buy (agentic checkout with sponsored prompts built in) — 10× on ads per session**
+- Move: a multi-turn agent that completes the purchase, with sponsored spots inside the flow.
+- Gap: the agent still only helps; the ad-money standard is missing.
+- Why Amazon: 300M Rufus users + first-party demand data + "retailers do all 4." [S2]
+- Proof: Brand-Prompt continue-rate (~20%) → measured extra sponsored revenue per conversation. [S1]
+
+**3. Zero-cost seller storefront generation — 10× SMB onboarding speed**
+- Move: extend Seller Central AI visualization + Creative Agent into full listing + ad + creative auto-generation for SMBs.
+- Gap: seller creation is spread across too many tools and costs money.
+- Why Amazon: it hosts the demand + the creative agent.
+- Proof: SMB creative is already "so much faster… no longer spend as much money." [S1]
+
+**4. Make Trainium the default, not the alternative — 100× on chip run-rate ($20B → top-3)**
+- Move: invest in the software/porting layer so switching off NVIDIA is trivial.
+- Gap: NVIDIA is the default.
+- Why Amazon: 30–40% price-perf edge + pre-subscribed capacity + Meta/Anthropic/OpenAI commitments. [S1]
+- Proof: managed migration for the next multi-GW commitment.
+
+**5. Sell the "fat middle" enterprise a turnkey Nova-Forge + Trainium + stateful-agent bundle — 10× durable enterprise AWS demand**
+- Move: package own-data training + own silicon + managed stateful runtime as one enterprise offer.
+- Gap: the lasting majority hasn't started spending. [S2]
+- Why Amazon: only it owns all three layers.
+- Proof: Bedrock spend +170% QoQ as the leading indicator. [S1]
+
+**6. Charge for the agent runtime, not just the model — 10× margin resilience as models become commodities**
+- Move: meter stateful identity/state persistence ("nobody else has") as a paid layer. [S1]
+- Gap: value is moving off the model.
+- Why Amazon: it built the runtime.
+- Proof: AgentCore usage attach to Bedrock spend. [S1]
+
+**7. Grocery as the front door for the daily habit — 10× on visit frequency → downstream basket**
+- Move: use Whole Foods (550+, +100) + perishables to make Amazon the default daily grocery agent. [S1]
+- Gap: 2nd-largest grocer but not the daily default outside essentials. [S1]
+- Why Amazon: $150B gross sales + same-day density + 80%-higher-basket data. [S1][S2]
+- Proof: expand the perishable-buyer 2x-frequency cohort. [S2]
 
 **Small compounding wins (a dozen 5%s = a double):** lower seller fees in more geos (US/EU/Brazil showed strong lift); Prime-Day timing; Alexa+ upsell to non-Prime ($19.99); FBA surcharge to offset fuel; 1-hr/3-hr on 90,000+ items; interactive video ads (Samsung, Netflix Amazon Audiences, Comcast local); Lens visual search (+45%). [S1][S2]
 

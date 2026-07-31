@@ -206,15 +206,41 @@
 
 **Segmentation basis:** cut on the buyer's job-to-be-done with AI-augmented work — the axis is *"what outcome are they trying to fund and govern,"* not company size or industry. Needs-based because two firms of the same size (e.g. a bank and an agency) sit in different segments depending on whether their main need is governance, cost-cutting, or developer speed.
 
-**A. The governed enterprise (regulated, security-first)** — Job: functional = deploy AI without breaking compliance; social = defend the choice to a board or regulator; emotional = sleep at night on audit. Friction: shadow AI, ungoverned agents, data leakage. Nudge: extrinsic (audit mandates) — Purview auditing 24B interactions [S2]; Agent 365 governs even third-party agents [S2]. Aha: *"every agent, on any cloud, shows up in one control plane."* Today → gap: strong control plane, but governance is priced as an add-on, not its own line → **Play #1 (monetize the control plane).**
+**A. The governed enterprise** *(regulated, security-first)*
+- Job: Deploy AI without breaking compliance, defend that choice to a board or regulator, and sleep at night on audit.
+- Friction: Shadow AI, ungoverned agents, and data leakage.
+- Nudge: Extrinsic (audit mandates) — Purview auditing 24B interactions [S2]; Agent 365 governs even third-party agents [S2].
+- Aha: *"every agent, on any cloud, shows up in one control plane."*
+- Today: Strong control plane.
+- Gap: Governance is priced as an add-on, not its own line → **Play #1 (monetize the control plane).**
 
-**B. The cost-out operator (CFO-sponsored, outcome-funded)** — Job: functional = cut process cost; social = show ROI to justify the spend; personal = hit a margin target. Friction: no extra IT budget; usage "gone out of control" [S2]. Nudge: intrinsic (measured outcomes) — "some cost per is decreasing because of agents" [S1]. Aha: *"the agent paid for itself in OpEx you already spend."* Today → gap: the OpEx→IT reallocation is claimed but not measured for the buyer → **Play #2 (outcome-metering / ROI ledger).**
+**B. The cost-out operator** *(CFO-sponsored, outcome-funded)*
+- Job: Cut process cost, show ROI to justify the spend, and hit a margin target.
+- Friction: No extra IT budget; usage "gone out of control" [S2].
+- Nudge: Intrinsic (measured outcomes) — "some cost per is decreasing because of agents" [S1].
+- Aha: *"the agent paid for itself in OpEx you already spend."*
+- Gap: The OpEx→IT reallocation is claimed but not measured for the buyer → **Play #2 (outcome-metering / ROI ledger).**
 
-**C. The developer org (velocity-seeking)** — Job: functional = ship faster; social = attract engineers; emotional = flow. Friction: context-switching, too many tools. Nudge: intrinsic (mastery/speed) — GitHub Copilot CLI usage "nearly doubling month-over-month" [S1]; Agent HQ orchestrates 5+ vendors' agents [S2]. Aha: *"generate with Opus, check with Codex, in one harness"* [S1]. Today → gap: moving to usage pricing [S1] risks a surprise bill without spend controls → **Play #3 (dev spend governance).**
+**C. The developer org** *(velocity-seeking)*
+- Job: Ship faster, attract engineers, and stay in flow.
+- Friction: Context-switching and too many tools.
+- Nudge: Intrinsic (mastery/speed) — GitHub Copilot CLI usage "nearly doubling month-over-month" [S1]; Agent HQ orchestrates 5+ vendors' agents [S2].
+- Aha: *"generate with Opus, check with Codex, in one harness"* [S1]
+- Gap: Moving to usage pricing [S1] risks a surprise bill without spend controls → **Play #3 (dev spend governance).**
 
-**D. The frontline + SMB late-adopter** — Job: functional = do knowledge work without a knowledge-worker toolchain; social = keep up; personal = simplicity. Friction: seat cost, complexity, no IT team. Nudge: extrinsic (defaults) — new seat growth is "mainly SMB + frontline" [S1]. Aha: *"Copilot just does the task in the app I already open."* Today → gap: seats-plus-consumption is priced for enterprises, not self-serve SMB → **Play #4 (self-serve consumption on-ramp).**
+**D. The frontline + SMB late-adopter**
+- Job: Do knowledge work without a knowledge-worker toolchain, keep up, and get simplicity.
+- Friction: Seat cost, complexity, and no IT team.
+- Nudge: Extrinsic (defaults) — new seat growth is "mainly SMB + frontline" [S1].
+- Aha: *"Copilot just does the task in the app I already open."*
+- Gap: Seats-plus-consumption is priced for enterprises, not self-serve SMB → **Play #4 (self-serve consumption on-ramp).**
 
-**E. The consumer / prosumer (under-served franchise)** — Job: functional = help in browser/OS/shopping; social/emotional = trust the assistant. Friction: scattered surfaces; years of under-investment (Bing/Edge). Nudge: intrinsic (convenience) — consumer Copilot DAU ~3x Y/Y [S2]; Copilot checkout with PayPal/Shopify/Stripe [S2]. Aha: *"buy inside the chat."* Today → gap: "win back fans" mode signals a trust deficit [S1] → **Play #5 (commerce-native consumer Copilot).**
+**E. The consumer / prosumer** *(under-served franchise)*
+- Job: Get help in browser/OS/shopping, and trust the assistant.
+- Friction: Scattered surfaces and years of under-investment (Bing/Edge).
+- Nudge: Intrinsic (convenience) — consumer Copilot DAU ~3x Y/Y [S2]; Copilot checkout with PayPal/Shopify/Stripe [S2].
+- Aha: *"buy inside the chat."*
+- Gap: "Win back fans" mode signals a trust deficit [S1] → **Play #5 (commerce-native consumer Copilot).**
 
 ---
 

@@ -214,15 +214,45 @@
 
 **Segmentation basis:** the axes are the *job the viewing session is hired for* — how a member wants to spend an attention-block: unwind vs. join a moment vs. keep kids safely occupied vs. play. Netflix's own language ("all engagement is not created equal," daypart/device white space, kids as a focus area, fandom) maps to needs, not age brackets. Needs-based because two 35-year-olds hire Netflix for opposite jobs on the same night.
 
-**A. The Unwinder (default lean-back binge)** — Job: *functional* — fill an evening attention-block with low-effort, high-confidence content; *emotional* — decompress without decision fatigue. Friction: too many choices; "nothing to watch." Nudge: *intrinsic* — personalization removes the search cost. Aha: *"it already knows what I'll like."* Today → gap: the recommender is strong but view-hours-per-member drop as the base globalizes; personalization must work across very different regional tastes. → Play #1 (new-architecture recommender), Play "small wins."
+**A. The Unwinder** *(default lean-back binge)*
+- Job: fill an evening attention-block with low-effort, high-confidence content, and decompress without decision fatigue.
+- Friction: too many choices; "nothing to watch."
+- Nudge: personalization removes the search cost (intrinsic).
+- Aha: *"it already knows what I'll like."*
+- Today: the recommender is strong.
+- Gap: view-hours-per-member drop as the base globalizes; personalization must work across very different regional tastes. → Play #1 (new-architecture recommender), Play "small wins."
 
-**B. The Moment-Joiner (live / cultural event)** — Job: *social* — be part of a shared cultural moment in real time (a fight, a final, an awards show); *personal* — have something to talk about tomorrow. Friction: live is scattered across services and cable; Netflix's live catalog is thin. Nudge: *extrinsic* — appointment scheduling, event promotion; CPMs reward the crowd. Aha: *"everyone's watching this here, together."* Today → gap: live is "still a relatively small portion of total view hours," picked selectively. → Play #2 (live tentpole cadence).
+**B. The Moment-Joiner** *(live / cultural event)*
+- Job: be part of a shared cultural moment in real time (a fight, a final, an awards show), and have something to talk about tomorrow.
+- Friction: live is scattered across services and cable; Netflix's live catalog is thin.
+- Nudge: appointment scheduling and event promotion, with CPMs that reward the crowd (extrinsic).
+- Aha: *"everyone's watching this here, together."*
+- Today: live events are picked selectively.
+- Gap: live is "still a relatively small portion of total view hours." → Play #2 (live tentpole cadence).
 
-**C. The Fandom Superfan (deep IP immersion)** — Job: *personal/emotional* — live inside a universe (Stranger Things, KPop Demon Hunters) beyond the runtime; *social* — signal membership in a fan community. Friction: after the finale, engagement drops off a cliff; nowhere to go. Nudge: *intrinsic* — extend the world with a game in the same universe. Aha: *"the story keeps going, and I can play it."* Today → gap: games synergy is proven directionally ("both do better") but reaches only ~10% of eligible members. → Play #3 (IP-universe games loop).
+**C. The Fandom Superfan** *(deep IP immersion)*
+- Job: live inside a universe (Stranger Things, KPop Demon Hunters) beyond the runtime, and signal membership in a fan community.
+- Friction: after the finale, engagement drops off a cliff; nowhere to go.
+- Nudge: extend the world with a game in the same universe (intrinsic).
+- Aha: *"the story keeps going, and I can play it."*
+- Today: games synergy is proven directionally ("both do better").
+- Gap: reaches only ~10% of eligible members. → Play #3 (IP-universe games loop).
 
-**D. The Family Gatekeeper (kids, safely)** — Job: *functional* — occupy kids with content a parent trusts; *emotional* — no guilt, no ads, no surprise charges. Friction: open the app = ads, IAP, risk of age-inappropriate content. Nudge: *intrinsic* — a walled, curated space. Aha: *"I can hand them the tablet and not worry."* Today: **Netflix Playground** — a separate kids' games app, "fully curated, age-appropriate... Peppa Pig, Dr. Seuss... no ads, no in-app purchases... included in your membership." → gap: it's games-only today, not one trusted kids surface across video + games. → Play #4 (unified kids trust surface).
+**D. The Family Gatekeeper** *(kids, safely)*
+- Job: occupy kids with content a parent trusts, with no guilt, no ads, no surprise charges.
+- Friction: open the app = ads, IAP, risk of age-inappropriate content.
+- Nudge: a walled, curated space (intrinsic).
+- Aha: *"I can hand them the tablet and not worry."*
+- Today: Netflix Playground — a separate kids' games app, "fully curated, age-appropriate... Peppa Pig, Dr. Seuss... no ads, no in-app purchases... included in your membership."
+- Gap: it's games-only today, not one trusted kids surface across video + games. → Play #4 (unified kids trust surface).
 
-**E. The Value-Maximizer (price-sensitive, ad-tolerant)** — Job: *functional* — most entertainment per dollar; *personal* — not feel ripped off after a price increase. Friction: price increases; is it still worth it? Nudge: *extrinsic* — $8.99 ads tier as the accessible on-ramp; cost-per-hour framing. Aha: *"cheapest per hour I can get."* Today → gap: ad-tier ARM still below ad-free — the value member is under-monetized, and mid-market/local ad demand isn't yet served to fill their inventory. → Play #5 (close the ARM gap), Play #6 (mid-market ads).
+**E. The Value-Maximizer** *(price-sensitive, ad-tolerant)*
+- Job: get the most entertainment per dollar, without feeling ripped off after a price increase.
+- Friction: price increases raise the question of whether it's still worth it.
+- Nudge: the $8.99 ads tier as an accessible on-ramp, framed around cost-per-hour (extrinsic).
+- Aha: *"cheapest per hour I can get."*
+- Today: ad-tier ARM still below ad-free.
+- Gap: the value member is under-monetized, and mid-market/local ad demand isn't yet served to fill their inventory. → Play #5 (close the ARM gap), Play #6 (mid-market ads).
 
 ---
 

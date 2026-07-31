@@ -216,17 +216,53 @@
 
 **Segmentation basis:** cut on *what job the customer hires the device/service for* and *what would make them switch or churn* — because Apple sells one physical device to very different needs, and what it earns (which Services attach) depends on the need, not the demographic.
 
-**A. The ecosystem-locked loyalist** — Job (emotional/personal): "I want my devices to just work together and hold my digital life." Friction: none big enough to leave; occasional cost-sensitivity. Nudge (intrinsic): continuity, iMessage, Health history, Wallet. Aha: *"my watch, phone, and Mac already talk — switching means rebuilding my life."* Today → gap: earns well via Services, but *ad load* on free surfaces risks the premium feel that earns the loyalty. → Play: deepen Health lock-in (§12) without hurting trust.
+**A. The ecosystem-locked loyalist**
+- Job: "I want my devices to just work together and hold my digital life."
+- Friction: none big enough to leave; occasional cost-sensitivity.
+- Nudge: continuity, iMessage, Health history, Wallet.
+- Aha: *"my watch, phone, and Mac already talk — switching means rebuilding my life."*
+- Today: earns well via Services.
+- Gap: *ad load* on free surfaces risks the premium feel that earns the loyalty → deepen Health lock-in (§12) without hurting trust.
 
-**B. The first-time / emerging-market entrant** — Job (functional/social): "I want in to the Apple ecosystem, ideally at the entry tier." Friction: price; leading-edge supply means the cheap models are the ones that sell out. Nudge (extrinsic): status + China/India top-seller signals. Aha: *"the top-selling phone in my city is an iPhone."* Today → gap: majority of China/India Mac/iPad/Watch buyers are *new* — big runway but supply-capped and sensitive to memory-cost inflation [S2][S1]. → Play: entry-tier + financing to win first-timers before rivals do (§12).
+**B. The first-time / emerging-market entrant**
+- Job: "I want in to the Apple ecosystem, ideally at the entry tier."
+- Friction: price; leading-edge supply means the cheap models are the ones that sell out.
+- Nudge: status + China/India top-seller signals.
+- Aha: *"the top-selling phone in my city is an iPhone."*
+- Today: majority of China/India Mac/iPad/Watch buyers are *new* — big runway.
+- Gap: supply-capped and sensitive to memory-cost inflation [S2][S1] → entry-tier + financing to win first-timers before rivals do (§12).
 
-**C. The health-anxious / aging body** — Job (personal/emotional): "I want early warning on my body and a reason to talk to my doctor." Friction: needs to trust the device is medical-grade, not a toy. Nudge (intrinsic): peace of mind; hypertension/sleep alerts. Aha: *"my watch flagged something and my doctor took it seriously."* Today → gap: pitched as life-saving but still inside a +5% Wearables line — under-earning as a health platform [S1][S2]. → Play: health subscription / clinical-integration wedge (§12).
+**C. The health-anxious / aging body**
+- Job: "I want early warning on my body and a reason to talk to my doctor."
+- Friction: needs to trust the device is medical-grade, not a toy.
+- Nudge: peace of mind; hypertension/sleep alerts.
+- Aha: *"my watch flagged something and my doctor took it seriously."*
+- Today: pitched as life-saving.
+- Gap: still inside a +5% Wearables line — under-earning as a health platform [S1][S2] → health subscription / clinical-integration wedge (§12).
 
-**D. The AI/agentic developer & enterprise buyer** — Job (functional): "I need a cheap, private box to build and run agents." Friction: didn't know Mac was the answer until recently. Nudge (extrinsic): peer validation (Perplexity, Freshworks, Marsh). Aha: *"the Mac mini/Studio is the cheapest private box that just works."* Today → gap: demand is *outrunning supply* and Apple "undercalled" it — an unserved, high-intent segment Apple stumbled into [S1]. → Play: formalize Mac-as-AI-platform + Apple Business go-to-market (§12).
+**D. The AI/agentic developer & enterprise buyer**
+- Job: "I need a cheap, private box to build and run agents."
+- Friction: didn't know Mac was the answer until recently.
+- Nudge: peer validation (Perplexity, Freshworks, Marsh).
+- Aha: *"the Mac mini/Studio is the cheapest private box that just works."*
+- Today: demand is *outrunning supply*.
+- Gap: Apple "undercalled" it — an unserved, high-intent segment Apple stumbled into [S1] → formalize Mac-as-AI-platform + Apple Business go-to-market (§12).
 
-**E. The developer / app economy participant** — Job (functional/monetary): "I want to reach 2.5B devices and get paid." Friction: commission rate, regulatory noise, App Store discovery. Nudge (extrinsic): $550B+ paid out since 2008; ads to drive downloads. Aha: *"this is where the paying customers are."* Today → gap: App Store growth slowing (~7% third-party vs 14% Services), so the money per developer is softening even as the base grows [S2]. → Play: shift developer earnings from pure commission toward ads + tools (§12).
+**E. The developer / app economy participant**
+- Job: "I want to reach 2.5B devices and get paid."
+- Friction: commission rate, regulatory noise, App Store discovery.
+- Nudge: $550B+ paid out since 2008; ads to drive downloads.
+- Aha: *"this is where the paying customers are."*
+- Today: App Store growth slowing (~7% third-party vs 14% Services).
+- Gap: the money per developer is softening even as the base grows [S2] → shift developer earnings from pure commission toward ads + tools (§12).
 
-**F. The premium-content / entertainment household** — Job (social/emotional): "I want prestige TV, live sport, and it to be inside my Apple world." Friction: another subscription; sports rights are expensive. Nudge (intrinsic): F1, MLS, award-winning originals. Aha: *"the sport I follow has no blackouts on Apple TV."* Today → gap: TV is a small, expensive-content business used mostly as ecosystem glue, not a standalone profit engine [S1]. → Play: bundle TV deeper into the Services flywheel / ad-supported tier (§12).
+**F. The premium-content / entertainment household**
+- Job: "I want prestige TV, live sport, and it to be inside my Apple world."
+- Friction: another subscription; sports rights are expensive.
+- Nudge: F1, MLS, award-winning originals.
+- Aha: *"the sport I follow has no blackouts on Apple TV."*
+- Today: TV is a small, expensive-content business used mostly as ecosystem glue.
+- Gap: not a standalone profit engine [S1] → bundle TV deeper into the Services flywheel / ad-supported tier (§12).
 
 ---
 

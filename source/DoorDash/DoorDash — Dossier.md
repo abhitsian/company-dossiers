@@ -198,15 +198,44 @@
 
 **Segmentation basis:** cut on the job-to-be-done and the friction that blocks it (immediacy, provisioning-for-others, in-stock reliability, spend-control), not demographics. DoorDash's own framing — "20–25 eating occasions alone," mid-week quick-runs vs weekend stock-ups, 30% cross-category — is need-shaped, so segments follow the occasion, not the person. Each passes the 5-point test (consistent need · product-specific · targetable via order data · prioritizable · winnable given the fulfillment moat).
 
-**A. The solo-immediacy eater** — Job (functional): feed myself now, low effort; (emotional): no decision fatigue. Friction: single-order occasions are frequent (100+/month) but DoorDash captures a single-digit % of them. Nudge (intrinsic): reliably good, fast, best-of-breed. Aha: *"the exact thing I wanted, hot, in 25 minutes."* Today → gap: large frequency headroom, competing against cooking/walking out. → **Play: frequency-capture (§12).** [S1][S2]
+**A. The solo-immediacy eater**
+- Job: feed myself now, with low effort and no decision fatigue.
+- Friction: single-order occasions are frequent (100+/month), but DoorDash captures only a single-digit percentage of them.
+- Nudge: intrinsic — reliably good, fast, best-of-breed service.
+- Aha: *"the exact thing I wanted, hot, in 25 minutes."*
+- Gap: large frequency headroom remains, competing against cooking or walking out — the play is frequency-capture (§12). [S1][S2]
 
-**B. The weekly grocery provisioner** — Job (functional): stock the household without a store trip; (personal): reclaim time. Friction: online grocery "not yet good enough vs offline" — substitutions, out-of-stocks, inventory systems that don't talk. Nudge (intrinsic): trust that what I ordered arrives. Aha: *"zero substitutions, everything in the cart."* Today → gap: only ~30% of MAUs cross over; the experience gap is the blocker. → **Play: inventory-truth layer / DashMart Fulfillment Services (§12).** [S1]
+**B. The weekly grocery provisioner**
+- Job: stock the household without a store trip, and reclaim time.
+- Friction: online grocery is "not yet good enough vs offline" — substitutions, out-of-stocks, and inventory systems that don't talk to each other.
+- Nudge: intrinsic — trust that what I ordered will arrive.
+- Aha: *"zero substitutions, everything in the cart."*
+- Today: only about 30% of MAUs cross over into grocery.
+- Gap: the experience gap is the blocker — the play is an inventory-truth layer / DashMart Fulfillment Services (§12). [S1]
 
-**C. The mid-week quick-runner** — Job (functional): a few missing items fast; (social): don't derail the day. Friction: small basket, delivery cost sensitivity. Nudge (extrinsic): DashPass makes small runs free. Aha: *"three items, no delivery fee, 15 minutes."* Today → gap: DashPass frequency at "a couple times a week" vs far higher occasion count. → **Play: DashPass occasion-expansion (§12).** [S2]
+**C. The mid-week quick-runner**
+- Job: grab a few missing items fast, without derailing the day.
+- Friction: small baskets make delivery cost sensitivity a barrier.
+- Nudge: extrinsic — DashPass makes small runs free.
+- Aha: *"three items, no delivery fee, 15 minutes."*
+- Today: DashPass usage sits at "a couple times a week."
+- Gap: the actual occasion count runs far higher — the play is DashPass occasion-expansion (§12). [S2]
 
-**D. The workplace / corporate buyer** — Job (functional): feed a team, expense-clean; (social): host well. Friction: catering is "exponentially difficult" (kitchen capacity, staffing, logistics for large groups). Nudge (extrinsic): Meal Manager + group ordering + corporate DashPass. Aha: *"catered lunch for 40, one invoice, on time."* Today → gap: workplace catering just launched, "very great start" but nascent. → **Play: own the B2B catering fulfillment stack (§12).** [S1]
+**D. The workplace / corporate buyer**
+- Job: feed a team with an expense-clean process, and host well.
+- Friction: catering is "exponentially difficult" — kitchen capacity, staffing, and logistics for large groups.
+- Nudge: extrinsic — Meal Manager, group ordering, and corporate DashPass.
+- Aha: *"catered lunch for 40, one invoice, on time."*
+- Today: workplace catering just launched — a "very great start," but still nascent.
+- Gap: the play is to own the B2B catering fulfillment stack (§12). [S1]
 
-**E. The SMB / merchant advertiser** — Job (functional): grow orders profitably without an ads team; (emotional): confidence it's ROI-positive. Friction: SMBs historically can't run campaigns. Nudge (extrinsic): Smart Campaigns auto-buys "always ROI-positive" spend. Aha: *"I did nothing and my orders went up."* Today → gap: restaurant-side maturing, grocery/retail/CPG ads early. → **Play: self-driving ads for retail/CPG (§12).** [S1][S2]
+**E. The SMB / merchant advertiser**
+- Job: grow orders profitably without an ads team, with confidence it's ROI-positive.
+- Friction: SMBs have historically not been able to run ad campaigns.
+- Nudge: extrinsic — Smart Campaigns auto-buys spend that's "always ROI-positive."
+- Aha: *"I did nothing and my orders went up."*
+- Today: restaurant-side advertising is maturing.
+- Gap: grocery, retail, and CPG ads are still early — the play is self-driving ads for retail/CPG (§12). [S1][S2]
 
 ---
 

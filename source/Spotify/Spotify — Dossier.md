@@ -263,24 +263,40 @@
 *Shreyas method: segment on needs, never composite personas. Music needs axes = Function (Schäfer: mood-regulation / self-awareness / social) × Involvement (casual↔power) × Context. Each segment passes the 5-Point Test (consistent needs · product-specific · targetable · prioritizable · winnable).*
 
 **A. Mood & Arousal Regulation** *(lean-back, largest)*
-- Job: shift energy/mood on demand, effortlessly (functional + emotional). Friction: decision fatigue; a wrong pick breaks the mood. Nudge: habit + context trigger. Aha: *"it played the right thing without me choosing."*
-- Today → gap: DJ, mood/activity playlists, autoplay → deeper context-sensing (activity/calendar/biometrics) for adaptive mood. [S1][S3]
+- Job: shift energy/mood on demand, effortlessly (functional + emotional).
+- Friction: decision fatigue; a wrong pick breaks the mood.
+- Nudge: habit + context trigger.
+- Aha: *"it played the right thing without me choosing."*
+- Today: DJ, mood/activity playlists, autoplay.
+- Gap: deeper context-sensing (activity/calendar/biometrics) for adaptive mood. [S1][S3]
 
 **B. Focus / Functional Utility** *(study/work/sleep)*
-- Job: concentrate or sleep (functional). Friction: ads/lyrics/interruptions; sleep needs fade/timer. Aha: *"I got in the zone and stayed."*
-- Today → gap: focus playlists, some soundscapes → a real functional-audio offer (generative soundscapes, binaural, timers). Weakest product today. [S1]
+- Job: concentrate or sleep (functional).
+- Friction: ads/lyrics/interruptions; sleep needs fade/timer.
+- Aha: *"I got in the zone and stayed."*
+- Today: focus playlists, some soundscapes.
+- Gap: a real functional-audio offer (generative soundscapes, binaural, timers). Weakest product today. [S1]
 
 **C. Self-Expression & Discovery** *(engaged/omnivore)*
-- Job: signal identity + the thrill of discovery (social + personal). Friction: breadth-vs-relevance; curation is work; sharing is clunky. Aha: *"I found it first / my playlist is me."*
-- Today → gap: Discover Weekly, Taste Profile, Prompted Playlists, Wrapped → creator/social depth, richer identity signaling. [S1][S3]
+- Job: signal identity + the thrill of discovery (social + personal).
+- Friction: breadth-vs-relevance; curation is work; sharing is clunky.
+- Aha: *"I found it first / my playlist is me."*
+- Today: Discover Weekly, Taste Profile, Prompted Playlists, Wrapped.
+- Gap: creator/social depth, richer identity signaling. [S1][S3]
 
 **D. Social Connection**
-- Job: belong, co-experience (social + emotional). Friction: coordination, sync, discovering friends' taste. Aha: *"we listened together."*
-- Today → gap: Jam, Blend, collaborative playlists, Wrapped Party → multiplayer depth. [S1][S3]
+- Job: belong, co-experience (social + emotional).
+- Friction: coordination, sync, discovering friends' taste.
+- Aha: *"we listened together."*
+- Today: Jam, Blend, collaborative playlists, Wrapped Party.
+- Gap: multiplayer depth. [S1][S3]
 
 **E. Fandom / Artist Devotion** *(highest-value)*
-- Job: closeness to the artist, status as a real fan, access (emotional + social + functional). Friction: access (bots/scalpers); no way to express or spend on devotion. Aha: *"I got the ticket because I'm a real fan."*
-- Today → gap: Reserved, fan events, Billions Club → **superfan commerce** (merch/presales/memberships) = Play #1. [S1]
+- Job: closeness to the artist, status as a real fan, access (emotional + social + functional).
+- Friction: access (bots/scalpers); no way to express or spend on devotion.
+- Aha: *"I got the ticket because I'm a real fan."*
+- Today: Reserved, fan events, Billions Club.
+- Gap: **superfan commerce** (merch/presales/memberships) = Play #1. [S1]
 
 *Closed loop: segment → problem → gap → play. Fandom's unmet job is the largest opportunity (Play #1); Focus is the whitest space; Mood is the free-tier funnel.*
 

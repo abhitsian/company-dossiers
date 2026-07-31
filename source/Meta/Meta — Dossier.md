@@ -231,20 +231,45 @@
 
 **Segmentation basis:** The needs axes are **(a) what job the user hires Meta's surface for** (be entertained, stay connected, create, sell/reach customers) and **(b) their tolerance for AI mediation**. These are product-specific, targetable via surface, and each maps to a distinct monetization path — never a demographic cut.
 
-**A. The Passive Consumer — "fill my idle minutes"**
-- **Job:** Functional = kill time / be entertained; Emotional = low-effort dopamine. **Friction:** running out of relevant content; language walls. **Nudge:** extrinsic (autoplay, freshness). **Aha:** *"how does it always know what I want to watch?"* **Today → gap:** Reels + AI-dubbing (>0.5B weekly [S1]) already serve this well; the gap is *supply* of fresh personalized content. → **Play #1** (generate bespoke content).
+**A. The Passive Consumer** *("fill my idle minutes")*
+- Job: Kill time and be entertained with low-effort dopamine.
+- Friction: Running out of relevant content; language walls.
+- Nudge: Extrinsic — autoplay, freshness.
+- Aha: *"how does it always know what I want to watch?"*
+- Today: Reels + AI-dubbing already serve this well (>0.5B weekly [S1]).
+- Gap: Supply of fresh personalized content. → Play #1 (generate bespoke content).
 
-**B. The Connector — "keep me present with the people I care about"**
-- **Job:** Social = maintain relationships; Emotional = presence, belonging. **Friction:** phones "lost us presence" [S3]; group coordination is scattered. **Nudge:** intrinsic (relationships). **Aha:** *"I felt like they were in the room."* **Today → gap:** WhatsApp/Messenger own messaging, but presence is still 2D; glasses' conversation-focus + AI translation aim here [S3]. → **Play #4** (presence layer via glasses).
+**B. The Connector** *("keep me present with the people I care about")*
+- Job: Maintain relationships and feel presence and belonging.
+- Friction: Phones "lost us presence" [S3]; group coordination is scattered.
+- Nudge: Intrinsic — relationships.
+- Aha: *"I felt like they were in the room."*
+- Today: WhatsApp/Messenger own messaging, but presence is still 2D.
+- Gap: Glasses' conversation-focus + AI translation aim here [S3]. → Play #4 (presence layer via glasses).
 
-**C. The Creator — "help me make and get paid"**
-- **Job:** Functional = produce content + earn; Social = grow an audience. **Friction:** 3D/immersive content is "really hard" to make [S3]; monetization is thin. **Nudge:** extrinsic (commissions, reach). **Aha:** *"I prompted a world and it built it."* **Today → gap:** affiliate/product-tagging in test [S1]; Horizon Studio's agentic assistant stitches generation tools [S3], but creator payout depth is early. → **Play #2** (creator commerce) + **Play #5** (prompt-to-world).
+**C. The Creator** *("help me make and get paid")*
+- Job: Produce content, earn from it, and grow an audience.
+- Friction: 3D/immersive content is "really hard" to make [S3]; monetization is thin.
+- Nudge: Extrinsic — commissions, reach.
+- Aha: *"I prompted a world and it built it."*
+- Today: Affiliate/product-tagging in test [S1]; Horizon Studio's agentic assistant stitches generation tools [S3].
+- Gap: Creator payout depth is early. → Play #2 (creator commerce) + Play #5 (prompt-to-world).
 
-**D. The Advertiser / SMB — "get me ROI-positive customers"**
-- **Job:** Functional = acquire customers profitably. **Friction:** targeting precision, creative production cost, attribution trust. **Nudge:** extrinsic (measurable ROI — Li's whole budgeting-process answer [S2]). **Aha:** *"the incremental conversions actually showed up."* **Today → gap:** the deep ad-AI stack already serves this (value-opt >$20B ARR [S1]); the gap is *agentic* end-to-end campaign automation. → **Play #3** (autonomous ad agent).
+**D. The Advertiser / SMB** *("get me ROI-positive customers")*
+- Job: Acquire customers profitably.
+- Friction: Targeting precision, creative production cost, attribution trust.
+- Nudge: Extrinsic — measurable ROI (Li's whole budgeting-process answer [S2]).
+- Aha: *"the incremental conversions actually showed up."*
+- Today: The deep ad-AI stack already serves this (value-opt >$20B ARR [S1]).
+- Gap: Agentic end-to-end campaign automation. → Play #3 (autonomous ad agent).
 
-**E. The AI-First User / Shopper — "just handle it for me"**
-- **Job:** Functional = get answers, buy things, complete tasks; Personal = save effort. **Friction:** assistants that don't reach consumer-quality ("give it to my mother" [S1]); no native commerce loop. **Nudge:** intrinsic (convenience) + extrinsic (deals). **Aha:** *"it found and bought it without me leaving the chat."* **Today → gap:** Meta AI leads in shopping intent [S1] but commerce isn't closed; business AIs unmonetized [S1]. → **Play #6** (close the shopping loop).
+**E. The AI-First User / Shopper** *("just handle it for me")*
+- Job: Get answers, buy things, complete tasks, and save effort.
+- Friction: Assistants that don't reach consumer-quality ("give it to my mother" [S1]); no native commerce loop.
+- Nudge: Intrinsic (convenience) and extrinsic (deals).
+- Aha: *"it found and bought it without me leaving the chat."*
+- Today: Meta AI leads in shopping intent [S1].
+- Gap: Commerce isn't closed; business AIs unmonetized [S1]. → Play #6 (close the shopping loop).
 
 ---
 

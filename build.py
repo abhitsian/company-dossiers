@@ -175,6 +175,74 @@ def render_section_body(raw_lines, flagship):
 
 SECTION_FLAGSHIP = {3: "wow", 12: "plays"}
 
+# ---------------------------------------------------------------- §7 journey map
+SEGMENT_HEAD_RE = re.compile(r"^\*\*([A-Z])\.\s+(.+?)\*\*(?:\s*\*\(([^)]+)\)\*)?\s*$")
+JOURNEY_ORDER = ["Job", "Friction", "Nudge", "Aha", "Today", "Gap"]
+FIELD_ITER_RE = re.compile(r"\*{0,2}(Job|Friction|Nudge|Aha|Today(?:\s*→\s*gap)?|Gap)\*{0,2}:\s*", re.I)
+
+def render_journey_section(raw_lines):
+    """§7 Needs-based segments -> journey-map cards (Job/Friction/Nudge/Aha/Today/Gap per segment)."""
+    pre_lines, segments = [], []
+    cur = None
+    for line in raw_lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        m = SEGMENT_HEAD_RE.match(stripped)
+        if m:
+            if cur:
+                segments.append(cur)
+            cur = {"letter": m.group(1), "name": m.group(2), "annot": m.group(3), "fields": {}}
+            continue
+        if cur is None:
+            pre_lines.append(line)
+            continue
+        content = re.sub(r"^-\s+", "", stripped)
+        field_iter = list(FIELD_ITER_RE.finditer(content))
+        if not field_iter:
+            if cur["fields"]:
+                last_key = list(cur["fields"].keys())[-1]
+                cur["fields"][last_key] += " " + content
+            continue
+        for idx, fm in enumerate(field_iter):
+            label = fm.group(1)
+            label_norm = "Today" if label.lower().startswith("today") else label.capitalize()
+            start = fm.end()
+            end = field_iter[idx + 1].start() if idx + 1 < len(field_iter) else len(content)
+            val = content[start:end].strip().rstrip(".").strip()
+            if label.lower().startswith("today") and "→" in val:
+                today_val, gap_val = val.split("→", 1)
+                cur["fields"]["Today"] = today_val.strip()
+                cur["fields"]["Gap"] = gap_val.strip()
+            elif label_norm in cur["fields"]:
+                cur["fields"][label_norm] += " " + val
+            else:
+                cur["fields"][label_norm] = val
+    if cur:
+        segments.append(cur)
+
+    parts = []
+    if pre_lines:
+        parts.append(render_section_body(pre_lines, None))
+    rows = []
+    for seg in segments:
+        annot_html = ' <span class="journey-seg-annot">%s</span>' % inline(seg["annot"]) if seg.get("annot") else ""
+        steps = []
+        for label in JOURNEY_ORDER:
+            if label in seg["fields"]:
+                gap_class = " gap" if label == "Gap" else ""
+                steps.append('<div class="j-step%s"><div class="j-label">%s</div><div class="j-body">%s</div></div>' % (
+                    gap_class, label, inline(seg["fields"][label])))
+        if not steps:
+            continue
+        rows.append(
+            '<div class="journey-row"><div class="journey-seg-name">%s. %s%s</div>'
+            '<div class="journey-steps-wrap"><div class="journey-steps">%s</div></div></div>' % (
+                seg["letter"], inline(seg["name"]), annot_html, "".join(steps)))
+    if rows:
+        parts.append('<div class="journey-list">%s</div>' % "".join(rows))
+    return "".join(parts)
+
 SKILL_NAMES = ["follow-the-dollar", "company-dossier", "company-research", "product-teardown",
                "segment-strategy", "eigenquestions", "dossier-batch", "company-master", "shreyas-lens"]
 SKILL_TOKEN = r"`?/(?:%s)`?" % "|".join(SKILL_NAMES)
@@ -244,9 +312,12 @@ def parse_dossier(path, company=""):
         num_m = re.match(r"^(\d+)\.", sec_title)
         num = int(num_m.group(1)) if num_m else None
         flagship = SECTION_FLAGSHIP.get(num)
-        sec_html = render_section_body(sec_lines, flagship)
-        if flagship == "wow":
-            sec_html = '<div class="wow-vault-list">%s</div>' % sec_html
+        if num == 7:
+            sec_html = render_journey_section(sec_lines)
+        else:
+            sec_html = render_section_body(sec_lines, flagship)
+            if flagship == "wow":
+                sec_html = '<div class="wow-vault-list">%s</div>' % sec_html
         rendered_sections.append({"title": sec_title, "html": sec_html, "id": "s%s" % (num if num else slugify(sec_title)), "num": num})
     ticker_m = re.match(r"^\*\*([^*]+)\*\*", metaline)
     ticker = ticker_m.group(1).strip() if ticker_m else ""

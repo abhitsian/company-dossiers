@@ -220,15 +220,45 @@
 
 **Segmentation basis:** Amazon serves two very different customer types (shoppers and builders) whose jobs split on different needs. For shoppers: *how urgent is the need + how considered is the purchase*. For AWS: *build vs. buy the AI stack + how sensitive is the data*. These axes drive product behavior (delivery speed, agent depth, chip choice) and are targetable and winnable, so they pass the 5-Point Test.
 
-**A. The replenishment shopper (urgent, low-consideration)** — Job: restock essentials or perishables now, without thinking. Friction: minimum-order thresholds, delivery windows, remembering to reorder. Nudge: extrinsic (same-day convenience, quick delivery). Aha: *"I ordered milk and it came in under 30 minutes."* Today: Amazon Now (9 countries), perishables in 2,300+ cities, Add to Delivery (10% of Prime volume) → gap: still under-penetrated vs. local quick delivery outside India → **Play #1 / #7**. [S1][S2]
+**A. The replenishment shopper** *(urgent, low-consideration)*
+- Job: restock essentials or perishables now, without thinking.
+- Friction: minimum-order thresholds, delivery windows, remembering to reorder.
+- Nudge: extrinsic (same-day convenience, quick delivery).
+- Aha: *"I ordered milk and it came in under 30 minutes."*
+- Today: Amazon Now (9 countries), perishables in 2,300+ cities, Add to Delivery (10% of Prime volume).
+- Gap: still under-penetrated vs. local quick delivery outside India → **Play #1 / #7**. [S1][S2]
 
-**B. The considered/discovery shopper (deliberate, high-consideration)** — Job: find the right product with confidence. Friction: too many choices, uncertain product info. Nudge: intrinsic (confidence, trust). Aha: *"Rufus answered my question and I bought it."* Today: Rufus (300M users, +60% purchase completion), Lens visual search (+45% Y/Y) → gap: the agent still helps, it doesn't finish the buy → **Play #2**. [S2]
+**B. The considered/discovery shopper** *(deliberate, high-consideration)*
+- Job: find the right product with confidence.
+- Friction: too many choices, uncertain product info.
+- Nudge: intrinsic (confidence, trust).
+- Aha: *"Rufus answered my question and I bought it."*
+- Today: Rufus (300M users, +60% purchase completion), Lens visual search (+45% Y/Y).
+- Gap: the agent still helps, it doesn't finish the buy → **Play #2**. [S2]
 
-**C. The 3P seller / brand (supply side)** — Job: move inventory profitably and look professional. Friction: listing/creative cost, fee load, ad complexity. Nudge: extrinsic (lower fees, AI tools). Aha: *"The AI generated my listing visualization for free."* Today: lower fees (US/EU/Brazil), Seller Central AI visualization, Creative Agent (7 countries) → gap: SMB creation still spread across too many tools → **Play #3**. [S1]
+**C. The 3P seller / brand** *(supply side)*
+- Job: move inventory profitably and look professional.
+- Friction: listing/creative cost, fee load, ad complexity.
+- Nudge: extrinsic (lower fees, AI tools).
+- Aha: *"The AI generated my listing visualization for free."*
+- Today: lower fees (US/EU/Brazil), Seller Central AI visualization, Creative Agent (7 countries).
+- Gap: SMB creation still spread across too many tools → **Play #3**. [S1]
 
-**D. The AI-lab / runaway-app builder (frontier compute)** — Job: train and serve at frontier scale at the lowest price-performance. Friction: GPU scarcity, cost, capacity commitments. Nudge: extrinsic (Trainium price-perf, capacity certainty). Aha: *"Trainium gave 30–40% better price-performance and I could actually get capacity."* Today: multi-GW Anthropic + OpenAI commitments, $364B backlog → gap: NVIDIA is still the default; Trainium software is still maturing → **Play #4**. [S1]
+**D. The AI-lab / runaway-app builder** *(frontier compute)*
+- Job: train and serve at frontier scale at the lowest price-performance.
+- Friction: GPU scarcity, cost, capacity commitments.
+- Nudge: extrinsic (Trainium price-perf, capacity certainty).
+- Aha: *"Trainium gave 30–40% better price-performance and I could actually get capacity."*
+- Today: multi-GW Anthropic + OpenAI commitments, $364B backlog.
+- Gap: NVIDIA is still the default; Trainium software is still maturing → **Play #4**. [S1]
 
-**E. The enterprise builder (data-sensitive)** — Job: deploy AI on our own data without leaking it, and keep it. Friction: generic models don't know our domain; fine-tuning is shallow. Nudge: intrinsic (control) + extrinsic (managed runtime). Aha: *"Nova Forge trained on our data from early pretraining."* Today: Nova Forge, Bedrock (125k customers, 80% of F100), stateful managed agents → gap: the "fat middle" of enterprise hasn't started spending → **Play #5 / #6**. [S1][S2]
+**E. The enterprise builder** *(data-sensitive)*
+- Job: deploy AI on our own data without leaking it, and keep it.
+- Friction: generic models don't know our domain; fine-tuning is shallow.
+- Nudge: intrinsic (control) + extrinsic (managed runtime).
+- Aha: *"Nova Forge trained on our data from early pretraining."*
+- Today: Nova Forge, Bedrock (125k customers, 80% of F100), stateful managed agents.
+- Gap: the "fat middle" of enterprise hasn't started spending → **Play #5 / #6**. [S1][S2]
 
 ---
 

@@ -218,23 +218,53 @@
 
 **Segmentation basis:** the needs axes are (1) *what job the payer/user is hiring Google for* and (2) *how much of the task they want Google to complete* (answer → action → run-it-for-me). This is needs-based because the same advertiser can sit in different segments depending on whether they want reach, measurable conversion, or agentic placement.
 
-**A. The high-intent consumer (free) — "get me the answer / do the task."**
-- **Job:** functional — resolve a query or finish a task with the least effort; social/emotional — trust the answer. **Friction:** ten blue links + manual synthesis; slow, shallow results. **Nudge:** intrinsic (curiosity satisfied faster) via AI Overviews/AI Mode; latency −35% removes the wait. **Aha:** *"it answered the complex thing and booked the restaurant."* **Today:** 2.5B AIO / 1B AI Mode users, queries at all-time high. **Gap:** agentic *actions* (Spark, UCP checkout) still early and thin. → **Play #1, #2.**
+**A. The high-intent consumer** *(free)*
+- Job: "Get me the answer / do the task" — functional: resolve a query or finish a task with the least effort; social/emotional: trust the answer.
+- Friction: Ten blue links + manual synthesis; slow, shallow results.
+- Nudge: Intrinsic (curiosity satisfied faster) via AI Overviews/AI Mode; latency −35% removes the wait.
+- Aha: *"it answered the complex thing and booked the restaurant."*
+- Today: 2.5B AIO / 1B AI Mode users, queries at all-time high.
+- Gap: Agentic *actions* (Spark, UCP checkout) still early and thin. → **Play #1, #2.**
 
-**B. The performance advertiser — "spend where it converts, measurably."**
-- **Job:** functional — buy more conversions at a target return on ad spend. **Friction:** long/complex queries couldn't be monetized; irrelevant ads wasted spend. **Nudge:** extrinsic (measurable lift) via AI Max/Performance Max (>30% of search spend), Direct Offers in AI Mode (Gap, L'Oréal, Chewy). **Aha:** *"AI put my offer inside the answer and it converted."* **Today:** Search +19%; coverage upside beyond ~20%. **Gap:** agentic-ad formats and Gemini-app ads not yet live. → **Play #3.**
+**B. The performance advertiser**
+- Job: "Spend where it converts, measurably" — buy more conversions at a target return on ad spend.
+- Friction: Long/complex queries couldn't be monetized; irrelevant ads wasted spend.
+- Nudge: Extrinsic (measurable lift) via AI Max/Performance Max (>30% of search spend), Direct Offers in AI Mode (Gap, L'Oréal, Chewy).
+- Aha: *"AI put my offer inside the answer and it converted."*
+- Today: Search +19%; coverage upside beyond ~20%.
+- Gap: Agentic-ad formats and Gemini-app ads not yet live. → **Play #3.**
 
-**C. The brand / awareness advertiser — "reach attention at scale."**
-- **Job:** social — build brand where audiences actually are (living room, Shorts, podcasts). **Friction:** attention is fragmenting, cross-format measurement is hard. **Nudge:** extrinsic (reach + lift proof, e.g. Supergoop!/Liza Koshy 93% product lift). **Aha:** *"one buy across YouTube living-room + Shorts + podcasts with proven lift."* **Today:** YouTube led U.S. streaming 3 yrs; >$60B. **Gap:** brand ads lag DR (YouTube +11%, brand soft on election-lap); measurement still maturing. → **Play #6.**
+**C. The brand / awareness advertiser**
+- Job: "Reach attention at scale" — social: build brand where audiences actually are (living room, Shorts, podcasts).
+- Friction: Attention is fragmenting, cross-format measurement is hard.
+- Nudge: Extrinsic (reach + lift proof, e.g. Supergoop!/Liza Koshy 93% product lift).
+- Aha: *"one buy across YouTube living-room + Shorts + podcasts with proven lift."*
+- Today: YouTube led U.S. streaming 3 yrs; >$60B.
+- Gap: Brand ads lag DR (YouTube +11%, brand soft on election-lap); measurement still maturing. → **Play #6.**
 
-**D. The AI-native enterprise — "run my heaviest AI workloads, full stack, secure."**
-- **Job:** functional — train/serve frontier models with the best perf/$ and security; personal — de-risk a multi-year AI bet. **Friction:** compute scarcity, multi-vendor stack, security exposure. **Nudge:** extrinsic (perf/$: TPU 8i +80%; full-stack single vendor; Wiz security). **Aha:** *"same hardware that powers Gemini, in my own data center."* **Today:** Cloud +63%, backlog $462B, 75% use AI, Gemini Enterprise 8M seats. **Gap:** demand > supply — Google is turning away revenue. → **Play #4.**
+**D. The AI-native enterprise**
+- Job: "Run my heaviest AI workloads, full stack, secure" — functional: train/serve frontier models with the best perf/$ and security; personal: de-risk a multi-year AI bet.
+- Friction: Compute scarcity, multi-vendor stack, security exposure.
+- Nudge: Extrinsic (perf/$: TPU 8i +80%; full-stack single vendor; Wiz security).
+- Aha: *"same hardware that powers Gemini, in my own data center."*
+- Today: Cloud +63%, backlog $462B, 75% use AI, Gemini Enterprise 8M seats.
+- Gap: Demand > supply — Google is turning away revenue. → **Play #4.**
 
-**E. The mainstream enterprise buyer — "modernize with AI without re-platforming."**
-- **Job:** functional — add AI to existing workflows (BigQuery, Workspace) with low switching cost. **Friction:** integration risk, unclear ROI. **Nudge:** extrinsic (products built on GenAI +800%; Gemini-powered BigQuery workflows +30x). **Aha:** *"my existing data warehouse got 30x more capable overnight."* **Today:** 14 product lines >$1B; +45% expansion. **Gap:** onboarding depth vs. Microsoft's install-base bundling. → **Play #5.**
+**E. The mainstream enterprise buyer**
+- Job: "Modernize with AI without re-platforming" — add AI to existing workflows (BigQuery, Workspace) with low switching cost.
+- Friction: Integration risk, unclear ROI.
+- Nudge: Extrinsic (products built on GenAI +800%; Gemini-powered BigQuery workflows +30x).
+- Aha: *"my existing data warehouse got 30x more capable overnight."*
+- Today: 14 product lines >$1B; +45% expansion.
+- Gap: Onboarding depth vs. Microsoft's install-base bundling. → **Play #5.**
 
-**F. The developer — "give me the best model + agentic tooling, at any tier."**
-- **Job:** functional — build on capable, cheap, well-tooled models. **Friction:** cost, lock-in fear, tooling gaps. **Nudge:** intrinsic (open models, Gemma 500M+ downloads) + extrinsic (Antigravity agentic dev). **Aha:** *"Gemma runs locally and Antigravity orchestrates the agents."* **Today:** 19B tokens/min API; Antigravity millions of devs. **Gap:** mindshare vs. OpenAI/Anthropic among startups. → **Play #7.**
+**F. The developer**
+- Job: "Give me the best model + agentic tooling, at any tier" — build on capable, cheap, well-tooled models.
+- Friction: Cost, lock-in fear, tooling gaps.
+- Nudge: Intrinsic (open models, Gemma 500M+ downloads) + extrinsic (Antigravity agentic dev).
+- Aha: *"Gemma runs locally and Antigravity orchestrates the agents."*
+- Today: 19B tokens/min API; Antigravity millions of devs.
+- Gap: Mindshare vs. OpenAI/Anthropic among startups. → **Play #7.**
 
 ---
 

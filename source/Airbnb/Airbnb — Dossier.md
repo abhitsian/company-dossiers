@@ -227,15 +227,45 @@
 
 **Segmentation basis:** the needs axes that actually move Airbnb behavior — **trip purpose × trust threshold × frequency × who-decides (solo vs group) × price sensitivity.** Needs-based because two 30-year-olds can sit in opposite segments (a solo digital nomad vs. a group-trip organizer) and the same person switches segments trip to trip.
 
-**A. The Group-Trip Organizer** — **Job:** functional — coordinate a multiplayer booking (dates, budget, who sleeps where) and land a place a group is happy with; social — be the one who "found the great house." **Friction:** comparing many listings and getting many people to agree; the booking is "multiplayer" but the tools are single-player. **Nudge:** intrinsic (pride of a great pick) + extrinsic (RNPL removes the "front the whole cost" blocker). **Aha:** *"I locked the 5-bedroom for the group without paying it all upfront."* **Today → gap:** RNPL shifts them to larger 4+BR homes [S2], but group coordination still happens off-platform (WhatsApp) → **gap:** no native multiplayer compare/decide/split surface → **Play #1.**
+**A. The Group-Trip Organizer**
+- Job: Coordinate a multiplayer booking (dates, budget, who sleeps where) and land a place the group is happy with — and be the one who found the great house.
+- Friction: Comparing many listings and getting many people to agree; the booking is "multiplayer" but the tools are single-player.
+- Nudge: Intrinsic (pride of a great pick) and extrinsic (RNPL removes the "front the whole cost" blocker).
+- Aha: *"I locked the 5-bedroom for the group without paying it all upfront."*
+- Today: RNPL shifts them to larger 4+BR homes [S2], but group coordination still happens off-platform (WhatsApp).
+- Gap: No native multiplayer compare/decide/split surface → Play #1.
 
-**B. The Trust-Threshold First-Timer** — **Job:** functional — book a stranger's home without getting scammed; emotional — feel safe. **Friction:** trust — will the place/host be real? **Nudge:** extrinsic — verified IDs, 500M reviews, message-the-host, payment protection. **Aha:** *"I messaged the host, saw the reviews, and felt safe booking."* **Today → gap:** first-time bookers +10% (highest since 2022) on the trust stack [S1]; but experiences/services are the lower-commitment on-ramp and are still city-by-city early → **gap:** under-used low-stakes entry point → **Play #2.**
+**B. The Trust-Threshold First-Timer**
+- Job: Book a stranger's home without getting scammed, and feel safe doing it.
+- Friction: Trust — will the place/host be real?
+- Nudge: Extrinsic — verified IDs, 500M reviews, message-the-host, payment protection.
+- Aha: *"I messaged the host, saw the reviews, and felt safe booking."*
+- Today: First-time bookers +10% (highest since 2022) on the trust stack [S1], but experiences/services — the lower-commitment on-ramp — are still city-by-city early.
+- Gap: Under-used low-stakes entry point → Play #2.
 
-**C. The High-Frequency "Not-a-Big-Trip" User** — **Job:** functional — do something local/experiential (a class, a tour, a service) without a hotel stay; personal — novelty in your own city. **Friction:** frequency — Airbnb is a 1–2x/year "big trip" app, so it's not top-of-mind for everyday plans. **Nudge:** intrinsic (discovery/novelty). **Aha:** *"I booked a Parisian's cooking class — I wasn't even traveling."* **Today → gap:** ~50% of experience bookings come from guests with no home booking, and ~1/3 convert to a stay within 90 days [S2][S1] — but experiences are only in a handful of cities → **gap:** frequency wedge under-scaled → **Play #3.**
+**C. The High-Frequency "Not-a-Big-Trip" User**
+- Job: Do something local/experiential (a class, a tour, a service) without a hotel stay — novelty in your own city.
+- Friction: Frequency — Airbnb is a 1–2x/year "big trip" app, so it's not top-of-mind for everyday plans.
+- Nudge: Intrinsic (discovery/novelty).
+- Aha: *"I booked a Parisian's cooking class — I wasn't even traveling."*
+- Today: ~50% of experience bookings come from guests with no home booking, and ~1/3 convert to a stay within 90 days [S2][S1], but experiences are only in a handful of cities.
+- Gap: Frequency wedge under-scaled → Play #3.
 
-**D. The Squeezed Independent Hotelier (supply-side)** — **Job:** functional — fill rooms and rely less on high-commission OTAs; social/personal — stay independent, avoid franchising. **Friction:** OTAs charge independents *more* than chains, and independents have no loyalty program to drive repeat demand. **Nudge:** extrinsic — Airbnb's inbound demand + (someday) loyalty. **Aha:** *"Airbnb sends me guests the chains' OTA rates can't."* **Today → gap:** enthusiastic inbound, >100 hotels/20k rooms in NYC, growing ~2x platform [S2][S1]; but Airbnb has no loyalty program to lock repeat demand for them → **gap:** demand-retention tool for independent supply → **Play #4.**
+**D. The Squeezed Independent Hotelier** *(supply-side)*
+- Job: Fill rooms and rely less on high-commission OTAs, while staying independent and avoiding franchising.
+- Friction: OTAs charge independents *more* than chains, and independents have no loyalty program to drive repeat demand.
+- Nudge: Extrinsic — Airbnb's inbound demand plus (someday) loyalty.
+- Aha: *"Airbnb sends me guests the chains' OTA rates can't."*
+- Today: Enthusiastic inbound — >100 hotels/20k rooms in NYC, growing ~2x platform [S2][S1] — but Airbnb has no loyalty program to lock repeat demand for them.
+- Gap: Demand-retention tool for independent supply → Play #4.
 
-**E. The Event-Driven One-Time Host (supply-side)** — **Job:** functional — earn from a home during a spike (Olympics, festival); personal — try hosting with low commitment. **Friction:** activation — hosting feels hard/risky for a one-off. **Nudge:** extrinsic (a concrete event + big payout). **Aha:** *"I listed for the Games and never stopped."* **Today → gap:** >50% of event-onboarded listings retained at 6 months, 40,000 Paris hosts still hosting [S1] → **gap:** turn event-onboarding into an always-on supply engine → **Play #5.**
+**E. The Event-Driven One-Time Host** *(supply-side)*
+- Job: Earn from a home during a demand spike (Olympics, festival), and try hosting with low commitment.
+- Friction: Activation — hosting feels hard/risky for a one-off.
+- Nudge: Extrinsic (a concrete event plus a big payout).
+- Aha: *"I listed for the Games and never stopped."*
+- Today: >50% of event-onboarded listings retained at 6 months, 40,000 Paris hosts still hosting [S1].
+- Gap: Turn event-onboarding into an always-on supply engine → Play #5.
 
 ---
 

@@ -197,15 +197,45 @@
 
 **Segmentation basis:** Cut on the two needs that govern marketplace behavior — **(1) trip predictability need** (spontaneous/on-demand ↔ planned/scheduled) and **(2) price-vs-certainty need** (cost-minimizing ↔ certainty/experience-maximizing). Demographics (teens, women, older) are just access wrappers around these needs, not segments themselves.
 
-**A. The cost-minimizing spontaneous rider** — Job: get there now for as little as possible (functional); feel smart about the deal (personal). Friction: surge/price shocks kill trust; may fall back to transit or walking. Nudge (intrinsic): predictable low price. Aha: *"Wait & Save saved me $4 and still came in 8 minutes."* Today: Wait & Save, Moto, +75% frequency [S1][S2]. Gap: still price-volatile in surge; sparse markets under-supplied. → **Play #1 (suburban liquidity), Play #4 (price stability from insurance savings).**
+**A. The cost-minimizing spontaneous rider**
+- Job: Get there now for as little as possible, and feel smart about the deal.
+- Friction: Surge/price shocks kill trust; may fall back to transit or walking.
+- Nudge: Predictable low price (intrinsic).
+- Aha: *"Wait & Save saved me $4 and still came in 8 minutes."*
+- Today: Wait & Save, Moto, +75% frequency [S1][S2].
+- Gap: Still price-volatile in surge; sparse markets under-supplied. → **Play #1 (suburban liquidity), Play #4 (price stability from insurance savings).**
 
-**B. The certainty-maximizing planner** — Job: make sure I catch the flight or meeting (functional); no anxiety (emotional). Friction: on-demand can't promise a car at 5am. Nudge (extrinsic): guaranteed pickup + higher driver pay. Aha: *"Reserve had a car waiting the second I landed."* Today: Reserve (growing well ahead of mainline, higher margin), airport-on-landing pickup, airports ~15% of Mobility GB [S1]. Gap: planned surfaces beyond airports are underbuilt. → **Play #2 (planned-life bundle: hotels + events).**
+**B. The certainty-maximizing planner**
+- Job: Make sure I catch the flight or meeting, without anxiety.
+- Friction: On-demand can't promise a car at 5am.
+- Nudge: Guaranteed pickup + higher driver pay (extrinsic).
+- Aha: *"Reserve had a car waiting the second I landed."*
+- Today: Reserve (growing well ahead of mainline, higher margin), airport-on-landing pickup, airports ~15% of Mobility GB [S1].
+- Gap: Planned surfaces beyond airports are underbuilt. → **Play #2 (planned-life bundle: hotels + events).**
 
-**C. The experience/status-maximizing rider** — Job: arrive comfortable and impress (social/personal). Friction: premium feels like an afterthought next to black-car services. Nudge: 3.5× profit-growth premium tier. Aha: *"XXL for the airport run with the whole family."* Today: premium/XXL/shuttle barbell, 3.5× profit growth [S1][S2]. Gap: premium under-cross-sold to members. → **Play #5 (premium × membership).**
+**C. The experience/status-maximizing rider**
+- Job: Arrive comfortable and impress.
+- Friction: Premium feels like an afterthought next to black-car services.
+- Nudge: 3.5× profit-growth premium tier.
+- Aha: *"XXL for the airport run with the whole family."*
+- Today: Premium/XXL/shuttle barbell, 3.5× profit growth [S1][S2].
+- Gap: Premium under-cross-sold to members. → **Play #5 (premium × membership).**
 
-**D. The multi-service household** — Job: run daily life (rides + groceries + food) from one place (functional); one bill, one loyalty (personal). Friction: 30% of Mobility users have never tried Eats; separate mental models. Nudge (intrinsic): Uber One perks stack across services. Aha: *"My hotel credit paid for the membership that waives my grocery fees."* Today: 40% multi-product, $15B cross-app Delivery GB, >50% of bookings from members [S1][S2]. Gap: 30% Mobility→Eats untapped; grocery still early. → **Play #3 (cross-service concierge), Play #6 (grocery selection).**
+**D. The multi-service household**
+- Job: Run daily life (rides + groceries + food) from one place, with one bill and one loyalty program.
+- Friction: 30% of Mobility users have never tried Eats; separate mental models.
+- Nudge: Uber One perks stack across services (intrinsic).
+- Aha: *"My hotel credit paid for the membership that waives my grocery fees."*
+- Today: 40% multi-product, $15B cross-app Delivery GB, >50% of bookings from members [S1][S2].
+- Gap: 30% Mobility→Eats untapped; grocery still early. → **Play #3 (cross-service concierge), Play #6 (grocery selection).**
 
-**E. The sparse-market / suburban user** — Job: get service that "just works" where density is thin (functional); not feel like a second-class market. Friction: historically longer ETAs, worse Delivery selection outside cities. Nudge (extrinsic): dedicated supply + selection. Aha: *"Uber works out here now, and faster than it used to."* Today: sparse markets grow 1.5–2× faster, ~75% of US profit, only ~20% of trips [S1][S2]. Gap: still under-penetrated; the profit engine with the most headroom. → **Play #1 (suburban liquidity).**
+**E. The sparse-market / suburban user**
+- Job: Get service that "just works" where density is thin, without feeling like a second-class market.
+- Friction: Historically longer ETAs, worse Delivery selection outside cities.
+- Nudge: Dedicated supply + selection (extrinsic).
+- Aha: *"Uber works out here now, and faster than it used to."*
+- Today: Sparse markets grow 1.5–2× faster, ~75% of US profit, only ~20% of trips [S1][S2].
+- Gap: Still under-penetrated; the profit engine with the most headroom. → **Play #1 (suburban liquidity).**
 
 ---
 
